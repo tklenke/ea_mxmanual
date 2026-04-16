@@ -4,47 +4,93 @@ This document defines standard page structures for each type of page in the ea_m
 
 **Note to Writer:** Use the appropriate template as a starting point for each new page. Sections marked *[delete if not applicable]* may be removed at Writer's discretion when the section adds no value for that specific page. Do not delete sections just because they are short — a brief Troubleshooting section is better than none if the content is useful.
 
+**Subsection links:** OtterWiki supports links to specific sections within a page using the format `[[page-name#section-heading|Display Text]]`. Use this for cross-references that point to a specific section rather than a whole page.
+
 ---
 
-## Type 1: Component or System Page
+## Procedure Placement Rule
 
-Use for pages covering a specific component or system (e.g., Brake System, GTR 20 VHF Communication, Batteries).
+**Short procedures** (no special tools, no safety notes, five steps or fewer) may be written inline on a Component page rather than as a separate Procedure page.
+
+**Complex procedures** (requires tools, has safety notes, or exceeds five steps) must have their own dedicated Type 2 Procedure page. The Component page includes a cross-reference link to it.
+
+> **NOTE:** This is a working rule. If component pages become cluttered with inline procedures, the threshold should be lowered and all procedures moved to their own pages. OtterWiki subsection links mitigate this risk — a cross-reference can point directly to a section within a page, not just the page top.
+
+---
+
+## Type 1a: System Page
+
+Use for pages that describe a system — a functional collection of components working together (e.g., Fuel System overview, Bus Architecture, Autopilot).
 
 ```markdown
-# [Component or System Name]
+# [System Name]
+
+## Description
+What this system does and its role on the aircraft.
+
+## System Components
+List of components that make up this system, each linking to its
+Component page.
+
+- [[component-page-name|Component Name]] — brief role description
+- [[component-page-name|Component Name]] — brief role description
+
+## Operation
+How the system works. Focus on what a maintainer needs to understand
+to inspect and maintain it — not an engineering deep-dive.
+
+## Inspection
+System-level checks: what to verify at the system level, beyond what
+is covered on individual component pages.
+
+## Troubleshooting
+*[delete if not applicable]*
+System-level symptoms and where to look. Cross-reference component
+pages or procedure pages rather than duplicating their content.
+```
+
+---
+
+## Type 1b: Component Page
+
+Use for pages that describe a specific physical component (e.g., GTR 20 VHF Communication, Batteries, Brake System).
+
+The Component page is a **reference** for the component. Step-by-step procedures belong on Type 2 Procedure pages and are linked from the Procedures section below.
+
+```markdown
+# [Component Name]
 
 ## Description
 What it is, what it does, and where it is located on the aircraft.
+Include model/part number if known.
 
 ## Specifications
 *[delete if not applicable]*
-Key specifications: model number, ratings, capacity, part numbers, or other
+Key specifications: model, ratings, capacity, part numbers, or other
 reference data a maintainer would need.
 
 ## Inspection
 What to check, how to check it, and what constitutes a pass or fail.
 Include inspection interval if different from the annual condition inspection.
 
-## Maintenance
-Routine maintenance tasks and procedures specific to this component.
-For procedures shared with other sections, provide a cross-reference rather
-than duplicating steps.
+## Procedures
+Links to procedure pages for this component. Short procedures (no special
+tools, no safety notes, five steps or fewer) may be written inline here
+instead of on a separate page.
 
-## Removal and Installation
-*[delete if not applicable]*
-Step-by-step procedure for removing and reinstalling the component.
-Include torque values, orientation notes, and any special tools required.
+- **Removal and Installation:** See [[procedure-page|Procedure Name]]
+- **[Specific Maintenance Task]:** See [[procedure-page|Procedure Name]]
+- **Troubleshooting:** See [[procedure-page|Procedure Name]]
 
-## Troubleshooting
-*[delete if not applicable]*
-Common failure modes, symptoms, and corrective actions.
+*[If all procedures for this component are simple enough to be inline,
+replace the links above with the inline procedures and delete this note.]*
 ```
 
 ---
 
 ## Type 2: Procedure Page
 
-Use for pages that are primarily step-by-step procedures (e.g., Wing Removal and Installation, Weighing Procedures, Annual Condition Inspection).
+Use for step-by-step procedures that are too complex for inline treatment on a Component page, or that are referenced from multiple places (e.g., Wing Removal and Installation, Weighing Procedures, Annual Condition Inspection).
 
 ```markdown
 # [Procedure Name]
