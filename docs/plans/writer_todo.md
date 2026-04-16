@@ -4,47 +4,6 @@
 
 ## Backlog
 
-### [x] FIRST TASK: Write pilot pages — Canopy and Canopy Cleaning
-
-Write two pages to validate templates, formatting, cross-linking, and standards before bulk content development begins. No OtterWiki instance needed to write — just Markdown files committed to git. OtterWiki is needed for the review step (see below).
-
-**Note:** `panels-canopy-cleaning` is NOT listed in the TOC. It is a component-specific procedure accessed through `panels-canopy`. See architecture_decisions.md — TOC Depth rule.
-
-#### Page 1: `panels-canopy` — Canopy component page (Type 1b)
-
-Write the Canopy component page for Section 9. This is a reference page — description, specifications, inspection criteria. The cleaning procedure is a cross-reference link, not inline content.
-
-**Research needed:**
-- Canopy material and construction (Cozy Mark IV uses a blown acrylic canopy)
-- Location, dimensions if known
-- Inspection criteria: crazing, scratches, delamination, seal condition, latch mechanism
-
-**Cross-reference to include:**
-- `See [[panels-canopy-cleaning|Canopy Cleaning]] for cleaning procedure.`
-
-#### Page 2: `panels-canopy-cleaning` — Canopy Cleaning procedure (Type 2)
-
-Write the canopy cleaning procedure for Section 9.
-
-**Research needed:**
-- Cleaners safe for acrylic canopies (aviation-specific recommendations)
-- Cleaners that must be avoided (solvents that cause crazing)
-- Proper technique to avoid scratching
-- Anti-static and UV protectant products if applicable
-- Check `docs/references/AC43_13/` for relevant guidance on transparent enclosures
-
-**Expected structure:** Overview, Tools and Materials Required, Safety Notes (harmful cleaners), Procedure steps, Post-Procedure Checks.
-
-#### Review checkpoint (before proceeding to next task):
-
-Tom sets up OtterWiki instance (architect task — see architect_todo). Then:
-- Verify both pages render correctly in OtterWiki
-- Verify the cross-link from canopy page to cleaning page resolves
-- Verify `[TOC]` renders if used
-- Tom and Claude review together — adjust templates/standards if needed before proceeding
-
----
-
 ### [ ] Configure OtterWiki print footer and write Record of Revisions page
 
 **Prerequisite:** OtterWiki instance must be running (Tom's architect task — see architect_todo).
@@ -91,7 +50,13 @@ Once the print footer is working, write the `Record of Revisions` page for Secti
 
 ## Completed
 
-### [x] FIRST TASK: Write pilot pages — Canopy and Canopy Cleaning
-panels-canopy.md and panels-canopy-cleaning.md written and committed to WR.
-@@TOM flags left for: hinge location, latch mechanism details, seal type and inspection criteria.
-Review checkpoint pending: verify both pages render correctly in OtterWiki once instance is running.
+### [x] Write home.md and update README for WR (2026-04-16)
+- home.md: OtterWiki landing page with full 18-section TOC, committed to WR.
+- readme.md: Added disclaimer text to README.
+- Corrected wiki link format throughout (OtterWiki uses `[[Display Text|page-name]]`). Updated formatting.md and templates.md in AR to match.
+
+### [x] FIRST TASK: Write pilot pages — Canopy and Canopy Cleaning (2026-04-16)
+- panels-canopy.md: description (hinge right, electric actuator, manual latch bar, access door), specifications, inspection criteria. Committed to WR.
+- panels-canopy-cleaning.md: full Type 2 procedure — pre-rinse, Plexus, optional Pledge wax, solvents-to-avoid list per AC 43.13 ch03_p025. Committed to WR.
+- One @@TOM flag remains open: canopy seal type and inspection criteria.
+- Review checkpoint pending: verify both pages render correctly in OtterWiki once instance is running.
