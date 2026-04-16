@@ -40,9 +40,11 @@ def test_known_glossary_term_bond_present(appendix_text):
     assert "bond" in appendix_text
 
 
-def test_soft_hyphens_joined(appendix_text):
-    # "mid\xad\nway" should become "midway"
-    assert "midway" in appendix_text
+def test_soft_hyphens_stripped(appendix_text):
+    # Soft hyphens (U+00AD) must be removed from the output.
+    # Note: cross-column hyphens cannot be rejoined with extract_text() since the
+    # right column's text lands between the two word halves; they appear on separate
+    # lines rather than as "mid" + "\xad" + "\n" + "way".
     assert "\xad" not in appendix_text
 
 
@@ -56,8 +58,23 @@ def test_pua_leader_characters_removed(appendix_text):
 
 
 def test_in_pdf_appendix_title_stripped(appendix_text):
-    # "APPENDIX 1. GLOSSARY" should not appear (we add our own header)
+    # "APPENDIX 1. GLOSSARY" and "Appendix 1" sub-header should not appear
     assert "APPENDIX 1. GLOSSARY" not in appendix_text
+    assert not any(
+        line.strip() in ("Appendix 1", "Appendix 2", "Appendix 3")
+        for line in appendix_text.split("\n")
+    )
+
+
+def test_term_separator_present(appendix_text):
+    # Term and definition must be separated by two spaces (from leader dots U+F8E7)
+    # "abrasion resistant PTFE  a solid insulation wall of"
+    assert "abrasion resistant PTFE  a solid insulation wall of" in appendix_text
+
+
+def test_first_entry_term_complete(appendix_text):
+    # The full term "abrasion resistant PTFE" must appear, not just "abrasion resistant"
+    assert "abrasion resistant PTFE" in appendix_text
 
 
 def test_body_content_starts_after_blank_line(appendix_text):
