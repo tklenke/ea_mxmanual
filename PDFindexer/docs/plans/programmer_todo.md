@@ -36,17 +36,10 @@ Page ranges (1-indexed PDF page numbers):
 - [x] Update __main__.py — run appendix extraction after main content pass
 - [x] Re-run full pipeline — 3 appendix files present; 665 total files
 
-## Phase 10: Hyphenation Fix and README
+## Phase 10: Hyphenation Fix and README — COMPLETE
 
-- [ ] Fix hyphenation in doc_parser.py and appendix_extractor.py:
-      CHG 1 pages use soft hyphens (U+00AD, \xad) instead of regular hyphens for
-      line breaks. Current regex only matches regular hyphens and misses these.
-      Fix: strip \xad characters first, then apply hyphen-join regex.
-      Specifically in _join_hyphens(): text = text.replace('\xad', '') before the re.sub,
-      OR use regex pattern r"(\w+)[\-\xad]\s*\n\s*(\w+)" to match both in one pass.
-- [ ] Write test: soft-hyphenated word (e.g. "recom\xad\nmended") → "recommended"
-- [ ] Create README.md:
-      - What PDFindexer does and who uses it (CMW)
-      - How to run: python -m pdfindexer <pdf_path> <output_dir>
-      - Output structure
-      - Known gaps (8 paragraphs not detected, reason)
+- [x] Fix soft hyphens in doc_parser.py: re.sub(r'\xad\n\s*', '') + text.replace('\xad','')
+- [x] Fix soft hyphens in appendix_extractor.py: same approach
+- [x] Write tests: soft-hyphenated words joined in both body and appendix contexts
+- [x] Create README.md: purpose, CMW consumer, how to run, output structure,
+      known gaps (5 paragraphs undetected: 9-17, 10-17, 11-54, 11-55, 11-56)
