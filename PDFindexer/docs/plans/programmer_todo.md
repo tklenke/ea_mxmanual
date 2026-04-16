@@ -20,7 +20,7 @@ See git log for details.
 - [x] Re-run full PDF — 12-70/71/72 and 13-1/13-2 now in output; 661/666 paragraphs
 - [x] output_writer.py updated to omit SECTION line for synthetic sections (Ch.13)
 
-## Phase 9: Appendix Extraction
+## Phase 9: Appendix Extraction — COMPLETE
 
 See design.md "Phase 3: Appendix Extraction" section.
 
@@ -29,15 +29,12 @@ Page ranges (1-indexed PDF page numbers):
   Appendix 2 Acronyms:  pages 642-645
   Appendix 3 Metric:    page  646
 
-- [ ] Extract PDF pages 633-634 as tests/fixtures/ac_43_13_appendix_excerpt.pdf
-- [ ] Implement pdfindexer/appendix_extractor.py
-      extract_appendix(pdf, start_page, end_page, title) → plain text string
-      Uses page_extractor.extract_page() for column-aware text; joins pages;
-      applies hyphen joining; strips headers/footers
-- [ ] Write tests for appendix_extractor.py
-- [ ] Update output_writer.py — write appendix files and APPENDICES section in index.txt
-- [ ] Update __main__.py — run appendix extraction after main content pass
-- [ ] Re-run full pipeline — verify 3 appendix files present and readable
+- [x] Extract PDF pages 633-634 as tests/fixtures/ac_43_13_appendix_excerpt.pdf
+- [x] Implement pdfindexer/appendix_extractor.py (strips PUA leader chars, joins hyphens)
+- [x] Write tests for appendix_extractor.py (10 tests)
+- [x] Update output_writer.py — write appendix files and APPENDICES section in index.txt
+- [x] Update __main__.py — run appendix extraction after main content pass
+- [x] Re-run full pipeline — 3 appendix files present; 665 total files
 
 ## Phase 10: Hyphenation Fix and README
 

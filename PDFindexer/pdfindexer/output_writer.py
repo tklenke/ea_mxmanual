@@ -4,13 +4,18 @@
 import os
 
 
-def write_output(paragraphs, toc, output_dir):
-    """Write paragraph files and index.txt to output_dir.
+def write_output(paragraphs, toc, output_dir, appendices=None):
+    """Write paragraph files, appendix files, and index.txt to output_dir.
 
     Args:
         paragraphs: list of paragraph dicts from parse_document()
         toc: chapter/section structure from parse_toc()
         output_dir: directory path to write files into (created if absent)
+        appendices: optional list of dicts:
+            [{"filename": "appendix_1_glossary.txt",
+              "title": "Appendix 1: Glossary",
+              "text": "<plain text content>"},
+             ...]
     """
     os.makedirs(output_dir, exist_ok=True)
 
@@ -20,7 +25,10 @@ def write_output(paragraphs, toc, output_dir):
     for para in paragraphs:
         _write_paragraph_file(para, filename_map[para["number"]], output_dir)
 
-    _write_index(toc, filename_map, output_dir)
+    for app in (appendices or []):
+        _write_appendix_file(app, output_dir)
+
+    _write_index(toc, filename_map, output_dir, appendices or [])
 
 
 # ---------------------------------------------------------------------------
@@ -72,8 +80,15 @@ def _write_paragraph_file(para, filename, output_dir):
         f.write(content)
 
 
-def _write_index(toc, filename_map, output_dir):
-    """Write index.txt listing all chapters, sections, and paragraphs."""
+def _write_appendix_file(app, output_dir):
+    """Write a single appendix text file."""
+    path = os.path.join(output_dir, app["filename"])
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(app["text"])
+
+
+def _write_index(toc, filename_map, output_dir, appendices):
+    """Write index.txt listing all chapters, sections, paragraphs, and appendices."""
     lines = ["AC 43.13-1B — Acceptable Methods, Techniques, and Practices", ""]
 
     for ch in toc:
@@ -101,6 +116,13 @@ def _write_index(toc, filename_map, output_dir):
                     else:
                         lines.append(f"    {num}  {para['title']}")
                 lines.append("")
+        lines.append("")
+
+    if appendices:
+        lines.append("APPENDICES")
+        lines.append("")
+        for app in appendices:
+            lines.append(f"  {app['title']} [{app['filename']}]")
         lines.append("")
 
     path = os.path.join(output_dir, "index.txt")

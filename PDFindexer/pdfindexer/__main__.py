@@ -6,6 +6,7 @@ import sys
 import pdfplumber
 from pdfindexer.toc_parser import parse_toc
 from pdfindexer.doc_parser import parse_document
+from pdfindexer.appendix_extractor import extract_appendix
 from pdfindexer.output_writer import write_output
 
 
@@ -42,15 +43,28 @@ def main():
         print(f"  Found {chapter_count} chapters, {para_count} paragraphs in TOC")
 
         # Phase 2: extract content (pages after TOC, 0-indexed start = toc_end)
-        print(f"Extracting content (PDF pages {args.toc_end + 1}–{total_pages}) ...")
+        print(f"Extracting content (PDF pages {args.toc_end + 1}–632) ...")
         paragraphs = parse_document(pdf, toc, content_start_page=args.toc_end)
         print(f"  Extracted {len(paragraphs)} paragraphs")
 
-    # Phase 3: write output
+        # Phase 3: extract appendices
+        APPENDIX_DEFS = [
+            (633, 641, "Appendix 1: Glossary",                      "appendix_1_glossary.txt"),
+            (642, 645, "Appendix 2: Acronyms and Abbreviations",     "appendix_2_acronyms.txt"),
+            (646, 646, "Appendix 3: Metric-Based Prefixes and Powers of 10", "appendix_3_metric.txt"),
+        ]
+        print("Extracting appendices ...")
+        appendices = []
+        for start, end, title, filename in APPENDIX_DEFS:
+            text = extract_appendix(pdf, start, end, title)
+            appendices.append({"filename": filename, "title": title, "text": text})
+            print(f"  {filename} ({end - start + 1} page(s))")
+
+    # Phase 4: write output
     print(f"Writing output to {args.output_dir} ...")
-    write_output(paragraphs, toc, args.output_dir)
-    file_count = len(paragraphs) + 1  # +1 for index.txt
-    print(f"  Wrote {file_count} files ({len(paragraphs)} paragraphs + index.txt)")
+    write_output(paragraphs, toc, args.output_dir, appendices)
+    file_count = len(paragraphs) + len(appendices) + 1  # +1 for index.txt
+    print(f"  Wrote {file_count} files ({len(paragraphs)} paragraphs + {len(appendices)} appendices + index.txt)")
     print("Done.")
 
 
