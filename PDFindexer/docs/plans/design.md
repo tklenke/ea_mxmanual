@@ -118,7 +118,9 @@ acetylene  gas composed of two parts of carbon and two parts of hydrogen...
    opening content files; typical query reads index once + 1-3 paragraph files
 5. Short filenames — ch01_p001.txt; titles are already in the index
 6. Paragraph-level granularity — CMW reads only the specific paragraphs it needs
-7. Hyphenated line-break words joined — "construc-\ntion" → "construction" throughout
+7. Hyphenated line-break words joined throughout — original pages use regular hyphens
+   (U+002D); CHG 1 pages use soft hyphens (U+00AD, \xad). Both are stripped and the
+   word joined: "recom\xad\nended" → "recommended", "construc-\ntion" → "construction"
 
 ## Processing Pipeline
 
@@ -141,7 +143,11 @@ Walk pages sequentially. For each page:
 4. Detect figures; insert [FIG X-X] marker
 5. Detect tables; insert [TABLE X-X] marker
 
-Join hyphenated line-break words throughout: `r"(\w+)-\s*\n\s*(\w+)"`
+Join hyphenated line-break words throughout. Two hyphen types used in this document:
+- Regular hyphen U+002D (`-`): original pages
+- Soft hyphen U+00AD (`\xad`): CHG 1 pages
+Strip \xad first, then apply: `r"(\w+)-\s*\n\s*(\w+)"`. Or match both in one pass:
+`r"(\w+)[\-\xad]\s*\n\s*(\w+)"`
 
 ### Phase 3: Appendix Extraction (pages 633-646)
 
