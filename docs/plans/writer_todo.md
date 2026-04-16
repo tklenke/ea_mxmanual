@@ -4,6 +4,26 @@
 
 ## Backlog
 
+### [ ] Publish Manual Standards page (Section 1)
+
+Migrate `docs/plans/architecture_decisions.md` into the OtterWiki as the `manual-standards` page under Section 1 (General Information).
+
+**What this is:** `architecture_decisions.md` is already written and complete. This task is a publishing step, not a writing task — convert it to a clean wiki page, not a planning document.
+
+**Steps:**
+1. Read `docs/plans/architecture_decisions.md` in full
+2. Create `manual-standards.md` in the WR
+3. Strip all internal planning notes (e.g., "Note to Architect:", "Note to Writer:") — these are not for the published manual
+4. Strip the "What Belongs Here" section — that's guidance for editors, not maintainers
+5. Convert all internal cross-references to wiki links using `[[Display Text|page-name]]` format
+6. Apply standard formatting (Type 4 Reference page — no fixed template, structure to suit content)
+7. Use `[TOC]` — the page has many sections and a TOC will help navigation
+8. After publishing, update `claude/content_development_overview.md` to reference the OtterWiki page as the authoritative location (replacing the reference to `docs/plans/architecture_decisions.md`)
+
+**Do NOT delete `docs/plans/architecture_decisions.md`** — it remains the working copy for the Architect to update. The OtterWiki page is a published snapshot; the AR file is the source of truth until a better workflow is established.
+
+---
+
 ### [ ] Configure OtterWiki print footer and write Record of Revisions page
 
 **Prerequisite:** OtterWiki instance must be running (Tom's architect task — see architect_todo).

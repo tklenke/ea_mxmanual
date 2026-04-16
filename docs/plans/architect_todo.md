@@ -17,9 +17,9 @@ Options evaluated 2026-04-16:
 
 **Current decision: Option C.** Auto-generated sidebar reviewed with initial content (2026-04-16) — acceptable so far. Revisit as content volume grows. Do not close until Tom confirms Option C is the permanent approach.
 
-### [ ] Migrate architecture_decisions.md to Otterwiki as Manual Standards page
+### [x] Migrate architecture_decisions.md to Otterwiki as Manual Standards page (2026-04-16)
 
-After TOC audit is complete, create a Writer task to migrate `docs/plans/architecture_decisions.md` into the Otterwiki as the Manual Standards page under Section 1 (General Information). Update `claude/content_development_overview.md` to reference the Otterwiki location instead of the plans file.
+Writer task created in writer_todo.md. See "Publish Manual Standards page (Section 1)".
 
 ### [x] Audit and revise toc_structure.md
 

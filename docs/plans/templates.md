@@ -135,7 +135,7 @@ Each entry follows this format:
 ## [Task Name]
 
 **Interval:** [interval description]
-**Procedure:** See [[page-name|Page Title]] in Section N.
+**Procedure:** See [[Page Title|page-name]] in Section N.
 ```
 
 No procedures are duplicated on index pages. If a task has no dedicated
