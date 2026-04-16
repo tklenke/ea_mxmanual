@@ -117,6 +117,21 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ---
 
+## TOC Depth: Component-Specific Procedures Are Not Listed
+
+**Decision:** Type 2 Procedure pages that are specific to a single component are not listed in the TOC. They are accessed through their parent component's Type 1b page.
+
+**Reasoning:** The TOC reflects the manual's structure at the component/system level. Listing every procedure would make the TOC unwieldy and suggest a flat organization that doesn't exist. A maintainer navigates to the component page first; from there, procedures are one click away.
+
+**What does belong in the TOC:**
+- All Type 1a System pages and Type 1b Component pages
+- Major standalone procedures that are not specific to a single component (e.g., Wing Removal and Installation, Annual Condition Inspection, Structural Repair)
+
+**What does not belong in the TOC:**
+- Component-specific procedures (e.g., Canopy Cleaning, Battery Removal, Brake Fluid Change)
+
+---
+
 ## List Ordering: Alphabetical by Default
 
 **Decision:** Lists of pages, items, or components are ordered alphabetically by default. This can be overridden when a different order is clearly better (e.g., procedural sequence, logical grouping), but alphabetical is the starting assumption.

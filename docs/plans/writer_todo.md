@@ -50,6 +50,8 @@ Once the print footer is working, write the `Record of Revisions` page for Secti
 
 **Purpose:** Validate that templates, formatting, cross-linking, and OtterWiki rendering all work correctly before bulk content development begins. After completion, Tom and Claude review the output together and adjust standards if needed.
 
+**Note:** `panels-canopy-cleaning` is NOT listed in the TOC. It is a component-specific procedure accessed through `panels-canopy`. See architecture_decisions.md — TOC Depth rule.
+
 **Prerequisite:** OtterWiki instance must be running (see architect_todo).
 
 #### Page 1: `panels-canopy` — Canopy component page (Type 1b)
