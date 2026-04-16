@@ -59,8 +59,27 @@ All specific values, procedures, and specifications MUST include an inline citat
 
 - AC 43.13: `(AC 43.13, ch01_p001)`
 - TDS: `(Permatex Thread Sealant TDS)`
+- Multiple pages from the same source: `(AC 43.13, ch03_p024, ch03_p040)`
 
 If a value cannot be traced to a source in `docs/references/`, flag it with `@@TOM:` rather than presenting it without attribution.
+
+### Source citations for inspection criteria and general guidance
+
+Where inspection criteria or general maintenance guidance derives from a source, cite it — even when there is no specific numeric value. This is a soft requirement: use judgment, but when you do cite, use the same inline format.
+
+**When to cite:**
+- Inspection criteria that specify what to look for and why (e.g., crazing, crack propagation)
+- Guidance on repair vs. replacement decisions
+- Safety restrictions (e.g., repairs not in pilot's line of vision)
+- Any statement where "says who?" is a fair question
+
+**When not required:**
+- General descriptive statements with no safety or procedural implication
+- Information provided directly by Tom (e.g., operator-specific dimensions, product preferences)
+
+**Format is the same** — parenthetical inline at end of sentence or bullet: `(AC 43.13, ch03_p020)`
+
+Prose form is acceptable when it reads naturally: `per the procedure in AC 43.13, ch03_p040`. Default to parenthetical.
 
 ---
 
