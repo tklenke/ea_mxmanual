@@ -28,6 +28,20 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ---
 
+## Version and Revision Information
+
+**Decision:** Version and revision metadata is NOT embedded in page content. It is provided automatically via OtterWiki print customization.
+
+**Implementation:** OtterWiki's `customBody.html` injects a print-only footer using `@media print` CSS. The footer displays the page's last-edited timestamp (from `page.updated` in the Jinja2 template context) and ideally the short git commit hash, so a printed page can be traced back to an exact version in git.
+
+**Target format:** `Last edited: YYYY-MM-DD HH:MM (short-hash)`
+
+**Reasoning:** Manual timestamps in page content require Writer discipline to maintain and will inevitably drift out of sync. OtterWiki sits on a git backend — the authoritative version information is already there. Automating the footer keeps pages clean, requires no per-edit maintenance, and provides more reliable version tracing than anything manually maintained.
+
+**Setup task:** See architect_todo.md — OtterWiki version footer configuration is a backlog item.
+
+---
+
 ## Lubrication Page: Master List with Pointers
 
 **Decision:** The Lubrication page in Section 6 (Servicing) is a comprehensive list of all lubrication points on the aircraft, each with its interval and a pointer to the procedure in the relevant section. It does not contain procedures itself.
