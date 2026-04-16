@@ -4,7 +4,7 @@
 
 ## Backlog
 
-### [ ] FIRST TASK: Write pilot pages — Canopy and Canopy Cleaning
+### [x] FIRST TASK: Write pilot pages — Canopy and Canopy Cleaning
 
 Write two pages to validate templates, formatting, cross-linking, and standards before bulk content development begins. No OtterWiki instance needed to write — just Markdown files committed to git. OtterWiki is needed for the review step (see below).
 
@@ -90,3 +90,8 @@ Once the print footer is working, write the `Record of Revisions` page for Secti
 ---
 
 ## Completed
+
+### [x] FIRST TASK: Write pilot pages — Canopy and Canopy Cleaning
+panels-canopy.md and panels-canopy-cleaning.md written and committed to WR.
+@@TOM flags left for: hinge location, latch mechanism details, seal type and inspection criteria.
+Review checkpoint pending: verify both pages render correctly in OtterWiki once instance is running.
