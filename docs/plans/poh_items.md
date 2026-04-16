@@ -4,4 +4,5 @@ Content identified during maintenance manual development that belongs in the Pil
 
 ---
 
-- **Emergency Evacuation Procedures** — relevant to flight crew, not maintenance. Was in Section 8 (Canopy, Windows, and Access Panels) of the maintenance manual TOC.
+- **Emergency Evacuation Procedures** — relevant to flight crew, not maintenance. Was in Section 8 (Canopy and Panels) of the maintenance manual TOC.
+- **Normal Operating Procedures** — pilot procedures, not maintenance. Was in Section 12 (Power Plant) of the maintenance manual TOC.

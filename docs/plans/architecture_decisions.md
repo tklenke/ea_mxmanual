@@ -1,8 +1,18 @@
-# Architecture Decisions
+# Manual Standards
 
-This document records architectural decisions made during the design of the ea_mxmanual maintenance manual. It captures the reasoning behind structural choices so future sessions can understand intent rather than just outcome.
+This document will be published in the manual as the **Manual Standards** page under Section 1 (General Information). It is the authoritative reference for how this manual is organized and why.
 
-**Note to Architect:** After the TOC audit is complete, create a task for the Writer to migrate this document into the Otterwiki under a dedicated Architecture folder. Update `claude/content_development_overview.md` to reference the Otterwiki location.
+## What Belongs Here
+
+This document captures three categories of content:
+
+- **Architecture decisions** — structural choices about the manual: scope boundaries, section organization, where specific topics live, and why. Example: why alternators are in Power Plant rather than Electrical.
+- **Content placement rules** — standing rules for where types of content belong. Example: all panel removal procedures live in Section 9 (Canopy and Panels); other sections cross-reference rather than duplicate.
+- **Editorial standards** — conventions for how content is written and organized within pages. Example: lists are alphabetical by default.
+
+When in doubt whether something belongs here: if a future Architect or Writer would need to know it to make a consistent decision, it belongs here.
+
+**Note to Architect:** After the TOC audit is complete, create a task for the Writer to migrate this document into the Otterwiki as the Manual Standards page under Section 1. Update `claude/content_development_overview.md` to reference the Otterwiki location.
 
 ---
 
@@ -62,6 +72,34 @@ This document records architectural decisions made during the design of the ea_m
 **Decision:** Removed `Instructions for development of Design and Troubleshooting Documentation` from Section 1.
 
 **Reasoning:** This was guidance for Claude/Tom during manual development, not content for a maintainer. It does not belong in the published manual.
+
+---
+
+## Alternators: Power Plant, Not Electrical
+
+**Decision:** Alternator maintenance procedures live in Section 12 (Power Plant), not Section 14 (Electrical). Section 14 includes a cross-reference pointer to Section 12.
+
+**Reasoning:** Alternators are engine-driven mechanical components. Their maintenance (belt tension, brush inspection, output testing) is physically performed at the engine. The electrical section covers distribution and consumption of power after it is generated, not the generation hardware itself.
+
+---
+
+## Panel and Cover Removal Procedures Live in Section 8
+
+**Decision:** Removal and installation procedures for all panels and covers are in Section 8 (Canopy and Panels). Other sections that reference those panels include a cross-reference pointer rather than duplicating the procedure.
+
+**Reasoning:** Single source of truth for panel procedures. A maintainer working on cabin access or firewall components should not have to reconcile two versions of the same removal steps.
+
+**Examples:**
+- Cabin Interior (Section 9) links to Armrests and Firewall Cover Panel in Section 8
+- Any section requiring instrument panel access links to IP Access Panel in Section 8
+
+---
+
+## List Ordering: Alphabetical by Default
+
+**Decision:** Lists of pages, items, or components are ordered alphabetically by default. This can be overridden when a different order is clearly better (e.g., procedural sequence, logical grouping), but alphabetical is the starting assumption.
+
+**Reasoning:** Alphabetical ordering is predictable and makes items findable without requiring the reader to understand the author's organizational logic. Arbitrary ordering creates maintenance burden as items are added over time.
 
 ---
 
