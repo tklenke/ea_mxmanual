@@ -1,0 +1,106 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-50. SPECIAL EXAMINATION TECHNIQUES.
+a. Magnetic Rubber. Magnetic rubber
+formulations using finely divided magnetic
+particles in a silicone rubber base are used for
+the inspection of screw, bolt, or other bore
+holes, which are not easily accessible. The
+liquid silicone rubber mixture is poured into
+holes in magnetic parts to be inspected.
+Curing time for silicone rubbers varies from
+about 30 minutes and up depending upon the
+particular silicone rubber, the catalyst, and the
+amount of catalyst used to produce the curing
+reaction.
+b. Curing. While curing is taking place,
+the insides of the hole must be maintained in
+the required magnetized state. This can be accomplished using a permanent magnet, a DC
+yoke, an electromagnet, or some other suitable
+means. Whatever method of magnetization is
+used, the leakage fields at any discontinuities
+inside the holes must be maintained long
+enough to attract and hold in position the magnetic particles until a partial cure takes place.
+A two-step magnetizing procedure has been
+developed.
+(1) The first magnetization is accomplished for a short time in one direction followed by a second at 90 degrees to the first for
+the same length of time. This procedure must
+be repeated for whatever period of time is
+needed until the cure prevents particle mobility. Magnetization in two directions
+90 degrees apart ensures formation of indications at discontinuities in all directions inside
+the holes.
+(2) After curing, the rubber plugs,
+which are exact replicas of the holes, are removed and visibly examined for indications
+which will appear as colored lines against the
+lighter colored background of the silicone rubber. Location of any discontinuities or other
+surface imperfections in the holes can be determined from the location of the indications
+on the plugs. The magnetic rubber inspection
+method is covered in detail in Air Force Technical Order 33B-1-1, section XI.
+c. Critical Examination for Sharp Radii
+Parts. A critical examination is required for
+cracks in sharp radii; such as threaded parts,
+splines, gear teeth roots, and abrupt changes in
+sections, that cause obscuring and nonrelevant
+indications during normal examination practices. The procedure provided herein is the
+most sensitive method for detecting the early
+beginnings of in-service fatigue cracks in the
+sharp, internal radii of ferro-magnetic parts.
+Magnetic particle examination equipment may
+be used; however, alternating fields are not reliable to provide the necessary high level of residual magnetism. Optical aids are necessary
+to realize the maximum sensitivity provided by
+this magnetic particle procedure. Low-power
+(10x-30x) binocular microscopes are recommended. As a minimum, pocket magnifiers of
+7 to 10 power may be used with the following
+procedure.
+(1) Thoroughly clean the part at the
+sharp radii and fillets where soils, greases, and
+other contaminants tend to accumulate and at
+other places where they might be overlooked
+during a casual or hasty examination.
+(2) The residual method should be used
+as an aid in particular problem areas, even
+though it is not considered the best practice in
+most of the instances. The conventional wet
+continuous methods should be used initially
+for overall examination and the residual technique should be applied only for supplemental,
+local examination of the sharp radii. It should
+not be applied except in those cases where
+nonrelevant indications have proven to be a
+problem in the initial examination.
+(3) Methods of magnetization should be
+done according to standard procedures; however, alternating fields should not be used, and
+the level of magnetizing force imposed should
+usually be increased above the normal levels to
+ensure a higher residual field within the part.
+(4) Following magnetization, apply
+particles in liquid suspension. The application
+should be liberal and in a manner to cause
+maximum particle buildup. Immersion of
+small parts such as rod end fittings in a container of suspension, which has just been
+stirred for about 30 seconds, is an excellent
+method.
+(5) Check for the presence of particle
+accumulation in the sharp radii. It is necessary
+that the level of magnetization and the particle
+application result in the formation of nonrelevant indications. Lack of indications will require remagnetization to a higher level, more
+care in applying the particles, or both.
+(6) Wash the parts in a clean suspension
+vehicle only enough to remove the weaklyheld particle accumulations causing the nonrelevant indications. Particles at true cracks
+will be more strongly held and will persist if
+the washing is gently done. This can be accomplished by flowing or directing a stream of
+liquid vehicle over the part, or for a small
+component, by gently stirring in a container of
+the vehicle. Closely observe the removal of
+the nonrelevant particle accumulations in the
+region to be examined to avoid excessive
+washing. If washing is prolonged beyond the
+minimum needed to remove the nonrelevant
+indications, the small defect indications may
+also be washed away. A few trials will help to
+develop the best method and time required for
+washing.
+(7) Check for crack indications with
+optical magnification and ample lighting. The
+smaller indications that are attainable by this
+procedure cannot be reliably seen or evaluated
+with the unaided eye.

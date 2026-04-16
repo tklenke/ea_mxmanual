@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-1. GENERAL. Consult the manufacturer’s manuals, service bulletins, and instruction books regarding the repair and overhaul,
+inspection, installation, and maintenance of
+aircraft engines, for that particular make,
+model, and type of engine. This section lists
+acceptable inspection and repair procedures
+that may be used in the absence of an engine
+manufacturer’s maintenance information.

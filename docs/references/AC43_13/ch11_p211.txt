@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-211. DOT MATRIX MARKING. The
+dot matrix marking is imprinted onto the wire
+or cable very similar to that of a dot matrix
+computer printer. The wire must go through a
+cleaning process to make sure it is clean and
+dry for the ink to adhere. Wires marked with
+dot matrix equipment require a cure consisting
+of an UV curing process, which is normally
+applied by the marking equipment. This cure
+should normally be complete 16 to 24 hours
+after marking. Dot matrix makes a legible
+mark without damaging the insulation. De
+pending on equipment configuration, dot matrix can mark wire from 0.037 to 0.5-inch outside diameter. Multi-conductor cable can also
+be marked.

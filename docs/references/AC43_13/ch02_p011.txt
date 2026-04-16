@@ -1,0 +1,32 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-11. STITCH SPACING.
+a. Rib lace spacing on wings, formerly
+referred to as stitch spacing, should be no
+greater than the spacing used by the original
+aircraft manufacturer. When the original
+spacing cannot be determined the maximum
+spacing illustrated in figure 2-12 should be
+used on the wings and wing control surfaces.
+[FIG 2-11] Blindstitch lacing - square knot secured with half
+hitches.
+[FIG 2-12] Fabric attachment spacing
+b. When the original lace spacing on the
+empennage surfaces and fuselage, is not
+known, a maximum spacing of two times the
+spacing shown in figure 2-12 for the slipstream
+area (prop wash) on the wings may be used.
+c. The installations of fabric attachments such as screws, rivets, wire clips, and
+rib lacing should be delayed until the fabric is
+stabilized and pulled taut with dope. This action is delayed to avoid pulling wing ribs and
+other structures out of alignment or tearing the
+fabric at attachment points as the fabric becomes taut. All lacing should be installed adjacent to the structure to which the fabric is
+being laced, to avoid tearing the fabric and/or
+creating slack in the cord loop when a load is
+applied. Where plastic washers were used by
+the aircraft manufacturer to provide increased
+pull-through resistance, under the heads of rivets or screws, the same diameter aluminum
+washer may be used as replacement. Aluminum washers are used because they are not
+affected by solvents found in adhesives or
+dopes, nor do they become brittle because of
+age or cold weather.

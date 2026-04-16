@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 11: OTHER METALS AND ALLOYS
+
+6-180. COPPER AND COPPER ALLOYS
+are relatively corrosion resistant, and attack on
+such components will usually be limited to
+staining and tarnish. Such change in surface
+condition is not dangerous and should ordinarily have no effect on the function of the part.
+However, if it is necessary to remove such
+staining, a chromic acid solution of 8 to 24
+ounces per gallon of water containing a small
+amount of battery electrolyte (not to exceed
+50 drops per gallon) is an effective brightening
+bath. Staining may also be removed using a
+fine grade abrasive mat or pencil eraser followed by solvent cleaning.
+a. Immerse the stained part in the cold
+solution. Surfaces can also be treated in place
+by applying the solution to the stained surface
+with a small brush.
+b. Avoid any entrapment of the solution
+after treatment. Clean the part thoroughly
+following treatment with all residual solution
+removed.
+c. Serious copper corrosion is evident by
+the accumulation of green-to-blue copper salts
+on the corroded part. Remove these products
+mechanically using a stiff bristle brush, brass
+wire brush, 400-grit abrasive paper or bead
+blast with glass beads, (specification
+MIL-G-9954, size 13). Air pressure when
+blasting should be 20 to 30 psi for direct pressure machines. Do not bead blast braided copper flexible lines. Reapply a surface coating
+over the reworked area. Chromic acid treatment will tend to remove the residual corrosion products.
+WARNING: Brushing, sanding, and
+abrasive blasting of copper and copper alloys can be dangerous due to the
+creation of toxic airborne particles.
+Take necessary precautions to ensure
+safety.

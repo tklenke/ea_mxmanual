@@ -1,0 +1,52 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-46. RIB REPAIRS. Ribs may be replaced
+by new parts made by the manufacturer or the
+holder of a PMA for that part. Ownerproduced ribs may be installed providing they
+are made from a manufacturer-approved
+drawing or by reference to an existing original
+rib. A rib may be made by reference to an existing rib providing sufficient evidence is presented to verify that the existing rib is an
+original part and that all materials and dimensions can be determined. The contour of the
+rib is important to the safe flying qualities of
+the aircraft, and care should be taken that any
+replacement ribs accurately match the manufacturer’s original design.
+Section A-A
+[FIG 1-7] Repairs to built-up “I” spar.
+a. Rib Repair Methods. Acceptable
+methods of repairing damaged ribs are shown
+in figure 1-11. Wood ribs should not be nailed
+to wood spars by driving nails through the rib
+cap strips, as this weakens the rib materially.
+The attachment should be by means of adhesive with cement coated, barbed, or spiraled
+nails driven through the vertical rib members
+on each face of the spar.
+b. Compression Rib Repair. Acceptable
+methods of repairing damaged compression
+ribs are shown in figure 1-12.
+(1) Figure 1-12(A) illustrates the repair
+of a compression rib of the “I” section type;
+i.e., wide, shallow cap strips, and a center plywood web with a rectangular compression
+member on each side of the web. The rib is
+Ends of reinforcement plates
+should be feathered out
+with a 5:1 slope.
+assumed to be cracked through the cap strips,
+web member, and compression member in the
+illustration. Cut the compression member as
+shown in figure 1-12(D). Cut and replace the
+aft portion of the cap strips, and reinforce as
+shown in figure 1-11. The plywood side plates
+are bonded on, as indicated in figure 1-12(A).
+These plates are added to reinforce the damaged web.
+(2) Figure 1-12(B) illustrates a compression rib of the type that is basically a standard rib with rectangular compression members added to one side and plywood web to the
+other side. The method used in this repair is
+essentially the same as in figure 1-12(A) except that the plywood reinforcement plate,
+[FIG 1-8] Method of splicing box spar flanges (plate method).
+shown in section B-B, is continued the full
+distance between spars.
+(3) Figure 1-12(C) illustrates a compression rib of the “I” type with a rectangular
+vertical member on each side of the web. The
+method of repair is essentially the same as in
+figure 1-12(A) except the plywood reinforcement plates on each side, shown as striped
+blocks in section C-C, are continued the full
+distance between spars.

@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 1: INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+
+11-5. BATTERY ELECTROLYTE CORROSION. Corrosion found on or near leadacid batteries can be removed mechanically
+with a stiff bristle brush and then chemically
+neutralized with a 10 percent sodium bicarbonate and water solution. For Nickel Cadmium (NiCad) batteries, a 3 percent solution
+of acetic acid can be used to neutralize the
+electrolyte. After neutralizing, the battery
+should be washed with clean water and thoroughly dried.

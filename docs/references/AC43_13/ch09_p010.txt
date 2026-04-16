@@ -1,0 +1,62 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-10. TYPES OF LANDING GEAR
+PROBLEMS. During inspection and before
+removing any accumulated dirt, closely observe the area being inspected while the wingtips are gently rocked up and down. Excessive
+motion between normally close-fitting landing
+gear components may indicate wear, cracks, or
+improper adjustment. If a crack exists, it will
+generally be indicated by dirt or metallic particles which tend to outline the fault. Seepage
+of rust inhibiting oils, used to coat internal surfaces of steel tubes, also assists in the early
+detection of cracks. In addition, a sooty, oily
+residue around bolts, rivets, and pins is a good
+indication of looseness or wear.
+[FIG 9-2] Typical bolt cracks.
+a. Thoroughly clean and re-inspect the
+landing gear to determine the extent of any
+damage or wear. Some components may require removal and complete disassembly for
+detailed inspection. Others may require a specific check using an inspection process such as
+dye penetrant, magnetic particle, radiographic,
+ultrasonic, or eddy current. The frequency,
+degree of thoroughness, and selection of inspection methods are dependent upon the age,
+use, and general condition of the landing gear.
+b. Inspect the aircraft or landing gear
+structure surrounding any visible damage to
+ensure that no secondary damage remains undetected. Forces can be transmitted along the
+affected member to remote areas where subsequent normal loads can cause failure at a later
+date.
+c. Prime locations for cracks on any
+landing gear are bolts, bolt holes, pins, rivets,
+and welds. The following are typical locations
+where cracks may develop.
+d. Most susceptible areas for bolts are at
+the radius between the head and the shank, and
+in the location where the threads join the
+shank, as shown in figure 9-2.
+e. Cracks primarily occur at the edge of
+bolt holes on the surface and down inside the
+bore. (See figures 9-3 and 9-4.)
+[FIG 9-3] Typical cracks near bolt holes.
+[FIG 9-4] Typical bolt hole cracks.
+f. The usual types of failure in riveted
+joints or seams are deformation of the rivet
+heads and skin cracks originating at the rivets’
+holes.
+g. Cracks and subsequent failures of rod
+ends usually begin at the thread end near the
+bearing and adjacent to or under the jam nut.
+(See figure 9-5.)
+[FIG 9-5] Typical rod-end cracks.
+h. Cracks develop primarily along the
+edge of the weld adjacent to the base metal and
+along the centerline of the bead.
+i. Elongated holes are especially prevalent in taper-pin holes and bolt holes or at the
+riveted joints of torque tubes and push-pull
+rods. (See figure 9-6.)
+[FIG 9-6] Typical torque tube bolt hole elongation.
+j. Deformation is common in rods and
+tubes and usually is noticeable as stretched,
+bulged, or bent sections. Because deformations of this type are difficult to see, feel along
+the tube for evidence of this discrepancy. Deformation of sheet-metal web sections, at
+landing-gear component attachment points,
+usually can be seen when the area is highlighted with oblique lighting.

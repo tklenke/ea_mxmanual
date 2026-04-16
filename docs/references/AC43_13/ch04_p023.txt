@@ -1,0 +1,67 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 2: TESTING OF METALS
+
+4-23. ALUMINUM TESTING. Hardness
+tests are useful for testing aluminum alloy
+chiefly as a means of distinguishing between
+annealed, cold-worked, heat-treated, and heattreated and aged material. It is of little value
+in indicating the strength or quality of heat
+treatment. Typical hardness values for aluminum alloys are shown in table 4-5.
+a. Clad aluminum alloys have surface
+layers of pure aluminum or corrosion-resistant
+aluminum alloy bonded to the core material to
+inhibit corrosion. Presence of such a coating
+may be determined under a magnifying glass
+by examination of the edge surface which will
+show three distinct layers. In aluminum alloys,
+the properties of any specific alloy can be altered by work hardening (often called strainhardening), heat treatment, or by a combination of these processes.
+b. Test for distinguishing heat-treatable
+and nonheat-treatable aluminum alloys. If
+for any reason the identification mark of the
+alloy is not on the material, it is possible to
+distinguish between some heat-treatable alloys
+and some nonheat-treatable alloys by immersing a sample of the material in a 10 percent
+solution of caustic soda (sodium hydroxide).
+Those heat-treated alloys containing several
+percent of copper (2014, 2017, and 2024) will
+turn black due to the copper content. Highcopper alloys when clad will not turn black on
+the surface, but the edges will turn black at the
+center of the sheet where the core is exposed.
+If the alloy does not turn black in the caustic
+soda solution it is not evidence that the alloy is
+nonheat-treatable, as various high-strength
+heat-treatable alloys are not based primarily on
+the use of copper as an alloying agent. These
+include among others 6053, 6061, and
+7075 alloys. The composition and heattreating ability of alloys which do not turn
+black in a caustic soda solution can be established only by chemical or spectro-analysis.
+[TABLE 4-5] Hardness values for aluminum alloys. (Reference MIL-H-6088G.)
+Hardness Brinell number
+Material
+Commercial Temper 500 kg. load
+Designation 10 mm. ball
+1100 0 23
+H18 44
+3003 0 28
+H16 47
+2014 0 45
+T6 135
+2017 0 45
+T6 105
+2024 0 47
+T4 120
+2025 T6 110
+6151 T6 100
+5052 0 47
+H36 73
+6061 0 30
+T4 65
+T6 95
+7075 T6 135
+7079 T6 135
+195 T6 75
+220 T4 75
+C355 T6 80
+A356 T6 70
+4-24.4-35.
+[RESERVED.]
+SECTION 3. PRECAUTIONARY MEASURES

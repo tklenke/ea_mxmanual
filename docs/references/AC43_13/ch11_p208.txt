@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-208. PLACEMENT OF IDENTIFICATION MARKINGS. Identification
+markings should be placed at each end of the
+wire and at 15-inch maximum intervals along
+the length of the wire. Wires less than 3 inches
+long need not be identified. Wires 3 to
+7 inches in length should be identified approximately at the center. Added identification
+marker sleeves should be so located that ties,
+clamps, or supporting devices need not be removed in order to read the identification.
+The wire identification code must be printed to
+read horizontally (from left to right) or vertically (from top to bottom). The two methods
+of marking wire or cable are as follows:
+a. Direct marking is accomplished by
+printing the cable’s outer covering. (See figure 11-23.)
+b. Indirect marking is accomplished by
+printing a heat-shrinkable sleeve and installing
+the printed sleeve on the wire or cables outer
+covering. Indirect-marked wire or cable
+should be identified with printed sleeves at
+each end and at intervals not longer than 6 feet.
+The individual wires inside a cable should be
+identified within 3 inches of their termination.
+(See figure 11-24.)

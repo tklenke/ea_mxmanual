@@ -1,0 +1,56 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-40. TORQUES. The importance of correct torque application cannot be overemphasized. Undertorque can result in unnecessary
+wear of nuts and bolts, as well as the parts they
+secure. Overtorque can cause failure of a bolt
+or nut from overstressing the threaded areas.
+Uneven or additional loads that are applied to
+the assembly may result in wear or premature
+failure. The following are a few simple, but
+important procedures, that should be followed
+to ensure that correct torque is applied.
+NOTE: Be sure that the torque applied is for the size of the bolt shank
+not the wrench size.
+a. Calibrate the torque wrench at least
+once a year, or immediately after it has been
+abused or dropped, to ensure continued accuracy.
+b. Be sure the bolt and nut threads are
+clean and dry, unless otherwise specified by
+the manufacturer.
+c. Run the nut down to near contact
+with the washer or bearing surface and check
+the friction drag torque required to turn the
+nut. Whenever possible, apply the torque to
+the nut and not the bolt. This will reduce rotation of the bolt in the hole and reduce wear.
+d. Add the friction drag torque to the
+desired torque. This is referred to as “final
+torque,” which should register on the indicator
+or setting for a snap-over type torque wrench.
+e. Apply a smooth even pull when applying torque pressure. If chattering or a jerking motion occurs during final torque, back off
+the nut and retorque.
+NOTE: Many applications of bolts in
+aircraft/engines require stretch checks
+prior to reuse. This requirement is
+due primarily to bolt stretching
+caused by overtorquing.
+f. When installing a castle nut, start
+alignment with the cotter pin hole at the minimum recommended torque plus friction drag
+torque.
+NOTE: Do not exceed the maximum
+torque plus the friction drag. If the
+hole and nut castellation do not align,
+change washer or nut and try again.
+Exceeding the maximum recommended torque is not recommended.
+g. When torque is applied to bolt heads
+or capscrews, apply the recommended torque
+plus friction drag torque.
+h. If special adapters are used which
+will change the effective length of the torque
+wrench, the final torque indication or wrench
+setting must be adjusted accordingly. Determine the torque wrench indication or setting
+with adapter installed as shown in figure 7-2.
+i. Table 7-1 shows the recommended
+torque to be used when specific torque is not
+supplied by the manufacturer. The table includes standard nut and bolt combinations,
+currently used in aviation maintenance. For
+further identification of hardware, see chapter 7, section 11.

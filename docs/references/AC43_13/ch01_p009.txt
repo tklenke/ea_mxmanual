@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 1: MATERIALS AND PRACTICES
+
+1-9. BONDING TEMPERATURE. Temperature of the bond line affects the cure rate
+of the adhesive. Some adhesive types, such as
+resorcinol, require a minimum temperature
+which must be maintained throughout the
+curing process. Each type of adhesive requires
+a specific temperature during the cure cycle,
+and the manufacturer’s recommendations
+should be followed.

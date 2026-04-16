@@ -1,0 +1,110 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 2: APPLICATION OF DOPE
+
+2-20. GENERAL. Nitrate dope and butyrate dope are manufactured by treating cellulose, derived from wood pulp or cotton linter
+with select acids, then dissolving in a blend of
+solvents and adding plasticizers for flexibility.
+After a brush or spray application on fabric,
+the film develops tension and strength as the
+solvents evaporate. The tension and strength
+will increase in proportion to the total film
+thickness. The fabric functions as a film former and carries no load until a crack develops
+in the dope film. An excessively-thick dope
+film will develop too much tension and may
+warp or damage a light airframe.
+a. Viscosity adjustments for brush or
+spray applications may also vary between
+brands. When the viscosity adjustment ratio is
+not provided or is unclear, the product manufacturer should be contacted for detailed instructions. If instructions cannot be obtained
+or the source of the dope is unknown, the dope
+should be considered suspect and its use is not
+advised.
+b. Dope, which has been stored for an
+extended period of time or under adverse conditions, should be suspected of becoming
+acidic and should be tested before being used
+on cotton or linen fabric. In some cases, fresh
+production dope has also been found to have a
+high acid content and will begin to deteriorate
+cotton or linen in a period of a few months.
+The acid content of nitrate or butyrate dope
+should not exceed 0.06 percent, calculated as
+acidic acid. An acidity test can be performed
+by most testing laboratories if high acid content is suspected.
+c. Butyrate dope is superior to nitrate
+dope in weather exposure tests. However, nitrate dope provides better adhesion to natural
+fiber than butyrate dope. The adhesion of butyrate dope to natural fibers is adequate; it is
+not necessary to use nitrate dope for the first
+application and butyrate dope for all other applications. The presence of naphtha in nitrate
+dope, manufactured in accordance with canceled Mil Specs formulas, causes nitrate dope
+to be incompatible with butyrate dope; therefore, nitrate dope should not be applied over
+butyrate dope for repairs or refinishing; however, butyrate dope may be applied over nitrate
+dope.
+NOTE: Nitrate or butyrate dope
+thinners and retarders should not be
+substituted for each other, nor should
+automotive coating-type thinners be
+used.
+d. Clear dope produces the most tension
+and strength. Aluminum-pigmented dope will
+weigh slightly more than clear dope and develop less tension and strength for the same
+film thickness. Pigmented color finishes will
+produce the least tension and strength due to
+the higher ratio of plasticizers.
+e. During the coating-buildup procedure,
+solvents released from each succeeding coat
+will penetrate and be absorbed into the previous dope film, temporarily releasing the tension and increasing the drying time between
+coats as the dope film becomes thicker. If
+elapsed time between coats exceeds several
+weeks at temperatures above 70 F, it is recommended that several spray coats of an appropriate dope thinner or dope with retarder
+and/or rejuvenator added be applied to the
+lightly-sanded, dried dope film to open the surface and provide cohesion for the next coat.
+This will reduce the possibility of surface
+cracks caused by dissimilar tension between
+the old and new dope film.
+f. All dope coats through the final finish
+may be applied with a brush; however, brush
+marks will be noticeable in the finish. With
+increasing environmental concerns, high pressure airless and high-volume low-pressure
+(HVLP) paint spray equipment is recommended over conventional siphon and pressure
+pot spraying equipment. High pressure airless
+and HVLP paint spraying equipment will
+greatly reduce paint over-spray and fogging. A
+spray gun, single coat is applied by overlapping each consecutive pass 50 percent of the
+fan width. A double coat is applied by repeating the coating application in the same di90°€angle
+rection, or at a to the first coat
+(cross coat) before the first coat has flashed off
+or dried dust free. For safety and helpful tips
+for doping, see tables 2-3 and 2-4.
+[TABLE 2-3] Safety tips for dope/paint.
+SAFETY TIPS.
+Always ground the aircraft structure while sanding and
+painting.
+Do not use an electric drill as a dope/paint mixer.
+Wear leather-soled shoes in the dope/painting area.
+Have an adequate, approved ventilation system.
+Wear cotton clothes when doping or painting.
+Wear an approved face mask or respirator when
+spraying.
+Follow all the manufacturer’s instructions.
+[TABLE 2-4] Tips for doping.
+HELPFUL TIPS FOR DOPING.
+Limits for optimum application of dope: relative hu65° °F.
+midity 20 to 60%; temperature range to 75
+Drying time will vary with temperature, humidity,
+amount of thinner used, and whether or not retarder
+was added to the mixture.
+Do not recoat until the surface is completely dry and
+all active solvents have left the dope film.
+Spray all coats except the first three or four clear
+coats, to avoid brush marks.
+Over thinning is preferred to under thinning.
+Addition of retarder will produce a smoother coat, but
+drying time between coats will be extended.
+To get a clean line for the trim colors, apply a light
+coat of clear dope directly on the masking tape prior
+to painting. This will help eliminate the trim color
+from running under the masking tape.
+Remember to always bring the dope to room
+temperature before using.
+Rubbing compound and wax polish may be applied
+after all solvents have escaped (usually 2 weeks,
+depending upon the weather).

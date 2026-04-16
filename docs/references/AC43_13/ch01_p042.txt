@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-42. SPLICING OF BOX SPAR WEBS.
+Always splice and reinforce plywood webs
+with the same type of plywood as found on the
+original part. Do not use solid wood to replace
+plywood webs. Plywood is stronger in shear
+than solid wood of the same thickness due to
+the grain direction of the individual plies. The
+face-grain of plywood replacement webs and
+reinforcement plates must be in the same direction as the original member to ensure that
+the new web will have the required strength.
+(The method of splicing plywood webs is
+shown in figure 1-9.)

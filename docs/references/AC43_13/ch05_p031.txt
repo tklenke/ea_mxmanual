@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 3: EDDY CURRENT INSPECTION
+
+5-31. ESTABLISHING EDDY CURRENT
+INSPECTION PROCEDURES. When establishing eddy current inspection procedures,
+where no written procedures are available, the
+following factors must be considered: type of
+material to be inspected; accessibility of the
+inspection area; material or part geometry, the
+signal-to-noise ratio, test system; lift-off effects, location and size of flaws to be detected;
+scanning pattern; scanning speed; and reference standards. All of these factors are interrelated. Therefore, a change in one of the factors may require changes in other factors to
+maintain the same level of sensitivity and reliability of the eddy current inspection procedure. Written procedures should elaborate on
+these factors and place them in their proper order.
+[FIG 5-7] Typical subsurface cracks.
+[FIG 5-8] Typical structural corrosion.
+5-32.5-39.
+[RESERVED.]
+SECTION 4. MAGNETIC PARTICLE INSPECTION

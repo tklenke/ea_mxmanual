@@ -1,0 +1,33 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-187. BONDING. The following bonding
+requirements must be considered:
+a. Equipment Bonding. Low-impedance
+paths to aircraft structure are normally required
+for electronic equipment to provide radio frequency return circuits and for most electrical
+equipment to facilitate reduction in EMI. The
+cases of components which produce electromagnetic energy should be grounded to structure. To ensure proper operation of electronic
+equipment, it is particularly important to conform the system’s installation specification
+when interconnections, bonding, and grounding are being accomplished.
+b. Metallic Surface Bonding. All conducting objects on the exterior of the airframe
+must be electrically connected to the airframe
+through mechanical joints, conductive hinges,
+or bond straps capable of conducting static
+charges and lightning strikes. Exceptions may
+be necessary for some objects such as antenna
+elements, whose function requires them to be
+electrically isolated from the airframe. Such
+items should be provided with an alternative
+means to conduct static charges and/or lightning currents, as appropriate.
+c. Static Bonds. All isolated conducting
+parts inside and outside the aircraft, having an
+in2
+area greater than 3 and a linear dimension
+over 3 inches, that are subjected to appreciable
+electrostatic charging due to precipitation,
+fluid, or air in motion, should have a mechanically secure electrical connection to the aircraft
+structure of sufficient conductivity to dissipate
+possible static charges. A resistance of less
+than 1 ohm when clean and dry will generally
+ensure such dissipation on larger objects.
+Higher resistances are permissible in connecting smaller objects to airframe structure.

@@ -1,0 +1,35 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-8. FLOATS AND SKIS. Aircraft operated from water may be provided with either a
+single float or a double float, depending upon
+the design and construction; however, if an
+aircraft is an amphibian, it has a hull for flotation and then may need only wingtip floats.
+Amphibious aircraft have floats or a hull for
+operating on water and retractable wheels for
+land operation.
+a. Skis are used for operating on snow
+and ice. The skis may be made of wood,
+metal, or composite materials. There are three
+basic styles of skis. A conventional ski, shown
+in figure 9-1, replaces the wheel on the axle.
+The shock cord is used to hold the toe of the
+ski up when landing. The safety cable and
+check cable prevent the ski from pivoting
+through too great an angle during flight.
+b. The wheel ski is designed to mount on
+the aircraft along with the tire. The ski has a
+portion cut out that allows the tire to extend
+[FIG 9-1] A typical ski installation.
+slightly below the ski, so that the aircraft can
+be operated from conventional runways with
+the wheels or from snow or ice surfaces using
+the ski. This arrangement has a small wheel
+mounted on the heel of the ski, so that it does
+not drag on conventional runways.
+c. In retractable wheel-ski arrangements,
+the ski is mounted on a common axle with the
+wheel. In this arrangement, the ski can be extended below the level of the wheel for landing
+on snow or ice. The ski can be retracted above
+the bottom of the wheel for operations from
+conventional runways. A hydraulic system is
+commonly used for the retraction-system operation.

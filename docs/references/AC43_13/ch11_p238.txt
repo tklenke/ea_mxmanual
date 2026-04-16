@@ -1,0 +1,41 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-238. POTTING COMPOUNDS. Many
+types of potting compounds, both commercial
+and per military specifications, are available
+and offer various characteristics for different
+applications. Carefully consider the characteristics desired to ensure the use of the proper
+compound. Preparation and storage of potting
+materials should receive special attention.
+Careful inspection and handling during all
+stages of the connector fabrication until the
+potting compound has fully cured is recommended. Potting compounds selected must not
+revert to liquid or become gummy or sticky
+due to high humidity or contact with chemical
+fluids.
+a. Potting compounds meeting Specification MIL-S-8516 are prepared in ready-touse tube-type dispensers and in the unmixed
+state, consisting of the base compound and an
+accelerator packed in paired containers. To
+obtain the proper results, it is important that
+the manufacturer’s instructions be closely followed.
+b. Potting compounds normally cure at
+°F °F.
+temperatures of 70 to 76 If the mixed
+compound is not used at once, the working pot
+life (normally 90 minutes) can be prolonged by
+°F
+storing in a deep freeze at -20 for a maximum of 36 hours. The time factor starts from
+the instant the accelerator is added to the base
+compound and includes the time expended
+during the mixing and application processes.
+c. Mixed compounds that are not to be
+used immediately should be cooled and thawed
+quickly to avoid wasting the short working
+life. Chilled compounds should be thawed by
+blowing compressed air over the outside of the
+container. Normally the compound will be
+ready for use in 5 to 10 minutes.
+CAUTION: Do not use heat or blow
+compressed air into the container
+when restoring the compound to the
+working temperature.

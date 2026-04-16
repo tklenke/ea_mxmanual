@@ -1,0 +1,152 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 1: MATERIALS AND PRACTICES
+
+1-2. WOODS.
+a. Quality of Wood. All wood and plywood used in the repair of aircraft structures
+should be of aircraft quality (reference Army
+Navy Commerce Department Bulletin
+ANC-19, Wood Aircraft Inspection and Fabrication). Table 1-1 lists some permissible
+variations in characteristics and properties of
+aircraft wood. However, selection and approval of woodstock for aircraft structural use
+are specialized skills and should be done by
+personnel who are thoroughly familiar with inspection criteria and methods.
+[FIG 1-1] Relative shrinkage of wood members due to
+b. Substitution of Original Wood. The
+wood species used to repair a part should be
+the same as that of the original whenever possible; however, some permissible substitutes
+are given in table 1-1. Obtain approval from
+the airframe manufacturer or the Federal
+Aviation Administration (FAA) for the replacement of modified woods or other nonwood products with a substitute material.
+c. Effects of Shrinkage. When the
+moisture content of a wooden part is lowered,
+the part shrinks. Since the shrinkage is not
+equal in all directions, the mechanic should
+consider the effect that the repair may have on
+the completed structure. The shrinkage is
+greatest in a tangential direction (across the fibers and parallel to the growth rings), somewhat less in a radial direction (across the fibers
+and perpendicular to the growth rings), and is
+negligible in a longitudinal direction (parallel
+to the fibers). Figure 1-1 illustrates the different grain directions and the effects of shrinkage on the shape of a part. These dimensional
+changes can have several detrimental effects
+upon a wood structure, such as loosening of
+drying.
+[TABLE 1-1] Selection and Properties of Aircraft Wood. (See
+Maximum
+Species of Wood Strength proper- permissible
+ties as compared grain deviation
+to spruce (slope of grain)
+1. 2. 3.
+Spruce(Picea) Sitka (P.
+Sitchensis) Red (P. Rubra) 100% 1:15
+White (P. Glauca).
+Douglas Fir Exceeds spruce. 1:15
+(Pseudotsuga Taxifolia).
+Slightly exceeds Satisfactory characteristics with respect to workNoble Fir spruce except 1:15
+(Abies Nobiles). 8% deficient in
+shear. shear does not become critical. Hardness someSlightly exceeds Less uniform in texture than spruce. May be used
+Western Hemlock spruce. 1:15
+(Tsuga Heterpphylla).
+Properties be- Excellent working qualities and uniform in properPine, Northern White (Pinus tween 85 % and
+Strobus). 96 % those of 1:15
+spruce. for spruce without increase in sizes to compensate
+White Cedar, Port Orford Exceeds spruce. 1:15
+(Charaecyparis Lawsoniana).
+Poplar, Yellow (Liriodendrow Slightly less than
+Tulipifera). spruce except in 1:15
+compression counting for slightly reduced strength properties.
+(crushing) and Somewhat low in shock-resisting capacity. Gluing
+shear. satisfactory.
+Notes for Table 1-1
+1. Defects Permitted.
+a. Cross grain. Spiral grain, diagonal grain, or a combination
+not diverge from the longitudinal axis of the material more than
+board is necessary to determine the amount of divergence.
+determining grain direction.
+b. Wavy, curly, and interlocked grain. Acceptable, if local
+spiral and diagonal grain.
+c. Hard knots. Sound, hard knots up to 3/8 inch in maximum
+not projecting portions of I-beams, along the edges of rectangular
+flanges of box beams (except in lowly stressed portions); (2)
+the board or in the flanges of a beam more than specified in
+beam and are not closer than 20 inches to another knot or
+may be proportionately closer). Knots greater than 1/4 inch must
+d. Pin knot clusters. Small clusters are acceptable providing
+e. Pitch pockets. Acceptable in center portion of a beam
+lie in the same growth ring and do not exceed 1-1/2 inches length
+they are not along the projecting portions of I-beams, along
+along the edges of the flanges of box beams.
+f. Mineral streaks. Acceptable, providing careful inspection
+notes following table.)
+Remarks
+4.
+Excellent for all uses. Considered as standard for
+this table.
+May be used as substitute for spruce in same sizes
+or in slightly reduced sizes providing reductions are
+substantiated. Difficult to work with handtools.
+Some tendency to split and splinter during fabrication and considerable more care in manufacture is
+necessary. Large solid pieces should be avoided
+due to inspection difficulties. Gluing satisfactory.
+ability, warping, and splitting. May be used as direct substitute for spruce in same sizes providing
+what less than spruce. Gluing satisfactory.
+as direct substitute for spruce. Upland growth superior to lowland growth. Gluing satisfactory.
+ties, but somewhat low in hardness and shockresisting capacity. Cannot be used as substitute
+for lesser strength. Gluing satisfactory.
+May be used as substitute for spruce in same sizes
+or in slightly reduced sizes providing reductions are
+substantiated. Easy to work with handtools. Gluing difficult, but satisfactory joints can be obtained
+if suitable precautions are taken.
+Excellent working qualities. Should not be used as
+a direct substitute for spruce without carefully acof the two is acceptable providing the grain does
+specified in column 3. A check of all four faces of the
+The direction of free-flowing ink will frequently assist in
+irregularities do not exceed limitations specified for
+diameter are acceptable providing: (1) they are
+or beveled unrouted beams, or along the edges of
+they do not cause grain divergence at the edges of
+column 3; and (3) they are in the center third of the
+other defect (pertains to 3/8 inch knots—smaller knots
+be used with caution.
+they produce only a small effect on grain direction.
+providing they are at least 14 inches apart when they
+by 1/8 inch width by 1/8 inch depth, and providing
+the edges of rectangular or beveled unrouted beams, or
+fails to reveal any decay.
+[TABLE 1-1] Selection and Properties of Aircraft Wood. (See
+2. Defects Not Permitted.
+a. Cross grain. Not acceptable, unless within limitations
+b. Wavy, curly, and interlocked grain. Not acceptable,
+c. Hard knots. Not acceptable, unless within limitations
+d. Pin knot clusters. Not acceptable, if they produce
+e. Spike knots. These are knots running completely
+rings and appear most frequently in quarter-sawed lumber.
+f. Pitch pockets. Not acceptable, unless within limitations
+g. Mineral streaks. Not acceptable, if accompanied
+h. Checks, shakes, and splits. Checks are longitudinal
+Shakes are longitudinal cracks usually between two annual
+induced stress. Reject wood containing these defects.
+i. Compression wood. This defect is very detrimental
+acterized by high specific gravity, has the appearance of
+shows little contrast in color between spring wood and summer
+ject samples to toughness machine test to establish the quality
+sion wood.
+j. Compression failures. This defect is caused from
+ral forces during the growth of the tree, felling trees on rough
+Compression failures are characterized by a buckling of the
+substantially at right angles to the grain, and vary from
+inspection to detect. Reject wood containing obvious failures.
+inspection in the form of microscopic examination or toughness
+k. Decay. Examine all stains and discoloration carefully
+stage of preliminary or advanced decay. All pieces must
+forms of decay.
+fittings and wire bracing and checking or
+splitting of wood members. A few suggestions
+for minimizing these shrinkage effects are:
+(1) Use bushings that are slightly short
+so that when the wood member shrinks the
+bushings do not protrude and the fittings may
+be tightened firmly against the member.
+(2) Gradually drop off plywood faceplates by feathering as shown in figure 1-2.
+(3) Thoroughly seal all wood surfaces,
+particularly end grain and bolt holes, with varnish, epoxy, or other acceptable sealer to slow
+or prevent moisture changes in the member.
+(See Section 5. Finishing Wood Structures.)

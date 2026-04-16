@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 5: AVIONICS TEST EQUIPMENT
+
+12-71 TEST EQUIPMENT CALIBRATION STANDARDS.
+a. The test equipment calibration standards must be derived from and traceable to
+one of the following:
+(1) The National Institute of Standards
+and Technology.
+(2) Standards established by the test
+equipment manufacturer.
+(3) If foreign-manufactured test equipment, the standards of the country, where it
+was manufactured, if approved by the Administrator.
+b. The technician must make sure that the
+test equipment used for such maintenance is
+the equipment called for by the manufacturer
+or equivalent.
+(1) Before acceptance, a comparison
+should be made between the specifications of
+the test equipment recommended by the manufacturer and those proposed by the repair facility.
+(2) The test equipment must be capable
+of performing all normal tests and checking all
+parameters of the equipment under test. The
+level of accuracy should be equal to or better
+than that recommended by the manufacturer.
+(3) For a description of avionics test
+equipment used for troubleshooting, refer to
+the equipment or aircraft manufacturing instruction manual.

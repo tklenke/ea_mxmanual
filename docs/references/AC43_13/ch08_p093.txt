@@ -1,0 +1,72 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 5: INSPECTION OF PROPELLERS
+
+8-93. METAL PROPELLERS AND
+BLADES. These propellers and blades are
+generally susceptible to fatigue failure resulting from the concentration of stresses at the
+bottoms of sharp nicks, cuts, and scratches. It
+is necessary, therefore, to frequently and carefully inspect them for such injuries. Propeller
+manufacturers publish SB’s and instructions
+which prescribe the manner in which these inspections are to be accomplished. Additional
+information is also available in AC 20-37D,
+Aircraft Metal Propeller Maintenance.
+a. Steel Blade Inspection. The inspection
+of steel blades may be accomplished by either
+visual, fluorescent penetrant (see chapter 5), or
+magnetic particle inspection. The visual inspection is easier if the steel blades are covered
+with engine oil or rust-preventive compound.
+The full length of the leading edge, especially
+near the tip, the full length of the trailing edge,
+the grooves and shoulders on the shank, and all
+dents and scars should be examined with a
+magnifying glass to decide whether defects are
+scratches or cracks.
+b. Aluminum Propellers and Blades.
+Carefully inspect aluminum propellers and
+blades for cracks and other flaws. A transverse crack or flaw of any size is cause for rejection. Multiple deep nicks and gouges on the
+leading edge and face of the blade is cause for
+rejection. Use dye penetrant or fluorescent dye
+penetrant to confirm suspected cracks found in
+the propeller. Refer any unusual condition or
+appearance revealed by these inspections to the
+manufacturer.
+c. Limitations.
+(1) Corrosion may be present on propeller blades in varying amounts. Before performing any inspection process, maintenance
+personnel must examine the specific type and
+extent of the corrosion. (See chapter 6, and/or
+refer to AC 43-4A, Corrosion Control For Aircraft.)
+(2) Corrosion, other than small areas
+(6 square inches or less) of light surface type
+corrosion, may require propeller removal and
+reconditioning by a qualified propeller repair
+facility. When intergranular corrosion is present, the repair can be properly accomplished
+only by an appropriately certificated propeller
+repair facility. Corrosion pitting under propeller blade decals should be removed as described in the propeller manufacturer’s SB’s
+and applicable airworthiness directives (AD).
+(3) Unauthorized straightening of blade,
+following a ground strike or other damage, can
+create conditions that lead to immediate blade
+failure. These unapproved major repairs may
+sometimes be detected by careful inspection of
+the leading edges and the flat face portion of
+the blade. Any deviation of the flat portion,
+such as bows or kinks, may indicate
+unauthorized straightening of the blade.
+Sighting along the leading edge of a propeller
+blade for any signs of bending can provide
+evidence of unapproved blade straightening.
+Blades should be examined for any discoloration that would indicate unauthorized heating.
+Blades that have been heated for any repair
+must be rejected, since only cold straightening
+is authorized. All blades showing evidence of
+unapproved repairs should be rejected. When
+bent propellers are shipped to an approved repair facility for inspection and repair, the propeller should never be straightened by field
+service personnel to facilitate shipping, because this procedure can conceal damage.
+Propeller tip damage will sometimes lead
+maintenance personnel to consider removing
+damaged material from the blade tips. However, propellers are often manufactured with a
+particular diameter to minimize vibration.
+Unless the TCDS and both the engine and propeller manufacturers specifically permit shortening of the blades on a particular propeller,
+any shortening of the blades would probably
+create an unairworthy condition. When conditions warrant, inspect the blade tips for evidence of shortening and, if necessary, measure
+the propeller diameter to determine if it has
+been changed by an unauthorized repair.

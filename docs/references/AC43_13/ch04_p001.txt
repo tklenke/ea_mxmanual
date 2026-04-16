@@ -1,0 +1,39 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 1: IDENTIFICATION OF METALS
+
+4-1. GENERAL. Proper identification of
+the aircraft structural material is the first step
+in ensuring that the continuing airworthiness
+of the aircraft will not be degraded by making
+an improper repair using the wrong materials.
+a. Ferrous (iron) alloy materials are
+generally classified according to carbon content. (See table 4-1.)
+[TABLE 4-1] Ferrous (iron) alloy materials.
+MATERIALS CARBON CONTENT
+Wrought iron Trace to 0.08%
+Low carbon steel 0.08% to 0.30%
+Medium carbon steel 0.30% to 0.60%
+High carbon steel 0.60% to 2.2%
+Cast iron 2.3% to 4.5%
+b. The strength and ductility, or toughness of steel, is controlled by the kind and
+quantity of alloys used and also by
+cold-working or heat-treating processes used
+in manufacturing. In general, any process that
+increases the strength of a material will also
+decrease its ductility.
+c. Normalizing is heating steel to approximately 150 °F to 225 °F above the steel’s
+critical temperature range, followed by cooling
+to below that range in still air at ordinary temperature. Normalizing may be classified as a
+form of annealing. This process also removes
+stresses due to machining, forging, bending,
+and welding. After the metal has been held at
+this temperature for a sufficient time to be
+heated uniformly throughout, remove the metal
+from the furnace and cool in still air. Avoid
+prolonging the soaking of the metal at
+WELDING, AND BRAZING
+high temperatures, as this practice will cause
+the grain structure to enlarge. The length of
+time required for the soaking temperature depends on the mass of the metal being treated.
+The soaking time is roughly ¼ hour per inch of
+the diameter of thickness (Ref: Military Tech
+Order (T.O.) 1-1A-9).

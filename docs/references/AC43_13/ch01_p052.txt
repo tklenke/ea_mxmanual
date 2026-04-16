@@ -1,0 +1,77 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-52. FABRIC PATCH. Small holes not
+exceeding 1 inch in diameter, after being
+trimmed to a smooth outline, may be repaired
+by doping a fabric patch on the outside of the
+plywood skin. The edges of the trimmed hole
+should first be sealed, and the fabric patch
+should overlap the plywood skin by at least
+1 inch. Holes nearer than 1 inch to any frame
+member, or in the leading edge or frontal area
+of the fuselage, should not be repaired with
+fabric patches.
+[FIG 1-17] Oval plug patch assembly.
+DIMENSIONS
+A B C
+SMALL CIRCULAR PLUG PATCH 2
+5/8 3/8
+LARGE CIRCULAR PLUG PATCH 3
+7/8 1/8
+(TWO ROWS OF SCREWS AND NAILS REQUIRED
+FOR LARGE PATCH)
+[FIG 1-18] Round plug patch assembly.
+1-53.1-63.
+[RESERVED.]
+2 1
+3 2
+[TABLE 1-2] Minimum recommended bend radii for aircraft
+10 PERCENT MOISTURE THOROUGHLY SOAKED IN HOT
+CONTENT, BENT ON COLD WATER AND BENT ON COLD
+MANDRELS MANDRELS
+90� 0� 45� 90� 0�0R 45°
+AT TO AT OR AT TO AT
+FACE GRAIN TO FACE FACE GRAIN TO FACE
+PLYWOOD
+CHARACTERISTICS
+THICKNESS NUMBER
+MINIMUM BEND RADIUS (INCHES)
+(INCHES) OF PLIES
+.035 3 2.0
+.070 3 5.2
+.100 3 8.6
+.125 3 12
+.155 3 16
+.185 3 20
+.160 5 17
+.190 5 21
+.225 5 27
+.250 5 31
+.315 5 43
+.375 5 54
+1-52. FABRIC PATCH. Small holes not
+exceeding 1 inch in diameter, after being
+trimmed to a smooth outline, may be repaired
+by doping a fabric patch on the outside of the
+plywood skin. The edges of the trimmed hole
+should first be sealed, and the fabric patch
+should overlap the plywood skin by at least
+1 inch. Holes nearer than 1 inch to any frame
+member, or in the leading edge or frontal area
+of the fuselage, should not be repaired with
+fabric patches.
+[FIG 1-17] Oval plug patch assembly.
+DIMENSIONS
+A B C
+SMALL CIRCULAR PLUG PATCH 2
+5/8 3/8
+LARGE CIRCULAR PLUG PATCH 3
+7/8 1/8
+(TWO ROWS OF SCREWS AND NAILS REQUIRED
+FOR LARGE PATCH)
+[FIG 1-18] Round plug patch assembly.
+1-53.1-63.
+[RESERVED.]
+2 1
+3 2
+SECTION 5. FINISHING WOOD STRUCTURES

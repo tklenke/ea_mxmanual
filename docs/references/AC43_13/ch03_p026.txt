@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 3: FIBERGLASS AND PLASTICS  Section 3: TRANSPARENT PLASTICS
+
+3-26. REPLACEMENT PANELS. Use
+material equivalent to that originally used by
+the manufacturer of the aircraft for replacement panels. There are many types of transparent plastics on the market. Their properties
+vary greatly, particularly in regard to expansion characteristics, brittleness under low
+temperatures, resistance to discoloration when
+exposed to sunlight, surface checking, etc. Information on these properties is in
+MIL-HDBK-17A, Plastics for Flight Vehicles,
+IITransparent
+Part Glazing Materials, available from the Government Printing Office
+(GPO). These properties are considered by
+aircraft manufacturers in selecting materials to
+be used in their designs and the use of substitutes having different characteristics may result
+in subsequent difficulties.

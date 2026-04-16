@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-212. INK JET MARKING. This is a
+“non-impact” marking method wherein ink
+droplets are electrically charged and then directed onto the moving wire to form the characters. Two basic ink types are available:
+thermal cure and UV cure.
+a. Thermal cure inks must generally be
+heated in an oven for a length of time after
+marking to obtain their durability. UV cure
+inks are cured in line much like dot matrix.
+b. Ink jet marks the wire on the fly and
+makes a reasonably durable and legible mark
+without damaging the insulation. Ink jets
+normally mark wire from 0.030 to 0.25-inch
+outside diameter. Multiconductor cable can
+also be marked.

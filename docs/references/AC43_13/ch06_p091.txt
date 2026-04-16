@@ -1,0 +1,43 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 6: CORROSION REMOVAL PROCEDURES
+
+6-91. CORROSION CONTROL WORK
+PROCEDURES. The effectiveness of corrosion control depends on how well basic work
+procedures are followed. The following common work practices are recommended:
+a. If rework procedures or materials are
+unknown, contact the aircraft manufacturer or
+FAA authorized Designated Engineering Representative (DER) before proceeding.
+b. The work areas, equipment, and components should be clean and free of chips, grit,
+dirt, and foreign materials.
+c. Do not mark on any metal surface with
+a graphite pencil or any type of sharp, pointed
+instrument. Temporary markings (defined as
+markings soluble in water or methyl chloroform) should be used for metal layout work or
+marking on the aircraft to indicate corroded areas.
+d. Graphite should not be used as a lubricant for any component. Graphite is cathodic to all structural metals and will generate
+galvanic corrosion in the presence of moisture,
+especially if the graphite is applied in dry
+form.
+e. Footwear and clothing should be inspected for metal chips, slivers, rivet cuttings,
+dirt, sand, etc., and all such material removed
+before walking or working on metal surfaces
+such as wings, stabilizers, fuel tanks, etc.
+f. Do not abrade or scratch any surface
+unless it is an authorized procedure. If surfaces are accidentally scratched, the damage
+should be assessed and action taken to remove
+the scratch and treat the area.
+g. Coated metal surfaces should not be
+polished for aesthetic purposes. Buffing
+would remove the protective coating and a
+brightly polished surface is normally not as
+corrosion resistant as a non-polished surface
+unless it is protected by wax or paint.
+h. Protect surrounding areas when
+welding, grinding, or drilling, to prevent contamination with residue from these operations.
+In those areas where protective covering cannot be used, remove the residue by cleaning.
+i. Severely corroded screws, bolts, and
+washers should be replaced. When a protective coating, such as a cadmium plating on
+bolts, or screws, is damaged, immediately apply an appropriate protective finish to prevent
+additional corrosion damage.
+6-92.6-112.
+[RESERVED.]
+SECTION 7. BASIC CORROSION

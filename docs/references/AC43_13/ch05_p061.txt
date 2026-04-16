@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 5: PENETRANT INSPECTION
+
+5-61. EQUIPMENT USED IN THE
+PENETRANT INSPECTION PROCESS.
+Equipment varies from simple aerosol cans
+used in portable systems to fully automated
+computer-controlled systems. Whether fluorescent or visible penetrants are used, different
+penetrant bases are available but may require
+different cleaning methods. Water-washable
+penetrants can often be removed by a simple
+water washing process, whereas oil-base
+penetrants may require special solvents for removal. Some oil-base penetrants have emulsifiers, either added to the penetrant before it is
+applied or added afterwards, that allow water
+washing to be used. Developers used, can be
+applied either by a wet or dry bath. Therefore,
+each penetrant inspection process may require
+different cleaning facilities and procedures.
+(See table 5-3.)

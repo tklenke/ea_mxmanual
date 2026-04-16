@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-126. FLAMMABLE FLUIDS AND
+GASES. An arcing fault between an electrical
+wire and a metallic flammable fluid line may
+puncture the line and result in a fire. Every effort must be made to avoid this hazard by
+physical separation of the wire from lines and
+equipment containing oxygen, oil, fuel, hydraulic fluid, or alcohol. Wiring must be
+routed above these lines and equipment with a
+minimum separation of 6 inches or more
+whenever possible. When such an arrangement is not practicable, wiring must be routed
+so that it does not run parallel to the fluid
+lines. A minimum of 2 inches must be maintained between wiring and such lines and
+equipment, except when the wiring is positively clamped to maintain at least 1/2-inch
+separation, or when it must be connected
+directly to the fluid-carrying equipment. Install clamps as shown in figure 11-10. These
+clamps should not be used as a means of supporting the wire bundle. Additional clamps
+should be installed to support the wire bundle
+and the clamps fastened to the same structure
+used to support the fluid line(s) to prevent
+relative motion.
+[FIG 11-10] Separation of wires from plumbing lines.
+11-127.11-134.
+[RESERVED.]
+SECTION 10. SERVICE LOOP

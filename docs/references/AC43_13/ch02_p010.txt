@@ -1,0 +1,119 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-10. LACING.
+a. Fabric should be attached to aircraft
+components to prevent ballooning due to
+aerodynamic forces, in the identical manner
+and locations as used by the original aircraft
+manufacturer. Any deviation from the original
+method(s) of attachment, such as screws, rivets, wire clips, lacing cord, etc., are considered
+a major alteration and in conflict with the aircraft type design data. Obtain FAA approval
+on any deviation.
+NOTE: When the type of rib lace
+knot used by the original aircraft
+manufacturer is not known, the modified seine knot shown in figure 2-4
+through figure 2-9c will be used.
+[FIG 2-4] Standard external modified seine knot used
+for single and double rib lacing.
+b. During the installation of lacing cord
+through a wing or any other component, special attention should be given to avoid interference with the routing of any control cable,
+bellcrank, or any other movable item. To prevent chafing and cutting of the lacing cord,
+control cables or any other movable items
+should be tensioned or positioned to their
+normal alignment before rib lacing and
+checked afterwards to ensure adequate clearance. When a lace cord will be chafed by a
+moving component, a blindstitch may be made
+around the top and bottom rib caps as illustrated in figure 2-11.
+c. Stationary structures interfering with
+needle routing may be circumvented by aligning the needle forward or aft adjacent to the rib
+cap. Pull the needle through the wing and then
+return through the same hole and exit at the
+desired adjacent location.
+NOTE: The first lace on a wing rib
+should be spaced from the leading
+edge fairing no more than 1/2 the required lace spacing for the balance of
+the rib.
+d. Both surfaces of fabric covering on
+wings and control surfaces must be securely
+fastened to the ribs by lacing cord or any other
+method originally approved for the aircraft.
+Care must be taken to insure that all sharp
+edges against which the lacing cord may bear
+are protected by tape in order to prevent abrasion of the cord. Separate lengths of lacing
+cord may be joined by the splice knot shown in
+figure 2-10 or tied off. The first loop is tied
+with a square knot as illustrated in figure 2-5
+and figure 2-9a, and the knot secured with a
+half hitch on each side after the lacing is pulled
+tight around the rib. The needle is then routed
+through the wing and around the rib cap at the
+[FIG 2-5] Starting stitch for rib lacing.
+[FIG 2-6] Standard single-loop lacing.
+[FIG 2-7] Standard knot for double-loop lacing.
+[FIG 2-8] Standard double-loop lacing (optional).
+FIGURE 2-9a. Alternate sequence to tie a modified seine knot
+for rib lacing.
+FIGURE 2-9b. Alternate sequence to tie a modified seine
+knot for rib lacing.
+Step 9. Pull cord section “D” perpendicular to the fabric surface to remove all slack in the cord back to the last
+rib lacing knot while working the loose knot to the
+right side. Do not pull cord section “E.”
+FIGURE 2-9c. Alternate sequence to tie a modified seine knot for
+Step 10. After all slack is removed by pulling cord section “D,”
+switch hands and place a thumbnail on the loose
+knot formed on the right-hand side, then secure the
+knot by pulling firmly perpendicular to the fabric
+surface on cord section “E.”
+Step 11. After completing all lacing in the same sequence,
+the end is secured with a half hitch after the modified seine knot. The knot is pulled to the inside by
+routing the needle thru the wing before cutting the
+cord to leave the end inside.
+rib lacing.
+next rib lace location with the cord and knot
+remaining on top of the fabric surface as illustrated in figure 2-5, figure 2-6, and figure 2-8.
+An alternate method is to route the needle under the fabric and out through the next lace location, then back down through the wing as
+illustrated in figure 2-9a through figure 2-9c.
+A modified seine knot is then tied as illustrated
+in figure 2-4 through figure 2-9c.
+(1) Rotate each lace loop to place the
+knot at the side of the rib cap to reduce the
+protrusion and aerodynamic interference before moving to the next lace location, or the
+cord routed under the fabric to the next lace
+location as illustrated in figure 2-9a through
+figure 2-9c. The end cord is then cut off leaving a minimum of 1/4 inch stub. Lacing tension should be uniform.
+(2) Repeated pulling of long lengths of
+lacing cord may remove wax coating from the
+cord and cause fraying. Convenient lengths of
+rib lacing cord may be used to lace long or
+thick ribs. The end of each length is tied off
+with a half hitch as illustrated in figure 2-9c, or
+if needed, separate lengths of lacing cord may
+be joined by using the splice knot illustrated in
+figure 2-10.
+(3) Lacing is installed through other
+components, where applicable, in the same
+manner as a wing. Single, wide space lace attachments, usually used on empennage surfaces, are tied with a square knot and half hitch
+on each side, the same as a starting wing rib
+lace illustrated in figure 2-9a, steps 1 and 2.
+The lace may be rotated to place the knot under the fabric before cutting the cord.
+e. Blind lacing on a fuselage, wing rib
+caps above and below a fuel tank, and any
+other component, when used by the original
+aircraft manufacturer, should be reinstalled in
+the same location and spacing as installed by
+the original aircraft manufacturer. The lace
+cord is routed around the stringer, rib cap, or
+other structure using an appropriate length,
+single or double pointed, curved needle as illustrated in figure 2-11. Blind laces are tied
+with a square knot, then pulled tight and secured with a half hitch at each side. The lace
+may be rotated to place the knot under the fabric surface before cutting the cord.
+The splice knot is made by crossing the
+ends of the cord, and making four complete
+wraps with the small end of the free piece around
+the end of the standing piece. The end is then
+doubled back through the formed loop. The
+other free end is wrapped and doubled back.
+The long ends of the cords are then pulled until
+the knot is tight. The short ends are cut close to
+the knot. This finishes the splice knot.
+[FIG 2-10] Splice knot.

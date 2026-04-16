@@ -1,0 +1,21 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-83. WELDING RODS AND ELECTRODES Use welding rods and electrodes
+that are compatible with the materials to be
+welded. Welding rods and electrodes for various applications have special properties suitable for the application intended.
+Lap welds are used in shear applications. The
+weld throat of the fillet weld is considered the
+plane 45 degrees to the surface plane of the
+sheet being welded and is equal to 0.707 times
+the thickness of the sheet stock. (See figure 4-27.)
+P = 0.707xtx1xFwsu
+WS
+where: P = the allowable tensile
+WS
+strength of the joint.
+t = the thickness of the sheet
+stock (the throat of the
+weld joint. treatment for their original physical properties
+l = the length of the weld joint.
+Fwsu= the shear strength of the
+filled rod material. original members. (See paragraph 4-74.) AfFIGURE 4-27. Lap Weld Strength Calculation

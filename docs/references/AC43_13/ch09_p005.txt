@@ -1,0 +1,43 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-5. INSPECTION OF RETRACTABLE
+LANDING GEAR. Inspection of the retractable landing gear should include all applicable
+items mentioned in the inspection for the fixed
+gear. In addition, the actuating mechanisms
+must be inspected for wear looseness in any
+joint, trunnion, or bearing; leakage of fluid
+from any hydraulic line or unit; and, smoothness of operation. The operational check is
+performed by jacking the aircraft according to
+the manufacturer’s instructions and then operating the gear retracting and extending system.
+a. During the operational test, the
+smoothness of operation, effectiveness of upand-down locks, operation of the warning
+horn, operation of indicating systems, clearance of tires in wheel wells, and operation of
+landing-gear doors should be checked. Improper adjustment of sequence valves may
+cause doors to rub against gear structures or
+wheels. The manufacturer’s checklist should
+be followed to ensure that critical items are
+checked. While the aircraft is still on jacks,
+the gear can be tested for looseness of mounting points, play in torque links, condition of
+the inner strut cylinder, play in wheel bearings,
+and play in actuating linkages. Emergency
+blow down gear bottles should be inspected for
+damage and corrosion and weighed to see if
+the bottle is still retaining the charge.
+b. Mechanics should be aware that retread tires can be dimensionally bigger than a
+“new” tire. While this does not pose a problem on fixed landing gear aircraft, it may present a serious problem when installed on retractable landing gear aircraft. It is strongly
+recommended that if a retread tire is installed
+on a retractable landing gear aircraft, a retraction test be performed. With the gear in the
+up-and-lock position, the mechanic should
+determine that if the tire expands due to high
+ambient temperature, heat generated from taxi
+and take-off, repeated landings, or heavy
+braking, the tire will not expand to the point
+that it becomes wedged in the wheel well.
+c. The proper operation of the antiretraction system should be checked in accordance with the manufacturer’s instructions.
+Where safety switches are actuated by the
+torque links, the actual time of switch closing
+or opening can be checked by removing all air
+from the strut and then collapsing the strut. In
+every case, the adjustment should be such that
+the gear control cannot be placed in the UP position or that the system cannot operate until
+the shock strut is at the full extended position.

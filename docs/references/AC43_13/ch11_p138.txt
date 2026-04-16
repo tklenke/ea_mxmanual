@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 10: SERVICE LOOP HARNESSES (PLASTIC TIE STRIPS)
+
+11-138. STRAIN RELIEF. The strain relief components may be installed to control
+routing where close clearance exists between
+termination and other components or bulkheads. Strain relief components provide support of the service loop harness at the termination point. Connector strain relief adapters,
+HARNESSES (Plastic Tie Strips)
+heat-shrinkable boot, or a length of heatshrinkable tubing should be installed. The
+heat-shrinkable boots will provide preselected
+angles of wire harness termination when heat
+is applied. Heat-shrinkable tubing should be
+held at the desired angle until cool.

@@ -1,0 +1,176 @@
+AC 43.13-1B  Chapter 3: FIBERGLASS AND PLASTICS  Section 3: TRANSPARENT PLASTICS
+
+3-23. FORMING METHODS. (See table 3-1.)
+a. Simple Curve Forming. Heat the
+plastic material to the recommended temperature, remove it from the heat source, and carefully drape it over the prepared form. Carefully press the hot plastic to the form and either hold or clamp the sheet in place until it
+cools. This process may take from ten minutes
+to one-half hour. Do not force-cool it.
+b. Compound-Curve Forming. This
+type of forming is normally used for such parts
+as canopies or complex wingtip light covers,
+and it requires a great deal of specialized
+equipment. There are four commonly used
+methods, each having its advantages and disadvantages.
+c. Stretch Forming. Preheated acrylic
+sheets are stretched mechanically over the
+form in much the same way as is done with the
+simple curved piece. Special care must be
+taken to preserve uniform thickness of the
+material, since some parts will have to stretch
+more than others.
+[TABLE 3-1] Typical temperatures for forming acrylic sheets.
+Thickness of sheet (in.) 0.125
+Type of forming Regular acrylic
+MIL-P-6886 MIL-P-8184
+°C °F °C °F °C °F °C °F
+Simple curve 113 235
+Stretch forming
+(dry mold cover) 140 284
+Male and female forming 140 284
+Vacuum forming without
+form 140 284
+Vacuum forming with
+female form 145 293
+d. Male And Female Die Forming. This
+requires expensive matching male and female
+dies. The heated plastic sheet is placed between the dies which are then mated. When
+the plastic cools, the dies are opened.
+e. Vacuum-Forming Without Forms.
+Many aircraft canopies are formed by this
+method. In this process a clamp with an
+opening of the desired shape is placed over a
+vacuum box and the heated sheet of plastic is
+clamped in place. When the air in the box is
+evacuated, the outside air pressure will force
+the hot plastic through the opening and form
+the concave canopy. It is the surface tension of
+the plastic that shapes the canopy.
+f. Vacuum-Forming With A Female
+Form. If the shape needed is other than that
+which would be formed by surface tension, a
+female mold, or form must be used. It is
+placed below the plastic sheet and the vacuum
+pump is connected. When air from the form is
+evacuated, the outside air pressure will force
+the hot plastic sheet into the mold and fill it.
+g. Sawing And Drilling.
+(1) Several types of saws can be used
+with transparent plastics, however circular
+saws are the best for straight cuts. The blades
+0.250 0.125 0.250
+Heat-resistant acrylic plastic,
+plastic. MIL-P-5425, and craze-resistant acrylic plastic,
+110 230 135 275 135 275
+135 275 160 320 150 302
+135 275 180 356 170 338
+135 275 150 302 145 293
+140 284 180 356 170 338
+should be hollow-ground or have some set to
+prevent binding. After the teeth are set, they
+should be side-dressed to produce a smooth
+edge on the cut. Band saws are recommended
+for cutting flat acrylic sheets when the cuts
+must be curved or where the sheet is cut to a
+rough dimension to be trimmed later. Close
+control of size and shape may be obtained by
+band sawing a piece to within 1/16 inch of the
+desired size, as marked by a scribed line on the
+plastic, and then sanding it to the correct size
+with a drum or belt sander.
+(2) Unlike soft metal, acrylic plastic is a
+very poor conductor of heat. Make provisions
+for removing the heat when drilling. Deep
+holes need cooling, and a water-soluble cutting
+oil is a satisfactory coolant since it has no tendency to attack the plastic.
+(a) The drill used on acrylics must be
+carefully ground and free from nicks and burrs
+that would affect the surface finish. Grind the
+drill with a greater included angle than would
+be used for soft metal. The rake angle should
+be zero in order to scrape, not cut. (See figure 3-18.)
+[FIG 3-18] Drill having an included angle of
+150°,
+approximately used to drill acrylic plastics.
+(b) The patented Unibit (see figure 3-19) is good for drilling small holes in
+aircraft windshields and windows. It can cut
+1/2−inch 1/32−inch
+holes from 1/8-to in increments and produces good smooth holes
+with no stress cracks around their edges.
+[FIG 3-19] Unibit drill for drilling acrylic plastics.
+h. Polymerizable Cements. Polymerizable cements are those in which a catalyst is
+added to an already thick monomerpolymer
+syrup to promote rapid hardening. Cement PS-30 and Weld-On 40 are polymerizable cements of this type. They are suitable
+for cementing all types of PLEXIGLAS acrylic
+cast sheet and parts molded from PLEXIGLAS
+molding pellets. At room temperature, the
+cements harden (polymerize) in the container
+in about 45 minutes after mixing the components. They will harden more rapidly at higher
+temperatures. The cement joints are usually
+hard enough for handling within 4 hours after
+assembly. The joints may be machined within
+4 hours after assembly, but it is better to wait
+24 hours.
+(1) PS-30 and Weld-On 40 joints retain
+excellent appearance and color stability after
+outdoor exposure. These cements produce
+clear, transparent joints and should be used
+when the color and appearance of the joints are
+important.
+(2) PS-30 and Weld-On 40 should be
+°F.
+used at temperatures no lower than 65 If
+°F,
+cementing is done in a room cooler than 65
+it will require a longer time to harden and the
+joint strength will be reduced.
+(a) The cement should be prepared
+with the correct proportions of components as
+given in the manufacturer’s instructions and
+thoroughly mixed, making sure neither the
+mixing container nor mixing paddle adds color
+or affects the hardening of the cement.
+Clean glass or polyethylene mixing containers
+are preferred.
+(b) Because of their short pot life
+(approximately 45 minutes) Cement PS-30 and
+Weld-On 40 must be used quickly once the
+components are mixed. Time consumed in
+preparation shortens the effective working
+time, making it necessary to have everything
+ready to be cemented before the cements are
+mixed. For better handling pour cement
+within 20 minutes of mixing.
+(c) For maximum joint strength, the
+final cement joint should be free of bubbles. It
+will usually be sufficient to allow the mixed
+cement to stand for 10 minutes before cementing to allow bubbles to rise to the surface.
+(See figure 3-20.)
+[FIG 3-20] Applying pressure to acrylic plastics.
+(d) The gap joint technique can only
+be used with colorless PLEXIGLAS acrylic or
+in cases in which joints will be hidden. If inconspicuous joints in colored PLEXIGLAS
+acrylic are needed, the parts must be fitted
+closely, using closed V groove, butt, or arc
+joints.
+(3) Cement forms or dams may be made
+with masking tape as long as the adhesive surface does not contact the cement. This
+is easily done with a strip of cellophane tape
+placed over the masking tape adhesive. The
+tape must be chosen carefully. The adhesive
+on ordinary cellophane tape prevents the cure
+of PS-30 and Weld-On 40. Before actual fabrication of parts, sample joints should be tried
+to ensure that the tape system used will not
+harm the cement. Since it is important for all
+of the cement to remain in the gap, only contact pressure should be used.
+(4) Bubbles will tend to float to the top
+of the cement bead in a gap joint after the cement is poured. These cause no problem if the
+bead is machined off. A small wire (not copper), or similar objects may be used to lift
+some bubbles out of the joint; however, the
+cement joint should be disturbed as little as
+possible.
+(5) Polymerizable cements shrink as the
+cement hardens. Therefore, the freshly poured
+cement bead should be left above the surfaces
+being cemented to compensate for the shrinkage. If it is necessary for appearances, the
+bead may be machined off after the cement has
+set.

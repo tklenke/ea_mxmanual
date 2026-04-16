@@ -1,0 +1,228 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-6. PREPARATION OF THE STRUCTURE FOR COVERING. One of the most
+important items when covering aircraft is the
+proper preparation of the structure. Before
+covering, the airframe must be inspected and
+approved by a FAA-certified mechanic or repair station.
+[TABLE 2-1] Cotton and linen fabrics.
+Minimum Minimum Minimum
+Materials Specification Tensile Tearing
+Strength New Strength New Strength Count Per Remarks
+(undoped) (undoped) Deteriorated Inch
+(ASTM D 1424) (undoped)
+Airplane cloth TSO-C15d, as 80 pounds 5 pounds
+mercerized amended, per inch warp
+cotton references warp and fill.
+(Grade “A”). Society
+Automotive of 9 p.s.f. or
+Engineers greater or
+AMS 3806d, placard never
+as amended or
+MIL-C-5646 of 160 m.p.h.
+Airplane cloth TSO-C14b, as 65 pounds 4 pounds
+mercerized amended, per inch warp and
+cotton. references and fill.
+Society
+Automotive
+Engineers
+AMS-3804c,
+as amended.
+Airplane cloth Society 50 pounds per 3 pounds
+mercerized Automotive inch warp and and
+cotton. Engineers fill.
+AMS 3802, as
+amended. the placarded
+Aircraft linen. British 7F1.
+a. Battery Box Treatment. An asphaltic,
+rubber-based acid-proof coating should be applied to the structure in the area of a battery
+box, by brush, for additional protection from
+battery acid. Control cables routed in the area
+of the battery box should be coated with
+paralketone.
+b. Worn Holes. Oversized screw holes or
+worn size 4 self-tapping screw holes through
+ribs and other structures used to attach fabric
+may be redrilled a minimum 1-1/2 hole diameter distance from the original hole location
+Tensile Thread Use and
+For use on all
+56 pounds 80 min., aircraft.
+and fill. per inch. 84 max. Required on
+warp and fill. aircraft with
+wing loading
+exceed speed
+or greater.
+For use on
+warp 46 pounds per 80 min.,
+aircraft with
+fill. inch. 94 max.
+wing loading
+warp and fill.
+less than
+9 p.s.f. and
+never exceed
+speed of less
+than
+160 m.p.h.
+For use on
+warp 35 pounds per 110 max. gliders with
+fill. inch. warp and fill. wing loading
+of 8 p.s.f. or
+less, provided
+never-exceed
+speed is 135
+m.p.h. or less.
+This material
+meets the
+minimum
+strength
+Requirements
+of TSO-C15.
+with a # 44 (0.086) drill bit. Size 6 screws,
+drill bit size # 36 (0.1065), may be installed in
+stripped or worn holes drilled for
+size 4 screws, usually without redrilling. Worn
+holes for wire clips and wire barbs should be
+redrilled a minimum 1-1/2 hole distance from
+the original locations using a drill jig to ensure
+correct spacing, with the appropriate size drill
+bit. Drill bit size # 30 (0.128) may be used to
+redrill oversize holes for 1/8-inch diameter
+blind rivets a minimum 1-1/2 hole diameter
+distance from the original location.
+[TABLE 2-2] Cotton and Linen, Tapes and Threads.
+Minimum Yards Per
+Materials Specification Yarn Size
+Tensile Strength Pound
+Reinforcing MIL-T-566 1 E,
+150 pounds per
+tape, cotton. Type 1
+1/2 inch width.
+MIL-Y-1140H
+Lacing cord,
+Federal T-C-57 40 pounds.
+prewaxed
+1F
+braided cotton.
+Lacing cord,
+MIL-C-5648A 80 pounds.
+braided cotton.
+Lacing cord
+MIL-T-5660B Ticket No. 62 pounds.
+thread, high
+10.
+tenacity cotton.
+Machine Federal V-T20/4 ply 5 pounds. 5,000 nominal. Use for all machine sewing.
+thread cotton 276H
+Hand-Sewing Federal V-T8/4 ply 14 pounds. 1,650 nominal. Use fully waxed thread.
+thread cotton. 276H Type III B
+Finishing
+Same as fabric Same as fabric
+(Surface) tape
+used. used.
+cotton.
+c. Fairing Precautions. Aluminum
+leading edge replacement fairings installed in
+short sections may telescope during normal
+spar bending loads or from thermal expansion
+and contraction. This action may cause a
+wrinkle to form in the fabric, at the edge of the
+lap joint. Leading edge fairing sections may
+be fastened together with rivets or screws to
+prevent telescoping after installation. Trailing
+edges should be adequately secured to prevent
+movement and wrinkles.
+d. Dope Protection. Solvents found in
+nitrate and butyrate dope will penetrate, wrinkle, lift, or dissolve most one-part wood varnishes and one-part metal primers. All wood
+surfaces that come in contact with doped fabric
+should be treated with a protective coating
+such as aluminum foil, cellulose tape, or dopeproof paint to protect them against the action
+of the solvents in the dope. This can also be
+accomplished by recoating with a suitable,
+solvent resistant two-part epoxy varnish, which
+will be impervious to solvent penetration and
+damage after curing. Clad aluminum
+Use and Remarks
+Used as reinforcing tape on fabric and
+under rib lacing cord. Strength of other
+widths approx. in proportion.
+Lacing fabric to structures. Unless
+310 minimum.
+already waxed, must be lightly waxed
+before using.
+Lacing fabric to structures. Unless
+170 minimum.
+already waxed, must be lightly waxed
+before using.
+Lacing fabric to structures. Unless
+480 minimum.
+already waxed, must be lightly waxed
+before using.
+Use for all hand-sewing.
+Use over seams, leading edges, trailing
+edges, outer edges and ribs, pinked,
+raveled or straight edges.
+and stainless steel parts need not be dopeproofed.
+(1) A solvent-sensitive primer on ferrous metal and aluminum alloy components
+which will be in contact with fabric may be
+protected from solvent damage by overcoating
+with a two-part epoxy primer. Epoxy primer
+meeting MIL-P-53022B is acceptable.
+(2) Small metal or wood surfaces, such
+as rib caps, to which fabric will not be dope
+bonded as a part of the particular fabric attachment procedure may be protected from
+dope damage by cellophane tape or aluminum
+foil.
+e. Chafe Protection. Fabric and finishing
+tape is often cut through with sandpaper over
+sharp edges during the coating and finishing
+procedure and later polishing. All sharp metal
+edges or protruding screws, nails, rivets, and
+bolt heads should be covered with an antichafe tape to prevent cutting and wearing
+through the fabric after installation. Use
+appropriate non-bleeding cotton adhesive
+coated tape, finishing tape, or strips of fabric,
+cut from the fabric being used to cover the aircraft, doped in place.
+(1) Small holes cut through the fabric to
+accommodate flying wires, control cables, and
+fittings, must be reinforced with finishing tape
+or fabric patches cut from the same fabric used
+for the covering.
+(2) Areas needing additional chafe protection such as control cables routed firm
+against the fabric surface should be protected
+with patches cut from cotton duck, leather, or
+plastic. These patches may be sewn, doped, or
+cemented in place, as appropriate.
+(3) Any drag and anti-drag wires in the
+wings should be protected from chafing at
+cross points.
+f. Inter-Rib Bracing. Use a woven fabric
+tape of the same quality and width as that used
+for the rib lace reinforcing, where so incorporated in the wing design by the original aircraft
+manufacturer. When the original routing for
+the inter rib bracing is not known, the tape will
+be routed diagonally, alternating between the
+top and bottom of each rib cap on each successive rib, if a single pair, half way between the
+front and rear spars. The number of tape pairs
+will duplicate the original aircraft manufacturer’s installation. Tapes will be routed continuously from the wing butt to the wingtip
+bow, with one turn of tape around each intermediate rib cap strip. Care should be given to
+position the tape so as not to interfere with
+control cables, bellcranks or push-pull rods.
+g. Preparation of Plywood Surfaces for
+Covering. Prior to covering plywood surfaces, prepare the surface by sanding, cleaning,
+and applying sealer and dope. When plywood
+surfaces are to be covered with light weight
+glass fiber deck cloth instead of fabric, no
+sealer or dope should be applied to the plywood as it would inhibit penetration of epoxy
+resin.
+(1) Sand plywood surfaces as needed to
+remove old loose dope or varnish residue to
+provide a clean bonding surface. Remove any
+oil, grease, or other contamination with a suitable solvent such as naphtha. Small, rough areas and irregularities in the plywood surface
+and around any plywood repairs may be filled
+and smoothed with an appropriate commercial
+grade wood filler. Filling large warp depressions on plywood surfaces with a wood filler
+for cosmetic purposes is not acceptable.
+(2) After cleaning and sanding all plywood surfaces, seal the wood grain with a suitable solvent resistant two-part epoxy varnish.
+After the varnish has thoroughly dried, apply
+two brush or spray coats of clear dope, allowing sufficient drying time between coats.

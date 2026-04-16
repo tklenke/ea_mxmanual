@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 4: CABIN INTERIOR
+
+9-60. GENERAL. Only materials that are
+flash-resistant should be used in cabin
+interiors. The requirements related to fire
+protection qualities of cabin interior materials
+are specified in CAR 3.388, fire precautions or
+14 CFR part 23, section 23.853 compartment
+interiors

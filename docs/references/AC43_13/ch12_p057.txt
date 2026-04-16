@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-57. SYSTEM LEAK TEST.
+a. Pitot-static leak tests should be made
+with all instruments connected to assure that
+no leaks occur at instrument connections.
+Such tests should be accomplished whenever a
+connection has been loosened or an instrument
+replaced.
+b. After the conclusion of the leak test,
+return the system to its normal flying configuration. Remove tape from static ports and pitot
+drain holes and replace the drain plug.

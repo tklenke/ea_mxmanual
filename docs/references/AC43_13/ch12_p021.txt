@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-21. EMERGENCY LOCATOR
+TRANS- MITTERS (ELT). The ELT must
+be evaluated in accordance with TSO-C91a,
+TSO-C126 for 406 MHz ELT’s, or later TSO’s
+issued for ELT’s. ELT installations must be
+examined for potential operational problems at
+least once a year (section 91.207(d)). There
+have been numerous instances of interaction
+between ELT and other VHF installations.
+Antenna location should be as far as possible
+from other antennas to prevent efficiency
+losses. Check ELT antenna installations in
+close proximity to other VHF antennas for
+suspected interference. Antenna patterns of
+previously installed VHF antennas could be
+measured after an ELT installation. Tests
+should be conducted during the first 5 minutes
+after any hour. If operational tests must be
+made outside of this time frame, they should
+be coordinated with the nearest FAA Control
+Tower or FSS. Tests should be no longer than
+three audible sweeps.

@@ -1,0 +1,29 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 2: FUEL SYSTEMS
+
+8-33. FUEL TANK CAPS, VENTS, AND
+OVERFLOW LINES. Inspect the fuel tank
+caps to determine they are the correct type and
+size for the installation, and that “O” rings are
+in good condition.
+a. Unvented caps, substituted for vented
+caps, will cause fuel starvation and possible
+collapse of the fuel tank or cell. Malfunctioning of this type occurs when the pressure
+within the tank decreases as the fuel is withdrawn. Eventually, a point is reached where
+the fuel will no longer flow, and/or the outside
+atmospheric pressure collapses the tank. Thus,
+the effects will occur sooner with a full fuel
+tank than with one partially filled.
+b. Check tank vents and overflow lines
+thoroughly for condition, obstructions, correct
+installation, and proper operation of any check
+valves and ice protection units. Pay particular
+attention to the location of the tank vents when
+such information is provided in the manufacturer’s service instructions. Inspect for
+cracked or deteriorated filler opening recess
+drains, which may allow spilled fuel to accumulate within the wing or fuselage. One
+method of inspection is to plug the fuel line at
+the outlet and observe fuel placed in the filler
+opening recess. If drainage takes place, investigate condition of the line and purge any excess fuel from the wing.
+c. Assure that filler opening markings
+are affixed to, or near, the filler opening;
+marked according to the applicable airworthiness requirements; and are complete and legible.

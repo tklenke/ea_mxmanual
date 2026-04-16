@@ -1,0 +1,72 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-44. SPAR LONGITUDINAL CRACKS
+AND LOCAL DAMAGE. Cracked spars
+(except box spars) may be repaired by bonding
+plates of spruce or plywood of sufficient
+thickness to develop the longitudinal shear on
+both sides of the spar. Extend the plates well
+beyond the termination of the cracks, as shown
+in figure 1-10. A method of repairing small
+local damage to either the top or bottom side
+of a spar is also shown in figure 1-10.
+a. Longitudinal Cracking of Wood
+Wing Spars of Aircraft Operating in Arid
+Regions. Aircraft having wood spars and operating in arid regions may develop longitudinal spar cracks in the vicinity of the plywood
+reinforcement plates. These cracks result from
+the tendency of the spar to shrink when drying
+takes place. Plywood resists this tendency to
+Reinforcement plates to be spruce or
+with the ends feathered off at 5:1
+Solid spars may be replaced with
+provided the material is of the same high quality.
+[FIG 1-5] Method of splicing solid or laminated rectangular
+shrink and causes the basic spar stock to split
+(see paragraph 1-2c). Cracks start under the
+plywood plates, usually (but not necessarily) at
+a bolt hole or cutout, and usually spread in
+each direction until they extend a short distance beyond the ends of the plates where the
+resistance to spar shrinkage disappears.
+Cracks have also been found in the butt end of
+spars. Other factors, which have been found
+conducive to the formation of cracks are poor
+protective finishes, large cutouts, and metal
+fittings that utilize two lines of large diameter
+bolts.
+b. Repairing Cracks Versus Installing a
+New Spar. The presence of cracks does not
+necessarily mean that the spar must be discarded. If the crack is not too long or too close
+to either edge and can be reinforced properly,
+it will probably be more economical and
+plywood and should be bonded only,
+slope as depicted in Figure 1-2.
+laminated spars or vice versa,
+spars.
+satisfactory to perform repair rather than install
+a new spar or section. However, a generally
+acceptable procedure suitable for all airplane
+models is not available. Because of the possibility of strength deficiencies contact the
+manufacturer. In absence of the manufacturer,
+the FAA should be contacted for approval before making repairs not in accordance with the
+manufacturer-approved instructions or the recommendations of this advisory circular. Longitudinal cracking or the recurrence of cracking can be minimized by ensuring that the
+moisture content of the solid wood portion is
+within the proper range before bonding. In
+arid desert areas, during bonding the moisture
+content should be in the range of 6-8 percent
+before bonding, but in other areas
+10-12 percent is satisfactory. If solid or plywood repair stock is procured from another
+climatic region, it should be allowed to season,
+If splice is made where routing is feathered
+plates (conforming to the contour of the routing)
+otherwise, the splice is the same as shown.
+Reinforcement plates may be of plywood,
+spar, or material of equal or higher
+only with ends feathered out with a
+[FIG 1-6] Method of splicing solid “I” spars.
+in the same storage area as the part to be repaired, for no less than 2 weeks.
+c. Preventing Cracks. An important step
+in the prevention of longitudinal cracking,
+particularly in spar butts, is to ensure that the
+wood is thoroughly sealed with a penetrating
+and highly moisture-resistant finish. Application of a thin, slow-curing epoxy adhesive or
+sealer can be very effective in slowing or preventing moisture changes in spar butts.

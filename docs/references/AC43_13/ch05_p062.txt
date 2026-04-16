@@ -1,0 +1,86 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 5: PENETRANT INSPECTION
+
+5-62. BASIC STEPS TO PERFORM
+PENETRATION INSPECTION. Table 5-4
+shows a general process, in the procedures
+flow sheet, for commonly used penetrant inspection processes. It is important to ensure
+that parts are thoroughly cleaned and dried before doing penetrant inspection. All surfaces
+to be inspected should be free of contaminants,
+paint, and other coatings that could prevent
+penetrant from entering discontinuities. Table 5-5 shows applications of various methods
+of precleaning for penetrant inspection.
+[FIG 5-13] Penetrant and developer action.
+[TABLE 5-3] Classification of penetrant inspection materials covered
+PENETRANT SYSTEMS DEVELOPERS
+Type I Fluorescent Dye Form a Dry Powder
+Type II Visible Dye Form b Water
+Type III Visible and Fluorescent Form c Water
+Dye Form d Nonaqueous
+(dual mode) Form e Specific
+Method A Water Washable
+Method B Post emulsifiable,
+Lipophilic
+Method C Solvent Removable
+Method D Post Emulsifiable,
+Hydrophilic
+Sensitivity Level 1/2 Ultralow
+Sensitivity Level 1 Low
+Sensitivity Level 2 Medium
+Sensitivity Level 3 High
+Sensitivity Level 4 Ultrahigh
+by MIL-I-25135E.
+SOLVENT REMOVERS
+Class (1) Halogenated
+Soluble (chlorinated)
+Suspendible Class (2) Nonhalogenated
+(nonchlorinated)
+Application Class (3) Specific Application
+[TABLE 5-4] Fluorescent and visible penetrant inspection
+Penetrant Inspection-General
+general processing procedures flowsheet.
+Processing
+[TABLE 5-5] Pre-cleaning methods for penetrant inspection.
+METHOD
+Mechanical Methods
+Abrasive tumbling Removing light scale, burrs,
+core material; should not be used on soft metals such as aluminum, magnesium,
+or titanium.
+Dry abrasive grit Removing light or heavy scale,
+blasting sprayed coatings, carbon deposits:
+or portable (may peen metal over defect).
+Wet abrasive grit Same as dry except, where deposits
+blast dimensions are required.
+Wire brushing Removing light deposits of scale,
+ing metal).
+High pressure water Ordinarily used with an alkaline
+and steam shop contamination, such as
+and deposits from electrical discharge machining; used when surface finish must
+be maintained.
+Ultrasonic cleaning Ordinarily used with detergent
+shop contamination from large quantities of small parts.
+Chemical Methods
+Alkaline cleaning Removing braze stopoff, rust,
+deposits; ordinarily used on large articles where hand methods are too laborious;
+also used on aluminum for gross metal removal.
+Acid cleaning Strong solutions for removing
+(etching) solutions for removing lightly smeared metal.
+Molten salt bath Conditioning and removing heavy
+cleaning or titanium.
+Solvent Methods
+Solvent wiping Same as for vapor degreasing
+genated (nonchlorinated) solvents; used for localized low-volume cleaning.
+USE
+welding flux, braze stopoff, rust, casting mold, and
+flux, stopoff, rust, casting mold and core material,
+In general, any brittle deposit. Can be fixed
+are light, better surface and better control of
+flux, and stopoff (may mask defect by displaccleaner or detergent; removing typical machine
+cutting oils, polishing compounds, grease, chips,
+and water or with a solvent; removing adhering
+scale, oils, greases, polishing material, and carbon
+heavy scale; mild solutions for light scale; weak
+scale; not suitable for aluminum, magnesium,
+except a hand operation; may employ nonhaloCAUTION: Improper cleaning methods can cause severe damage or degradation of the item being cleaned.
+Personnel must select and apply
+cleaning processes in accordance with
+aircraft, engine, propeller, or appliance manufacturer’s recommendations.

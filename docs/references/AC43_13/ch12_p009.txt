@@ -1,0 +1,102 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-9. INSPECTION OF AVIONICS
+SYSTEMS.
+a. The inspection shall include the following:
+(1) Inspect the condition and security of
+equipment including the proper security of
+wiring bundles.
+(2) Check for indications of overheating
+of the equipment and associated wiring.
+(3) Check for poor electrical bonding.
+The bonding requirements are specified by
+equipment manufacturers. Installation cabling
+should be kept as short as possible, except for
+antenna cables which are usually precut or
+have a specific length called out at installation.
+Proper bonding on the order of 0.003 ohms is
+very important to the performance of avionics
+equipment.
+CHECKS FOR AVIONICS EQUIPMENT
+(4) Check to assure that the radios and
+instruments are secured to the instrument
+panel.
+(5) Check that all avionics are free of
+dust, dirt, lint, or any other airborne contaminates. If there is a forced air cooling system, it
+must be inspected for proper operation.
+Equipment ventilation openings must not be
+obstructed.
+(6) Check the microphone headset
+plugs and connectors and all switches and
+controls for condition and operation. Check
+all avionics instruments for placards. Check
+lightening, annunciator lights, and cockpit interphone for proper operation.
+(7) The circuit breaker panel must be
+inspected for the presence of placarding for
+each circuit breaker installed.
+(8) Check the electrical circuit switches,
+especially the spring-load type for proper operation. An internal failure in this type of
+switch may allow the switch to remain closed
+even though the toggle or button returns to the
+OFF position. During inspection, attention
+must be given to the possibility that improper
+switch substitution may have been made.
+b. Inspect antennas for:
+(1) broken or missing antenna
+insulators
+(2) lead through insulators
+(3) springs
+(4) safety wires
+(5) cracked antenna housing
+(6) missing or poor sealant at base of
+antenna
+(7) correct installation
+(8) signs of corrosion, and
+(9) the condition of paint/bonding and
+grounding.
+(10) Check the bonding of each antenna
+from mounting base to the aircraft skin. Tolerance: .1 ohm, maximum.
+(a) Test Equipment:
+1 1502B Metallic Time Domain
+Reflectometer or equivalent.
+2 Thruline Wattmeter.
+(b) Perform the antenna evaluation
+check using the domain reflectometer to determine the condition of the antenna and coax
+cables. Refer to manufacturer’s maintenance
+procedures.
+(c) Use thruline wattmeter as needed
+for addition evaluation. Refer to manufacturer’s maintenance procedures. Check for the
+following:
+1 Resistance.
+2 Shorts.
+3 Opens.
+c. Inspect the static dischargers/wicks
+for:
+(1) physical security of mounting attachments, wear or abrasion of wicks, missing
+wicks, etc.,
+(2) assurance that one inch of the inner
+braid of flexible vinyl cover wicks extends beyond the vinyl covering,
+(3) assurance that all dischargers are
+present and securely mounted to their base,
+(4) assurance that all bases are securely
+bonded to skin of aircraft in order to prevent
+the existence in voltage level differences between two surfaces,
+(5) signs of excessive erosion or deterioration of discharger tip,
+(6) lighting damage as evidenced by
+pitting of the metal base, and
+(7) megohm value of static wick itself
+as per manufacturer’s instructions. It should
+not be open.
+d. Subsequent inspection must be made
+after a maintenance action on a transponder.
+Refer to Title 14 of the Code of Federal
+Regulations (14 CFR) part 91, sections 91.411
+and 91.413.
+e. Inspection of the emergency locator
+transmitter operation, condition and date of
+the battery.
+f. Perform a function check of the radio
+by transmitting a request for a radio check.
+Perform a function check on navigation
+equipment by moving the omni bearing selection (OBS) and noting the needle swing and
+the TO/FROM flag movement.

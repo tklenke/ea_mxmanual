@@ -1,0 +1,45 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 4: REPAIR OF METAL PROPELLERS
+
+8-76. PROPELLER HUB AND FLANGE
+REPAIR. When the fixed-pitch propeller bolt
+holes in a hub or crankshaft become damaged
+or oversized, it is permissible to make repairs
+by using methods (A) or (B) in figure 8-29, or
+by use of aircraft standard bolts 1/16-inch
+larger than the original bolts. Make the repairs
+in accordance with the recommendations of the
+propeller metal hub manufacturer or the engine
+manufacturer, as applicable. Obtain from the
+engine or propeller hub manufacturer suitable
+flange bushings with threaded or smooth
+bores, as illustrated in methods (A) or (B) of
+figure 8-29. Drill the flange and insert the
+bushings as recommended by the propeller to
+accommodate the bushings, and protect the
+holes with 2 coats of aluminum paint or other
+high moisture-resistant coating. Use bolts of
+the same size as those originally used. Any of
+the following combinations may be used:
+(1) drilled head bolt and castellated nut,
+(2) drilled head bolt and threaded bushing, or
+(3) undrilled bolt and self-locking nut. Where
+it is desirable to use oversized bolts, obtain
+suitable aircraft-standard bolts 1/16-inch larger
+than the original bolts. Enlarge the crankshaft
+propeller flange holes and the propeller hub
+holes sufficiently to accommodate the new
+bolts without more than 0.005-inch clearance.
+Such reboring will be permitted only once.
+Further repairs of bolt holes may be in accordance with the methods listed in (A) or (B) of
+figure 8-29.
+NOTE: Method (A) or (B) is preferred over the oversized bolt method,
+because a propeller hub flange redrilled in accordance with this latter
+a. Draw a vertical line at the value of r% =
+b. Where the vertical line intersects the curve,
+sect the vertical axis.
+c. Read the percent reduction in thickness
+∆t%
+= 4.0
+[FIG 8-28] Example 2. Determine the repair thickness limits.
+method will always require the redrilling of all new propellers subsequently used with the re-drilled
+flange.

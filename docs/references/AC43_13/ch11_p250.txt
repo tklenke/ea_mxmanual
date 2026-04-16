@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 18: CONDUITS
+
+11-250. CONDUIT FITTINGS. Wire is
+vulnerable to abrasion at conduit ends. Suitable fittings should be affixed to conduit ends
+in such a manner that a smooth surface comes
+in contact with the wire. When fittings are not
+used, the end of the conduit should be flared
+to prevent wire insulation damage. Conduit
+should be supported by use of clamps along
+the conduit run.

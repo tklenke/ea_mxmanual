@@ -1,0 +1,53 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 7: SAFETYING
+
+7-124. SAFETY-WIRING PROCEDURES.
+There are many combinations of safety wiring
+with certain basic rules common to all applications. These rules are as follows.
+a. When bolts, screws, or other parts are
+closely grouped, it is more convenient to safety
+wire them in series. The number of bolts, nuts,
+screws, etc., that may be wired together depends on the application.
+b. Drilled boltheads and screws need not
+be safety wired if installed with self-locking
+nuts.
+c. To prevent failure due to rubbing or
+vibration, safety wire must be tight after installation.
+d. Safety wire must be installed in a manner that will prevent the tendency of the part to
+loosen.
+e. Safety wire must never be overstressed. Safety wire will break under vibrations if twisted too tightly. Safety wire must
+be pulled taut when being twisted, and maintain a light tension when secured. (See figure 7-3a.)
+f. Safety-wire ends must be bent under
+and inward toward the part to avoid sharp or
+projecting ends, which might present a safety
+hazard.
+g. Safety wire inside a duct or tube must
+not cross over or obstruct a flow passage when
+an alternate routing can be used.
+(1) Check the units to be safety wired to
+make sure that they have been correctly torqued, and that the wiring holes are properly
+aligned to each other. When there are two or
+more units, it is desirable that the holes in the
+units be aligned to each other. Never overtorque or loosen to obtain proper alignment of the
+holes. It should be possible to align the wiring
+holes when the bolts are torqued within the
+specified limits. Washers may be used (see
+paragraph 7-37) to establish proper alignment.
+However, if it is impossible to obtain a proper
+alignment of the holes without undertorquing
+or overtorquing, try another bolt which will
+permit proper alignment within the specified
+torque limits.
+(2) To prevent mutilation of the twisted
+section of wire, when using pliers, grasp the
+wires at the ends. Safety wire must not be
+nicked, kinked, or mutilated. Never twist the
+wire ends off with pliers; and, when cutting off
+ends, leave at least four to six complete turns
+(1/2 to 5/8 inch long) after the loop. When
+removing safety wire, never twist the wire off
+with pliers. Cut the safety wire close to the
+hole, exercising caution.
+h. Install safety wire where practicable
+with the wire positioned around the head of the
+bolt, screw, or nut, and twisted in such a manner that the loop of the wire fits closely to the
+contour of the unit being safety wired.

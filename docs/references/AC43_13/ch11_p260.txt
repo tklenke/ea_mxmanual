@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 19: PROTECTION OF UNUSED CONNECTORS
+
+11-260. GENERAL. Connectors may have
+one or more contact cavities that are not used.
+Depending on the connector installation, unused connector contact cavities may need to be
+properly sealed to avoid damage to the connector, or have string wire installed. Unused
+wires can be secured by tying into a bundle or
+secured to a permanent structure; individually
+cut with strands even with insulation; or preinsulated closed end connector or 1 inch piece
+of insulating tubing folded and tied back.

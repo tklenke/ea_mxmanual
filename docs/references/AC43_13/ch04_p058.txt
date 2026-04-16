@@ -1,0 +1,394 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-58. REPAIR METHODS AND PRECAUTIONS FOR ALUMINUM STRUCTURE. Carefully examine all adjacent rivets
+outside of the repair area to ascertain that they
+have not been harmed by operations in adjacent areas. Drill rivet holes round, straight,
+and free from cracks. Deburr the hole with an
+oversize drill or deburring tool. The rivet-set
+used in driving the rivets must be cupped
+slightly flatter than the rivet head. (See figure 4-6.) Rivets are to be driven straight and
+tight, but not overdriven or driven while too
+hard, since the finished rivet must be free from
+cracks. Information on special methods of riveting, such as flush riveting, usually may be
+obtained from manufacturer’s service manuals.
+a. Splicing of Tubes. Round or streamline aluminum alloy tubular members may be
+repaired by splicing. (See figure 4-12.)
+Splices in struts that overlap fittings are not
+acceptable. When solid rivets go completely
+through hollow tubes, their diameter must be
+at least one-eighth of the outside diameter of
+the outer tube. Rivets which are loaded in
+shear should be hammered only enough to
+form a small head and no attempt made to
+form the standard roundhead. The amount of
+hammering required to form the standard
+roundhead often causes the rivet to buckle inside the tube. (Correct and incorrect examples
+of this type of rivet application are incorporated in figure 4-12.)
+[FIG 4-11] Huck rivet.
+b. Repairs to Aluminum Alloy Members. Make repairs to aluminum alloy members with the same material or with suitable
+material of higher strength. The 7075 alloy
+has greater tensile strength than other commonly used aluminum alloys such as 2014 and
+2024, but is subject to somewhat greater notch
+sensitivity. In order to take advantage of its
+strength characteristics, pay particular attention
+to design of parts to avoid notches, small radii,
+and large or rapid changes in cross-sectional
+areas. In fabrication, exercise caution to avoid
+processing and handling defects, such as machine marks, nicks, dents, burrs, scratches, and
+forming cracks. Cold straightening or forming
+of 7075-T6 can cause cracking; therefore, it
+may be advisable to limit this processing to
+minor cold straightening.
+c. Wing and Tail Surface Ribs. Damaged aluminum alloy ribs either of the stamped
+sheet-metal type or the built-up type employing special sections, square or round tubing,
+may be repaired by the addition of suitable reinforcement. (Acceptable methods of repair
+are shown in figures 4-13 and 4-14.) These
+examples deal with types of ribs commonly
+found in small and medium size aircraft. Repair schemes developed by the aircraft manufacturer are acceptable, but any other methods
+of reinforcement are major repairs and require
+approved data.
+d. Trailing and Leading Edges and Tip
+Strips. Repairs to wing, control surface trailing edges, leading edges, and tip strips should
+be made by properly executed and reinforced
+splices. Acceptable methods of trailing edge
+repairs are shown in figure 4-15.
+e. Repair of Damaged Skin. In cases
+where metal skin is damaged extensively, repair by replacing an entire sheet panel from
+one structural member to the next. The repair
+seams are to lie along stiffening members,
+bulkheads, etc.; and each seam must be made
+exactly the same in regard to rivet size, splicing, and rivet pattern as the manufactured
+seams at the edges of the original sheet. If the
+two manufactured seams are different, the
+stronger one will be copied. (See figure 4-16
+for typical acceptable methods of repairs.)
+f. Patching of Small Holes. Small holes
+in skin panels which do not involve damage to
+the stiffening members may be patched by
+covering the hole with a patch plate in the
+manner shown in figure 4-16. Flush patches
+also may be installed in stressed-skin type construction. An acceptable and easy flush patch
+may be made by trimming out the damaged
+area and then installing a conventional patch
+on the underneath side or back of the sheet
+being repaired. A plug patch plate of the same
+size and skin thickness as the opening may
+then be inserted and riveted to the patch plate.
+Other types of flush patches similar to those
+used for patching plywood may be used. The
+rivet pattern used, however, must follow standard practice to maintain satisfactory strength
+in the sheet.
+g. Splicing of Sheets. The method of
+copying the seams at the edges of a sheet may
+not always be satisfactory. For example, when
+the sheet has cutouts, or doubler plates at an
+edge seam, or when other members transmit
+loads into the sheet, the splice must be designed as illustrated in the following examples.
+(1) Material: Clad 2024 sheet,
+0.032 inch thickness. Width of sheet (i.e.,
+length at splice) = “W” = 10 inches.
+(2) Determine rivet size and pattern for
+a single-lap joint similar to figure 4-5.
+(a) Use rivet diameter of approximately three times the sheet thickness,
+3 x 0.032 = 0.096-inch. Use 1/8-inch 2117-T4
+(AD) rivets (5/32-inch 2117-T4 (AD) would
+be satisfactory).
+(b) Use the number of rivets required per inch of width “W” from table 4-10.
+(Number per inch 4.9 x .75 = 3.7 or the total
+number of rivets required = 10 x 3.7 or 37 rivets.) See notes in table.
+(c) Lay out rivet pattern with spacing
+not less than shown in figure 4-5. Referring to
+figure 4-5(A), it seems that a double row pattern with the minimum spacing will give a total of 40 rivets. However, as only 37 rivets are
+required, two rows of 19 rivets each equally
+spaced over the10 inches will result in a satisfactory splice.
+h. Straightening of Stringers or Intermediate Frames. Members which are slightly
+bent may be straightened cold and examined
+with a magnifying glass for cracks or tears to
+the material. Reinforce the straightened part to
+its original shape, depending upon the condition of the material and the magnitude of any
+remaining kinks or buckles. If any strain
+cracks are apparent, make complete reinforcement in sound metal beyond the damaged portion.
+i. Local Heating. Do not apply local
+heating to facilitate bending, swaging, flattening, or expanding operations of heat-treated
+aluminum alloy members, as it is difficult to
+control the temperatures closely enough to
+prevent possible damage to the metal, and it
+may impair its corrosion resistance.
+j. Splicing of Stringers and Flanges. It
+is recommended that all splices be made in accordance with the manufacturer’s recommendations. If the manufacturer’s recommendations are not available, the typical splices for
+various shapes of sections are shown in figures
+4-17 through 4-19. Design splices to carry
+both tension and compression, and use the
+splice shown in figure 4-18 as an example illustrating the following principles.
+(1) To avoid eccentric loading and consequent buckling in compression, place splicing or reinforcing parts as symmetrically as
+possible about the centerline of the member,
+and attach to as many elements as necessary to
+prevent bending in any direction.
+(2) To avoid reducing the strength in
+tension of the original bulb angle, the rivet
+holes at the ends of the splice are made small
+(no larger than the original skin attaching rivets), and the second row of holes (those
+through the bulbed leg) are staggered back
+from the ends. In general, arrange the rivets in
+the splice so that the design tensile load for the
+member and splice plate can be carried into the
+splice without failing the member at the outermost rivet holes.
+[FIG 4-12] Typical repair method for tubular members of
+aluminum alloy.
+NOTE: FOR MINIMUM NUMBER OF RIVETS
+AND SUBSEQUENT.
+[FIG 4-13] Typical repair for buckled or cracked metal
+REQUIRED, SEE PARAGRAPH 4-58g
+wing rib capstrips.
+NOTE: FOR MINIMUM NUMBER OF RIVETS
+AND SUBSEQUENT.
+[FIG 4-14] Typical metal rib repairs (usually found on small
+REQUIRED, SEE PARAGRAPH 4-58g
+and medium-size aircraft).
+NOTE: FOR MINIMUM NUMBER OF RIVETS
+AND SUBSEQUENT.
+[FIG 4-15] Typical repairs of trailing edges.
+REQUIRED, SEE PARAGRAPH 4-58g
+[FIG 4-16] Typical repairs of stressed sheet metal coverings.
+number of rivets to be used.)
+(Refer to tables 4-9, 4-10, and 4-11 to calculate
+NOTE: FOR MINIMUM NUMBER OF RIVETS
+AND SUBSEQUENT.
+[FIG 4-17] Typical stringer and flange splices.
+REQUIRED, SEE PARAGRAPH 4-58g
+[FIG 4-18] Example of stringer splice (material-2017 alloy).
+NOTE: FOR MINIMUM NUMBER OF RIVETS
+NOTE: STRENGTH INVESTIGATION IS USUALLY
+[FIG 4-19] Application of typical flange splices and
+REQUIRED, SEE PARAGRAPH 4-58g
+AND SUBSEQUENT.
+REQUIRED FOR THIS TYPE OF REPAIR.
+reinforcement.
+(3) To avoid concentration of load on
+the end rivet and consequent tendency toward
+progressive rivet failure, the splice is tapered at
+the ends by tapering the backing angle and by
+making it shorter than the splice bar. (See figure 4-18.)
+(4) The preceding principles are especially important in splicing stringers on the
+lower surface of stressed skin wings, where
+high-tension stresses may exist. When several
+adjacent stringers are spliced, stagger the
+splices if possible.
+k. Size of Splicing Members. When the
+same material is used for the splicing members
+as for the original member, the cross-section
+area (i.e., the shaded areas in figure 4-17), of
+the splice material will be greater than the area
+of the section element which it splices. The
+area of a section element (e.g., each leg of an
+angle or channel) is equal to the width multiplied by the thickness. For example, the bar
+“B” in figure 4-18 is assumed to splice the upper leg of the stringer, and the angle “A” is assumed to splice the bulbed leg of the stringer.
+Since the splice bar “B” is not as wide as the
+adjacent leg, its thickness must be increased
+such that the area of bar “B” is at least equal to
+the area of the upper leg of the stringer.
+l. The Diameter of Rivets in Stringers.
+The diameter of rivets in stringers might preferably be between two and three times the
+thickness “t” of the leg, but must not be more
+than 1/4th the width “W” of the leg. Thus,
+1/8-inch rivets are chosen in the example, figure 4-18. If the splices were in the lower surface of a wing, the end rivets would be made
+the same size as the skin-attaching rivets, or
+3/32 inch.
+m. The Number of Rivets. The number
+of rivets required on each side of the cut in a
+stringer or flange may be determined from
+standard text books on aircraft structures, or
+may be found in tables 4-9 through 4-11.
+(1) In determining the number of rivets
+required in the example, figure 4-18, for attaching the splice bar “B” to the upper leg, the
+thickness “t” of the element of area being
+spliced is 1/16 inch (use 0.064), the rivet size
+is 1/8 inch, and table 4-9 shows that 9.9 rivets
+are required per inch of width. Since the width
+“W” is 1/2 inch, the actual number of rivets
+required to attach the splice bar to the upper
+leg on each side of the cut is 9.9 (rivets per
+inch) x 0.5 (inch width) = 4.95 (use 5 rivets).
+(2) For the bulbed leg of the stringer
+“t” = 1/16 inch (use 0.064); AN-3 bolts are
+chosen, and the number of bolts required per
+inch of width = 3.3. The width “W” for this
+leg, however, is 1 inch; and the actual number
+of bolts required on each side of the cut is
+1 x 3.3 = 3.3 (use 4 bolts). When both rivets
+and bolts are used in the same splice, the bolt
+holes must be accurately reamed to size. It is
+preferable to use only one type of attachment,
+but in the above example, the dimensions of
+the legs of the bulb angle indicated rivets for
+the upper leg and bolts for the bulb leg.
+n. Splicing of Intermediate Frames.
+The same principles used for stringer splicing
+may be applied to intermediate frames when
+the following point is considered. Conventional frames of channel or Z sections are relatively deep and thin compared to stringers, and
+usually fail by twisting or by buckling of the
+free flange. Reinforce the splice joint against
+this type of failure by using a splice plate
+heavier than the frame and by splicing the free
+flange of the frame with a flange of the splice
+plate. (See figure 4-20.) Since a frame is
+likely to be subjected to bending loads, make
+the length of splice plate “L” more than twice
+the width “W2,” and the rivets spread out to
+cover the plate.
+[TABLE 4-9] Number of rivets required for splices (single-lap
+7075-T6 sheet, clad 2014-T6, 2024-T3, 2024-T36, and 7075-T6
+and extrusions, 2014-T6 extrusions.
+No. of 2117-T4 (AD) protruding head rivets required
+Thickness per inch
+“t” in
+inches Rivet
+3/32 1/8 5/32 3/16 1/4 AN-3
+.016 6.5 4.9 - .020 6.9 4.9 3.9
+.025 8.6 4.9 3.9
+.032 11.1 6.2 3.9
+.036 12.5 7.0 4.5
+.040 13.8 7.7 5.0
+.051 - ­ 9.8 6.4
+.064 - ­ 12.3 8.1
+.081 - ­ - ­ 10.2
+.091 - ­ - ­ 11.4
+.102 - ­ - ­ 12.8
+.128 - ­ - ­ - NOTES:
+a. For stringers in the upper surface of a wing, or in
+may be used.
+b. For intermediate frames, 60 percent of the number
+c. For single lap sheet joints, 75 percent of the number
+ENGINEERING NOTES:
+a. The load per inch of width of material was calculated
+b. Number of rivets required was calculated for 2117-T4
+40 percent of the sheet allowable tensile stress, and
+allowable tensile stress, using nominal bolt diameters
+c. Combinations of sheet thickness and rivet size above
+on the sheet; those below are critical in shearing of the
+d. The number of AN-3 bolts required below the underlined
+stress of 70,000 psi and a bolt allowable single shear
+joint) in bare 2014-T6, 2024-T3, 2024-T36, and
+sheet, 2024-T4, and 7075-T6 plate, bar, rod, tube,
+of width “W”
+No. of
+size Bolts
+- ­ - ­ - - ­ - ­ - - ­ - ­ - 3.3 - ­ - 3.3 2.4 - 3.5 2.4 3.3
+4.5 2.5 3.3
+5.6 3.1 3.3
+7.1 3.9 3.3
+7.9 4.4 3.3
+8.9 4.9 3.4
+11.2 6.2 3.2
+a fuselage, 80 percent of the number of rivets shown in the table
+shown may be used.
+shown may be used.
+by assuming a strip 1 inch wide in tension.
+(AD) rivets, based on a rivet allowable shear stress equal to
+a sheet allowable bearing stress equal to 160 percent of the sheet
+for rivets.
+the underlined numbers are critical in (i.e., will fail by) bearing
+rivets.
+number was calculated based on a sheet allowable tensile
+load of 2,126 pounds.
+[TABLE 4-10] Number of rivets required for splices (single-lap
+sheet, plate, bar, rod, tube, and extrusions.
+No. of 2117-T4 (AD) protruding head rivets required
+Thickness per inch of
+“t” in
+inches Rivet
+3/32 1/8 5/32 3/16 1/4 AN-3
+.016 6.5 4.9 -
+.020 6.5 4.9 3.9
+.025 6.9 4.9 3.9
+.032 8.9 4.9 3.9
+.036 10.0 5.6 3.9
+.040 11.1 6.2 4.0
+.051 - ­ 7.9 5.1
+.064 - ­ 9.9 6.5
+.081 - ­ 12.5 8.1
+.091 - ­ - ­ 9.1
+.102 - ­ - ­ 10.3
+.128 - ­ - ­ 12.9
+NOTES:
+a. For stringers in the upper surface of a wing, or in a fuselage,
+table may be used.
+b. For intermediate frames, 60 percent of the number shown
+c. For single lap sheet joints, 75 percent of the number
+ENGINEERING NOTES:
+a. The load per inch of width of material was calculated
+b. Number of rivets required was calculated for 2117-T4
+equal to percent of the sheet allowable tensile stress, and
+of the sheet allowable tensile stress, using nominal hole diameters
+c. Combinations of sheet thickness and rivet size above
+bearing on the sheet; those below are critical in shearing
+d. The number of AN-3 bolts required below the underlined
+tensile stress of 55,000 psi and a bolt allowable single shear
+joint) in 2017, 1017 ALCLAD, 2024-T3 ALCLAD
+width “W”
+No. of
+size Bolts
+­ - ­ - ­ - - ­ - ­ - - ­ - ­ - 3.3 - ­ - 3.3 2.4 - 3.3 2.4 - 3.6 2.4 3.3
+4.5 2.5 3.3
+5.7 3.1 3.3
+6.3 3.5 3.3
+7.1 3.9 3.3
+8.9 4.9 3.3
+80 percent of the number of rivets shown in the
+may be used.
+shown may be used.
+by assuming a strip 1 inch wide in tension.
+(AD) rivets, based on a rivet allowable shear stress
+a sheet allowable bearing stress equal to 160 percent
+for rivets.
+the underlined numbers are critical in (i.e., will fail by)
+of the rivets.
+number was calculated based on a sheet allowable
+load of 2,126 pounds.
+[TABLE 4-11] Number of rivets required for splices (single-lap
+No. of 2117-T4 (AD) protruding head rivets required
+Thickness per inch of
+“t” in
+inches Rivet
+3/32 1/8 5/32 3/16 1/4 AN-3
+.016 6.3 4.7
+.020 6.3 4.7 3.8
+.025 6.3 4.7 3.8
+.032 6.3 4.7 3.8
+.036 7.1 4.7 3.8
+.040 7.9 4.7 3.8
+.051 10.1 5.6 3.8
+.064 12.7 7.0 4.6
+.081 - ­ 8.9 5.8
+.091 - ­ 10.0 6.5
+.102 - ­ 11.2 7.3
+.128 - ­ - ­ 9.2
+NOTES:
+a. For stringers in the upper surface of a wing, or in
+the table may be used.
+b. For intermediate frames, 60 percent of the number
+c. For single lap sheet joints, 75 percent of the number
+ENGINEERING NOTES:
+a. The load per inch of width of material was calculated
+b. Number of rivets required was calculated for 2117-T4
+equal to 70 percent of the sheet allowable tensile stress,
+percent of the sheet allowable tensile stress, using nominal
+c. Combinations of sheet thickness and rivet size above
+by) bearing on the sheet, those below are critical in shearing
+joint) in 5052 (all hardnesses) sheet.
+width “W”
+No. of
+size Bolts
+- ­ - ­ - - ­ - ­ - - ­ - ­ - 3.2 - ­ - 3.2 2.4 - 3.2 2.4 - 3.2 2.4 - 3.2 2.4 - 4.0 2.4 3.2
+4.5 2.5 3.2
+5.1 2.8 3.2
+6.4 3.5 3.2
+a fuselage, 80 percent of the number of rivets shown in
+shown may be used.
+shown may be used.
+by assuming a strip 1 inch wide in tension.
+(AD) rivets, based on a rivet allowable shear stress
+and a sheet allowable bearing stress equal to 160
+hole diameters for rivets.
+the underlined numbers are critical in (i.e., will fail
+of the rivets.

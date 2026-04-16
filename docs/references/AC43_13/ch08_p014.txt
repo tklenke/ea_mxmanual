@@ -1,0 +1,115 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-14. COMPRESSION TESTING OF
+AIRCRAFT ENGINE CYLINDERS. A test
+to determine the internal condition of the combustion chamber cylinder assembly by ascertaining if any appreciable internal leakage is
+occurring is compression testing of aircraft engine cylinders. If a cylinder has less than a
+60/80 reading on the differential test gauges on
+a hot engine, and procedures in paragraphs 8-15b(5)(i) and (j) fail to raise the compression reading, the cylinder must be removed
+and inspected. To determine the cylinder’s
+problem area, have someone hold the propeller
+at the weak cylinder’s top dead center and with
+compressed air still being applied, listen. If air
+is heard coming out of the exhaust pipe, the
+cylinder’s exhaust-valve is not seating properly. If air is heard leaking out of the air
+cleaner/carburetor heat box, the intake valve is
+leaking. With the oil dipstick removed, and air
+is rushing out, the piston rings are defective.
+Remove and repair/overhaul the defective
+cylinder.
+a. Differential Compression Test. The
+most common type of compression tester currently in use is the differential pressure-type
+tester. It provides a cross-reference to validate
+the readings obtained and tends to assure that
+the cylinder is defective before it is removed.
+Before beginning a compression test, consider
+the following points:
+(1) When the spark plugs are removed
+from the engine, identify them to coincide with
+the cylinder and location from which they were
+removed. Close examination of the plugs will
+reveal the actual operating conditions and aid
+in diagnosing problems within each individual
+cylinder.
+(2) The operating and maintenance records of the engine should be reviewed. Records of previous compression tests are of assistance in determining progressive wear conditions and help to establish the necessary
+maintenance corrective actions.
+b. Differential Pressure Compression
+Test. The differential pressure tester is designed to check the compression of aircraft engines by measuring the leakage through the
+cylinders caused by worn or damaged components. The operation of the compression tester
+is based on the principle that, for any given airflow through a fixed orifice, a constant pressure drop across that orifice will result. The
+restrictor orifice dimensions in the differential
+pressure tester should be sized for the particular engine as follows:
+(1) For an engine cylinder having less
+than a 5.00-inch bore; 0.040-inch orifice diameter; .250 inch long; and a 60-degree approach angle.
+(2) For an engine cylinder with 5.00
+inch bore and over: 0.060 inch orifice diameter, .250 inch long, 60 degree approach angle.
+(3) A typical schematic diagram of the
+differential pressure tester is shown in
+figure 8-1.
+[FIG 8-1] Schematic of differential pressure compression tester.
+(4) As the regulated air pressure is applied to one side of the restrictor orifice with
+the air valve closed, there will be no leakage
+on the other side of the orifice and both pressure gauges will read the same. However,
+when the air valve is opened and leakage
+through the cylinder increases, the cylinder
+pressure gauge will record a proportionally
+lower reading.
+(5) While performing the check the
+following procedures are listed to outline the
+principles involved, and are intended to supplement the manufacturer’s instructions for the
+particular tester being used.
+(a) Perform the compression test as
+soon as possible after the engine is shut down
+to ensure that the piston rings, cylinder walls,
+and other engine parts are well-lubricated.
+(b) Remove the most accessible
+spark plug from each cylinder.
+(c) With the air valve closed, apply
+an external source of clean air (approximately
+100 to 120 psi) to the tester.
+(d) Install an adapter in the spark
+plug bushing and connect the compression
+tester to the cylinder.
+(e) Adjust the pressure regulator to
+obtain a reading of 20 psi on the regulator
+pressure gauge. At this time, the cylinder
+pressure gauge should also register 20 psi.
+(f) Turn the crankshaft, by hand, in
+the direction of rotation until the piston (in the
+cylinder being checked) is coming up on its
+compression stroke. Slowly open the air valve
+and pressurize the cylinder to 80 psi.
+CAUTION: Care must be exercised
+in opening the air valve since sufficient air pressure will have built up in
+the cylinder to cause it to rapidly rotate the propeller if the piston is not at
+top dead center (TDC).
+(g) Continue rotating the engine
+against this pressure until the piston reaches
+TDC. Reaching TDC is indicated by a flat
+spot or sudden decrease in force required to
+turn the crankshaft. If the crankshaft is rotated
+too far, back up at least one-half revolution
+and start over again to eliminate the effect of
+backlash in the valve operating mechanism and
+to keep piston rings seated on the lower ring
+lands.
+(h) Open the air valve completely.
+Check the regulated pressure and readjust, if
+necessary, to read 80 psi.
+(i) Observe the pressure indication of
+the cylinder pressure gauge. The difference
+between this pressure and the pressure shown
+by the regulator pressure gauge is the amount
+of leakage through the cylinder. A loss in excess of 25 percent of the input air pressure is
+cause to suspect the cylinder of being defective; however, recheck the readings after operating the engine for at least 3 minutes to allow
+for sealing of the rings with oil.
+(j) If leakage is still occurring after a
+recheck, it may be possible to correct a low
+reading. This is accomplished by placing a fiber drift on the rocker arm directly over the
+valve stem and tapping the drift several times
+with a hammer to dislodge any foreign material between the valve face and seat.
+NOTE: When correcting a low reading in this manner, rotate the propeller so the piston will not be at TDC.
+This is necessary to prevent the valve
+from striking the top of the piston in
+some engines. Rotate the engine before rechecking compression to reseat
+the valves in the normal manner.

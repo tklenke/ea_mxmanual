@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-80. COMPARISON WITH OTHER
+NDI METHODS. Radiography and ultrasonic are the two generally-used, nondestructive inspection methods that can satisfactorily
+detect flaws that are completely internal and
+located well below the surface of the test part.
+Neither method is limited to the detection of
+specific types of internal flaws. However, radiography is more effective when the flaws are
+not planar, while ultrasonic is more effective
+when flaws are planar. In comparison to other
+generally-used NDI methods (e.g., magnetic
+particle, liquid penetrant, and eddy current inspection), radiography has the following advantages.
+a. The ability to inspect for both internal
+and external flaws.
+b. The ability to inspect covered or hidden parts or structures.
+c. The ability to detect significant variations in composition.
+d. Provides a permanent recording of
+raw inspection data.

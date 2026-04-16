@@ -1,0 +1,63 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-235. INSTALLATION.
+a. Redundancy. Wires that perform the
+same function in redundant systems must be
+routed through separate connectors. On systems critical to flight safety, system operation
+wiring should be routed through separate connectors from the wiring used for system failure
+warning. It is also good practice to route a
+system’s indication wiring in separate connectors from its failure warning circuits to the
+extent practicable. These steps can reduce an
+aircraft’s susceptibility to incidents that might
+result from connector failures.
+b. Adjacent Locations. Mating of adjacent connectors should not be possible. In order to ensure this, adjacent connector pairs
+must be different in shell size, coupling means,
+insert arrangement, or keying arrangement.
+When such means are impractical, wires
+should be routed and clamped so that incorrectly mated pairs cannot reach each other.
+Reliance on markings or color stripes is not
+recommended as they are likely to deteriorate
+with age.
+c. Sealing. Connectors must be of a type
+that exclude moisture entry through the use of
+peripheral and interfacial seal that are compressed when the connector is mated. Moisture entry through the rear of the connector
+must be avoided by correctly matching the
+wire’s outside diameter with the connector’s
+rear grommet sealing range. It is recommended that no more than one wire be terminated in any crimp style contact. The use of
+heat-shrinkable tubing to build up the wire diameter, or the application of potting to the wire
+entry area as additional means of providing a
+rear compatibility with the rear grommet is
+recommended. These extra means have inherent penalties and should be considered only
+where other means cannot be used. Unwired
+spare contacts should have a correctly sized
+plastic plug installed. (See section 19.)
+d. Drainage. Connectors must be installed in a manner which ensures that moisture and fluids will drain out of and not into
+the connector when unmated. Wiring must be
+routed so that moisture accumulated on the
+bundle will drain away from connectors.
+When connectors must be mounted in a vertical position, as through a shelf or floor, the
+connectors must be potted or environmentally
+sealed. In this situation it is better to have the
+receptacle faced downward so that it will be
+less susceptible to collecting moisture when
+unmated.
+e. Wire Support. A rear accessory backshell must be used on connectors that are not
+enclosed. Connectors having very small size
+wiring, or are subject to frequent maintenance
+activity, or located in high-vibration areas
+must be provided with a strain-relief-type
+backshell. The wire bundle should be protected from mechanical damage with suitable
+cushion material where it is secured by the
+clamp. Connectors that are potted or have
+molded rear adapters do not normally use a
+separate strain relief accessory. Strain relief
+clamps should not impart tension on wires
+between the clamp and contact.
+f. Slack. Sufficient wire length must be
+provided at connectors to ensure a proper drip
+loop and that there is no strain on termination
+after a complete replacement of the connector
+and its contacts.
+g. Identification. Each connector should
+have a reference identification that is legible
+throughout the expected life of the aircraft.

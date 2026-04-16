@@ -1,0 +1,40 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 2: STORAGE BATTERIES
+
+11-18. TEMPERATURE CORRECTION.
+U.S. manufactured lead-acid batteries are considered fully charged when the specific gravity
+reading is between 1.275 and 1.300. A
+1/3 discharged battery reads about 1.240 and a
+2/3 discharged battery will show a specific
+gravity reading of about 1.200, when tested by
+a hydrometer and the electrolyte temperature is
+�F.
+80 However, to determine precise specific
+gravity readings, a temperature correction (see
+table 11-2) should be applied to the
+hydrometer indication. As an example, a hydrometer reading of 1.260 and the temperature
+°F,
+of the electrolyte at 40 the corrected specific gravity reading of the electrolyte is 1.244.
+[TABLE 11-2] Sulfuric acid temperature correction.
+Electrolyte
+Temperature
+Points to be subtracted or added to
+specific gravity readings
+°C °F
+60 140 +24
+55 130 +20
+49 120 +16
+43 110 +12
+38 100 +8
+33 90 +4
+27 80 0
+23 70 -4
+15 60 -8
+10 50 -12
+5 40 -16
+-2 30 -20
+-7 20 -24
+-13 10 -28
+-18 0 -32
+-23 -10 -36
+-28 -20 -40
+-35 -30 -44

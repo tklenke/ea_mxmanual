@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 7: ULTRASONIC INSPECTION
+
+5-90. SOUND REFLECTION. The
+amount of reflection that occurs when a sound
+wave strikes an interface depends largely on
+the physical state of the materials forming the
+interface and to a lesser extent on the specific
+physical properties of the material. For example: sound waves are almost completely reflected at metal/gas interfaces; and partial reflection occurs at metal/liquid or metal/solid
+interfaces.

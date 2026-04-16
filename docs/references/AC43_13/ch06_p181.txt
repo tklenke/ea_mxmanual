@@ -1,0 +1,40 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 11: OTHER METALS AND ALLOYS
+
+6-181. TITANIUM AND TITANIUM ALLOYS are highly corrosion resistant because
+an oxide film forms on their surfaces upon
+contact with air.
+a. When titanium is heated, different
+oxides having different colors form on the surface. A blue oxide coating will form at 700 to
+800 °F; a purple oxide at 800 to 950 °F; and a
+gray or black oxide at 1000 °F or higher.
+These coatings are protective discolorations
+and should not be removed.
+b. Corrosive attack on titanium surfaces
+is difficult to detect. It may show deterioration
+from the presence of salt deposits and metal
+impurities at elevated temperatures so periodic
+removal of surface deposits is required. However, if corrosion develops on titanium, it usually occurs as pitting. Acceptable methods for
+corrosion removal are:
+(1) Stainless steel wool or hand brush.
+(2) Abrasive mats, cloths, and papers
+with either aluminum oxide or silicon carbide
+grit.
+(3) Dry abrasive blasting using glass
+beads (spec. MIL-G-9954) sizes 10-13 or
+Aluminum oxide (spec. MIL-G-21380, type I,
+grades A or B) at a blast pressure of 40 to
+50 psi (if using suction equipment use
+50 percent higher pressure).
+WARNING: Dry abrasive blasting of
+titanium alloys creates sparking. Ensure that hazardous concentrations of
+flammable vapors are not present.
+(4) Hand polish with aluminum polish
+and soft cloth.
+c. Titanium surfaces are susceptible to
+hydrogen embrittlement that can induce stress
+corrosion and associated pitting. Therefore,
+chemicals such as fire-resistant hydraulic fluids must be controlled. Chlorinated hydrocarbon solvents and chemical corrosion removers
+are prohibited from use on titanium and titanium alloys.
+6-182.6-192.
+[RESERVED.]
+SECTION 12. PLATED PARTS

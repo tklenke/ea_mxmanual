@@ -1,0 +1,140 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-15. SPARK PLUGS. The spark plug provides the high-voltage electrical spark to ignite
+the fuel/air mixture in the cylinder. The types
+of spark plugs used in different engines will
+vary with regard to heat range, reach, thread
+size, and other characteristics required by the
+particular installation.
+a. Heat Range. The heat range of a spark
+plug is the principal factor governing aircraft
+performance under various service conditions.
+The term “heat range” refers to the
+classification of spark plugs according to their
+ability to transfer heat from the firing end of
+the spark plug to the cylinder head.
+(1) Spark plugs have been classified as
+“hot,” “normal,” and “cold.” However, these
+terms may be misleading because the heat
+range varies through many degrees of temperature from extremely hot to extremely cold.
+Thus the words “hot,” “cold,” and “normal” do
+not necessarily tell the whole story.
+(2) Since the insulator is designed to be
+the hottest part of the spark plug, its temperature can be related to the pre-ignition and
+fouling regions as shown in figure 8-2. Preignition is likely to occur if surface areas in the
+combustion chamber exceed critical limits or if
+the spark plug core nose temperature exceeds
+°F °C).
+1,630 (888 However, fouling or shortcircuiting of the plug due to carbon deposits is
+likely to occur if the insulator tip temperature
+°F °C).
+drops below approximately 800 (427
+Since spark plugs must operate between fairly
+well-defined temperature limits, they must be
+supplied in various heat ranges to meet the requirements of different engines under a variety
+of operating conditions.
+[FIG 8-2] Chart of spark plug temperature ranges.
+(3) From the engineering standpoint,
+each individual plug must be designed to offer
+the widest possible operating range. This
+means that a given type of spark plug should
+operate as hot as possible at low speeds and
+light loads and as cool as possible under
+cruising and takeoff power. Plug performance,
+therefore, depends on the operating temperature of the insulator nose, with the most desirable temperature range falling between
+°F °F °C °C).
+1,000 and 1,250 (538 and 677
+(4) Fundamentally, an engine which
+runs hot requires a relatively cold spark plug,
+whereas an engine which runs cool requires a
+relatively hot spark plug. If a hot spark plug is
+installed in an engine which runs hot, the spark
+plug tip will be overheated and cause preignition. If a cold spark plug is installed in an
+engine which runs cool, the tip of the spark
+plug will collect unburned carbon, causing
+fouling of the plug. The principal factors governing the heat range of aircraft spark plugs
+are:
+(a) the distance between the copper
+sleeve around the insulator and the insulator
+tip;
+(b) the thermal conductivity of the
+insulating material;
+(c) the thermal conductivity of the
+electrode;
+(d) the rate of heat transfer between
+the electrode and the insulator;
+(e) the shape of the insulator tip;
+(f) the distance between the insulator
+tip and the shell; and
+(g) the type of outside gasket used.
+(5) “Hot” plugs have a long insulator
+nose; thereby, creating a long heat transfer
+path, whereas “cold” plugs have a relatively
+short insulator to provide a rapid transfer of
+heat to the cylinder head. (See figure 8-3.)
+[FIG 8-3] Hot and cold spark plugs.
+b. Reach. The spark plug reach (see figure 8-4) is the threaded portion which is inserted into the spark plug bushing of the cylinder. A plug with the proper reach will ensure
+that the electrode end inside the cylinder is in
+the best position to achieve ignition. Spark
+plug seizure or improper combustion within
+the cylinder will probably occur if a plug with
+the wrong reach is used. Shell threads of spark
+plugs are classified as 14- or 18-mm spark
+plug diameter, long reach or short reach, thus:
+Diameter Long reach Short reach
+14 mm 1/2 in (12.7 mm) 3/8 in (9.53 mm)
+18 mm 13/16 in. (20.64 mm) 1/2 in (12.7 mm)
+[FIG 8-4] Spark plug reach.
+c. Installation Procedures. When installing spark plugs, observe the following
+procedure.
+(1) Visually inspect the plug for cleanliness and condition of the threads, ceramic,
+and electrodes.
+NOTE: Never install a spark plug
+which has been dropped and always
+use new gaskets every time you install
+a spark plug.
+(2) Check the plug for the proper gap
+setting, using a round wire feeler gauge as
+shown in figure 8-5. In the case of used plugs,
+procedures for cleaning and regapping are usually contained in the various manufacturers’
+manuals.
+[FIG 8-5] Method of checking spark plug gap.
+(3) Check the plug and cylinder bushing
+to ascertain that only one gasket is used per
+spark plug. When a thermocouple-type gasket
+is used, no other gasket is required.
+(4) Apply anti-seize compound sparingly to the shell threads, but do not allow the
+compound to contact the electrodes since the
+material is conductive and will short out the
+plug. If desired, the use of anti-seize compound may be eliminated on engines equipped
+with stainless steel spark plug bushings or
+inserts.
+(5) Screw the plug into the cylinder
+head as far as possible by hand. If the plug
+will not turn easily to within two or three
+threads of the gasket, it may be necessary to
+clean the threads.
+NOTE: Cleaning inserts with a tap is
+not recommended as permanent damage to the insert may result.
+(6) Seat the proper socket securely on
+the spark plug and tighten to the torque limit
+specified by the engine manufacturer before
+proceeding to the next plug.
+CAUTION: A loose spark plug will
+not transfer heat properly, and during
+engine operation, may overheat to the
+point the nose ceramic will become a
+“hot spot” and cause pre-ignition.
+However, avoid over-tightening as
+damage to the plug and bushing may
+result.
+(7) Connect the ignition lead after wiping clean with a dry, lint-free cloth. Insert the
+terminal assembly into the spark plug in a
+straight line. (Care should be taken as improper techniques can damage the terminal
+sleeves.) Screw the connector nut into place
+until finger tight, then tighten an additional
+one quarter turn while holding the elbow in the
+proper position.
+(8) Perform an engine run-up after installing a new set of spark plugs. When the
+engine has reached normal operating temperatures, check the magnetos and spark plugs in
+accordance with the manufacturer’s instructions.

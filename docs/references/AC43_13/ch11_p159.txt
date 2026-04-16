@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 12: WIRE INSULATION AND LACING STRING TIE
+
+11-159. INSULATION TAPE. Insulation
+tape should be of a type suitable for the application, or as specified for that particular use.
+Insulation tape should be used primarily as a
+filler under clamps and as secondary support.
+Nonadhesive tape may be used to wrap around
+wiring for additional protection, such as in
+wheel wells. All tape should have the ends
+tied or otherwise suitably secured to prevent
+unwinding. Tape used for protection should be
+applied so that overlapping layers shed liquids.
+Drainage holes should be provided at all trap
+points and at each low point between clamps.
+Plastic tapes, that absorb moisture or have
+volatile plasticizers that produce chemical reactions with other wiring, should not be used.
+(Reference MIL-W-5088.)
+[FIG 11-15] Single cord lacing.
+[FIG 11-16] Double cord lacing.
+[FIG 11-17] Making ties.
+11-160.11-166.
+[RESERVED.]
+SECTION 13. SPLICING.

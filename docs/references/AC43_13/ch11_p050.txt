@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 4: INSPECTION OF CIRCUIT-PROTECTION DEVICES
+
+11-50. RESETTABLE CIRCUIT PROTECTION DEVICES.
+a. All resettable type circuit breakers
+must open the circuit irrespective of the position of the operating control when an overload
+or circuit fault exists. Such circuit breakers are
+referred to as “trip free.”
+b. Automatic reset circuit breakers, that
+automatically reset themselves periodically, are
+not recommended as circuit protection devices
+for aircraft.
+11-50. OPERATING CONDITIONS FOR
+SWITCHES AND RELAYS. Switches and
+relays should be compared to their specification rating to ensure that all contacts are made
+properly under all conditions of operation, including vibration equivalent to that in the area
+of the aircraft in which the switch or relay is to
+be installed.
+11-57.11-65.
+[RESERVED.]
+SECTION 5. ELECTRICAL WIRE RATING

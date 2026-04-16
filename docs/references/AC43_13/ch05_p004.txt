@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 1: GENERAL
+
+5-4. TRAINING, QUALIFICATION, AND
+CERTIFICATION. The success of any NDI
+method and procedure depends upon the
+knowledge, skill, and experience of the NDI
+personnel involved. The person(s) responsible
+for detecting and interpreting indications, such
+as eddy current, X-ray, or ultrasonic NDI, must
+be qualified and certified to specific FAA, or
+other acceptable government or industry standards, such as MIL-STD-410, Nondestructive
+Testing Personnel Qualification and Certification, or Air Transport Association (ATA)
+Specification 105-Guidelines for Training and
+Qualifying Personnel in Nondestructive Testing Methods. The person should be familiar
+with the test method, know the potential types
+of discontinuities peculiar to the material, and
+be familiar with their effect on the structural
+integrity of the part.

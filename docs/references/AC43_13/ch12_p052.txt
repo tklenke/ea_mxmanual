@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-52. SYSTEM COMPONENTS. The
+conventional design of the pitot system consists of pitot-static tubes or pitot tubes with
+static pressure parts and vents, lines, tubing,
+water drains and traps, selector valves, and
+various pressure-actuated indicators or control
+units such as the altimeter, airspeed and rateof-climb indicators, and the encoding altimeter
+connected to the system. (See figure 12-5.)
+Figure 12-5. Pitot/static system for a small aircraft.

@@ -1,0 +1,50 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 19: PROTECTION OF UNUSED CONNECTORS
+
+11-263. PRESSURIZED AREAS. Connectors installed in pressurized areas of the
+aircraft may be divided into two main installation categories, sealed and unsealed.
+a. Sealed connector installations. Sealed
+connectors installed in pressurized areas must
+have their unused contact cavities filled with
+Teflon sealing plugs or rods. (See figure 11-40.) Installation of spare contacts is
+optional, except for future wiring addition requirements. (See paragraph 11-234). No stub
+wires are required.
+b. Unsealed Connector Installations. It
+is not required to fill unused contact cavities of
+unsealed connectors installed in pressurized
+areas with Teflon sealing plugs or rods. Installation of spare contacts is optional, except
+for future wiring addition requirements. (See
+paragraph 11-234.)
+[TABLE 11-25] Contact cavity sealing-quick reference.
+Connector Installation Types
+Sealing Means
+Firewall Non-Firewall
+Sealing Plugs or
+Teflon Sealing Rods No
+Stub Wires (Note 2) Yes
+Spare Contacts Yes
+NOTE 1: Sealing plugs may be included with the spare connector
+ing rods are procured from stock by the foot. (See table 11-26
+NOTE 2: Stub wires must be of the same type as the other wires
+[FIG 11-39] Stub wire installation.
+[TABLE 11-26] Sealing rod dimensions.
+CONTACT SIZE DIAMETER
+(AWG) (INCHES)
+20 1/16
+16 3/32
+12 1/8
+[FIG 11-40] Sealing unused contact cavities-unpressurized
+11-264.11-270.
+[RESERVED.]
+Unpressurized Area
+Yes
+No
+Yes
+and may be used for sealing unused contacts. Sealfor sealing rod dimensions.)
+of the bundle.
+ROD LENGTH (INCHES)
+MIN MAX
+5/8” 3/4”
+7/8” 1”
+7/8” 1”
+areas-(cut-away view).
+SECTION 20. ELECTRICAL

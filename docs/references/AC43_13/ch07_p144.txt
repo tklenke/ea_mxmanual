@@ -1,0 +1,55 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-144. NONFLEXIBLE CABLES. (Refer
+to table 7-4 and figure 7-9.) Nonflexible, preformed, carbon steel cables, MIL-W-87161,
+composition A, are manufactured by the same
+processes as MIL-W-83420, composition B,
+flexible corrosion-resistant steel cables. The
+nonflexible steel cables are of the 1 by 7
+(Type I) or 1 by 19 (Type II) construction according to the diameter as specified in table 7-4. The 1 by 7 cable consists of six
+[FIG 7-8] Flexible cable cross section.
+[TABLE 7-4] Nonflexible cable construction and physical
+NOMINAL ALLOWABLE MIL-W-87161
+DIAMETER TOLERANCE INCREASE MINIMUM
+STRAND
+OF ON IN BREAK
+TYPE
+WIRE DIAMETER DIAMETER STRENGTH
+STRAND (Plus Only) AT THE END COMP A & B
+In. In. In. Lbs.
+I 1/32 0.003
+I 3/64 0.005
+II 3/64 0.005
+I 1/16 0.006
+II 1/16 0.006
+II 5/64 0.008
+II 3/32 0.009
+II 7/64 0.009
+II 1/8 0.013
+II 5/32 0.013
+II 3/16 0.013
+II 7/32 0.015
+II 1/4 0.018
+II 5/16 0.022
+II 3/8 0.026
+[FIG 7-9] Nonflexible cable cross section.
+wires laid around a center wire in a counterclockwise direction. The 1 by 19 cable consists of a layer of six wires laid around a center
+wire in a clockwise direction plus twelve wires
+laid around the inner strand in a counterclockwise direction.
+properties.
+CONSTRUCTION
+0.006 1 x 7 185
+0.008 1 x 7 375
+0.008 1 x 19 375
+0.009 1 x 7 500
+0.009 1 x 19 500
+0.009 1 x 19 800
+0.010 1 x 19 1,200
+0.010 1 x 19 1,600
+0.011 1 x 19 2,100
+0.016 1 x 19 3,300
+0.019 1 x 19 4,700
+0.020 1 x 19 6,300
+0.021 1 x 19 8,200
+0.024 1 x 19 12,500
+0.027 1 x 19 17,500

@@ -1,0 +1,47 @@
+AC 43.13-1B  Chapter 3: FIBERGLASS AND PLASTICS  Section 3: TRANSPARENT PLASTICS
+
+3-24. REPAIR OF PLASTICS. Replace,
+rather than repair extensively damaged transparent plastic, whenever possible, since even a
+carefully patched part is not the equal of a new
+section, either optically or structurally. At the
+first sign of crack development, drill a small
+hole with a # 30 or a 1/8-inch drill at the extreme ends of the cracks as shown in figure 3-21. This serves to localize the cracks
+and to prevent further splitting by distributing
+the strain over a large area. If the cracks are
+small, stopping them with drilled holes will
+usually suffice until replacement or more permanent repairs can be made. The following
+repairs are permissible; however, they are not
+to be located in the pilot’s line of vision during
+landing or normal flight.
+[FIG 3-21] Stop-drilling cracks.
+a. Surface Patch. If a surface patch is to
+be installed, trim away the damaged area and
+round all corners. Cut a piece of plastic of sufficient size to cover the damaged area and extend at least 3/4 inch on each side of the crack
+or hole. Bevel the edges as shown in figure 3-22. If the section to be repaired is
+curved, shape the patch to the same contour by
+heating it in an oil bath at a temperature of
+°F,
+248 to 302 or it may be heated on a
+hot-plate until soft. Boiling water should not
+be used for heating. Coat the patch evenly
+with plastic solvent adhesive and immediately
+place it over the hole. Maintain a uniform
+pressure of 5 to 10 psi on the patch for a
+minimum of 3 hours. Allow the patch to dry
+24 to 36 hours before sanding or polishing.
+b. Plug Patch. When using inserted
+patches to repair holes in plastic structures,
+trim the holes to a perfect circle or oval and
+bevel the edges slightly. Make the patch
+slightly thicker than the material being
+[FIG 3-22] Surface patches.
+repaired and similarly bevel its edges. Install
+patches in accordance with figure 3-23. Heat
+the plug until soft and press it into the hole
+without cement and allow to cool to make a
+perfect fit. Remove the plug, coat the edges
+with adhesive, and then reinsert in the hole.
+Maintain a firm light pressure until the cement
+has set. Sand or file the edges level with the
+surface, then buff and polish.
+[FIG 3-23] Plug patch repair.

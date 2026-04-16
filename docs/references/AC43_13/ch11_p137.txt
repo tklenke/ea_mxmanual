@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 10: SERVICE LOOP HARNESSES (PLASTIC TIE STRIPS)
+
+11-137. ANTI-CHAFING MATERIAL.
+When service loops are likely to be in contact
+with each other, expandable sleeving or
+equivalent chafe protection jacket material
+must be installed over service loop harnesses
+to prevent harness-to-harness chafing. The
+sleeve should be held in place with string ties
+at 6 to 8-inch intervals. Harness identification
+labels should be installed, with string tie,
+within 3 inches of the service loop harness installation.

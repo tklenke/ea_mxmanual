@@ -1,0 +1,45 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-17. DISASSEMBLE THE WHEEL in
+Safe
+Approach Area
+Danger Danger
+Do not stand or Do not stand or
+approach here approach here
+Safe
+Approach Area has been completely deflated. Valve cores will
+Personnel should wear protective eye gear to
+reduce the risk of eye injury due to inflation
+and deflation of tires.
+[FIG 9-7] Examples of tread wear indicating overinflation and under-inflation.
+NOTE: The use of nitrogen to inflate
+tires is recommended. Do not use
+oxygen to inflate tires. Deflate tires
+prior to removing them from the aircraft or when built-up tire assemblies
+are being shipped.
+accordance with aircraft manufacturer’s instructions.
+Do not attempt to disassemble wheel until the
+tire has been completely deflated: otherwise
+serious injury or damage to equipment can result.
+Do not attempt to remove valve core until tire
+eject at high velocity if unscrewed before air
+pressure has been released.
+Never attempt to remove wheel bolts or break
+tire beads loose until tire has been completely
+deflated: otherwise, explosive separation of
+wheel components will result.
+Do not pry between wheel flanges and tire
+beads as this can damage the wheel and tire.
+Use caution when removing wheel bolts or
+nuts.
+Remove tire from wheel using a wheel demounting fixture.
+Valve stem, fusible plugs, wheel keys, heat
+shields, balance weights, and associated hardware should not be removed if demountable
+flange only is to be removed for tire change.
+Fusible plugs and bearing cups should not be
+removed unless replacement is necessary, if
+paint is to be stripped, or if a thorough inspection of the wheel is to be made.
+When removal and replacement of fusible
+plugs is required, remove by pressing out with
+a blunt instrument such as a wooden rod. Exercise caution to ensure wheel sealing surfaces
+are not damaged.

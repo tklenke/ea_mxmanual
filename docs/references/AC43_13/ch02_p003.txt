@@ -1,0 +1,32 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-3. AIRCRAFT FABRIC-SYNTHETIC.
+a. STC-Approved Covering Materials.
+There is a wide selection of STC-approved
+covering materials available which utilize
+synthetic fabric falling within the generic class
+“Polyester” and may vary in characteristics.
+Difference in the fabric may be denier, tenacity, thread count, weight, shrink, tension, and
+weave style.
+b. Polyester Filaments. Polyester Filaments are manufactured by polymerization of
+various select acids and alcohols, then extruding the resulting molten polymers through
+spinnerets to form filaments. The filaments
+are heat stretched to reduce to the desired
+denier or size. It is the heat stretching that imparts a memory in the filaments causing them
+to try and return to their original shorter length
+when reheated at a controlled temperature.
+Overheating will cancel the memory and melt
+the filaments.
+c. Covering Procedures. Coating types,
+covering accessories, and covering procedures
+also may vary; therefore, the covering procefollowed to comply with the STC. The FAA
+STC-approved installation takes precedence
+over instructions in this advisory circular.
+d. Installation. Initial installation of
+polyester fabric is similar to natural fabric.
+The fabric is installed with as little slack as
+possible, considering fittings and other protrusions. It may be sewn into an envelope, installed as a blanket, or installed by cementing
+to the airframe with a fabric cement. Each
+STC may differ in the cement seam overlap,
+type of sewn seam, heat shrinking procedures,
+and temperature.

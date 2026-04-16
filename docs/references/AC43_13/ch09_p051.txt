@@ -1,0 +1,121 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 3: EMERGENCY EQUIPMENT
+
+9-51. SERVICE OXYGEN CYLINDERS.
+REQUIREMENTS (Ref 49 CFR 173.34 e,
+16). Standard-weight cylinders must be hydrostatic tested at the end of each 5-year period
+(10 years if it meets the requirements in 49
+CFR 173.34 e, 16). This is a Department of
+Transportation (DOT) requirement. Thesecylinders carry an ICC or DOT 3AA 1800
+classification and are suitable for the use intended.
+Lightweight cylinders must be hydrostatic
+tested every 3 years, and must be retired from
+service after 24 years or 4,380 pressurizations,
+whichever occurs first. These cylinders carry
+an ICC or DOT 3 HT 1850 classification and
+must be stamped with the approval after being
+inspected. (Ref. 49 CFR 173.34 e, 15).
+CAUTION: Use only aviation
+breathing oxygen when having the
+oxygen bottle charged.
+a. Charging High-Pressure Oxygen
+Cylinders. The following are recommended
+cylinders from a manifold system, either permanently-installed or trailer-mounted.
+CAUTION: Never attempt to charge
+a low-pressure cylinder directly from
+a high-pressure manifold system or
+cylinder.
+(1) Inspection. Do not attempt to
+charge oxygen cylinders if any of the following
+discrepancies exist:
+(a) Inspect for contaminated fittings
+on the manifold, cylinder, or outside filler
+valve. If cleaning is needed, wipe with stabilized trichlorethylene and let air dry. Do not
+permit the solvent to enter any internal parts.
+(b) Check the hydrostatic test date of
+the cylinder. DOT regulations require ICC or
+DOT 3AA 1800 designation cylinders to be
+hydrostatic tested to 5/3 their working pressure, every 5 years (10 years if they meet the
+requirements in 49 CFR 173.34,e, 16).
+Cylinders bearing designation ICC or
+DOT 3HT 1850 (Ref. 49 CFR 173.34,e, 15)
+must be hydrostatic tested to 5/3 their working
+pressure every 3 years, and retired from service
+24 years or 4,380 filling cycles after the date of
+manufacture, whichever occurs first.
+(c) If the cylinder is completely
+empty, do not charge. An empty cylinder must
+be removed, inspected, and cleaned before
+charging.
+(2) Charging.
+(a) Connect the cylinder valve outlet
+or the outside filler valve to the manifold.
+(b) Slowly open the valve of the
+cylinder to be charged and observe the pressure on the gauge of the manifold system.
+(c) Slowly open the valve of the cylinder on the manifold system having the lowest pressure and allow the pressure to equalize.
+(d) Close the cylinder valve on the
+manifold system and slowly open the valve of
+the cylinder having the next highest pressure.
+Continue this procedure until the cylinder has
+been charged in accordance with table 9-5.
+(e) Close all valves on the manifold
+system.
+(f) Close the valve on the filled cylinder and remove the cylinder from the manifold.
+(g) Using a leak detector, test for
+leakage around the cylinder valve threaded
+connections. (If leakage is present, discharge
+the oxygen and return the cylinder to the facility for repair.)
+(h) Let the cylinder stabilize for a period of at least 1 hour, and then recheck the
+pressure.
+(i) Make any necessary adjustments
+in the pressure.
+b. Charging of Low-Pressure Oxygen
+Systems and Portables. For recharging a
+low-pressure aircraft oxygen system, or portable cylinders, it is essential that the oxygen
+trailer or cart have a pressure-reducing regulator. Military types E-2 or C-1 reducing
+regulators are satisfactory. These types of
+regulators reduce the large cylinder pressure
+from 2,000 psi to a line pressure of 450 psi.
+(A welding pressure-reducing regulator is not
+satisfactory.)
+CAUTION: When refilling the lowpressure system or portable cylinders,
+open the oxygen filler tank valve
+slowly to allow the system or portable
+cylinders to be filled at a slow rate.
+After the refilling operation is completed, check for leaks with a leak detector. If a leak is detected, paragraph 9-49b(2)(d) should be referred
+to for corrective action.
+[TABLE 9-5] Table of filling pressures.
+Initial Temp Filling Pressure
+(°°°°
+F) (psi)
+0 1,650
+10 1,700
+20 1,725
+30 1,775
+40 1,825
+50 1,875
+60 1,925
+70 1,975
+80 2,000
+90 2,050
+100 2,100
+110 2,150
+120 2,200
+130 2,250
+Initial Temperature-Refers to the ambient temperature in the filling room.
+Filling Pressure-Refers to the pressure to which
+aircraft cylinders should be filled. This table gives
+approximations only, and assumes a rise in tem-
+°F.
+perature of approximately 25 due to the heat of
+compression. This table also assumes the aircraft
+cylinders will be filled as quickly as possible and
+that they will only be cooled by ambient air, with no
+water bath or other means of cooling being used.
+°F,
+Example: If ambient temperature is 70 fill aircraft cylinders to approximately 1,975 psi-as close
+to this pressure as the gauge may be read. Upon
+cooling, cylinders should have approximately
+1,850 psi pressure
+9-52.9-59.
+[RESERVED.]
+SECTION 4. CABIN INTERIOR

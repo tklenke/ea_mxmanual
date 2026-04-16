@@ -1,0 +1,45 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 1: INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+
+11-2. INSPECTION AND OPERATION
+CHECKS. Inspect equipment, electrical assemblies, and wiring installations for damage,
+general condition, and proper functioning to
+ensure the continued satisfactory operation of
+the electrical system. Adjust, repair, overhaul,
+and test electrical equipment and systems in
+accordance with the recommendations and
+procedures in the aircraft and/or component
+manufacturer’s maintenance instructions. Replace components of the electrical system that
+are damaged or defective with identical parts,
+with aircraft manufacturer’s approved equipment, or its equivalent to the original in operating characteristics, mechanical strength, and
+environmental specifications. A list of suggested problems to look for and checks (Refer
+to the glossary for a description of the check
+types) to be performed are:
+ELECTRICAL SYSTEMS
+CARE OF ELECTRICAL SYSTEMS
+a. Damaged, discolored, or overheated
+equipment, connections, wiring, and installations.
+b. Excessive heat or discoloration at high
+current carrying connections.
+c. Misalignment of electrically driven
+equipment.
+d. Poor electrical bonding (broken, disconnected or corroded bonding strap) and
+grounding, including evidence of corrosion.
+e. Dirty equipment and connections.
+f. Improper, broken, inadequately supported wiring and conduit, loose connections
+of terminals, and loose ferrules.
+g. Poor mechanical or cold solder joints.
+h. Condition of circuit breaker and
+fuses.
+i. Insufficient clearance between exposed
+current carrying parts and ground or poor insulation of exposed terminals.
+j. Broken or missing safety wire, broken
+bundle lacing, cotter pins, etc.
+k. Operational check of electrically operated equipment such as motors, inverters, generators, batteries, lights, protective devices,
+etc.
+l. Ensure that ventilation and cooling air
+passages are clear and unobstructed.
+m. Voltage check of electrical system
+with portable precision voltmeter.
+n. Condition of electric lamps.
+o. Missing safety shields on exposed
+high-voltage terminals (i.e., 115/200V ac).

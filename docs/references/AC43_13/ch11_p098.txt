@@ -1,0 +1,31 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-98. TERMINALS AND TERMINAL
+BLOCKS. Inspect to ensure that the following installation requirements are met:
+a. Insulating tubing is placed over terminals (except pre-insulated types) to provide
+electrical protection and mechanical support
+and is secured to prevent slippage of the tubing
+from the terminal.
+b. Terminal module blocks are securely
+mounted and provided with adequate electrical
+clearances or insulation strips between
+mounting hardware and conductive parts, except when the terminal block is used for
+grounding purposes.
+c. Terminal connections to terminal
+module block studs and nuts on unused studs
+are tight.
+d. Evidence of overheating and corrosion is not present on connections to terminal
+module block studs.
+e. Physical damage to studs, stud threads,
+and terminal module blocks is not evident.
+Replace cracked terminal strips and those
+studs with stripped threads.
+f. The number of terminal connections
+to a terminal block stud does not exceed four,
+unless specifically authorized.
+g. Shielding should be dead-ended with
+suitable insulated terminals.
+h. All wires, terminal blocks, and individual studs are clearly identified to correspond to aircraft wiring manuals.
+i. Terminations should be made using
+terminals of the proper size and the appropriate
+terminal crimping tools.

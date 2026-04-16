@@ -1,0 +1,59 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 5: INSPECTION OF PROPELLERS
+
+8-94. PROPELLER HUB.
+a. Fixed Pitch.
+(1) Inspection procedures require removal of the propeller spinner for examination
+of the prop hub area. Cracks may be present in
+the hub area between or adjacent to bolt holes
+and along the hub pilot bore. Cracks in these
+areas cannot be repaired and require immediate
+scrapping of the propeller.
+(2) Propeller attach bolts should be examined for looseness or an unsafetied or
+cracked condition. Cracked or broken bolts
+are usually the result of overtorquing. Correct
+torquing procedures require all bolt threads to
+be dry, clean, and free of any lubrication before torquing.
+b. Controllable Pitch.
+(1) Inspect controllable pitch propellers
+frequently to determine that all parts are lubricated properly. It is especially recommended
+that all lubrication be accomplished in accordance with the propeller manufacturer’s instructions.
+(2) Complete inspection/servicing requires the removal of the spinner for examination and servicing of the propeller hub and
+blade clamp area. All inspections and servicing of the pitch control mechanism should
+follow the recommendations of the propeller,
+engine, and airframe manufacturers. Propellers must be in compliance with applicable
+AD’s and manufacturer’s SB’s.
+(3) The hub, blade clamps, and pitch
+change mechanisms should be inspected for
+corrosion from all sources, including rain,
+snow, and bird droppings that may have entered through the spinner openings. Examine
+the hub area for oil and grease leaks, missing
+grease-fitting caps, and leaking or missing
+grease fittings.
+(4) Propeller domes should be checked
+for leaks, both at the seals and on the fill valve
+(if so equipped). The dome valve may be leaktested by applying soapy water over the fill
+valve end. Domes should be serviced only
+with nitrogen or dry air in accordance with the
+manufacturer’s recommendations. When propeller domes are inspected and found filled
+with oil, the propeller should be removed and
+inspected/repaired by an appropriately-rated
+repair facility.
+(5) It is especially recommended that all
+lubrication be accomplished at the periods and
+in the manner specified by the propeller manufacturer. On makes and models with a grease
+fitting on the hub, before greasing the hub remove the grease fitting opposite the one to
+which you are going to add grease. This will
+allow the excess grease and pressure to exit
+through the grease fitting hole rather than the
+hub seal.
+(6) Fiber-block, pitch-change mechanisms should be inspected for deterioration, fit,
+and the security of the pitch-clamp forks.
+(7) Certain models of full-feathering
+propellers use spring-loaded pins to retain the
+feathered blade position. Spring and pin units
+should be cleaned, inspected, and relubricated
+per the manufacturer’s recommendations and
+applicable AD’s.
+(8) Pitch change counterweights on
+blade clamps should be inspected for security,
+safety, and to ensure that adequate counterweight clearance exists within the spinner.

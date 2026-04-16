@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-1. GENERAL.
+a. The landing gear on aircraft may be
+fixed or retractable. A fixed gear may be
+wheels, floats, or skis; and for amphibians a
+combination of floats and wheels.
+b. Retractable gear on aircraft is usually
+operated with hydraulic or electric power, although some models of light general aviation
+aircraft have manual retract systems operated
+by a lever in the cockpit.
+(1) In addition to the normal operating
+system, emergency systems are usually provided to ensure that the landing gear can be
+lowered in case of main-system failure.
+(2) Emergency systems consist of
+backup hydraulic systems, or stored nitrogen
+gas bottles that can be directed into actuating
+cylinders, mechanical systems that can be operated manually, or free-fall gravity systems.

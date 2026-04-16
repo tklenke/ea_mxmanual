@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-54. STATIC PORTS AND VENTS
+(more modern trend) should be mounted flush
+with fuselage skin. One port is located on either side of the fuselage, usually behind the
+cabin.
+Inspect for elevation or depression of the port
+or vent fitting. Such elevation or depression
+may cause airflow disturbances at high speeds
+and result in erroneous airspeed and altitude
+indications.

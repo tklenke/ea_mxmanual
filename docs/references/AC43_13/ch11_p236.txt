@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-236. FEED-THROUGH BULKHEAD
+WIRE PROTECTION. Feed-through bushing protection should be given to wire bundles
+which pass through bulkheads, frames, and
+other similar structure. Feed-through bushings
+of hard dielectric material are satisfactory. The
+use of split plastic grommets (nylon) is recommended in lieu of rubber grommets in areas
+subject to fluids, since they eliminate the unsatisfactory features of rubber grommets and
+are resistant to fluids usually encountered in
+aircraft.

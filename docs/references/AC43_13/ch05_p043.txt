@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-43. ELECTRICAL MAGNETIZING
+EQUIPMENT. Stationary equipment in the
+range of 100 to 6000 amperes is normal for use
+within the aerospace industry for overhaul operations. Mobile equipment with similar amperage outputs is available for field examination of heavy structures, such as landing gear
+cylinders and axles. Small parts and local
+areas of large components can be adequately
+checked with the use of small, inexpensive
+permanent magnets or electromagnetic yokes.
+In procuring magnetizing equipment, the
+maximum rated output should be greater than
+the required examination amperage. Actual
+current flow through a complex part may be
+reduced as much as 20 percent by the resistance load of the rated output.

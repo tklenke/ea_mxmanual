@@ -1,0 +1,144 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-2. SPECIAL INSPECTION. A visual
+inspection is needed to determine the condition
+of the engine and its components. An annual
+or 100-hour inspection should include the engine and nacelle group as follows.
+a. Cold Cylinder Check. If an engine is
+running rough the cause may be a bad ignition
+lead, a spark plug not firing, a partially clogged
+fuel injector, or a bad magneto. The dead cylinder will be colder than the surrounding cylinders and can be quickly determined by using
+the recommended cold cylinder checks. This
+should be done using a thermocouple probe
+which is very sensitive to small differences in
+temperature, which is the case with a partiallyclogged injector. For a carbureted engine, the
+following check may be helpful:
+(1) Using experienced personnel, run
+the engine on the bad magneto for approximately 30 seconds at 1200 rpm. Without
+switching the magneto switch back to both
+shut off the engine. Have another mechanic
+use a grease pencil (non-carbon), and quickly
+mark each exhaust stack approximately 1 inch
+from the flange that holds the exhaust stack to
+the cylinder. Next, check the exhaust stacks
+and look for the exhaust stack whose grease
+EXHAUST, AND PROPELLERS
+pencil mark has not turned to a grayish-white
+or ash color. This is the cold cylinder.
+(2) The probable cause of the cold cylinder is either a defective spark plug or ignition lead. Switch spark plugs to another cylinder and run the test again. If the problem stays
+with the original cylinder, the problem is either
+the ignition lead or the magneto.
+b. Piston Engine Sudden Stoppage Inspection. Sudden stoppage is a very rapid and
+complete stoppage of the engine. It can be
+caused by engine seizure or by one or more of
+the propeller blades striking an object in such a
+way that rpm goes to zero in less than one
+complete revolution of the propeller. Sudden
+stoppage can cause internal damage to constant-speed propellers; reduction drive; gear
+train damage in the accessory section; crankshaft misalignment; or damage to accessories
+such as magnetos, generators, vacuum pumps,
+and tach generators.
+(1) Every engine that suffers a sudden
+stoppage must be inspected in accordance with
+the manufacturer’s maintenance instructions
+before being returned to service.
+(2) If the engine manufacturer does not
+provide the required information, then the engine case must be opened and every major
+component part must be inspected using visual
+and/or nondestructive inspection (NDI) procedures as applicable.
+(3) The sudden-stoppage inspections
+include: checking for cowling, spinner, and
+airframe cracks and hidden damage; and
+alignment of the engine mount to the airframe,
+the mounting hardware, isolation mounts, and
+bushings. The aircraft’s firewall must also be
+checked for distortion, cracks, and elongated
+bolt holes. The damaged propeller must be
+sent to an FAA-certificated repair station for
+complete NDI and repair.
+(4) Engine accessories such as: magnetos, starters, fuel pumps, turbochargers, alternators, or generators must be inspected in accordance with the manufacturer’s maintenance
+manual on sudden stoppage or overhaul procedures to determine the product’s airworthiness.
+c. Reciprocating Engine (Direct Drive).
+Preliminary inspection before tear down.
+(1) Remove the engine cowling and examine the engine for visible external damage
+and audible internal damage.
+(2) Rotate the propeller shaft to determine any evidence of abnormal grinding or
+rubbing sounds.
+(3) With the propeller removed, inspect
+the crankshaft flange or splines for signs of
+twisting, cracks, or other deformation. Remove the thrust-bearing nut and seal and thoroughly inspect the threaded area of the shaft
+for evidence of cracks.
+(4) Rotate the shaft slowly in 90-degree
+increments while using a dial indicator or an
+equivalent instrument to check the concentricity of the shaft.
+(5) Remove the oil sump drain plug and
+check for metal chips and foreign material.
+(6) Remove the oil screens and inspect
+for metal particles and contamination.
+(7) Visually inspect engine case exterior
+for signs of oil leaks and cracks. Give
+particular attention to the propeller thrustbearing area of the nose case section.
+(8) Inspect cylinders and cylinder holddown area for cracks and oil leaks. Thoroughly investigate any indication of cracks, oil
+leaks, or other damage.
+d. Internal Inspection Requirements.
+(1) On engines equipped with crankshaft vibration dampers, remove and inspect
+the cylinders, and inspect the crankshaft dampers in accordance with the engine manufacturer’s inspection and overhaul manual. When
+engine design permits, remove the damper
+pins, and examine the pins and damper liners
+for signs of nicks or brinelling.
+(2) After removing the engine-driven
+accessories, remove the accessory drive case
+and examine the accessory and supercharger
+drive gear train, couplings, and drive case for
+evidence of damage.
+(a) Check for cracks in the case in
+the area of accessory mount pads and gear
+shaft bosses.
+(b) Check the gear train for signs of
+cracked, broken, or brinelled teeth.
+(c) Check the accessory drive shaft
+couplings for twisted splines, misalignment,
+and run-out.
+(d) Check connecting rods for cracks
+and straightness.
+e. Reciprocating Engine (Gear-Drive).
+Inspect the engine, propeller, (refer to section 4
+on propeller inspection), and components as
+described in the preceding paragraphs.
+(1) Remove the propeller reduction gear
+housing and inspect for:
+(a) Loose, sheared, or spalled cap
+screws or bolts.
+(b) Cracks in the case.
+(2) Disassemble the gear train and inspect the propeller shaft, reduction gears and
+accessory drive gears for nicks, cracks, or
+spalling.
+f. Engine-Mount Inspection.
+(1) Examine the engine flex mounts
+when applicable, for looseness of engine to
+mount, distortion, or signs of wear.
+(2) Inspect the engine-mount structure
+for bent, cracked, or buckled tubes.
+(3) Check the adjacent airframe structure firewall for cracks, distortion, or wrinkles.
+(4) Remove engine-mount bolts and
+mount hold-down bolts and replace.
+g. Exhaust-driven Supercharger
+(Turbo) Inspection. Sudden stoppage of the
+powerplant can cause the heat in turbine parts
+to heat-soak the turbine seals and bearings.
+This excessive heat causes carbon to develop
+in the seal area and varnish to form on the turbine bearings and journals.
+(1) Inspect all air ducts and connections
+for air leaks, warpage, or cracks.
+(2) Remove compressor housing and
+check the turbine wheel for rubbing or binding,
+and coke or varnish buildup.
+NOTE: Turbine turbo supercharger
+disk seal rubbing is not unusual and
+may be a normal condition. Consult
+the engine manufacturer’s inspection
+procedures and table of limits.
+h. Accessory and Drive Inspection.
+Check the drive shaft of each accessory, i.e.,
+magnetos, generators, external superchargers,
+and pumps for evidence of damage.

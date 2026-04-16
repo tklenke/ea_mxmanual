@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-35. BOLTS. Most bolts used in aircraft
+structures are either general-purpose, internalwrenching, or close-tolerance AN, NAS, or
+MS bolts. In certain cases, fastener manufacturers produce bolts of different dimensions or
+greater strength than the standard types. Such
+bolts are made for a particular application,
+and it is of extreme importance to use like
+bolts in replacement. Design specifications
+are available in MIL-HDBK-5 or USAF/Navy
+T.O. 1-1A-8/NAVAIR 01-1A-8. References
+should be made to military specifications and
+industry design standards such as NAS, the
+Society of Automotive Engineers (SAE), and
+Aerospace Material Standards (AMS). Typical
+bolt types are shown in table 7-12.

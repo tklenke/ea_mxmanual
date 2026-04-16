@@ -1,0 +1,27 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 1: GENERAL
+
+5-3. NDT LEVELS. Reference Air Transport Association (ATA) Specification 105Guidelines For Training and Qualifying Personnel In Nondestructive Testing Methods.
+a. Level I Special.
+Initial classroom hours and on-the-job training
+shall be sufficient to qualify an individual for
+certification for a specific task. The individual
+must be able to pass a vision and color perception examination, a general exam dealing with
+standards and NDT procedures, and a practical
+exam conducted by a qualified Level II or
+Level III certificated person.
+b. Level I/Level II.
+The individual shall have an FAA Airframe
+and Powerplant Mechanic Certificate, complete the required number of formal classroom
+hours, and complete an examination.
+c. Level III.
+(1) The individual must have graduated
+from a 4 year college or university with a degree in engineering or science, plus 1 year of
+minimum experience in NDT in an assignment
+comparable to that of a Level II in the applicable NDT methods: or
+(2) The individual must have 2 years of
+engineering or science study at a university,
+college, or technical school, plus 2 years of
+experience as a Level II in the applicable NDT
+methods: or
+(3) The individual must have 4 years of
+experience working as a Level II in the applicable NDT methods and complete an examination.

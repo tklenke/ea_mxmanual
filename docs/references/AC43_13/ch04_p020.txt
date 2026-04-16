@@ -1,0 +1,49 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 2: TESTING OF METALS
+
+4-20. MICROHARDNESS TESTING.
+This is an indentation hardness test made with
+loads not exceeding 1 kg (1,000 g). Such
+hardness tests have been made with a load as
+light as 1 g, although the majority of microhardness tests are made with loads of 100 to
+500 g. In general, the term is related to the
+size of the indentation rather than to the load
+applied.
+a. Fields of Application. Microhardness
+testing is capable of providing information regarding the hardness characteristics of materials which cannot be obtained by hardness tests
+such as the Brinell or Rockwell, and are as
+follows.
+(1) Measuring the hardness of precision
+work pieces that are too small to be measured
+by the more common hardness-testing methods.
+(2) Measuring the hardness of product
+forms such as foil or wire that are too thin or
+too small in diameter to be measured by the
+more conventional methods.
+(3) Monitoring of carburizing or nitriding operations, which is sometimes accomplished by hardness surveys taken on cross
+sections of test pieces that accompanied the
+work pieces through production operations.
+(4) Measuring the hardness of individual microconstituents.
+(5) Measuring the hardness close to
+edges, thus detecting undesirable surface conditions such as grinding burn and decarburization.
+(6) Measuring the hardness of surface
+layers such as plating or bonded layers.
+b. Indenters. Microhardness testing can
+be performed with either the Knoop or the
+Vickers indenter. The Knoop indenter is used
+mostly in the United States; the Vickers indenter is the more widely used in Europe.
+(1) Knoop indentation testing is performed with a diamond, ground to pyramidal
+form, that produces a diamond-shaped indentation with an approximate ratio between long
+and short diagonals of 7 to 1. The indentation
+depth is about one-thirtieth of its length. Due
+to the shape of the indenter, indentations of accurately measurable length are obtained with
+light loads.
+(2) The Knoop hardness number (HK)
+is the ratio of the load applied to the indenter
+to the unrecovered projected area of indentation. The formula for this follows.
+HK= P/ A= P/ Cl2
+Where P is the applied load, in kg; A is the
+unrecovered projected area of indentation, in
+square mm; l is the measured length of the
+long diagonal, in mm; and C is 0.07028, a constant of the indenter relating projected area of
+the indentation to the square of the length of
+the long diagonal.

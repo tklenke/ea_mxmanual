@@ -1,0 +1,74 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-86. TYPES OF WELDING.
+a. Gas Welding. A fuel gas such as acetylene or hydrogen is mixed inside a welding
+torch with oxygen to produce a flame with a
+temperature of around 6,300 °F (3,482 ºC).
+This flame is used to melt the materials to be
+welded. A filler rod is melted into the puddle
+of molten metal to reinforce the weld. When
+highly-reactive metals such as aluminum are
+gas welded, they must be covered with flux to
+exclude oxygen from the molten metal and
+keep oxides from forming which would decrease the strength of the weld. (An illustration
+of a carburizing flame, a neutral flame, and an
+oxidizing flame is shown in figure 4-28.)
+b. Shielded Metal Arc Welding (SMAW).
+This method is the most familiar and common
+type and is known in the trade as stick welding. A metal wire rod coated with a welding
+flux is clamped in an electrode holder connected to the power supply with a heavy electrical cable. The metal to be welded is also
+attached to the power supply. The electrical
+power is supplied to the work at a low voltage
+[FIG 4-28] Basic gas-welding flames: Each has distinctive shape, color and sound. Neutral flame is the
+most used.
+and high current and may be either AC or DC,
+depending upon the type of welding being
+done. An arc is struck between the rod and the
+work and produces heat in excess of
+10,000 °F, which melts both the material and
+the rod. As the flux melts, it releases an inert
+gas which shields the molten puddle from
+oxygen in the air and prevents oxidation. The
+molten flux covers the weld and hardens to an
+airtight slag cover that protects the weld bead
+as it cools. This slag must be chipped off to
+examine the weld.
+c. Gas Metal Arc Welding (GMAW). This
+method of welding was formerly called Metal
+Inert Gas (MIG) welding and is an improvement over stick welding because an uncoated
+wire electrode is fed into the torch and an inert
+gas such as argon, helium, or carbon dioxide
+flows out around the wire to protect the puddle
+from oxygen. The power supply connects
+between the torch and the work, and the arc
+produces the intense heat needed to melt the
+work and the electrode. Low-voltage highcurrent DC is used almost exclusively with
+GMAW welding. GMAW is used more for
+large-volume production work than for aircraft
+repair.
+d. Gas Tungsten Arc Welding (GTAW).
+This is the form of electric arc welding that
+fills most of the needs in aircraft maintenance.
+It is more commonly known as Tungsten Inert
+Gas (TIG) welding and by the trade names of
+Heliarc or Heliweld. These trade names were
+derived from the fact that the inert gas originally used was helium.
+(1) Rather than using a consumable electrode
+such as is used in both of the other two methods we have discussed, the electrode in TIG
+welding is a tungsten rod. (In earlier procedures using this form of welding, a carbon
+electrode was used, but it has been replaced
+almost exclusively with tungsten.)
+(2) The 250+ amp arc between the electrode
+and the work melts the metal at 5,432 ºF, and
+a filler rod is manually fed into the molten
+puddle. A stream of inert gas such as argon or
+helium flows out of the torch and envelopes
+the arc, thereby preventing the formation of
+oxides in the puddle.
+(3) The versatility of TIG welding is increased by the power supply that is used. Direct current of either polarity or alternating
+current may be used. (See figures 4-29
+and 4-30.)
+[FIG 4-29] Set TIG welder to DC current, straight
+polarity for welding mild steel, stainless steel and titanium
+[FIG 4-30] Set TIG to AC current for welding
+aluminum and magnesium.

@@ -1,0 +1,72 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-56. SETBACK.
+a. Setback is a measurement used in sheet
+metal layout. It is the distance the jaws of a
+brake must be setback from the mold line to
+form a bend. For a 90 degree bend, the point
+is back from the mold line to a distance equal
+to the bend radius plus the metal thickness.
+The mold line is an extension of the flat side of
+a part beyond the radius. The mold line dimension of a part, is the dimension made to
+the intersection of mold lines, and is the dimension the part would have if its corners had
+no radius. (See figure 4-2.)
+[FIG 4-2] Setback for a 90-degree bend.
+[TABLE 4-6] Recommended radii for 90-degree bends in aluminum
+Alloy and Approximate
+temper 0.016 0.032 0.064
+2024-01 0 0-1t 0-1t
+2024-T31, 2 1½t-3t 2t-4t 3t-5t
+2024-T61 2t-4t 3t-5t 3t-5t
+5052-0 0 0 0-1t
+5052-H32 0 0 ½t-1t
+5052-H34 0 0 ½t-1½t
+5052-H36 0-1t ½t-1½t 1t-2t
+5052-H38 ½t-1½t 1t-2t 1½t-3t
+6061-0 0 0-1t 0-1t
+6061-T4 0-1t 0-1t ½t-1½t
+6061-T6 0-1t ½t-1½t 1t-2t
+7075-0 0 0-1t 0-1t
+7075-T61 2t-4t 3t-5t 4t-6t
+1 Alclad sheet may be bent over slightly smaller radii than
+2 Immediately after quenching, this alloy may be formed
+b. To determine setback for a bend of
+more or less than 90 degrees, a correction
+known as a K-factor must be applied to find
+the setback.
+(1) Table 4-7 shows a chart of
+K-factors. To find the setback for any degree
+of bend, multiply the sum of the bend radius
+and metal thickness by the K-value for the angle through which the metal is bent.
+(2) Figure 4-3 shows an example of a
+piece of 0.064 inch sheet metal bent
+through 45 degrees to form an open angle
+of 135 degrees. For 45 degrees, the K-factor
+is 0.41421. The setback, or the distance from
+the mold point to the bend tangent line, is:
+Setback = K(BR + MT)
+= 0.41421 (0.25 + 0.064)
+= 0.130 inches
+alloys.
+sheet thickness (t) (inch)
+0.128 0.182 0.258
+0-1t 0-1t0-1t 0-1t
+4t-6t 4t-6t 5t-7t
+4t-6t 5t-7t 6t-10t
+0-1t 0-1t 0-1t
+½t-1½t ½t-1½t ½t-1½t
+1½t-2½t 1½t-2½t 2t-3t
+1½t-3t 2t-4t 2t-4t
+2t-4t 3t-5t 4t-6t
+0-1t 0-1t 0-1t
+1t-2t 1½t-3t 2½t-4t
+1½t-3t 2t-4t 3t-4t
+½t-1½t 1t-2t 1½t-3t
+5t-7t 5t-7t 6t-10t
+the corresponding tempers of uncoated alloy.
+over appreciably smaller radii.
+(3) If a closed angle of 45 degrees is
+formed, the metal must be bent
+through 135 degrees. The K-factor for 135 degrees is 2.4142, so the setback, or distance
+from the mold point to the bend tangent line, is
+0.758 inch.

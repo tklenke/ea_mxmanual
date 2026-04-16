@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-103. REPAIRS TO WELDED ASSEMBLIES. These repairs may be made by the
+following methods.
+a. A welded joint may be repaired by cutting out the welded joint and replacing it with
+one properly gusseted. Standard splicing procedures should be followed.
+A- Minimum Length of Sleeve.
+B- Streamline Tube Length of Minor Axis.
+C- Streamline Tube Length of Major Axis.
+S.L. Size A B C
+1” 7.324 .572 1.340
+1-¼ 9.128 .714 1.670
+1-½ 10.960 .858 2.005
+1-¾ 12.784 1.000 2.339
+2 14.594 1.144 2.670
+2-¼ 16.442 1.286 3.008
+2-½ 18.268 1.430 3.342
+[FIG 4-43] Streamline tube splice using split sleeve
+members).
+b. Replacing weld deposit by chipping out
+the metal deposited by the welding process and
+rewelding after properly reinforcing the joint
+by means of inserts or external gussets.

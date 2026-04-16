@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 8: TAP TESTING
+
+5-105. GENERAL. Tap testing is widely
+used for a quick evaluation of any accessible
+aircraft surface to detect the presence of delamination or debonding.
+a. The tap testing procedure consists of
+lightly tapping the surface of the part with a
+coin, light special hammer with a maximum of
+2 ounces (see figure 5-22), or any other suitable object. The acoustic response is compared with that of a known good area.
+b. A “flat” or “dead” response is considered unacceptable. The acoustic response of a
+good part can vary dramatically with
+[FIG 5-22] Sample of special tap hammer.
+5-106.5-111.
+[RESERVED.]
+SECTION 9. ACOUSTIC-EMISSION

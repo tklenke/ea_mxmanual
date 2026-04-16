@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-195. STATIC-DISCHARGE DEVICE.
+Means should be provided to bleed accumulated static charges from aircraft prior to
+ground personnel coming in contact with an
+aircraft after landing. Normally, there is adequate conductivity in the tires for this, but if
+not, a static ground should be applied before
+personnel come into contact with the aircraft.
+Fuel nozzle grounding receptacles should be
+installed in accordance with the manufacturer’s specifications. Grounding receptacles
+should provide a means to eliminate the staticinduced voltage that might otherwise cause a
+spark between a fuel nozzle and fuel tank access covers and inlets. In addition, static discharging wicks are installed on wings and tail
+surfaces to discharge static changes while in
+flight.

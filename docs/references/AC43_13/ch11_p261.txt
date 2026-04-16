@@ -1,0 +1,6 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 19: PROTECTION OF UNUSED CONNECTORS
+
+11-261. QUICK REFERENCE CHART.
+A quick reference chart of unused connector
+contact cavity requirements is given in table 11-25. These requirements apply to harness manufacturing or connector replacement
+only.

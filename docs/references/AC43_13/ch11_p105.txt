@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-105. SYSTEM SEPARATION. Wires
+of redundant aircraft systems should be routed
+in separate bundles and through separate connectors to prevent a single fault from disabling
+multiple systems. Wires not protected by a
+circuit-protective device, such as a circuit
+breaker or fuse, should be routed separately
+from all other wiring. Power feeders from
+separate sources should be routed in separate
+bundles from each other and from other aircraft wiring, in order to prevent a single fault
+from disabling more than one power source.
+The ground wires from aircraft power sources
+should be attached to the airframe at separate
+points so that a single failure will not disable
+multiple sources. Wiring that is part of electro-explosive subsystems, such as cartridgeactuated fire extinguishers, rescue hoist shear,
+and emergency jettison devices, should be
+routed in shielded and jacketed twisted-pair
+cables, shielded without discontinuities, and
+kept separate from other wiring at connectors.
+To facilitate identification of specific separated
+system bundles, use of colored plastic cable
+ties or lacing tape is allowed. During aircraft
+maintenance, colored plastic cable straps or
+lacing tape should be replaced with the same
+type and color of tying materials.

@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-40. GENERAL. Magnetic particle inspection is a method for detecting cracks, laps,
+seams, voids, pits, subsurface holes, and other
+surface, or slightly subsurface, discontinuities
+in ferro-magnetic materials. Magnetic particle
+inspection can be used only on ferro-magnetic
+materials (iron and steel). It can be performed
+on raw material, billets, finished and semifinished materials, welds, and in-service assembled or disassembled parts. Magnetic particles are applied over a surface either dry, as a
+powder, or wet, as particles in a liquid carrier
+such as oil or water.
+Common uses for magnetic particle inspection
+are; final inspection, receiving inspection, inprocess inspection; and quality control, maintenance, and overhaul.

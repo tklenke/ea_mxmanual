@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-146. CABLE PROOF LOADS. Cable
+terminals and splices should be tested for
+proper strength before installation. Gradually
+apply a test load equal to 60 percent of the cable-breaking strengths given in table 7-3 and
+table 7-4, for a period of 3 minutes. Place a
+suitable guard over the cable during the test to
+prevent injury to personnel in the event of cable failure.

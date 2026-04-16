@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 8: ALUMINUM AND ALUMINUM ALLOYS
+
+6-132. GENERAL. Aluminum and aluminum alloys are the most widely used material
+for aircraft construction. Aluminum appears
+high in the electro-chemical series of elements
+and corrodes very easily. However, the formation of a tightly-adhering oxide film offers increased resistance under most corrosive conditions. Most metals in contact with aluminum
+form couples that undergo galvanic corrosion
+attack. The alloys of aluminum are subject to
+pitting, intergranular corrosion and intergranular stress corrosion cracking. In some
+cases the corrosion products of metal in contact with aluminum are corrosive to aluminum.
+Therefore, aluminum and its alloys must be
+cleaned and protected.

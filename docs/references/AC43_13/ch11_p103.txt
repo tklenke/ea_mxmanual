@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-103. JUNCTIONS. Ensure that only aircraft manufacturer approved devices, such as
+solderless type terminals, terminal blocks,
+connectors, disconnect splices, permanent
+splices, and feed-through bushings are used for
+cable junctions. Inspect for the provisions
+outlined below:
+a. Electrical junctions should be protected from short circuits resulting from
+movement of personnel, cargo, cases, and
+other loose or stored materials. Protection
+should be provided by covering the junction,
+installing them in junction boxes, or by locating them in such a manner that additional protection is not required, etc.
+b. Exposed junctions and buses should
+be protected with insulating materials. Junctions and buses located within enclosed areas
+containing only electrical and electronic
+equipment are not considered as exposed.
+c. Electrical junctions should be mechanically and electrically secure. They should
+not be subject to mechanical strain or used as a
+support for insulating materials, except for insulation on terminals.

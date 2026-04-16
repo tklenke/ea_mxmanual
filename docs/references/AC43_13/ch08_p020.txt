@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-20. MAGNETO-TO-ENGINE TIMING.
+While the actual process of timing magnetos to
+an engine is covered in the engine manufacturer’s technical manuals, the following general procedures may be applied.
+a. Before installing a new magneto, the
+correct “E” gap setting specified by the magneto manufacturer should be verified.
+b. When setting or checking the magneto-to-engine timing, always turn the crankshaft steadily in the normal direction of rotation to eliminate any error caused by gear
+backlash.
+c. Recheck magneto-to-engine timing
+after any point-gap adjustment, or after replacement of the breaker points.
+d. Never advance the magneto timing
+beyond the engine timing specification recommended by the engine manufacturer.
+e. The possibility of a timing error exists if a timing indicator which attaches to the
+propeller shaft or spinner of geared engines is
+used. Engine timing specifications are always
+given in degrees of crankshaft travel and cannot be applied directly to geared propeller
+shafts because of the gear ratio. Therefore, the
+correct position of the propeller shaft, if used
+for timing, must be determined by multiplying
+the crankshaft timing angle in degrees before
+top center (BTC) by the propeller gear ratio.
+8-21.8-29.
+[RESERVED.]
+SECTION 2. FUEL SYSTEMS

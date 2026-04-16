@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-152. CABLE MAINTENANCE. Frequent inspections and preservation measures
+such as rust-prevention treatments for bare
+carbon steel cable areas, will help to extend
+cable service life. Where cables pass through
+fair-leads, pressure seals, or over pulleys, remove accumulated heavy coatings of corrosion-prevention compound. Provide corrosion
+protection for these cable sections by lubricating with a light coat of grease or generalpurpose, low-temperature oil.

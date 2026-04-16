@@ -1,0 +1,167 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 2: APPLICATION OF DOPE
+
+2-21. DOPE APPLICATION PROCEDURE (Natural Fabrics).
+a. Step 1. After the cotton or linen fabric
+is installed in accordance with the procedures
+specified in paragraphs 2-7 and 2-8, the fabric
+is wetted with distilled water to remove wrinkles and fold creases, which will show in a
+gloss finish. Water may be applied by rubbing
+with a clean sponge or rag, or by using a paint
+spray gun. Do not use tap water. It may contain minerals which will contaminate the fabric.
+(1) As water is absorbed by the fibers,
+the threads swell, resulting in temporary
+tauting of the fabric panel. The fabric should
+be allowed to dry before dope application, otherwise the water in the fibers will interfere
+with the dope penetration and adhesion.
+(2) After the fabric has dried, the first
+coat of dope is applied, brushing in one direction to set the nap with a clean, non-shedding,
+2-to 6-inch wide, semi-soft, long bristle paint
+brush.
+(3) To offset the deteriorating effect of
+mildew or other fungus on natural fibers, especially in damp climates, it is recommended that
+a fungicide be added to the first coat of dope.
+The preferred fungicide is zinc dimethyldithiocarbamate powder, which should be prepared
+per the manufacturer’s instructions. If no
+manufacturer’s instructions are available the
+zinc powder may be stirred in at a ratio of
+4 ounces, to one gallon of un-thinned nitrate or
+butyrate dope, after the powder is wetted to a
+paste with a 50/50 ratio of dope and thinner.
+(4) Pre-mixed fungicidal dope, manufactured in accordance with the formula specified in MIL-D-7850, will have a transparent
+purple tint to indicate the fungicide additive.
+Dope manufactured with other colors to
+identify the manufacturers’ products sold under proprietary trade names may or may not
+have a fungicidal additive.
+(5) The viscosity of the dope should be
+adjusted to uniformly wet the fabric, indicated
+by the fabric becoming translucent so that it
+penetrates through the fabric but does not drip
+or run down the opposite side. Any dope-runs
+or pooling on the opposite side will shrink and
+distort the fabric, and may be visible on the
+finished surface.
+(6) The ideal temperature for application
+of dope or other coatings is 65 to 75 F and the
+humidity should be less than 65 percent. As a
+general rule, each 10 F increase or decrease in
+ambient temperature will increase or decrease
+drying time by 100 percent. Dope should be
+allowed to warm to room temperature prior to
+attempting to adjust the viscosity.
+b. Step 2. Depending upon the quality of
+the dope and the ratio of thinning, the fabric
+should start to become taut after the first
+brushed coat of dope has dried approximately
+°F.
+1 hour at 70 A second, heavier coat is ap90°F=to
+plied by cross brushing at the first
+coat. Viscosity should be adjusted only as
+necessary to brush out a heavy uniform coat.
+If the fabric is not taut, with all sag removed,
+after the second coat has dried approximately
+2 hours, a third coat may be applied.
+c. Step 3. After the fabric has become
+semi-taut and stabilized with the initial dope
+application, and the rib lacing and other fabric
+attachments are completed as detailed in paragraphs 2-9 through 2-12, it is ready for
+“dressing out” as described in paragraphs 2-13
+and 2-14.
+d. NOTE: “Dressing out” means applying
+all the finishing tapes, reinforcing patches, inspection access ports, and drain grommets, etc.
+Par 2-21
+e. Step 4. After the covering is a dressed
+out, one or more coats of clear dope are
+brushed over all finishing tapes and fabric reinforcing patches. This will balance the thickness of the dope film with the previously
+coated areas of the fabric. It is very important
+that the porosity of the fabric be filled while
+brushing to avoid pinholes showing in the finish.
+f. Step 5. After drying at least 2 hours at
+°F,
+70 a third heavy coat of clear dope is applied over the entire surface, preferably with a
+paint spray gun if brush marks are to be
+avoided. After the third coat of dope has dried
+°F,
+at least 2 hours at 70 the fabric should be
+taut and the dope film should show a gloss,
+depending upon the dope quality and the ratio
+of thinner added. If not, a fourth coat of clear
+dope may be applied, in the same manner as
+the third coat.
+NOTE: Three to four clear coats of
+dope film showing a uniform gloss
+combined with the aluminumpigmented coats and finish coats is
+considered satisfactory for light aircraft up to 9 lb. per square foot wing
+loading. Five to eight clear coats, depending upon the quality of the dope
+and resulting film thickness, are recommended for higher wing loading
+aircraft to assure the covering does
+not stretch and lose tension.
+g. Step 6. After the clear coats are found
+to be satisfactory, two heavy cross-coats of
+aluminum-pigmented dope are applied with a
+spray gun to provide protection from ultraviolet (UV) rays. Tests have shown that UV radiation will deteriorate cotton, linen, and polyester fabric; however, polyester fabric deteriorates at a rate half that of cotton or linen under
+identical exposure conditions. UV radiation
+Page 2-27
+does not deteriorate glass fabric. Aluminumpigmented dope blocks UV radiation and provides a sanding base. A gauge of ultraviolet
+protection in the field is to block all visible
+light from penetrating through the fabric.
+Drying time between the two coats should be
+°F.
+at least 1 hour at 70
+(1) An option to premixed aluminum
+dope is to use aluminum-pigment paste. Aluminum paste should be prepared per the manufacturer’s instructions. If no manufacturer’s
+instructions are available, mix 3 ounces (by
+weight), of 325-mesh aluminum-pigment
+paste, to 1 gallon of unthinned, clear dope.
+The aluminum paste should first be mixed to a
+cream consistency with a 50/50 ratio of dope
+and thinner before mixing into the unthinned
+clear dope. A higher ratio of aluminumpigment added to the dope may cause a loss of
+primer-coat and finish-coat adhesion, and
+peeling may occur especially when high tack
+tape is used to mask for the trim colors and
+registration numbers.
+(2) The viscosity of the mixed aluminum-pigmented dope should be adjusted for
+satisfactory spray gun application.
+h. Step 7. After two coats of aluminumpigmented dope have dried at least 4 hours at
+°F,
+70 the surface may be wet sanded with
+# 280 grit (or finer) waterproof sandpaper. The
+aluminum-pigmented dope should be sanded
+only to develop a smooth surface, not sanded
+completely off to the clear dope undercoats.
+Do not sand over screwheads, rib lacing, or
+any structural sharp edges that will quickly cut
+through fabric and require patching. Additional coats of aluminum-pigmented dope may
+be applied and sanded, depending on the final
+finish desired. The last coat should not be
+sanded to assure ultraviolet
+protection along the edges of the finishing
+tapes and reinforcing patches is maintained.
+i. Step 8. Three coats of pigmented color
+finish are applied with a paint spray gun, allowing adequate drying time between coats.
+The color finish may be wet sanded between
+coats, if desired, with a fine grit waterproof
+sandpaper. Adding blush retarder to the final
+dope finish will improve the gloss. After drying several weeks, a rubbing compound may
+be used to buff the finish and increase the
+gloss. A periodic application of a wax polish
+will help protect the finish from the weather
+and environmental pollution.
+NOTE: Drain holes should be opened
+soon after all finishing is complete to
+insure drainage and to aid ventilation
+of the structure.
+(1) When exposed to the sun, dark colors absorb more sun energy and convert that
+energy to heat more easily than light colors.
+High temperatures dry out wood structures and
+deteriorate organic materials in an aircraft
+structure. Preferably the lighter color shades
+are applied first and then overcoated with
+darker trim and registration number colors.
+(2) Only high-quality, solvent-resistant
+crepe paper or polypropylene masking tape
+should be used to avoid finish bleed under the
+tape edge. Newspaper printing ink may transfer to a fresh finish and should not be used for
+masking paper. Plastic sheeting should not be
+used as a dust cover on a fresh finish due to
+possible bonding and damage.

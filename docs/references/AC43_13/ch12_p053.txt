@@ -1,0 +1,6 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-53. PITOT/STATIC TUBES AND
+LINES. The pitot tube (see figure 12-6) is installed at the leading edge of the wing of a single-engine aircraft, outside the propeller slipstream or on the fuselage of a multiengine aircraft with the axis parallel to the longitudinal
+axis of the aircraft, unless otherwise specified
+by the manufacturer.

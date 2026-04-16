@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-85. HEAT-TREATED MEMBERS
+Certain structural parts may be heat treated
+and, therefore, could require special handling.
+In general, the more responsive an alloy steel
+is to heat treatment, the less suitable it is for
+welding because of its tendency to become
+brittle and lose its ductility in the welded area.
+Weld the members which depend on heat
+by using a welding rod suitable for producing
+heat-treated values comparable to those of the
+ter welding, heat treat the affected members to
+the manufacturer’s specifications.

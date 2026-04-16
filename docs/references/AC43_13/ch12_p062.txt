@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-62. RELOCATON OF PITOT TUBE. If
+pitot tube relocation is necessary, perform the
+relocation in accordance with the manufacturer’s recommendations and consider the following:
+a. Freedom of aerodynamic disturbances caused by the aircraft.
+b. Location protected from accidental
+damage.
+c. Alignment with the longitudinal axis
+of the aircraft when in cruising flight.

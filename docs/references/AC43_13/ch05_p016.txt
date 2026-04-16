@@ -1,0 +1,47 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 2: VISUAL INSPECTION
+
+5-16. SIMPLE VISUAL INSPECTION
+AIDS. It should be emphasized that the eyemirror-flashlight is a critical visual inspection
+process. Aircraft structure and components
+that must be routinely inspected are frequently
+located beneath skin, cables, tubing, control
+rods, pumps, actuators, etc. Visual inspection
+aids such as a powerful flashlight, a mirror
+with a ball joint, and a 2 to 10 power magnifying glass are essential in the inspection process.
+a. Flashlights. Flashlights used for aircraft inspection should be suitable for industrial use and, where applicable, safety approved by the Underwriters Laboratory or
+equivalent agency as suitable for use in hazardous atmospheres such as aircraft fuel tanks.
+Military Specification MIL-F-3747E, flashlights: plastic case, tubular (regular, explosionproof, explosion-proof heat resistant, traffic directing, and inspection-light), provides requirements for flashlights suitable for use in
+aircraft inspection. However, at the present
+time, the flashlights covered by this specification use standard incandescent lamps and there
+are no standardized performance tests for
+flashlights with the brighter bulbs: Krypton,
+Halogen, and Xenon. Each flashlight manufacturer currently develops its tests and provides information on its products in its advertising literature. Therefore, when selecting a
+flashlight for use in visual inspection, it is
+sometimes difficult to directly compare products. The following characteristics should be
+considered when selecting a flashlight: footcandle rating; explosive atmosphere rating;
+beam spread (adjustable, spot, or flood); efficiency (battery usage rate); brightness after
+extended use; and rechargeable or standard
+batteries. (If rechargeable, how many hours of
+continuous use and how long is required for
+recharging?) If possible, it would be best to
+take it apart and inspect for quality of construction and to actually use the flashlight like
+it would be used in the field. Inspection flashlights are available in several different bulb
+brightness levels:
+(1) Standard incandescent (for longbattery life).
+(2) Krypton (for 70 percent more light
+than standard bulbs).
+(3) Halogen (for up to 100 percent more
+light than standard bulbs).
+(4) Xenon (for over 100 percent more
+light than standard bulbs).
+b. Inspection Mirrors. An inspection
+mirror is used to view an area that is not in the
+normal line of sight. The mirror should be of
+the appropriate size to easily view the component, with the reflecting surface free of dirt,
+cracks, worn coating, etc., and a swivel joint
+tight enough to maintain its setting.
+c. Simple Magnifiers. A single converging lens, the simplest form of a microscope, is often referred to as a simple magnifier. Magnification of a single lens is determined by the equation M = 10/f. In this equation, “M” is the magnification, “f” is the focal
+length of the lens in inches, and “10” is a constant that represents the average minimum
+distance at which objects can be distinctly seen
+by the unaided eye. Using the equation, a lens
+with a focal length of 5 inches has a magnification of 2, or is said to be a two-power lens.

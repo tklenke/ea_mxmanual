@@ -1,0 +1,49 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-52. ALUMINUM ALLOY STRUCTURES. Extensive repairs to damaged
+stressed skin on monocoque-types of aluminum alloy structures must be made in accordance with FAA-approved manufacturer’s instructions or other FAA-approved source.
+a. Rivet Holes. Rivet holes are slightly
+larger than the diameter of the rivet. When
+driven, solid rivets expand to fill the hole. The
+strength of a riveted joint is based upon the
+expanded diameter of the rivet. Therefore, it is
+important that the proper drill size be used for
+each rivet diameter.
+(1) The acceptable drill size for rivets
+may be found in Metallic Materials and Elements for Flight Vehicle Structure
+(MIL-HDBK-5).
+(2) Avoid drilling oversized holes or
+otherwise decreasing the effective tensile areas
+of wing-spar capstrips, wing, fuselage, finlongitudinal stringers, or highly-stressed tensile members. Make all repairs, or reinforcements, to such members in accordance with
+factory recommendations or with the specific
+approval of an FAA representative.
+b. Disassembly Prior to Repairing. If
+the parts to be removed are essential to the rigidity of the complete structure, support the
+structure prior to disassembly in such a manner
+as to prevent distortion and permanent damage
+to the remainder of the structure. When rivets
+are removed, undercut rivet heads by drilling.
+Use a drill of the same size as the diameter of
+the rivet. Drilling must be exactly centered
+and to the base of the head only. After drilling, break off the head with a pin punch and
+carefully drive out the shank. On thin or unsupported metal skin, support the sheet metal
+on the inside with a bucking bar. Removal of
+rivet heads with a cold chisel and hammer is
+not recommended because skin damage and
+distorted rivet holes will probably result. Inspect rivet joints adjacent to damaged structure
+for partial failure by removing one or more
+rivets to see if holes are elongated or the rivets
+have started to shear.
+c. Effective Tools. Care must also be
+taken whenever screws must be removed to
+avoid damage to adjoining structure. When
+properly used, impact wrenches can be effective tools for removal of screws; however,
+damage to adjoining structure may result from
+excessive vertical loads applied through the
+screw axis. Excessive loads are usually related
+to improperly adjusted impact tools or attempting to remove screws that have seized
+from corrosion. Remove seized screws by
+drilling and use of a screw extractor. Once the
+screw has been removed, check for structural
+cracks that may appear in the adjoining skin
+doubler, or in the nut or anchor plate.

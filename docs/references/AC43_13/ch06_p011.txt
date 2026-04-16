@@ -1,0 +1,6 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-11. GENERAL. All corrosive attacks begin on the surface of the metal making the
+classification of corrosion by physical appearance a convenient means of identification.
+(See figure 6-3.)
+[FIG 6-3] Corrosion attack.

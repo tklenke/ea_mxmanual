@@ -1,0 +1,22 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-34. GENERAL. “Hardware” is the term
+used to describe the various types of fasteners
+and small items used to assemble and repair
+aircraft structures and components. Only
+hardware with traceability to an approved
+manufacturing process or source should be
+used. This traceability will ensure that the
+hardware is at least equal to the original or
+properly-altered condition. Hardware that is
+not traceable or is improperly altered, may be
+substandard or counterfeit, since their physical
+properties cannot be substantiated. Selection
+and use of fasteners are as varied as the types
+of aircraft; therefore, care should be taken to
+ensure fasteners are approved by the Federal
+Aviation Administration (FAA) for the intended installation, repair, or replacement.
+Threaded fasteners (bolts/screws) and rivets
+are the most commonly used fasteners because
+they are designed to carry shear and/or tensile
+loads.

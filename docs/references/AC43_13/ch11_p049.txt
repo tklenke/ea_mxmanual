@@ -1,0 +1,48 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 4: INSPECTION OF CIRCUIT-PROTECTION DEVICES
+
+11-49. DC CIRCUIT PROTECTOR
+CHART. Table 11-3 may be used as a guide
+for the selection of circuit breaker and fuse
+rating to protect copper conductor wire. This
+chart was prepared for the conditions specified. If actual conditions deviate materially
+from those stated, ratings above or below the
+values recommended may be justified. For example, a wire run individually in the open air
+may possibly be protected by the circuit
+breaker of the next higher rating to that shown
+on the chart. In general, the chart is conservative for all ordinary aircraft electrical installations.
+DEVICES
+[TABLE 11-3] DC wire and circuit protector chart.
+Wire AN gauge
+copper Circuit breaker amp. Fuse amp.
+22 5 5
+20 7.5 5
+18 10 10
+16 15 10
+14 20 15
+12 30 20
+10 40 30
+8 50 50
+6 80 70
+4 100 70
+2 125 100
+1 150
+0 150
+Basis of chart:
+°F.
+(1) Wire bundles in 135 ambient and altitudes up to
+30,000 feet.
+(2) Wire bundles of 15 or more wires, with wires carrying
+no more than 20 percent of the total current carrying
+capacity of the bundle as given in Specification
+MIL-W-5088 (ASG).
+°F.
+(3) Protectors in 75 to 85 ambient.
+(4) Copper wire Specification MIL-W-5088.
+(5) Circuit breakers to Specification MIL-C-5809 or
+equivalent.
+(6) Fuses to Specification MIL-F-15160 or equivalent.
+11-49. LOAD CONSIDERATIONS.
+When switches or relays are to be used in applications where current or voltage is substantially lower than rated conditions, additional
+intermediate testing should be performed to
+ensure reliable operation. Contact the manufacturer on applications different from the
+rated conditions.

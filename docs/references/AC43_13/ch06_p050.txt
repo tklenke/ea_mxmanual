@@ -1,0 +1,33 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 4: CORROSION PREVENTIVE MAINTENANCE
+
+6-50. GUIDELINES: ALL AIRCRAFT.
+Corrosion prevention depends on a comprehensive prevention and control plan, implemented from the start of operation of an aircraft, which includes:
+a. Adequately-trained personnel in
+(1) recognition of corrosion-inducing
+conditions;
+(2) corrosion identification techniques;
+(3) corrosion detection, cleaning, and
+treating; and
+(4) lubrication and preservation of aircraft structure and components.
+b. Inspection for corrosion on a scheduled basis.
+c. Thorough cleaning, inspection, lubrication, and preservation at prescribed intervals.
+d. Prompt corrosion treatment after detection.
+e. Accurate record-keeping and reporting of material or design deficiencies to the
+manufacturer and the Federal Aviation Administration (FAA).
+f. Use of appropriate materials, equipment, and technical publications.
+g. Maintenance of the basic finish systems.
+h. Keeping drain holes and passages
+open and functional. Sealants, leveling compounds, miscellaneous debris, or corrosion inhibitors should not block drain paths.
+i. Replacing deteriorated or damaged
+gaskets and sealants (using non-corrosive type
+sealants) to avoid water intrusion and entrapment that leads to corrosion.
+j. Minimizing the exposure of aircraft to
+adverse environments by keeping the aircraft
+in a hangar.
+k. Periodic and frequent inspection of
+areas where there are foamed plastics or other
+absorbent material.
+l. Daily draining of fuel cavities to remove accumulated water and other foreign
+matter.
+m. Daily wipe-down of exposed critical
+surfaces of hydraulic cylinders.

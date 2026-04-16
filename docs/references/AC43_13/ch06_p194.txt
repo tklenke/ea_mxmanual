@@ -1,0 +1,34 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 12: PLATED PARTS
+
+6-194. CADMIUM AND ZINC-PLATED
+PARTS. Cadmium plating is used extensively
+in aircraft construction as a protective finish
+over both steel and copper alloys. Protection
+is provided by a sacrificial process in which
+the cadmium is attacked rather than the underlying base material. Properly functioning
+cadmium surface coatings may show mottling,
+ranging from white to brown to black spots on
+their surfaces. These show the sacrificial protection being offered by the cadmium coat, and
+under no condition should such spotting be
+removed merely for appearance sake. In fact,
+cadmium will continue to protect even when
+actual breaks in the coating develop and bare
+steel or exposed copper surfaces appear.
+a. When the breakdown of the cadmium plating occurs and the initial appearance of corrosion products on the base metal
+develops, some mechanical cleaning of the
+area may be necessary but shall be limited to
+removal of the corrosion products from the
+underlying base material.
+b. Under no condition should such a
+coating be cleaned with a wire brush. If protection is needed, a touch-up with primer or a
+temporary preservative coating should be applied. Restoration of the plate coating cannot
+be done in the field.
+c. Zinc coatings offer protection in an
+identical manner to cadmium, and the corrective treatment for failure is generally the same
+as for cadmium-plated parts. However, the
+amount of zinc on aircraft structures is very
+limited and usually does not present a maintenance problem.
+6-195.6-205.
+[RESERVED.]
+SECTION 13. CORROSION PROOFING OF LAND PLANES
+CONVERTED TO SEA PLANES

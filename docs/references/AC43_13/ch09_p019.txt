@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-19. SLIPPAGE. To reduce the possibility
+of tire and tube failure due to slippage, and to
+provide a means of detecting tire slippage, tires
+should be marked and indexed with the wheel
+rim. Paint a mark one inch wide and two
+inches long across the tire side wall and wheel
+rim. Use a permanent type paint in a contrasting color, such as white, red, or orange.
+Pre-flight inspection must include a check of
+slippage marks for alignment. If the slippage
+marks are not in alignment, a detailed inspection must be made, the reason determined, and
+if necessary, the condition corrected before the
+next flight.
+NOTE: Mechanics should be aware
+that retread tires can be diametrically
+bigger than a “new” tire. While this
+does not pose a problem on fixed
+landing gear aircraft, it may pose a
+problem on retractable gear aircraft.
+Due to a 5 to 8 percent expansion of
+the tire caused by the ambient temperature, if a retread tire is installed
+on a retractable gear aircraft, it is
+strongly recommended that a retraction test be performed. This is to ensure the tire will not become wedged
+in the wheel well during take-off and
+landing operation.

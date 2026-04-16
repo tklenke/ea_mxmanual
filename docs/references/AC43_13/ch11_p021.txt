@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 2: STORAGE BATTERIES
+
+11-21. NOXIOUS FUMES. When charging
+rates are excessive, the electrolyte may boil to
+the extent that fumes containing droplets of the
+electrolyte are emitted through the cell vents.
+These fumes from lead-acid batteries may become noxious to the crew members and passengers; therefore, thoroughly check the venting system. NiCad batteries will emit gas near
+the end of the charging process and during
+overcharge. The battery vent system in the aircraft should have sufficient air flow to prevent
+this explosive mixture from accumulating. It
+is often advantageous to install a jar in the
+battery vent discharge system serviced with an
+agent to neutralize the corrosive effect of battery vapors.

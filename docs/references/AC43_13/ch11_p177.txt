@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 14: TERMINAL REPAIRS
+
+11-177. WIRE TERMINALS AND BINDING POSTS. All wire terminals in or on
+electrical equipment, except case ground, must
+be firmly held together with two nuts or suitable locking provisions, or should be secured
+in a positive manner to equipment in such a
+way that no insulation material is involved in
+maintaining physical pressure between the
+various current carrying members of an electrical connection. Terminal studs or binding
+posts should be of a size that is entirely adequate for the current requirements of the
+equipment and have sufficient mechanical
+strength to withstand the torque required to
+attach the cable to the equipment. All terminals on equipment should have barriers and
+covers provided by equipment manufacturers.

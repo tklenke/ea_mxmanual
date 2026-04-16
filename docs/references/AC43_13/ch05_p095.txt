@@ -1,0 +1,117 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 7: ULTRASONIC INSPECTION
+
+5-95. BOND TESTING INSTRUMENTS.
+Standard ultrasonic inspection instruments can
+be used for bond testing as previously noted;
+however, a wide variety of bond testing instruments are available for adaptation to specific bonded structure inspection problems.
+a. General Principle. Two basic operating principles are used by a variety of bond
+testers for single-sided bond inspection.
+(1) Ultrasonic resonance. Sound waves
+from a resonant transducer are transmitted into
+and received from a structure. A disbond in
+the structure will alter the sound wave characteristics, which in turn affect the transducer
+impedance.
+(2) Mechanical impedance. Lowfrequency, pulsed ultrasonic energy is generated into a structure. Through ultrasonic mechanical vibration of the structure, the impedance or stiffness of the structure is measured,
+analyzed, and displayed by the instrumentation.
+b. Operation. In general, operation of the
+adhesive bond test instruments noted is similar. The test probe is moved over the surface
+in smooth overlapping strokes. The direction
+of the stroke with regard to the surface is generally immaterial; however, when using the
+Sondicator models, the direction of the stroke
+becomes critical when the test probe is
+[FIG 5-21] Examples of bonded structure configurations
+and suggested inspection coverage.
+[TABLE 5-7] Acceptable ultrasonic inspection methods associated
+shown in figure 5-21.
+NUMBER ACCEPTABLE
+1 Either
+(a) Pulse-echo straight or angle beam, on each side
+or
+(b) Through-transmission.
+2 Pulse-echo, straight beam,
+3 Refer to 1 for methods. If all
+power to detect reference defects in the reference standard, then the ringing
+method, applied from both sides, should be used. Otherwise, the ringing method
+is unacceptable.
+4 Either
+(a) Ringing, on each skin of the doubler.
+or
+(b) Through-transmission
+or
+(c) Damping.
+5 Ringing.
+6 Through-transmission. Dotted
+7 Either
+(a) Through-transmission
+or
+(b) Damping.
+NOTE
+A variety of ultrasonic testing methods and instruments
+problems. Other bond inspection instruments can be
+proven on the applicable reference standards for each
+struments,
+which can be used for the inspection of bonded
+Tester, Acoustic Flaw Detector, Audible Bond Tester,
+dascope 2100.
+with the example bonded structure configurations
+METHODS
+on each skin.
+these methods fail to have sufficient penetration
+Line represents beam direction.
+are available for adaptation to specific inspection
+used if detailed procedures are developed and
+configuration of interest. Some representative instructures are; the Sondicator, Harmonic Bond
+Fokker Bond Tester, 210 Bond Tester, and BonTABLE 5-8. Ultrasonic inspection methods for bonded structures.
+INSPECTION METHOD
+THROUGH- PULSE-ECHO RINGING DAMPING
+TRANSMISSION
+Advantages Applicable to Applicable
+structures with ei- tures with either thick plex shapes. structures with either thick or thin or thin facing sheets. ther thick or thin
+facing sheets. Detects small near facing sheets.
+Determines which surface unbonds
+Applicable to side is unbonded. (larger than di- Applicable to mulstructures with ameter of search tiple-layered (more
+multiple layers Detects small un- unit). than two layers)
+bonded over hon- bonds. structures.
+eycomb core.
+Detects broken, Detects unbonds
+Detects unbonds crushed, and cor- on either side.
+on either side roded core.
+Detects broken, In some cases water bonds (larger than
+crushed, and cor- in core can be de- diameter of reroded core. tected. ceiving search
+In some cases
+water in core can
+be detected.
+Disadvantages Access to both Inspection
+sides of part is re- sides required, does near surface un- doublers and lamiquired. not detect far side bonds, works best nate-type strucunbonds. on unbonds be- tures.
+Does not deter- tween top sheet
+mine layer position Applicable only to and adhesive, may Access to both
+of unbonds. skin-to-honeycomb miss other un- sides required.
+core structures. bonds.
+Alignment of Does not detersearch units is Reduced effective- Reduced effective- mine layer posicritical. ness on structures ness on thick skins. tions of unbonds.
+with multiple skins
+Couplant is re- over honeycomb Couplant required. Couplant required.
+quired. core.
+Inspection rate is Couplant required.
+slow.
+to struc- Applicable to com- Applicable to
+Detects small ununit).
+from both Applicable only to Applicable only to
+operated near a surface edge. Edge effects on
+vibration paths give a test reading that may be
+misinterpreted. To avoid edge effects, the test
+probe should be moved so that the inspection
+path follows the surface edge, giving a constant edge for the test probe to inspect. Edge
+effects are more pronounced in thicker material. To interpret meter readings correctly, the
+operator should determine whether there are
+variations in the thickness of the material.
+c. Probe Sending Signal. With the exception of the Sondicator models, the test
+probes of the testers emit a sending signal that
+radiates in a full circle. The sending signal of
+the Sondicator probe travels from one transducer tip to the other. For this reason, the test
+probe should be held so that the transducer tips
+are at right angles to the inspection path.
+When inspecting honeycomb panels with a
+Sondicator model, the transducer tips should
+be moved consistently in the direction of the
+ribbon of the honeycomb or at right angles to
+the ribbon so that a constant subsurface is presented.

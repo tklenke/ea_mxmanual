@@ -1,0 +1,81 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 2: HYDRAULIC SYSTEMS
+
+9-27. TYPES OF HYDRAULIC FLUID.
+There are three principal categories of hydraulic fluids; mineral base fluids, polyalphaolefin
+base, and phosphate ester base fluids. When
+servicing a hydraulic system, the technician
+must be certain to use the correct category of
+replacement fluid. Hydraulic fluids are not
+necessarily compatible. For example, contamination of the fire-resistant fluid
+MIL-H-83282 with MIL-H-5606 may render
+the MIL-H-83282 non fire-resistant.
+a. Mineral-Base Fluids. MIL-H-5606,
+mineral oil-based hydraulic fluid is the oldest,
+dating back to the 1940’s. It is used in many
+systems, especially where the fire hazard is
+comparatively low. MIL-H-6083 is simply a
+rust-inhibited version of MIL-H-5606. They
+are completely interchangeable. Suppliers
+generally ship hydraulic components with
+MIL-H-6083.
+b. Polyalphaolefin-Based Fluids.
+MIL-H-83282, is a fire-resistant hydrogenated
+polyalphaolefin-based fluid developed in the
+1960’s to overcome the flammability characteristics of MIL-H-5606. MIL-H-83282 is significantly more flame resistant than
+MIL-H-5606, but a disadvantage is the high
+viscosity at low temperature. It is generally
+�F.
+limited to -40 However, it can be used in
+the same system and with the same seals, gaskets, and hoses as MIL-H-5606.
+MIL-H-46170 is the rust-inhibited version of
+MIL-H-83282. Small aircraft predominantly
+use MIL-H-5606 but some have switched to
+MIL-H-83282, if they can accommodate the
+high viscosity at low temperature.
+c. Phosphate Ester-Based Fluid (Skydrol/Hyjet). These fluids are used in most
+commercial transport category aircraft, and are
+extremely fire-resistant. However, they are not
+fireproof and under certain conditions, they
+will burn. The earliest generation of these
+fluids was developed after World War II as a
+result of the growing number of aircraft hydraulic brake fires which drew the collective
+concern of the commercial aviation industry.
+(1) Progressive development of these
+fluids occurred as a result of performance requirements of newer aircraft designs. The
+airframe manufacturers dubbed these new generations of hydraulic fluid as “types” based on
+their performance. Today, types IV and V
+fluids are used. Two distinct classes of type
+IV fluids exist based on their density: class I
+fluids are low density and class II are standard
+density. The class I fluids provide weight
+savings advantages versus class II. Monsanto
+and Exxon are the suppliers of the type IV
+phosphate ester-based aviation hydraulic fluids.
+(2) In addition to the type IV fluids that
+are currently in use, type V fluids are being
+developed in response to industry demands for
+a more thermally stable fluid at higher operating temperatures. Type V fluids will be more
+resistant to hydrolytic and oxidative degradation at high temperature than the type IV fluids.
+d. Materials of Construction. Hydraulic
+systems require the use of special accessories
+that are compatible with the hydraulic fluid.
+Appropriate seals, gaskets, and hoses must be
+specifically designated for the type of fluid in
+use. Care must be taken to ensure that the
+components installed in the system are compatible with the fluid. When gaskets, seals,
+and hoses are replaced, positive identification
+should be made to ensure that they are made of
+the appropriate material.
+(1) Phosphate ester-based hydraulic
+fluids have good solvency properties and may
+act as plasticizer for certain polymers. Care
+should be taken in handling to keep the fluid
+from spilling on plastic materials and paint
+finishes.
+(2) If a small amount of the fluid is
+spilled during handling, it must be cleaned up
+immediately with a dry cloth. When larger
+quantities are spilled, an absorbent sweeping
+compound is recommended. A final cleaning
+with an approved solvent or detergent should
+remove any traces of fluid.

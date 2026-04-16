@@ -1,0 +1,22 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 3: EDDY CURRENT INSPECTION
+
+5-28. SURFACE INSPECTION. Eddy
+current inspection techniques are used to inspect for surface cracks such as those shown in
+figure 5-6.
+[FIG 5-6] Typical surface cracks.
+a. Equipment Requirements. The following are typical eddy current equipment requirements for surface crack inspections.
+(1) Instruments must meet the liftoff
+and sensitivity requirements of the applicable
+NDI procedures. The frequency requirement is
+generally 100 Hz to 200 kHz.
+(2) Many types of probes are available
+such as: flat-surface; spring-loaded; pencil;
+shielded pencil; right-angle pencil; or fastener
+hole probes.
+(3) A reference standard is required for
+the calibration of Eddy Current test equipment.
+A reference standard is made from the same
+material as that which is to be tested. A reference standard contains known flaws or cracks
+and could include items such as: a flat surface
+notch, a fastener head, a fastener hole, or a
+countersink hole.

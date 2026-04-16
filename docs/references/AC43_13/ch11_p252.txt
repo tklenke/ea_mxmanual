@@ -1,0 +1,31 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 18: CONDUITS
+
+11-252. RIGID CONDUIT. Conduit sections that have been damaged should be repaired to preclude injury to the wires or wire
+bundle which may consume as much as
+80 percent of the tube area. Minimum acceptable tube bend radii for rigid conduit are
+shown in table 11-23. Kinked or wrinkled
+bends in rigid conduits are not recommended
+and should be replaced. Tubing bends that
+have been flattened into an ellipse and the minor diameter is less than 75 percent of the
+nominal tubing diameter should be replaced
+because the tube area will have been reduced
+by at least 10 percent. Tubing that has been
+formed and cut to final length should be deburred to prevent wire insulation damage.
+When installing replacement tube sections
+with fittings at both ends, care should be
+taken to eliminate mechanical strain.
+[TABLE 11-23] Bend radii for rigid conduit.
+Nominal Tube O.D. Minimum Bend Radii
+(inches) (inches)
+1/8 3/8
+3/16 7/16
+1/4 9/16
+3/8 15/16
+1/2 1 1/4
+5/8 1 1/2
+3/4 1 3/4
+1 3
+1 1/4 3 3/4
+1 1/2 5
+1 3/4 7
+2 8

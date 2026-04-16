@@ -1,0 +1,6 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-10. METALLIZING. Metallizing internal parts of aircraft engines is not acceptable
+unless it is proven to the FAA that the metallized part will not adversely affect the airworthiness of the engine. Metallizing the finned
+surfaces of steel cylinder barrels with aluminum is acceptable, since many engines are
+originally manufactured in this manner.

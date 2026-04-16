@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-10. COMMUNICATION SYSTEMS.
+Ground operation of communication systems
+in aircraft may be accomplished in accordance
+with the procedures appropriate for the airport
+and area in which the test is made and the
+manufacturer’s manuals and procedures.
+Check system(s) for side tone, clarity of
+transmission, squelch, operations using head
+phones, speaker(s), and hand microphone. If a
+receiver or transmitter is found to be defective,
+it should be removed from the aircraft and repaired.

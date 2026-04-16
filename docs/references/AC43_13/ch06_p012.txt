@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-12. GENERAL SURFACE CORROSION. General surface corrosion (also referred to as Uniform Etch or Uniform Attack
+Corrosion) is the most common form of corrosion and results from a direct chemical attack
+on a metal surface and involves only the metal
+surface. (See figure 6-4.) General surface corrosion usually occurs over a wide area and is
+more or less equal in dispersion. On a polished surface, this type of corrosion is first
+seen as a general dulling of the surface, and if
+allowed to continue, the surface becomes
+rough and possibly frosted in appearance. The
+discoloration or general dulling of metal created by exposure to elevated temperatures is
+not to be considered general surface corrosion.
+[FIG 6-4] General surface corrosion.

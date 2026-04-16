@@ -1,0 +1,22 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 2: FUEL SYSTEMS
+
+8-38. FUEL SYSTEM PRECAUTIONS.
+In servicing fuel systems, remember that fuel
+is flammable and that the danger of fire or explosion always exists. The following precautions should be taken:
+a. Aircraft being serviced or having the
+fuel system repaired must be properly
+grounded.
+b. Spilled fuel must be neutralized or removed as quickly as possible.
+c. Open fuel lines must be capped.
+d. Fire-extinguishing equipment must
+always be available.
+e. Metal fuel tanks must not be welded or
+soldered unless they have been adequately
+purged of fuel fumes. Keeping a tank or cell
+filled with carbon dioxide will prevent explosion of fuel fumes.
+f. Do not use Teflon tape on any fuel
+lines to avoid getting the tape between the flare
+and fitting, which can cause fluid leaks.
+8-39.8-44.
+[RESERVED.]
+SECTION 3. EXHAUST SYSTEMS

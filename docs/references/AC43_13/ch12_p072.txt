@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 5: AVIONICS TEST EQUIPMENT
+
+12-72 TEST EQUIPMENT CALIBRATION. Test equipment such as meters, torque
+wrenches, static, and transponder test equipment should be checked at least once a year.
+c. National Institute of Standards and
+Technology traceability can be verified by reviewing test equipment calibration records for
+references to National Institute of Standards
+and Technology test report numbers. These
+numbers certify traceability of the equipment
+used in calibration.
+d. If the repair station uses a standard
+for performing calibration, that calibration
+standard cannot be used to perform maintenance.
+e. The calibration intervals for test
+equipment will vary with the type of equipment, environment, and use. The accepted industry practice for calibration intervals is usually one year. Considerations for acceptance
+of the intervals include the following:
+(1) Manufacturer’s recommendation for
+the type of equipment.
+(2) Repair facility’s past calibration
+history, as applicable.
+f. If the manufacturer’s manual does
+not describe a test procedure, the repair station
+must coordinate with the manufacturer to develop the necessary procedures, prior to any
+use of the equipment.
+12-73 – 12-83. [RESERVED.]
+CHAPTER 13. HUMAN FACTORS

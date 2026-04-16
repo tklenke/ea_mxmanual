@@ -1,0 +1,65 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-8. COVERING METHODS. The
+method of fabric attachment should be identical, as far as strength and reliability are concerned, to the method used by the manufacturer of the airplane being recovered or repaired. Carefully remove the old fabric from
+the airframe, noting the location of inspection
+covers, drain grommets, and method of attachment. Cotton or linen fabric may be applied so that either the warp or fill-threads are
+parallel to the line of flight. Either the envelope method or blanket method of covering is
+acceptable.
+a. The Envelope Method. A wing envelope may be developed by two methods. Machine sew together, side by side multiple fabric
+sections, cut to reach chordwise around the
+wing, starting and ending at the trailing edge
+with a minimum of 1 inch excess length. The
+sewn envelope is then positioned around the
+wing and secured with closely spaced T-Head
+pins at the wingtip and trailing edge. Excess
+material may then be trimmed. Carefully remove the envelope and complete by machine
+sewing at the wingtip and along the trailing
+edge, except where the geometry of the wing
+(aileron and flap cut out) would prevent the
+sewn envelope from being reinstalled. After
+reinstalling the envelope, the un-sewn sections
+and butt end are then closed by hand-sewn or
+overlapped and doped seams in accordance
+with the aircraft Vne speed. (Refer to paragraph 2-7 b.)
+(1) An alternative method, when fabric
+of sufficient width is available, is to sew together, side-by-side, two sections of fabric,
+placing the seams spanwise on the leading
+edge, then fit and sew the wingtip and trailing
+edge in the same manner as the multiple piece
+chordwise envelope.
+(2) An envelope may be developed for
+the fuselage in the same manner, with a final
+closing along a longeron by hand-sewn or
+overlapped and doped seams in accordance
+with the aircraft Vne speed.
+b. The Blanket Method. A blanket is
+developed by sewing together, side-by-side,
+multiple sections of fabric with the seams
+chordwise or two wide sections of fabric,
+side-by-side, placing the seam spanwise on the
+leading edge, the same as an envelope. Close
+the three remaining sides with a hand-sewn
+seam or overlapped and doped seams in accordance with the aircraft Vne speed. Small
+components may be covered by wrapping one
+piece of fabric over a straight leading or trailing edge, then closing three sides with handstitched or overlapped and doped seams in accordance with the aircraft Vne speed.
+NOTE: All overlapped and doped
+seams will be made only over underlying supporting structures extending
+the full width of the seam.
+c. Machine-sewn alternate. An alternate
+to machine-sewn seams on a wing envelope or
+blanket is to use two sections of wide fabric
+spanwise. Attach the fabric with overlapped
+and doped seams at the leading and trailing
+edge, wingtip and wing butt, in accordance
+with the aircraft Vne speeds. (Reference paragraph 2-7 b.) Smaller components may be
+covered in the same manner. The fuselage may
+be covered with multiple fabric sections with
+overlapped and doped seams on the longerons
+or other wide fabric-forming structures in accordance with the aircraft Vne speed. (Reference paragraph 2-7 b.)
+d. Holes in Fabric. Never cut any holes
+in the fabric for inspection panels, spar fittings,
+or drain grommets; or attach the fabric to the
+airframe with rib lacing screws, rivets, clips, or
+rib stitch cord until the fabric has been semitauted and stabilized with several coats of
+dope.

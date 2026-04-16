@@ -1,0 +1,38 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-40. SPLICING OF SPARS. Unless otherwise specified by the manufacturer, a spar
+may be spliced at any point except under the
+wing attachment fittings, landing gear fittings,
+engine mount fittings, or lift and interplane
+strut fittings. These fittings may not overlap
+any part of the splice. A spar splice repair
+should not be made adjacent to a previous
+splice or adjacent to a reinforcing plate.
+Spacing between two splices or between a
+splice and a reinforcing plate should be no less
+than three times the length of the longer splice.
+Splicing under minor fittings such as drag
+wire, antidrag wire, or compression strut fittings is acceptable under the following conditions:
+a. The reinforcement plates of the splice
+should not interfere with the proper attachment
+or alignment of the fittings. Do not alter the
+locations of pulley support brackets, bellcrank
+support brackets, or control surface support
+brackets. Plates are to be tapered off, as depicted in figure 1-2.
+b. The reinforcement plate may overlap
+drag wire, antidrag wire, or compression strut
+fittings, if the reinforcement plates are on the
+rear face of the rear spar or the front face of the
+front spar. In such cases, it will be necessary
+to install slightly longer bolts. The front face
+reinforcement plate should not overlap drag
+strut fittings, except when it does not require
+sufficient shortening of compression struts or
+changes in drag-truss geometry, to prevent
+adjustment for proper rigging. Even though
+take up is sufficient, it may be necessary to
+change the angles on the fittings. (Acceptable
+methods for splicing the various types of spars
+are shown in figure 1-4 through figure 1-9.)
+Reinforcement plates must be used as indicated on all scarf repairs to spars and the
+slopes of scarves shown are minimum slopes.

@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-101. JUNCTION BOXES, PANELS,
+SHIELDS, AND MICROSWITCH HOUSINGS. Examine housing assemblies to ascertain the following:
+a. Verify that one or more suitable
+holes, about 3/8-inch diameter, but not less
+than 1/8-inch diameter, are provided at the
+lowest point of the box, except vapor-tight
+boxes, to allow for drainage with the aircraft
+on the ground or in level flight.
+b. Verify that vapor tight or explosion
+proof boxes are externally labeled VAPORTIGHT or EXPLOSION PROOF.
+c. Verify that boxes are securely
+mounted.
+d. Verify that boxes are clean internally
+and free of foreign objects.
+e. Verify that safety wiring is installed
+on all lid fasteners on J-boxes, panels, shields,
+or microswitch housings which are installed in
+areas not accessible for inspection in flight,
+unless the fasteners incorporate self-locking
+devices.
+f. Verify that box wiring is properly
+aligned.
+g. Verify that there are no unplugged, unused holes (except drainage holes) in boxes.

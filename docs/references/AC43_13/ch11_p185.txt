@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-185. GENERAL. One of the more important factors in the design and maintenance
+of aircraft electrical systems is proper bonding
+and grounding. Inadequate bonding or
+grounding can lead to unreliable operation of
+systems, e.g., EMI, electrostatic discharge
+damage to sensitive electronics, personnel
+shock hazard, or damage from lightning strike.
+This section provides an overview of the principles involved in the design and maintenance
+of electrical bonding and grounding.
+SAE ARP-1870 provides for more complete
+detailed information on grounding and bonding, and the application of related hardware.

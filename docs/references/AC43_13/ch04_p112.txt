@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 6: WELDING AND BRAZING SAFETY
+
+4-112. FIRE AND EXPLOSION SAFETY.
+Fires occur in welding areas because flammables are left where they can be ignited by
+welding sparks or gas welding flames. Before
+welding, clear the welding area of all flammables such as rags, paper, wood, paint cans, solvent, and trash containers. Do not weld in areas where flammables are present.
+a. Unless absolutely necessary, never
+weld any tank or radiator that has had a flammable in it, including gasoline, av-gas, motor
+oil, hydraulic fluid, or any other liquid that
+could ignite if the vapor and temperature reach
+a flashpoint. Explosions often occur when
+empty tanks are being welded or cut open with
+a torch.
+b. If welding such tanks or radiator coolers is absolutely necessary, the tank must first
+be washed with a caustic-based, water-soluble
+liquid, rinsed with plenty of clear water, and
+then dried. Before welding, the tank or container should be thoroughly purged with argon,
+or other inert gas, while the welding is in process.

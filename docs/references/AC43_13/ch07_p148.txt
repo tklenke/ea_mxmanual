@@ -1,0 +1,267 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-148. MECHANICALLY-FABRICATED CABLE ASSEMBLIES.
+a. Swage-Type Terminals. Swage-type
+terminals, manufactured in accordance with
+AN, are suitable for use in civil aircraft up to,
+and including, maximum cable loads. When
+swaging tools are used, it is important that all
+the manufacturers’ instructions, including “go
+and no-go” dimensions, be followed in detail
+to avoid defective and inferior swaging. Observance of all instructions should result in a
+terminal developing the full-rated strength of
+the cable. Critical dimensions, both before and
+after swaging, are shown in table 7-5.
+(1) Terminals. When swaging terminals
+onto cable ends, observe the following procedures.
+(a) Cut the cable to the proper length
+allowing for growth during swaging. Apply a
+preservative compound to the cable ends before insertion into the terminal barrel.
+NOTE: Never solder cable ends to
+prevent fraying, since the presence of
+the solder will greatly increase the tendency of the cable to pull out of the
+terminal.
+(b) Insert the cable into the terminal
+approximately 1 inch, and bend toward the
+terminal, then push the cable end entirely into
+the terminal barrel. The bending action puts a
+kink or bend in the cable end, and provides
+enough friction to hold the terminal in place
+until the swaging operation can be performed.
+Bending also tends to separate the strands inside the barrel, thereby reducing the strain on
+them.
+[TABLE 7-5] Straight-shank terminal dimensions. (Cross reference
+MS 20667, AN-668 to MS 20668, AN-669 to MS 21260.)
+Before swaging After swaging
+Cable size Wire strands Outside Bore
+(inches) diameter diameter
+1/16 7 x 7 0.160 0.078
+3/32 7 x 7 .218 .109
+1/8 7 x 19 .250 .141
+5/32 7 x 19 .297 .172
+3/16 7 x 19 .359 .203
+7/32 7 x 19 .427 .234
+1/4 7 x 19 .494 .265
+9/32 7 x 19 .563 .297
+5/16 7 x 19 .635 .328
+3/8 7 x 19 .703 .390
+*Use gauges in kit for checking diameters.
+NOTE: If the terminal is drilled completely through, push the cable into the
+terminal until it reaches the approximate position shown in figure 7-10. If
+the hole is not drilled through, insert
+the cable until the end rests against the
+bottom of the hole.
+[FIG 7-10] Insertion of cable into terminal.
+(c) Accomplish the swaging operation in accordance with the instructions furnished by the manufacturer of the swaging
+equipment.
+(d) Inspect the terminal after swaging
+to determine that it is free from the die marks
+and splits, and is not out-of-round. Check for
+AN to MS: AN-666 to MS 21259, AN-667 to
+Minimum
+Bore Swaging breaking Shank
+length length strength diameter
+(pounds) *
+1.042 0.969 480 0.138
+1.261 1.188 920 .190
+1.511 1.438 2,000 .219
+1.761 1.688 2,800 .250
+2.011 1.938 4,200 .313
+2.261 2.188 5,600 .375
+2.511 2.438 7,000 .438
+2.761 2.688 8,000 .500
+3.011 2.938 9,800 .563
+3.510 3.438 14,400 .625
+cable slippage in the terminal and for cut or
+broken wire strands.
+(e) Using a “go no-go” gauge or a
+micrometer, check the terminal shank diameter
+as shown in figure 7-11 and table 7-5.
+[FIG 7-11] Gauging terminal shank after swaging.
+(f) Test the cable by proof-loading it
+to 60 percent of its rated breaking strength.
+(2) Splicing. Completely severed cables, or those badly damaged in a localized
+area, may be repaired by the use of an eye
+terminal bolted to a clevis terminal. (See figure 7-12(a).) However, this type of splice can
+only be used in free lengths of cable which do
+not pass over pulleys or through fair-leads.
+[FIG 7-12] Typical cable splices.
+(3) Swaged ball terminals. On some
+aircraft cables, swaged ball terminals are used
+for attaching cables to quadrants and special
+connections where space is limited. Single
+shank terminals are generally used at the cable
+ends, and double shank fittings may be used at
+either the end or in the center of the cable.
+Dies are supplied with the swaging machines
+for attaching these terminals to cables by the
+following method.
+(a) The steel balls and shanks have a
+hole through the center, and are slipped over
+the cable and positioned in the desired location.
+(b) Perform the swaging operation in
+accordance with the instructions furnished by
+the manufacturer of the swaging equipment.
+(c) Check the swaged fitting with a
+“go no-go” gauge to see that the fitting is
+properly compressed, and inspect the physical
+condition of the finished terminal. (See figure 7-13.)
+[FIG 7-13] Typical terminal gauge.
+(4) Cable slippage in terminal. Ensure
+that the cable is properly inserted in the terminal after the swaging operation is completed.
+Instances have been noted wherein only
+1/4 inch of the cable was swaged in the terminal. Observance of the following precautions
+should minimize this possibility.
+(a) Measure the length of the terminal end of the fitting to determine the proper
+length of cable to be inserted into the barrel of
+the fitting.
+(b) Lay off this length at the end of
+the cable and mark with masking tape. Since
+the tape will not slip, it will provide a positive
+marking during the swaging process.
+(c) After swaging, check the tape
+marker to make certain that the cable did not
+slip during the swaging operation.
+(d) Remove the tape and paint the
+junction of the swaged fitting and cable with
+red tape.
+(e) At all subsequent service inspections of the swaged fitting, check for a gap in
+the painted section to see if cable slippage has
+occurred.
+b. Nicopress Process. A patented process
+using copper sleeves may be used up to the full
+rated strength of the cable when the cable is
+looped around a thimble. This process may
+also be used in place of the five-tuck splice on
+cables up to and including 3/8 inch diameter.
+The use of sleeves that are fabricated of materials other than copper will require engineering
+approval for the specific application by the
+FAA.
+(1) Before undertaking a nicopress
+splice, determine the proper tool and sleeve for
+the cable to be used. Refer to table 7-6 and table 7-7 for details on sleeves, tools, and the
+number of presses required for the various
+sizes of aircraft cable. The tool must be in
+good working condition and properly adjusted
+to ensure a satisfactory splice.
+(2) To compress a sleeve, have it wellcentered in the tool groove with the major axis
+of the sleeve at right angles to the tool. If the
+sleeve appears to be out of line after the press
+is started, open the tool, re-center the sleeve,
+and complete the press.
+c. Thimble-Eye Splice. Before undertaking a thimble-eye splice, initially position
+the cable so the end will extend slightly beyond the sleeve, as the sleeve will elongate
+somewhat when it is compressed. If the cable
+end is inside the sleeve, the splice may not
+hold the full strength of the cable. It is desirable that the oval sleeve be placed in close
+proximity to the thimble points, so that when
+compressed, the sleeve will contact the thimble
+as shown in figure 7-14. The sharp ends of the
+thimble may be cut off before being used;
+however, make certain the thimble is firmly
+secured in the cable loop after the splice has
+been completed. When using a sleeve requiring three compressions, make the center compression first, the compression next to the
+thimble second, and the one farthest from the
+thimble last.
+d. Lap Splice. Lap or running splices
+may also be made with copper oval sleeves.
+When making such splices, it is usually necessary to use two sleeves to develop the full
+[FIG 7-14] Typical thimble-eye splice.
+strength of the cable. The sleeves should be
+positioned as shown in figure 7-12(b), and the
+compressions made in the order shown. As in
+the case of eye splices, it is desirable to have
+the cable ends extend beyond the sleeves sufficiently to allow for the increased length of the
+compressed sleeves.
+e. Stop Sleeves. Stop sleeves may be used
+for special cable end and intermediate fittings.
+They are installed in the same manner as nicopress oval sleeves.
+NOTE: All stop sleeves are plain copper. Certain sizes are colored for identification.
+f. Terminal Gauge. To make a satisfactory copper sleeve installation, it is important
+that the amount of sleeve pressure be kept uniform. The completed sleeves should be
+checked periodically with the proper gauge.
+Hold the gauge so that it contacts the major
+axis of the sleeve. The compressed portion at
+the center of the sleeve should enter the gauge
+opening with very little clearance, as shown in
+figure 7-15. If it does not, the tool must be
+adjusted accordingly.
+g. Other Applications. The preceding information regarding copper oval sleeves and
+stop sleeves is based on tests made with flexible aircraft cable. The sleeves may also be
+[TABLE 7-6] Copper oval sleeve data.
+Copper oval sleeve stock No.
+Cable size Plain Plated* Manual tool
+No. presses strength
+3/64 18-11-B4 28-11-B4 51-B4-887
+1/16 18-1-C 28-1-C 51-C-887
+3/32 18-2-G 28-2-G 51-G-887
+1/8 18-3-M 28-3-M 51-M-850
+5/32 18-4-P 28-4-P 51-P-850
+3/16 18-6-X 28-6-X 51-X-850
+7/32 18-8-F2 28-8-F2 51-F2-850
+1/4 18-10-F6 28-10-F6 3-F6-950
+5/16 18-13-G9 28-13-G9 3-G9-950
+No. 635
+Hydraulic tool
+dies
+3/8 18-23-H5 28-23-H5 Oval H5
+7/16 18-24-J8 28-24-J8 Oval J8
+1/2 18-25-K8 28-25-K8 Oval K8
+9/16 18-27-M1 28-27-M1 Oval M1
+5/8 18-28-N5 28-28-N5 Oval N5
+*Required on stainless cables due to electrolysis caused by different
+[TABLE 7-7] Copper stop sleeve data.
+Cable size (inch) Sleeve No. Tool No.
+3/64 871-12-B4 51-B4-887
+1/16 871-1-C 51-C-887
+3/32 871-17-J 51-MJ
+(Yellow)
+1/8 S71-18-J 51-MJ
+(Red)
+5/32 871-19-M 51-MJ
+3/16 871-20-M 51-MJ
+(Black)
+7/32 871-22-M 51-MJ
+1/4 871-23-F6 3-F6-950
+5/16 871-26-F6 3-F6-950
+NOTE: All stop sleeves are plain copper. Certain sizes are colored for
+used on wire ropes of other construction, if
+each specific type of cable is proof-tested initially. Because of variation in rope strengths,
+grades, construction, and actual diameters, the
+test is necessary to insure proper selection of
+materials, the correct pressing procedure, and
+an adequate margin of safety for the intended
+use.
+Sleeve length Sleeve length
+Number of Tested
+before com- after compression (ap- pression (ap-
+(pounds)
+prox.) prox.)
+(inches) (inches)
+3/8 7/16 1 340
+3/8 7/16 1 550
+7/16 1/2 1 1,180
+9/16 3/4 3 2,300
+5/8 7/8 3 3,050
+1 1 1/4 4 4,350
+7/8 1 1/16 4 5,790
+1 1/8 1 1/2 3 7,180
+1 1/4 1 5/8 3 11,130
+1 1/2 1 7/8 1 16,800
+1 3/4 2 1/8 2 19,700
+1 7/8 2 1/2 2 25,200
+2 2 5/8 3 31,025
+2 3/8 3 1/8 3 39,200
+types of metals.
+Sleeve Sleeve Tested strength (pounds)
+7/32 11/64 280
+7/32 13/64 525
+5/16 21/64 600
+5/16 21/64 800
+5/16 27/64 1,200
+5/16 27/64 1,600
+5/8 7/16 2,300
+11/16 21/32 3,500
+11/16 21/32 3,800
+identification.
+[FIG 7-15] Typical terminal gauge.

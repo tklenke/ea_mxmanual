@@ -1,0 +1,34 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-214. IDENTIFICATION SLEEVES.
+Flexible sleeving, either clear or opaque, is
+satisfactory for general use. When color-coded
+or striped component wire is used as part of a
+cable, the identification sleeve should
+specify which color is associated with each
+wire identification code. Identification sleeves
+are normally used for identifying the following
+types of wire or cable:
+a. Unjacketed shielded wire.
+b. Thermocouple wire identification is
+normally accomplished by means of identification sleeves. As the thermocouple wire is
+usually of the duplex type (two insulated wires
+within the same casing), each wire at the termination point bears the full name of the conductor. Thermocouple conductors are alumel,
+chromel, iron, constantan, and copper
+constantan.
+c. Coaxial cable should not be hot
+stamped directly. When marking coaxial cable, care should be taken not to deform the cable as this may change the electrical characteristics of the cable. When cables cannot be
+printed directly, they should be identified by
+printing the identification code (and individual
+wire color, where applicable) on a nonmetallic
+material placed externally to the outer covering
+at the terminating end and at each junction or
+pressure bulkhead. Cables not enclosed in
+conduit or a common jacket should be identified with printed sleeves at each end and at
+intervals not longer than 3 feet. Individual
+wires within a cable should be identified
+within 3 inches from their termination.
+d. Multiconductor cable normally use
+identification sleeves for identifying unshielded, unjacketed cable.
+e. High-temperature wire with insulation
+is difficult to mark (such as Teflon and fiberglass).

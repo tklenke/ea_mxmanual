@@ -1,0 +1,35 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-3. CLEANING AND LUBRICATING.
+It is recommended that only easily removable
+neutral solutions be used when cleaning landing gear components. Any advantage, such as
+speed or effectiveness, gained by using cleaners containing corrosive materials, can be
+quickly counteracted if these materials become
+trapped in close-fitting surfaces and crevices.
+AND COMPONENTS
+OF LANDING GEAR
+Wear points, such as landing gear up-anddown latches, jack-screws, door hinges, pulleys, cables, bellcranks, and all pressure-type
+grease fittings, should be lubricated after every
+cleaning operation.
+To prevent possible failure of a component due
+to incompatibility or breakdown of the grease,
+the following should be observed:
+1. Use only greases approved for use by
+the product manufacturer.
+2. Never mix different kinds of grease
+without approval from the product
+manufacturer.
+3. Follow the manufacturer’s instructions
+or FAA approved process for cleaning,
+purging, and lubricating of the component.
+To obtain proper lubrication of the main support bushings, it may be necessary to jack the
+aircraft.
+NOTE: Any time the aircraft is on
+jacks, check the landing gear main
+support bushings for wear. Consult
+the aircraft manufacturer’s overhaul
+manual for specific wear tolerances.
+During winter operation, excess grease may
+congeal and cause increased loads on the gear
+retraction system, electric motors, and hydraulic pumps. This condition can lead to component malfunctions; therefore, it is recommended that cleanliness be stressed during and
+after lubrication.

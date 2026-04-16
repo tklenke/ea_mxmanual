@@ -1,0 +1,149 @@
+AC 43.13-1B  Chapter 3: FIBERGLASS AND PLASTICS  Section 1: REPAIR OF LIGHT LOAD LAMINATE STRUCTURES
+
+3-4. SAMPLE BAGGING AND CURING
+PROCESS. Figure 3-9 shows a typical bagging arrangement for a localized repair in
+which patch plies of prepreg are cured with a
+layer of adhesive, and a heating blanket is used
+to supply heat.
+[FIG 3-9] Sample bagging layup cross section.
+a. The materials used for most bonded
+repairs require elevated temperatures and pressure, during their cure, to develop full strength.
+The following paragraphs describe the operations required to enclose the repair in a vacuum bag. When the part to be cured can be
+placed in an autoclave, additional pressure and
+heat can be applied. For cured-in-place parts,
+vacuum pressure and portable heat blankets
+usually suffice.
+(1) When selecting materials, especially
+the parting agent film, the temperature at
+which the repair is to be cured must be known.
+Polyvinyl alcohol (PVA) film is ideal when the
+bonding temperature does not exceed 250 °F.
+PVA film has very high tear resistance and may
+be heat-sealed effectively. When the bond
+temperature is not above 180 °F, polyvinyl
+chloride film can be used. For temperatures up
+to 450 °F, a polyvinyl fluoride film is used.
+These three types of films are available in a variety of weights and widths. Most nylon bagging films are used for temperatures up to
+400 °F.
+(2) When all repair details are in place
+and ready to be cured, they are enclosed in a
+bag of plastic film or thin rubber. Air is removed from the bag by a vacuum source so
+that atmospheric pressure exerts a pressure on
+the repair as it is cured.
+(3) To provide a path to draw off the air
+initially inside the bag, layers of fiberglass
+cloth or similar noncontaminating materials,
+known as breather plies, are placed inside the
+bag. When prepreg is being cured as part of
+the repair, it is sometimes necessary to bleed
+off excess resin. To do this, layers of fiberglass cloth or similar materials known as
+bleeder plies are placed over the prepreg.
+Some repairs have been made with a net resin
+prepreg that does not require bleeding, and
+therefore does not require bleeder plies. Porous separator plies or film are used between
+the prepreg and the bleeder and nonporous
+separator plies or film are used between the
+bleeder and breather plies to control the flow
+of resin.
+(4) Small parts may be envelope bagged
+(i.e., enclosing the entire part in the bag).
+Larger parts with localized repairs can be
+bagged by sealing the surface completely
+around the repair areas with sealing tape and
+applying the bagging material to the sealing
+tape.
+CAUTION: The whole panel must be
+vacuum bagged to prevent delamination in sandwich skins when using an
+oven or autoclave. Contoured parts
+must be restrained with tooling to
+prevent warpage.
+b. When the heat for curing the repair
+is provided by a heat blanket, the blanket can
+be either inside or outside the vacuum bag.
+However, the blanket should be covered to
+minimize heat loss, and the blanket should be
+separated from direct contact with most bagging materials by layers of fiberglass cloth.
+(1) This will prevent localized overheating that could damage the bag. It is sometimes helpful to place a thin aluminum sheet
+under the heating blanket to minimize localized heating. A thin rubber blanket can help
+smooth the surface of the material being cured.
+A pressure plate should be used when two or
+more heat blankets are applied to the same repair.
+NOTE: Understanding that various
+resins behave differently during cure,
+the choice of bagging arrangements
+will often vary with the material being
+cured.
+(2) The procedure for the bagging arrangement is as follows:
+(a) Place a peel ply over the patch
+material to provide a surface finish for subsequent bonding or painting if not previously accomplished. Place a layer of porous separator
+cloth over the patch, extending beyond the
+prepreg and the adhesive. Smooth to avoid
+wrinkles.
+(b) With the patch material in place,
+place the end of the thermocouple wire next to
+the edge of the prepreg. Tape the wire to the
+structure inside the bag with heat-resistant
+tape. The tape should not be in contact with
+the prepreg or the adhesive.
+(c) Place bleeder plies as shown, extending 2 to 3 inches beyond the patch. The
+number of bleeder plies needed will vary with
+the type of resin and the resin content required.
+(d) Place a layer of nonporous parting film over the bleeder plies, cut 1 inch
+smaller than the bleeder plies. This layer is
+intended to stop resin flow from bleeder plies
+into breather plies while still providing an airflow path when vacuum is applied.
+(e) If a pressure plate is used, place it
+over the previous separator ply. The plate is
+frequently perforated with small holes to permit airflow to the breather plies. Bleeder plies
+may be necessary when using a pressure plate.
+NOTE: Pressure on the repair will be
+reduced if the pressure plate does not
+conform to the repair.
+(f) Place the heat blanket over the assembly, making sure it extends 3 to 4 inches
+beyond the material to be cured.
+(g) One or more thermocouples
+should be in contact with the heat blanket to
+monitor its temperature. Additional thermocouples should be placed near the curing repair
+to monitor the temperature of the curing resin.
+(h) When using a heat blanket as the
+heat source, four to six layers of fiberglass surface breather or the equivalent should be
+used over the heat blanket. This will insulate
+and prevent damage to the nylon bagging film.
+Ensure that the breather plies are in contact
+with the bleeder plies so that an air passage
+exists.
+(i) Place a bead of sealing tape
+against the parent material around the edge of
+the breather plies. Seal the thermocouple
+wires to prevent vacuum leakage.
+NOTE: Two layers of sealing tape
+may be required in order to provide a
+good seal.
+(j) Cover with a suitable vacuum
+bag, smoothed to minimize wrinkles. Press
+the bag firmly onto the sealing tape to obtain
+an air-tight seal. Place pleats in vacuum bag to
+allow the bag material to stretch.
+(k) Install two vacuum probes or
+sniffers through openings cut in the bag. One
+will be used for the vacuum gauge and the
+other will be connected to the vacuum source.
+The vacuum probe must sit on the breather
+plies, but must not touch the patch or adhesive.
+NOTE: Place the vacuum gauge on
+the opposite side of the vacuum port,
+where applicable. Do not place vacuum probes near repair area.
+(l) Connect the vacuum source and
+smooth the bag by hand pressure as the air is
+removed. Check for leaks and reseal as necessary. A minimum vacuum of 22 inches of
+mercury is required.
+(m) Place insulating material over
+the vacuum bag to prevent heat loss.
+(n) Apply power to the heat blanket
+and control its temperature as specified for the
+material being cured.
+(o) Observe cure time requirements
+established by the product manufacturer.
+3-5.3-9.
+[RESERVED.]
+SECTION 2. METALLIC SANDWICH

@@ -1,0 +1,91 @@
+AC 43.13-1B  Chapter 3: FIBERGLASS AND PLASTICS  Section 1: REPAIR OF LIGHT LOAD LAMINATE STRUCTURES
+
+3-2. FIBERGLASS LAMINATE REPAIRS. The following repairs are applicable
+to fiberglass laminate used for non-structural
+fairing, covers, cowlings, honeycomb panel
+facings, etc. Prior to undertaking the repair,
+remove any paint by using normal dry sanding
+methods. Bead blasting may be used but caution must be exercised not to abrade the surfaces excessively.
+NOTE: Chemical paint strippers
+must not be used.
+NOTE: These repairs are not to be
+used on radomes or advanced composite components, such as graphite
+(carbon fiber) or Kevlar.
+CAUTION: Sanding fiberglass laminates gives off a fine dust that may
+cause skin and/or respiratory irritation unless suitable skin and respiration protection is used. Sanding also
+creates static charges that attract dirt
+or other contaminants.
+a. Check for voids and delamination by
+tap testing. (See chapter 5.) When the surface
+of a fiberglass laminated structure is scratched,
+pitted, or eroded; first wash with detergent and
+water to remove all of the dirt, wax, or oxide
+film. Then scrub the surface with an acceptable cleaner. After the surface is thoroughly
+cleaned, sand it with 280-grit sandpaper, and
+again use an acceptable cleanser to remove any
+sanding residue and moisture. This is
+essential, as any moisture remaining on the
+surface will inhibit the cure of the resin. Dry
+the fiberglass laminate thoroughly prior to
+bonding repair. Mix enough resin, using the
+manufacturer’s instructions, to completely
+cover the damaged area, and apply one or two
+coats. Cover the resin with a peel ply to exclude all air from the resin while it is curing.
+After the resin has cured, remove the film and
+file or sand the surface to conform to the original shape of the part. Ensure that all edges of
+the laminate part are sealed to prevent water
+absorption. Then refinish it to match the rest
+of the structure.
+b. Superficial scars, scratches, surface
+abrasion, or rain erosion can generally be repaired by applying one or more coats of a suitable low temperature resin, catalyzed to cure at
+room temperature, to the abraded surface. The
+number of coats required will depend upon the
+type of resin and the severity of the damage.
+(1) Damage not exceeding the first layer
+or ply of fiberglass laminate can be repaired by
+filling with a putty consisting of a compatible
+room-temperature-setting resin and clean short
+glass fibers. Before the resin sets, apply a
+sheet of peel ply over the repair area and work
+out any bubbles and excess resin. After the
+resin has cured, sand off any excess and prepare the area for refinishing.
+(2) Damage deep enough to seriously
+affect the strength of the laminate (usually
+more than the first ply or layer of fabric) may
+be repaired as illustrated in figure 3-1. Coat
+the sanded area with room-temperature-setting
+resin and apply contoured pieces of glass fabric soaked in resin. Apply a peel ply sheet
+over the repair and work out any bubbles and
+excess resin. After the resin has cured, scrape
+off the excess resin and sand the surface of the
+repair to the original contour.
+[FIG 3-1] Typical laminate (facing) repair.
+(3) Damage that extends completely
+through one facing and into the core requires
+the replacement of the damaged core and facing. A method for accomplishing this type of
+repair is shown in figure 3-2. An alternate
+method for repairing the facing is shown in
+figure 3-3. The damaged portion is carefully
+trimmed out to a circular or oval shape and the
+core material is removed completely to the opposite facing. Exercise caution so as not to
+damage the opposite facing or to start delamination between the facings and the core around
+the damage.
+[FIG 3-2] Typical core and facing repair.
+[FIG 3-3] Typical stepped joint repair.
+c. Use replacement core stock of the
+same material and density as the original (or an
+acceptable substitute) and cut it to fit snugly in
+the trimmed hole. Observe the direction of the
+original core. When all of the pieces of replacement facing laminations are cut and
+soaked in resin, coat all surfaces of the hole
+and the scarfed area with resin. Then coat all
+surfaces of the core replacement with resin and
+insert it into the hole. After all of the pieces of
+resin-impregnated glass-fabric facing are in
+place and lined up with the original fiber-orientation, cover the entire area with a
+piece of peel ply and carefully work down the
+layers of fabric to remove any air bubbles and
+excess resin. Apply light pressure by means of
+sand bags or a vacuum bag. When the resin
+has cured, sand the repair to match the original
+contour and refinish the surface.

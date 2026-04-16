@@ -1,0 +1,28 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 2: STORAGE BATTERIES
+
+11-17. BATTERY FREEZING. Discharged
+lead-acid batteries exposed to cold temperatures are subject to plate damage due to freezing of the electrolyte. To prevent freezing
+damage, maintain each cell’s specific gravity
+at 1.275, or for sealed lead-acid batteries check
+“open” circuit voltage. (See table 11-1.) NiCad battery electrolyte is not as susceptible to
+freezing because no appreciable chemical
+change takes place between the charged and
+discharged states. However, the electrolyte
+°F.
+will freeze at approximately minus 75
+NOTE: Only a load check will determine overall battery condition.
+[TABLE 11-1] Lead-acid battery electrolyte freezing
+points.
+State of Charge (SOC) for sealed
+Specific Freeze point 70°
+lead-acid batteries at
+Gravity C. F. SOC 12 volt 24 volt
+1.300 -70 -95 100% 12.9 25.8
+1.275 -62 -80 75% 12.7 25.4
+1.250 -52 -62 50% 12.4 24.8
+1.225 -37 -35 25% 12.0 24.0
+1.200 -26 -16
+1.175 -20 -4
+1.150 -15 +5
+1.125 -10 +13
+1.100 -8 +19

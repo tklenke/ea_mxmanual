@@ -1,0 +1,398 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-51. TYPES OF PATCHES. There are
+four types of patches: splayed patch, surface
+(or overlay) patch, scarf patch, and plug patch.
+They are all acceptable for repairing plywood
+skins.
+a. Splayed Patch. Small holes with their
+largest dimensions not over 15 times the skin
+thickness, in skins not more than 1/10 inch in
+thickness, may be repaired by using a circular
+splayed patch as illustrated in figure 1-13. The
+term “splayed” is used to denote that the edges
+of the patch are tapered, but the slope is
+steeper than is allowed in scarfing operations.
+(1) Lay out the patch according to figure 1-13. Tack a small piece of plywood over
+the hole for a center point and draw two circles
+with a divider, the inner circle to be the size of
+the hole and the outer circle marking the limits
+plywood.
+GRAIN
+GRAIN
+1.1 0.5 0.1
+3.2 1.5 0.4
+5.2 2.6 0.8
+7.1 3.8 1.2
+10 5.3 1.8
+13 7.1 2.6
+11 6 2
+14 7 3
+17 10 4
+20 12 5
+28 16 7
+36 21 10
+of the taper. The difference between the radii
+is 5T (5 times the thickness of the skin). If one
+leg of the dividers has been sharpened to a
+chisel edge, the dividers may be used to cut the
+inner circle.
+(2) Taper the hole evenly to the outer
+mark with a chisel, knife, or rasp.
+(3) Prepare a circular tapered patch to
+fit the prepared hole, and bond the patch into
+place with face-grain direction matching that
+of the original surface.
+(4) Use waxed paper or plastic wrap,
+(cut larger than the size of the patch) between
+the patch and the plywood pressure plate. This
+prevents excess adhesive from bonding the
+pressure plate to the skin. Center the pressure
+plate carefully over the patch.
+(5) As there is no reinforcement behind
+this patch, care must be used so that pressure is
+not great enough to crack the skin. On horizontal surfaces, weights or sandbags will be
+sufficient. On patches too far from any edge
+for the use of standard hand clamps, jaws of
+greater length may be improvised. Table 1-2,
+columns (1) and (3), may also be used for determining the maximum thickness of single
+laminations for curved members.
+(6) Fill, sand, and refinish the patch.
+b. Surface Patch. Plywood skins that are
+damaged between or along framing members
+may be repaired by surface or overlay patches
+as shown in figure 1-14. Surface patches located entirely aft of the 10 percent chord line,
+or which wrap around the leading edge and
+terminate aft of the 10 percent chord line, are
+permissible. Surface patches may have as
+much as a 50 inch perimeter and may cover as
+much as 1 frame (or rib) space. Trim the damaged skin to a rectangular or triangular shape
+and round the corners. The radius of rounded
+corners must be at least 5 times the skin thickness. Bevel the forward edges of patches located entirely aft of the 10 percent chord line
+to 4 times the skin thickness. The face-grain
+direction must be the same as the original skin.
+Cover completed surface patches with fabric to
+match surrounding area. The fabric must
+overlap the original fabric at least 2 inches.
+c. Scarf Patch. A properly prepared and
+inserted scarf patch is the best repair for damaged plywood skins and is preferred for most
+skin repairs. Figure 1-15 shows the details and
+dimensions to be used when installing typical
+scarf skin patches, when the back of the skin is
+accessible. Follow figure 1-16 when the back
+of the skin is not accessible. The scarf slope
+of 1 in 12, shown in both figures, is the steepest slope permitted for all kinds of plywood. If
+the radius of curvature of the skin at all points
+on the trimmed opening is greater than
+100 times the skin thickness, a scarf patch may
+be installed.
+(1) Scarf cuts in plywood may be made
+by hand plane, spoke shave, scraper, or accurate sandpaper block. Rasped surfaces, except
+at the corners of scarf patches and sawn surfaces, are not recommended as they are likely
+to be rough or inaccurate.
+(2) Nail strip or small screw clamping
+is often the only method available for bonding
+scarf joints in plywood skin repairs. It is essential that all scarf joints in plywood be
+backed with plywood or solid wood to provide
+adequate nail holding capacity. The face-grain
+direction of the plywood patch must be the
+same as that of the original skin.
+(3) If the back of a damaged plywood
+skin is accessible (such as a fuselage skin), it
+should be repaired with a scarf patch, following the details shown in figure 1-15. Whenever possible, the edges of the patch should be
+supported as shown in section C-C of figure 1-15. When the damage follows or extends to a framing member, the scarf may be
+supported as shown in section B-B of figure 1-15. Damages that do not exceed
+25 times the skin thickness in diameter after
+being trimmed to a circular shape and are not
+less than 15 times the skin thickness to a
+framing member, may be repaired as shown in
+figure 1-15, section D-D.
+(a) The backing block is carefully
+shaped from solid wood and fitted to the inside
+surface of the skin, and is temporarily held in
+place with nails.
+(b) Use waxed paper or plastic wrap
+to prevent bonding of the backing block to the
+skin.
+[FIG 1-13] Splayed patch.
+(c) A hole, the exact size of the inside circle of the scarf patch, is made in the
+block, and is centered over the trimmed area of
+damage.
+(d) The block is removed, after the
+adhesive on the patch has set, leaving a flush
+surface to the repaired skin.
+(4) Steps in making a scarf patch when
+the back of the skin is not accessible are as
+follows:
+(a) After removing damaged sections, install backing strips, as shown in figure 1-16, along all edges that are not fully
+backed by a rib or a spar. To prevent warping
+of the skin, backing strips should be made of a
+soft-textured plywood, such as yellow poplar
+or spruce rather than solid wood. All junctions
+between backing strips and ribs or spars should
+have the end of the backing strip supported by
+a saddle gusset of plywood.
+(b) If needed, nail and bond the new
+gusset plate to rib. It may be necessary to
+remove and replace the old gusset plate with a
+new saddle gusset, or it may be necessary to
+nail a saddle gusset over the original gusset.
+(c) Attach nailing strips to hold
+backing strips in place while the adhesive sets.
+Use a bucking bar, where necessary, to provide
+support for nailing. After the backing strips
+are fully bonded, install the patch.
+d. Plug Patch. Either oval or round plug
+patches may be used on plywood skins provided the damage can be covered by the
+patches whose dimensions are given in figure 1-17 and figure 1-18. The plug patch is
+strictly a skin repair, and should be used only
+for damage that does not involve the supporting structure under the skin. The face-grain direction of the finished patch must match the
+surrounding skin.
+(1) Steps in making an oval plug patch
+are as follows:
+(a) Explore the area about the hole to
+be sure it lies at least the width of the oval
+[FIG 1-14] Surface patches.
+[FIG 1-15] Scarf patches (back of skin accessible).
+[FIG 1-16] Scarf patches (back of skin not accessible).
+doubler from a rib or a spar. Refer to figure 1-17 for repair details.
+(b) Prepare a patch and a doubler of
+the same species plywood as the surrounding
+skin using the dimensions shown in figure 1-17.
+(c) Lay the oval plug patch over the
+damage and trace the patch onto the skin. Saw
+to the line, and trim the hole edges with a knife
+and sandpaper.
+(d) Mark the exact size of the patch
+on one surface of the oval doubler and apply
+adhesive to the area outside the line. Insert
+doubler through the hole and bring it, adhesive
+side up, to the underside of the skin with the
+pencil outline of the patch matching the edges
+of the hole. If the curvature of the surface to
+be repaired is greater than a rise of 1/8 inch in
+6 inches, the doubler should be preformed by
+hot water or steam bending to the approximate
+curvature. As an alternative to preforming of
+the 1/4 inch stock, the doubler may be laminated from two thicknesses of 1/8 inch ply.
+(e) Apply nailing strips outlining the
+hole to apply bonding pressure between doubler and skin. Use a bucking bar to provide
+support for nailing. When two rows of nails
+are used, stagger nail spacing. Allow adhesive
+to cure.
+(f) Apply adhesive to remaining surface of the doubler and to the mating surface
+on the patch. Lay the patch in position over
+the doubler, and screw the pressure plate to the
+patch assembly using a small nail to line up the
+holes that have been previously made with
+patch and plate matching. No. 4 round head
+screws are used. Lead holes in the plywood
+doubler are not necessary. Waxed paper or
+plastic wrap between the plate and patch prevents adhesive from bonding the plate to the
+patch. No clamps or further pressure need be
+applied, as the nailing strips and screws exert
+ample pressure.
+(2) Round plug patches may be made
+by following the steps in figure 1-18. The
+steps are identical to those for making the oval
+patch except for the insertion of the doubler.
+In using the round patch, where access is from
+only one side, the round doubler cannot be inserted unless it has been split.
+1-51. TYPES OF PATCHES. There are
+four types of patches: splayed patch, surface
+(or overlay) patch, scarf patch, and plug patch.
+They are all acceptable for repairing plywood
+skins.
+a. Splayed Patch. Small holes with their
+largest dimensions not over 15 times the skin
+thickness, in skins not more than 1/10 inch in
+thickness, may be repaired by using a circular
+splayed patch as illustrated in figure 1-13. The
+term “splayed” is used to denote that the edges
+of the patch are tapered, but the slope is
+steeper than is allowed in scarfing operations.
+(1) Lay out the patch according to figure 1-13. Tack a small piece of plywood over
+the hole for a center point and draw two circles
+with a divider, the inner circle to be the size of
+the hole and the outer circle marking the limits
+plywood.
+GRAIN
+GRAIN
+1.1 0.5 0.1
+3.2 1.5 0.4
+5.2 2.6 0.8
+7.1 3.8 1.2
+10 5.3 1.8
+13 7.1 2.6
+11 6 2
+14 7 3
+17 10 4
+20 12 5
+28 16 7
+36 21 10
+of the taper. The difference between the radii
+is 5T (5 times the thickness of the skin). If one
+leg of the dividers has been sharpened to a
+chisel edge, the dividers may be used to cut the
+inner circle.
+(2) Taper the hole evenly to the outer
+mark with a chisel, knife, or rasp.
+(3) Prepare a circular tapered patch to
+fit the prepared hole, and bond the patch into
+place with face-grain direction matching that
+of the original surface.
+(4) Use waxed paper or plastic wrap,
+(cut larger than the size of the patch) between
+the patch and the plywood pressure plate. This
+prevents excess adhesive from bonding the
+pressure plate to the skin. Center the pressure
+plate carefully over the patch.
+(5) As there is no reinforcement behind
+this patch, care must be used so that pressure is
+not great enough to crack the skin. On horizontal surfaces, weights or sandbags will be
+sufficient. On patches too far from any edge
+for the use of standard hand clamps, jaws of
+greater length may be improvised. Table 1-2,
+columns (1) and (3), may also be used for determining the maximum thickness of single
+laminations for curved members.
+(6) Fill, sand, and refinish the patch.
+b. Surface Patch. Plywood skins that are
+damaged between or along framing members
+may be repaired by surface or overlay patches
+as shown in figure 1-14. Surface patches located entirely aft of the 10 percent chord line,
+or which wrap around the leading edge and
+terminate aft of the 10 percent chord line, are
+permissible. Surface patches may have as
+much as a 50 inch perimeter and may cover as
+much as 1 frame (or rib) space. Trim the damaged skin to a rectangular or triangular shape
+and round the corners. The radius of rounded
+corners must be at least 5 times the skin thickness. Bevel the forward edges of patches located entirely aft of the 10 percent chord line
+to 4 times the skin thickness. The face-grain
+direction must be the same as the original skin.
+Cover completed surface patches with fabric to
+match surrounding area. The fabric must
+overlap the original fabric at least 2 inches.
+c. Scarf Patch. A properly prepared and
+inserted scarf patch is the best repair for damaged plywood skins and is preferred for most
+skin repairs. Figure 1-15 shows the details and
+dimensions to be used when installing typical
+scarf skin patches, when the back of the skin is
+accessible. Follow figure 1-16 when the back
+of the skin is not accessible. The scarf slope
+of 1 in 12, shown in both figures, is the steepest slope permitted for all kinds of plywood. If
+the radius of curvature of the skin at all points
+on the trimmed opening is greater than
+100 times the skin thickness, a scarf patch may
+be installed.
+(1) Scarf cuts in plywood may be made
+by hand plane, spoke shave, scraper, or accurate sandpaper block. Rasped surfaces, except
+at the corners of scarf patches and sawn surfaces, are not recommended as they are likely
+to be rough or inaccurate.
+(2) Nail strip or small screw clamping
+is often the only method available for bonding
+scarf joints in plywood skin repairs. It is essential that all scarf joints in plywood be
+backed with plywood or solid wood to provide
+adequate nail holding capacity. The face-grain
+direction of the plywood patch must be the
+same as that of the original skin.
+(3) If the back of a damaged plywood
+skin is accessible (such as a fuselage skin), it
+should be repaired with a scarf patch, following the details shown in figure 1-15. Whenever possible, the edges of the patch should be
+supported as shown in section C-C of figure 1-15. When the damage follows or extends to a framing member, the scarf may be
+supported as shown in section B-B of figure 1-15. Damages that do not exceed
+25 times the skin thickness in diameter after
+being trimmed to a circular shape and are not
+less than 15 times the skin thickness to a
+framing member, may be repaired as shown in
+figure 1-15, section D-D.
+(a) The backing block is carefully
+shaped from solid wood and fitted to the inside
+surface of the skin, and is temporarily held in
+place with nails.
+(b) Use waxed paper or plastic wrap
+to prevent bonding of the backing block to the
+skin.
+[FIG 1-13] Splayed patch.
+(c) A hole, the exact size of the inside circle of the scarf patch, is made in the
+block, and is centered over the trimmed area of
+damage.
+(d) The block is removed, after the
+adhesive on the patch has set, leaving a flush
+surface to the repaired skin.
+(4) Steps in making a scarf patch when
+the back of the skin is not accessible are as
+follows:
+(a) After removing damaged sections, install backing strips, as shown in figure 1-16, along all edges that are not fully
+backed by a rib or a spar. To prevent warping
+of the skin, backing strips should be made of a
+soft-textured plywood, such as yellow poplar
+or spruce rather than solid wood. All junctions
+between backing strips and ribs or spars should
+have the end of the backing strip supported by
+a saddle gusset of plywood.
+(b) If needed, nail and bond the new
+gusset plate to rib. It may be necessary to
+remove and replace the old gusset plate with a
+new saddle gusset, or it may be necessary to
+nail a saddle gusset over the original gusset.
+(c) Attach nailing strips to hold
+backing strips in place while the adhesive sets.
+Use a bucking bar, where necessary, to provide
+support for nailing. After the backing strips
+are fully bonded, install the patch.
+d. Plug Patch. Either oval or round plug
+patches may be used on plywood skins provided the damage can be covered by the
+patches whose dimensions are given in figure 1-17 and figure 1-18. The plug patch is
+strictly a skin repair, and should be used only
+for damage that does not involve the supporting structure under the skin. The face-grain direction of the finished patch must match the
+surrounding skin.
+(1) Steps in making an oval plug patch
+are as follows:
+(a) Explore the area about the hole to
+be sure it lies at least the width of the oval
+[FIG 1-14] Surface patches.
+[FIG 1-15] Scarf patches (back of skin accessible).
+[FIG 1-16] Scarf patches (back of skin not accessible).
+doubler from a rib or a spar. Refer to figure 1-17 for repair details.
+(b) Prepare a patch and a doubler of
+the same species plywood as the surrounding
+skin using the dimensions shown in figure 1-17.
+(c) Lay the oval plug patch over the
+damage and trace the patch onto the skin. Saw
+to the line, and trim the hole edges with a knife
+and sandpaper.
+(d) Mark the exact size of the patch
+on one surface of the oval doubler and apply
+adhesive to the area outside the line. Insert
+doubler through the hole and bring it, adhesive
+side up, to the underside of the skin with the
+pencil outline of the patch matching the edges
+of the hole. If the curvature of the surface to
+be repaired is greater than a rise of 1/8 inch in
+6 inches, the doubler should be preformed by
+hot water or steam bending to the approximate
+curvature. As an alternative to preforming of
+the 1/4 inch stock, the doubler may be laminated from two thicknesses of 1/8 inch ply.
+(e) Apply nailing strips outlining the
+hole to apply bonding pressure between doubler and skin. Use a bucking bar to provide
+support for nailing. When two rows of nails
+are used, stagger nail spacing. Allow adhesive
+to cure.
+(f) Apply adhesive to remaining surface of the doubler and to the mating surface
+on the patch. Lay the patch in position over
+the doubler, and screw the pressure plate to the
+patch assembly using a small nail to line up the
+holes that have been previously made with
+patch and plate matching. No. 4 round head
+screws are used. Lead holes in the plywood
+doubler are not necessary. Waxed paper or
+plastic wrap between the plate and patch prevents adhesive from bonding the plate to the
+patch. No clamps or further pressure need be
+applied, as the nailing strips and screws exert
+ample pressure.
+(2) Round plug patches may be made
+by following the steps in figure 1-18. The
+steps are identical to those for making the oval
+patch except for the insertion of the doubler.
+In using the round patch, where access is from
+only one side, the round doubler cannot be inserted unless it has been split.

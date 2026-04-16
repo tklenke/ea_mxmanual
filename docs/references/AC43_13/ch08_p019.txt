@@ -1,0 +1,68 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-19. MAGNETO INSPECTION. Whenever ignition problems develop and it is determined that the magneto is the cause of the difficulty, the following are a few simple inspection procedures which may locate the malfunction quickly. However, conduct any internal inspection or repair of a magneto in accordance with the manufacturer’s maintenance
+and overhaul manuals.
+a. Inspect the distributor block contact
+springs. If broken or corroded, replace.
+b. Inspect the felt oil washer, if applicable. It should be saturated with oil. If it is dry,
+check for a worn bushing.
+c. Inspect the distributor block for
+cracks or a burned area. The wax coating on
+the block should not be removed. Do not use
+any solvents for cleaning.
+[FIG 8-8] Typical method of clamping leads.
+d. Look for excess oil in the breaker
+compartment. If oil is present, it may indicate
+a bad oil seal or bushing at the drive end. This
+condition could require complete overhaul, as
+too much oil may foul and cause excessive
+burning of the contact points.
+e. Look for frayed insulation on the
+leads in the breaker compartment of the magneto. See that all terminals are secure. Be sure
+that wires are properly positioned.
+f. Inspect the capacitor visually for general condition, and check the mounting bracket
+for cracks or looseness. If possible, check the
+capacitor for leakage, capacity, and series resistance.
+g. Examine the points for excessive wear
+or burning. Discard points which have deep
+pits or excessively burned areas. Desired
+contact surfaces have a dull gray, sandblasted
+(almost rough) or frosted appearance over the
+area where electrical contact is made. Figure 8-9 shows how the normal contact point
+will look when surfaces are separated for inspection. Minor irregularities or roughness of
+point surfaces are not harmful (see figure 8-10), neither are small pits or mounds, if
+not too pronounced. If there is a possibility of
+the pit becoming deep enough to penetrate the
+pad (see figure 8-11), reject the contact assembly.
+[FIG 8-9] Normal contact point.
+[FIG 8-10] Point with minor irregularities.
+h. Generally, no attempt should be
+made to dress or stone contact point assemblies; however, if provided, procedures and
+limits contained in the manufacturer’s manuals
+may be followed.
+[FIG 8-11] Point with well-defined mound.
+CAUTION: When inspecting the contact points for condition, do not open
+further than absolutely necessary.
+Excess tension on the spring will
+weaken it and adversely affect the
+performance of the magneto.
+i. Adjustment of magneto point gaps
+must be correct for proper internal timing of a
+magneto. See applicable manufacturer’s publications for internal timing procedures.
+j. Check the breaker cam to assure
+cleanness and smoothness. Check the cam
+screw for tightness. If new points have been
+installed, blot a little oil on the cam. In addition, check contact point assembly to ascertain
+that the cam follower is securely fastened.
+k. If the impulse coupling is accessible,
+inspect for excessive wear on the contact edges
+of the body and flyweights. In addition, check
+the flyweights for looseness on the axles.
+l. Further examination of the impulse
+coupling body may disclose cracks caused by
+exceedingly-tight flyweight axle rivets.
+m. Check the magneto ventilators for
+proper functioning and obstructions. If drilled
+plugs are used, they should be in the lowest
+vent hole of the magneto to serve as a drain for
+condensation and oil.

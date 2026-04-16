@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 3: INSPECTION AND TESTING
+
+2-32. COATING IDENTIFICATION.
+Nitrate or butyrate dope must be used to develop tension on cotton, linen, and glass fabrics. When a small sample can be removed,
+burn tests will distinguish nitrate dope-coated
+fabric from butyrate dope-coated fabric by its
+immediate ignition and accelerated combustion. Butyrate dope will burn at less than
+one-half the rate of nitrate dope. Coating types
+other than nitrate or butyrate dope may have
+been used as a finish over dope on cotton,
+linen, and glass fiber fabric coverings.
+a. If the fabric type is determined to be
+polyester, coating identification should start
+by reviewing the aircraft records and inspecting the inside of the wings and the fuselage for
+the required fabric source identification stamps
+for covering materials authorized under the
+STC. The manual, furnished by the holder of
+the STC-approved fabric, should be reviewed
+to determine whether the coatings are those
+specified by the STC.
+b. Coating types, other than those
+authorized by the original STC, may have been
+used with prior FAA approval, and this would
+be noted in the aircraft records. The presence
+of dope on polyester can be detected by a sample burn test.

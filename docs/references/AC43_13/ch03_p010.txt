@@ -1,0 +1,174 @@
+AC 43.13-1B  Chapter 3: FIBERGLASS AND PLASTICS  Section 2: METALLIC SANDWICH SECONDARY STRUCTURE REPAIRS
+
+3-10. REPAIRS TO METALLIC SANDWICH SECONDARY STRUCTURE. Magnesium, titanium, or stainless steel facings require special procedures that are not included
+in the following methods of repair. Aluminum
+alloys such as 7075-T6, 2024-T3, and 2014-T6
+are commonly used for the repair of facings for
+sandwich structural parts having aluminum
+facings. For maximum corrosion resistance,
+use only clad aluminum for repairs to clad
+aluminum alloy facings.
+a. Dents, scratches, or fractures, not exceeding 1/4 inch in largest dimension in aluminum facings, may be repaired with a suitable filler such as viscous epoxy resin. Dents
+that are delaminated shall not be filled but repaired. Thoroughly clean the repair area with
+fine sandpaper and acetone before applying the
+filler. After the resin has partially cured, remove any excess resin with a sharp plastic
+scraper. When the resin has completely cured,
+sand to the original contour. If the damage included a fracture, reclean the area around the
+filled hole and apply a surface patch.
+b. Fractures or punctures in one facing
+and partial damage to the core of an aluminum-faced laminate may be repaired by several
+different methods. The technique used will
+depend upon the size of the damage, the
+strength required, and the aerodynamic loads
+of the area involved. If the repair requires
+aerodynamic smoothness, the facing surrounding the repair core cavity may have to be
+step cut to one-half its thickness. This can be
+done by using a router with an end mill bit and
+a template.
+c. Damage that extends completely
+through the core and both facings may be repaired using the same general techniques as
+those used for repairing fiberglass laminates
+when both facings are accessible.
+SECONDARY STRUCTURE REPAIRS
+d. After locating the extent of the total
+damaged area by tapping or other nondestructive test methods, remove the damaged facing
+and that portion of the core material that is also
+affected. The depth to which the core must be
+removed will depend upon the type of core
+material and the method of repair. The replacement core material must be the same
+material and core cell size as the original. Fabricate core material to shape, keeping the same
+core ribbon or grain direction. When a substitution is permissible, wood or glass-fabric
+honey-comb cores are sometimes used in the
+repair of aluminum honeycomb cores, as they
+are generally easier to shape. Typical types of
+core replacements are shown in figure 3-10.
+Resin fills can be used to replace the core and
+facing where smaller core damage exists.
+Phenolic microballoons, low-density insulating
+materials, and/or other ingredients are added to
+lower the density and give greater flexibility.
+e. For the repair of larger holes in which
+it is inconvenient to use a face patch because
+of aerodynamic smoothness requirements in
+that area, both the core and facing are sometimes replaced with glass-fiber fabric discs and
+resin. Undercut the core, as shown in figure 3-11, in order to obtain a better bonding of
+the fill with the facing. Fill the core cavity
+with accurately shaped resin-saturated glass
+cloth discs, and press each ply down to remove
+any air bubbles. Special care should be taken
+that the final plies fit well against the underside of the top facing. When the core cavity is
+filled, close the cutout in the facing with resinimpregnated glass fiber fabric discs that have
+been precut to size.
+f. Overlap repairs, typically called scab
+patches, have a long history of use in repairing
+aircraft structures. These repairs simply cover
+the damaged area with patch material. Overlap
+repairs can be bonded and/or mechanically
+[FIG 3-10] Typical types of core replacement.
+[FIG 3-11] Typical undercut core material cavity.
+fastened. Figure 3-12 shows a cross-section of
+a typical bonded and mechanically fastened repair. The damaged area may or may not need
+to be filled.
+(1) Bonded overlap repairs work well
+on most structures. The overlap repair consists
+of a solid patch material such as metal, precured laminates, prepreg or wet layup material
+co-cured in place.
+(2) Bolt or blind rivet. Mechanically
+fastened, bolted, or blind rivet repairs are primarily used for thick structures. Primary concerns include bolt/rivet spacing, fastener diameter, number of fasteners, and sealant type.
+g. Core potting is the process of filling
+the core cutout with a curable paste filler material. If the damage is sustained in an area with
+an already-potted core, the replacement core
+should also be potted. In other cases, if the
+honeycomb or foam core is damaged, it may
+be potted rather than plugged if the damaged
+area is small (1 inch or less). Remove the face
+sheet with a power router, using a router template to prevent injury to undamaged face skin.
+The router may be adjusted to remove one of
+the face skins only, a face skin and part of the
+core, a face skin and all of the core, or both the
+face skins and the core. (See figure 3-13.)
+(1) It may be necessary when routing a
+tapered section such as an aileron to use a
+wedge-shaped block between the routing template and the upper surface. This will allow
+the router to cut the core material parallel with
+the lower surface. (See figure 3-14.)
+(2) Select the appropriate potting adhesive as recommended by the manufacturer.
+Mix a sufficient quantity of filler to fill the
+hole and add microballoons if they are needed
+to serve as a filler. When the resin and filler
+are thoroughly mixed according to the manufacturer’s recommendations, pour the mixture
+into the hole filling all of the cells, then work
+out all of the bubbles with a toothpick. If performing an overlay repair fill the core cavity to
+slightly above the part’s surface. If performing
+a flush repair, fill the core cavity to slightly
+above the original core.
+(3) Cure the compound according to the
+manufacturer’s directions. Trim the top of the
+cured potting compound flush with the surface,
+for the type of repair you are performing.
+h. A core plug repair replaces damaged
+core material with a shaped piece of similar
+core material.
+(1) Complete removal of core material
+to the opposite face generally requires some
+hand-cutting with a core knife. Figure 3-15
+shows core material being removed with a core
+knife. The core can be peeled away from the
+skin bond using duckbill pliers. Sanding is
+then required to remove irregular accumulations of adhesive from the undamaged inner
+face. Remove only enough adhesive to produce a smooth finish.
+CAUTION: Care should be used
+when peeling core material from thinskin sandwich face sheets, because the
+skin can be damaged by pulling on the
+core.
+[FIG 3-12] Cross section of bonded and bolted overlap repairs.
+[FIG 3-13] Honeycomb core removal.
+
+FIGURE 3.14 Removing honeycomb core from a
+tapered control surface.
+[FIG 3-15] Removal of core with core knife.
+(2) A core plug should be fabricated as
+follows. Select the core density. Cell size and
+ribbon direction and thickness should be at
+least the same as that used in the original construction. Trim the sides of the plug to a loose
+fit in the routed cavity. Trim the plug height so
+the top of the plug sits .001 inch higher than
+the level of the original surface. The core will
+compress and set during cure thereby requiring
+the extra height. Carefully remove the
+trimmed core plug from the machined cavity.
+Use a vacuum cleaning device to remove any
+dust or particles remaining on the core plug or
+in the repair area. Clean the core plug by
+rinsing with an approved solvent and wrap the
+plug in a clean polyethylene bag until needed
+for assembly.
+CAUTION: When handling film adhesives, prepreg fabrics, or parts with
+prepared surfaces, latex gloves must
+be worn.
+(3) Using a film adhesive, the core plug
+should be installed as follows. Select the appropriate adhesive film. Cut one disk of adhesive to the same shape and size as the perimeter of the repair cutout if the repair extends
+through the entire core thickness. Cut two
+disks if a partial depth core repair is being
+made. Cut one strip of core splice adhesive to
+wrap around the core perimeter to its full
+depth. For a partial depth core repair, also cut
+out a fiberglass or aluminum disk, again
+matching the size and the shape of the repair
+cutout. Figure 3-16 shows the details of a partial depth core repair. Preassemble the pieces.
+(4) Wipe the bottom and sides of the
+cutout area with solvent. Allow the area to
+dry. Insert the core plug assembly with splice
+adhesive applied to the perimeter into the core
+cutout. Ensure the core plug ribbon direction
+matches that of the parent core. In the case of
+a partial depth core repair, the plug and disk
+[FIG 3-16] Details of core repair.
+may be cured to save time. Some restraining
+method, such as vacuum bagging, may be desirable over the core splice adhesive as this
+material usually foams up and out during cure.
+Cure the adhesive according to the manufacturer’s directions and allow the area to cool.
+(5) Trim the top of the cured core plug
+flush with either the original core or the mold
+line, depending on the type of laminate repair
+to be performed. Proceed with laminate repair.

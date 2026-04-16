@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-7. CYLINDER HOLD-DOWN NUTS
+AND CAP SCREWS. Great care is required
+in tightening cylinder hold-down nuts and cap
+screws. They must be tightened to recommended torque limits to prevent improper
+stressing and to ensure even loading on the
+cylinder flange. The installation of baffles,
+brackets, clips, and other extraneous parts under nuts and cap screws is not a good practice
+and is discouraged. If these baffles, brackets,
+etc., are not properly fabricated or made of
+suitable material, they may cause loosening of
+the nuts or cap screws even though the nuts or
+cap screws were properly tightened and locked
+at installation. Improper pre-stressing or loosening of any one of these nuts or cap screws
+will introduce the danger of progressive stud
+failure with the possible loss of the engine
+cylinder in flight.

@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 1: INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+
+11-3. FUNCTIONAL CHECK OF
+STAND-BY OR EMERGENCY EQUIPMENT. An aircraft should have functional
+tests performed at regular intervals as prescribed by the manufacturer. The inspections
+or functional check periods should be clearly
+stated in the aircraft maintenance manual,
+along with the overhaul intervals.

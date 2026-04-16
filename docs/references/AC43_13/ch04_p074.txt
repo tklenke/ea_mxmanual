@@ -1,0 +1,55 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-74. GENERAL. This section covers weld
+repairs to aircraft and component parts only.
+Observe the following procedures when using
+such equipment as gas tungsten arc welding
+(GTAW), gas metal arc welding (GMAW),
+plasma arc welding, and oxyacetylene gas
+welding. When repairs of any of these
+flight-critical parts are required, it is extremely
+important to make the weld repairs equal to the
+original weld. Identifying the kind of metal to
+be welded, identifying the kind of welding process used in building the part originally, and
+determining the best way to make welded repairs are of utmost importance.
+a. Welding is one of the three commonly
+used methods of joining metals without the use
+of fasteners. Welding is done by melting the
+edges of two pieces of metal to be joined and
+allowing the molten material to flow together
+so the two pieces will become one.
+b. Brazing is similar to welding in that heat
+is used to join the material; but rather than
+melting, the metal is heated only enough to
+melt a brazing rod having a much lower melting point. When this brazing rod melts, it wets
+the surfaces to be joined, and when it cools
+and solidifies, it bonds the pieces together.
+c. Soldering is similar to brazing except that
+brazing materials normally melt at tempera°C
+tures above 425 (800 °F), while solders
+melt at temperatures considerably lower.
+d. The next step in making airworthy weld
+repairs is to decide the best process to use,
+considering the available state-of-the-art
+welding equipment, and then deciding the correct weld-filler material to use. Before any
+weld repairs can be made, the metal parts to be
+welded must be cleaned properly, fitted and
+jigged properly, and all defective welds must be
+removed to prepare for an aircraft quality weld
+repair.
+e. Finally, after the weld is completed, the
+weld must be inspected for defects. All these
+things are necessary in order to make an airworthy weld repair.
+f. Aircraft welding Qualifications. Four
+groups of metals a person can be certified and
+qualified to use are:
+(1) Group 1, 4130 Steel.
+(2) Group 2, Stainless Steel.
+(3) Group 3, Aluminum
+(4) Group 4, Titanium.
+g. For other group listing of metal the welder
+may qualify, refer to Mil-Std-1595A.
+h. Most large business or agencies conduct
+their own certification tests, or they have an
+outside testing lab validate the certification
+tests.

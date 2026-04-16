@@ -1,0 +1,454 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-57. RIVETING.
+a. The two major types of rivets used in
+aircraft are the common solid shank rivet,
+which must be driven using an air-driven rivet
+gun and bucking bar; and special (blind) rivets,
+which are installed with special installation
+tools. Design allowables for riveted assemblies are specified in MIL-HDBK-5.
+(1) Solid shank rivets are used widely
+during assembly and repair work. They are
+identified by the material of which they are
+made, the head type, size of shank, and temper
+condition.
+[TABLE 4-7] K-chart for determining setback for bends other
+Deg. K Deg. K Deg.
+1 0.0087 37 0.3346 73 0.7399
+2 0.0174 38 0.3443 74 0.7535
+3 0.0261 39 0.3541 75 0.7673
+4 0.0349 40 0.3639 76 0.7812
+5 0.0436 41 0.3738 77 0.7954
+6 0.0524 42 0.3838 78 0.8097
+7 0.0611 43 0.3939 79 0.8243
+8 0.0699 44 0.4040 80 0.8391
+9 0.0787 45 0.4142 81 0.8540
+10 0.0874 46 0.4244 82 0.8692
+11 0.0963 47 0.4348 83 0.8847
+12 0.1051 48 0.4452 84 0.9004
+13 0.1139 49 0.4557 85 0.9163
+14 0.1228 50 0.4663 86 0.9324
+15 0.1316 51 0.4769 87 0.9489
+16 0.1405 52 0.4877 88 0.9656
+17 0.1494 53 0.4985 89 0.9827
+18 0.1583 54 0.5095 90 1.000
+19 0.1673 55 0.5205 91 1.017
+20 0.1763 56 0.5317 92 1.035
+21 0.1853 57 0.5429 93 1.053
+22 0.1943 58 0.5543 94 1.072
+23 0.2034 59 0.5657 95 1.091
+24 0.2125 60 0.5773 96 1.110
+25 0.2216 61 0.5890 97 1-130
+26 0.2308 62 0.6008 98 1.150
+27 0.2400 63 0.6128 99 1.170
+28 0.2493 64 0.6248 100 1.191
+29 0.2586 65 0.6370 101 1.213
+30 0.2679 66 0.6494 102 1.234
+31 0.2773 67 0.6618 103 1.257
+32 0.2867 68 0.6745 104 1.279
+33 0.2962 69 0.6872 105 1.303
+34 0.3057 70 0.7002 106 1.327
+35 0.3153 71 0.7132 107 1.351
+36 0.3249 72 0.7265 108 1.376
+(2) The material used for the majority
+of solid shank rivets is aluminum alloy. The
+strength and temper conditions of aluminum
+alloy rivets are identified by digits and letters
+similar to those used to identify sheet stock.
+The 1100, 2017-T, 2024-T, 2117-T, and
+5056 rivets are the six grades usually available.
+AN-type aircraft solid rivets can be identified
+by code markings on the rivet heads. A rivet
+made of 1100 material is designated as an
+“A” rivet, and has no head marking. The
+2017-T alloy rivet is designated as a “D” rivet
+and has a raised teat on the head. Two dashes
+on a rivet head indicate a 2024-T alloy designated as a “DD” rivet. The 2117-T rivet is
+designated as an “AD” rivet, and has a dimple
+on the head. A “B” designation is given to a
+rivet of 5056 material and is marked with a
+than 90 degrees.
+K Deg. K Deg: K
+109 1.401 145 3.171
+110 1,428 146 3.270
+111 1.455 147 3.375
+112 1.482 148 3.487
+113 1.510 149 3.605
+114 1.539 150 3.732
+115 1.569 151 3.866
+116 1.600 152 4.010
+117 1.631 153 4.165
+118 1.664 154 4.331
+119 1.697 155 4.510
+120 1.732 156 4.704
+121 1.767 157 4.915
+122 1.804 158 5.144
+123 1.841 159 5.399
+124 1.880 160 5.671
+125 1.921 161 5.975
+126 1.962 162 6.313
+127 2.005 163 6.691
+128 2.050 164 7.115
+129 2.096 165 7.595
+130 2.144 166 8.144
+131 2.194 167 8.776
+132 2.246 168 9.514
+133 2.299 169 10.38
+134 2.355 170 11.43
+135 2.414 171 12.70
+136 2.475 172 14.30
+137 2.538 173 16.35
+138 2.605 174 19.08
+139 2.674 175 22.90
+140 2.747 176 26.63
+141 2.823 177 38.18
+142 2.904 178 57.29
+143 2.988 179 114.59
+144 3.077 180 Inf.
+raised cross on the rivet head. Each type of
+rivet is identified by a part number to allow the
+user to select the correct rivet. The numbers
+are in series and each series represents a particular type of head. (See figure 4-4 and table 4-8.)
+(3) An example of identification marking of rivet follows.
+MS 20470AD3-5 Complete part number
+MS Military standard number
+20470 Universal head rivet
+AD 2117-T aluminum alloy
+3 3/32nds in diameter
+5 5/16ths in length
+[FIG 4-3] Methods of determining setback for bends
+other than 90 degree.
+(4) Countersunk head rivets (MS20426
+supersedes AN426 100-degree) are used where
+a smooth finish is desired. The 100-degree
+countersunk head has been adopted as the
+standard in the United States. The universal
+head rivet (AN470 superseded by MS20470)
+has been adopted as the standard for protruding-head rivets, and may be used as a replacement for the roundhead, flathead, and brazier
+head rivet. These rivets can also be purchased
+in half sizes by designating a “0.5” after the
+main length (i.e., MS20470 AD4-3.5).
+[FIG 4-4] Rivet identification and part number
+breakdown.
+b. Replace rivets with those of the same
+size and strength whenever possible. If the
+rivet hole becomes enlarged, deformed, or otherwise damaged; drill or ream the hole for the
+next larger size rivet. However, make sure that
+the edge distance and spacing is not less than
+minimums listed in the next paragraph. Rivets
+may not be replaced by a type having lower
+strength properties, unless the lower strength is
+adequately compensated by an increase in size
+or a greater number of rivets. It is acceptable
+to replace 2017 rivets of 3/16 inch diameter or
+less, and 2024 rivets of 5/32 inch diameter or
+less with 2117 rivets for general repairs, provided the replacement rivets are 1/32 inch
+greater in diameter than the rivets they replace.
+[TABLE 4-8] Aircraft rivet identification.
+Material 1100 2117T 2017T
+Head Plain Dimpled Raised
+Marking Dot
+AN
+A AD D D DD B
+Material
+Code
+AN425
+78����
+X X X X X X
+CounterSunk Head
+AN426
+100����
+X X X X X X X
+CounterSunk Head
+MS20426
+AN427
+100����
+CounterSunk Head
+MS20427
+AN430
+Round
+X X X X X X X
+Head
+MS20470
+AN435
+Round
+Head
+MS20613
+MS20615
+AN 441
+Flat Head
+AN 442
+Flat Head
+X X X X X X X
+MS20470
+AN 455
+Brazier
+X X X X X X X
+Head
+MS20470
+AN 456
+Brazier
+X X X X X X X
+Head
+MS20470
+AN 470
+Universal
+X X X X X X X
+Head
+MS20470
+Heat Treat
+Before
+No No Yes No Yes No No
+Using
+Shear
+Strength
+10000 30000 34000 38000 41000 27000
+psi
+Bearing
+Strength
+25000 100000 113000 126000 136000 90000
+psi
+2017T-HD 2024T 5056T 7075-T73
+Raised Raised Raised Three
+Dot Double Cross Raised
+Dash Dashes
+[TABLE 4-8] Aircraft rivet identification. (continued)
+Material Carbon Corrosion- Copper
+Steel Resistant NickelSteel Copper
+Head Recessed Recessed Plain
+Triangle Dash Double Large and
+Marking
+AN
+F C M C
+Material
+Code
+AN425
+78����
+CounterSunk Head
+100����
+AN426
+CounterSunk Head
+MS20426
+100����
+AN427
+CounterX X X X
+Sunk Head
+MS20427
+AN430
+Round Head
+MS20470
+AN435
+Round Head
+X X X X X
+MS20613
+MS20615
+MS20613 MS20613 MS20615 MS20615
+AN 441
+X X X X
+Flat Head
+AN 442
+Flat Head
+MS20470
+AN 455
+Brazier
+Head
+MS20470
+AN 456
+Brazier
+Head
+MS20470
+AN 470
+Universal
+Head
+MS20470
+Heat Treat
+Before UsNo No No No No No No
+ing
+Shear
+Strength
+35000 65000 23000 49000 49000 95000
+psi
+Bearing
+Strength
+90000 90000
+psi
+Monel Monel Brass Titanium
+Alloy
+Plain Recessed Plain Recessed
+Dots Small Dot
+MS 20426
+c. Rivet edge distance is defined as the
+distance from the center of the rivet hole to the
+nearest edge of the sheet. Rivet spacing is the
+distance from the center of the rivet hole to the
+center of the adjacent rivet hole. Unless
+structural deficiencies are suspected, the rivet
+spacing and edge distance should duplicate
+those of the original aircraft structure. If
+structural deficiencies are suspected, the following may be used in determining minimum
+edge distance and rivet spacing.
+(1) For single row rivets, the edge distance should not be less than 2 times the diameter of the rivet and spacing should not be
+less than 3 times the diameter of the rivet.
+(2) For double row rivets, the edge distance and spacing should not be less than the
+minimums shown in figure 4-5.
+(3) For triple or multiple row rivets, the
+edge distance and spacing should not be less
+than the minimums shown in figure 4-5.
+d. The 2117 rivets may be driven in the
+condition received, but 2017 rivets above
+3/16 inch in diameter and all 2024 rivets are to
+be kept packed in dry ice or refrigerated in the
+“quenched” condition until driven, or be reheat
+treated just prior to driving, as they would otherwise be too hard for satisfactory riveting.
+Dimensions for formed rivet heads are shown
+in figure 4-6(a), together with commonly
+found rivet imperfections.
+e. When solid shank rivets are impractical to use, then special fasteners are used.
+Special fastening systems used for aircraft
+construction and repair are divided into two
+types, special and blind fasteners. Special
+fasteners are sometimes designed for a specific
+purpose in an aircraft structure. The name
+“special fasteners” refers to its job requirement
+and the tooling needed for installation. Use of
+special fasteners may require an FAA field approval.
+f. Blind rivets are used under certain conditions when there is access to only one side of
+the structure. Typically, the locking characteristics of a blind rivet are not as good as a
+driven rivet. Therefore, blind rivets are usually
+not used when driven rivets can be installed.
+Blind rivets shall not be used:
+(1) in fluid-tight areas;
+(2) on aircraft in air intake areas where
+rivet parts may be ingested by the engine, on
+aircraft control surfaces, hinges, hinge brackets, flight control actuating systems, wing attachment fittings, landing gear fittings, on
+floats or amphibian hulls below the water
+level, or other heavily-stressed locations on the
+aircraft;
+CAUTION: For metal repairs to the airframe, the use of blind rivets must be specifically authorized by the airframe manufacturer or approved by a representative of
+the FAA.
+(3) Self plugging friction-lock cherry
+rivets. This patented rivet may be installed
+when there is access to only one side of the
+structure. The blind head is formed by pulling
+the tapered stem into the hollow shank. This
+swells the shank and clamps the skins tightly
+together. When the shank is fully upset, the
+stem pulls in two. The stem does not fracture
+flush with the rivet head and must be trimmed
+and filed flush for the installation to be complete. Because of the friction-locking stem,
+these rivets are very sensitive to vibrations.
+Inspection is visual, with a loose rivet standing
+out in the standard “smoking rivet” pattern.
+Removal consists of punching out the frictionlocked stem and then treating it like any other
+rivet. (See figure 4-7.)
+(4) Mechanical-lock rivets have a device on the puller or rivet head which locks the
+center stem into place when installed. Many
+friction-lock rivet center stems fall out due to
+vibrations; this in turn, greatly reduces its
+shear strength. The mechanical-lock rivet was
+developed to prevent that problem. Various
+manufacturers make mechanical-lock fasterners such as: Bulbed Cherrylock, CherryMax,
+Olympic-Loks, and Huck-Loks.
+[FIG 4-5] Rivet hole spacing and edge distance for single-lap
+sheet splices.
+[FIG 4-6] Riveting practice and rivet imperfections.
+[FIG 4-7] Self plugging friction-lock Cherry rivets.
+(5) Bulbed Cherrylock Rivets. One of
+the earlier types of mechanical-lock rivets developed were Bulbed Cherrylock blind rivets.
+These blind rivets have as their main advantage the ability to replace a solid shank rivet
+size for size. (See figure 4-8.)
+(a) A Bulbed Cherrylock consists of
+three parts; a rivet shell, a puller, and a lockring. The puller or stem has five features
+which are activated during installation; a
+header, shank expanding section, lockring indent, weak or stem fracture point, and a serrated pulling stem. Carried on the pulling
+stem, near the manufactured head, is the stem
+lockring. When the rivet is pulled the action
+of the moving stem clamps together the sheets
+of metal and swells the shank to fill the drilled
+hole. When the stem reaches its preset limit of
+travel, the upper stem breaks away (just above
+the lockring) as the lockring snaps into the recess on the locking stem. The rough end of the
+retained stem in the center on the manufactured head must never be filed smooth, because it will weaken the strength of the lockring and the center stem could fall out. (See
+figure 4-8.)
+(b) The Bulbed Cherrylock rivets are
+available in two head styles: universal and
+100°
+countersunk. Their lengths are measured
+in increments of 1/16 inch. It is important to
+select a rivet with a length related to the grip
+length of the metal being joined.
+(c) The Bulbed Cherrylock rivet can
+be installed using a G35 cherry rivet hand
+puller or a pneumatic Bulbed Cherrylock
+pulling tool.
+(6) The CherryMax (see figure 4-9)
+rivet uses one tool to install three standard
+rivet diameters and their oversize counterparts.
+This makes the use of CherryMax rivets very
+popular with many small general aviation repair shops. CherryMax rivets are available in
+four nominal diameters 1/8, 5/32, 3/16, and
+1/4 inch and three oversized diameters. CherryMax rivets are manufactured with two head
+styles, universal and countersunk. The CherryMax rivets consists of five parts; bulbed
+blind header, hollow rivet shell, locking (foil)
+collar, driving anvil, and pulling stem. The
+blind bulbed header takes up the extended
+shank and forms the bucktail on a CherryMax
+rivet stem. Rivet sleeves are made from
+5056 aluminum, monel, and INCO 600. The
+stems are made from alloy steel, CRES, and
+INCO X-750 stem. CherryMax rivets have an
+ultimate shear strength ranging from 50 KSI to
+75 KSI.
+(7) An Olympic-Lok (see figure 4-10)
+rivet is a light three-piece mechanically locked,
+spindle-type blind rivet. It carries its stem lock
+integral to the manufactured head. While installing, the lockring is pressed into a groove
+on the pulling stem just as the rivet completes
+drawing the metal together. After installation
+is completed, never file the stem of an Olympic-Lok rivet, because it will weaken the lockring attachment. The Olympic-Lok fastener is
+available in three head styles:
+[FIG 4-8] Mechanical-lock (Bulbed Cherrylock) Cherry
+rivet.
+[FIG 4-9] CherryMax rivet.
+universal protruding, 100-degree flush countersink, and 100-degree flush shear; and three
+diameters 1/8, 5/32, and 3/16 inch. The three
+diameters are available in eight different alloy
+combinations of 2017-T4, A-286, 5056, and
+monel. Olympic-Lok lock spindles are made
+from the same material as the sleeves.
+(8) Huck rivets (see figure 4-11) are
+available in two head styles, protruding and
+flush. They are available in four diameters
+1/8, 5/32, 3/16, and 1/4 inch. Their diameters
+are measured in increments of 1/32 inch and
+lengths are measured in 1/16 inch increments.
+They are manufactured in three different combinations of alloys: 5056 aluminum sleeve
+with 2024 aluminum alloy pin, A-286 corrosion-resistant steel sleeve with an A-286 pin,
+and a monel 400 sleeve with an A-286 pin.
+The Huck fastener has the ability to tightly
+draw-up two or more sheets of metal together
+while being installed. After the take-up of the
+Huck fastener is completed, the lockring is
+squeezed into a groove on the pulling stem.
+The anvil or footer (of the installation tool)
+packs the ring into the groove of the pulling
+stem by bearing against the lockring.
+(9) Common pull-type Pop rivets, produced for nonaircraft related applications, are
+not approved for use on certificated aircraft
+structures or components.
+g. Design a new or revised rivet pattern
+for strength required in accordance with one of
+the following:
+(1) The aircraft manufacturer’s maintenance manuals.
+(2) The techniques found in structural
+text books and using the mechanical properties
+found in MIL-HDBK-5.
+(3) The specific instructions in paragraphs 4-58g through 4-58n. When following
+the instruction in paragraphs 4-58g through
+4-58n, the general rule for the diameter of the
+rivets used to join aluminum sheets is to use a
+diameter approximately three times the thickness of the thicker sheet. Do not use rivets
+where they would be placed in tension, tending
+to pull the heads off; and backup a lap joint of
+thin sheets with a stiffener section.
+[FIG 4-10] Olympic-Lok rivet.

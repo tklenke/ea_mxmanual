@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-233. VOLTAGE AND CURRENT
+RATING. Selected connectors must be rated
+for continuous operation under the maximum
+combination of ambient temperature and circuit current load. Hermetic connectors and
+connectors used in circuit applications involving high-inrush currents should be derated. It
+is good engineering practice to conduct preliminary testing in any situation where the
+connector is to operate with most or all of its
+contacts at maximum rated current load. When
+wiring is operating with a high conductor temperature near its rated temperature, connector
+contact sizes should be suitably rated for the
+circuit load. This may require an increase in
+wire size also. Voltage derating is required
+when connectors are used at high altitude in
+nonpressurized areas. Derating of the connectors should be covered in the specifications.

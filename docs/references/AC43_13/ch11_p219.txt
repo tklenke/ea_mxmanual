@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-219. TERMINAL MARKING
+SLEEVE AND TAGS. Typical cable markers are flat, nonheat-shrinkable tags. Heatshrinkable marking sleeves are available for
+marking wires and cables, and should be inserted over the proper wire or cable and heatshrunk using the proper manufacturer recommended heating tool. (See figures 11-26
+and 11-27.)
+[FIG 11-26] Standard sleeves (135 ºC).
+[FIG 11-27] Installation of heat-shrinkable insulation sleeves.

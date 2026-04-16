@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-117. MINIMUM WIRE BEND RADII.
+The minimum radii for bends in wire groups or
+bundles must not be less than 10 times the outside diameter of their largest wire. They may
+be bent at six times their outside diameters at
+breakouts or six times the diameter where they
+must reverse direction in a bundle, provided
+that they are suitably supported.
+a. RF cables should not bend on a radius
+of less than six times the outside diameter of
+the cable.
+b. Care should be taken to avoid sharp
+bends in wires that have been marked with the
+hot stamping process.

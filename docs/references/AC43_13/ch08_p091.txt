@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 5: INSPECTION OF PROPELLERS
+
+8-91. GENERAL. All propellers, regardless
+of the material from which they are made,
+should be regularly and carefully inspected for
+any possible defect. Any doubtful condition,
+such as looseness of parts, nicks, cracks,
+scratches, bruises, or loss of finish should be
+carefully investigated and the condition
+checked against repair and maintenance specifications for that particular type of propeller.
+Any propeller that has struck a foreign object
+during service should be promptly inspected
+for possible damage in accordance with the
+propeller manufacturer’s prescribed procedures
+and, if necessary, repaired according to the
+manufacturer’s instructions. If the propeller is
+damaged beyond the repair limits established
+by the propeller manufacturer, and a replacement is necessary, install the same
+make/model approved or alternate as specified
+in the equipment list, applicable FAA Aircraft
+Specification, Type Certificate Data Sheet
+(TCDS), or Supplemental Type Certificate
+(STC). A sample manufacturer’s propeller inspection checklist is shown in table 8-2. It
+shows the items to be inspected and the inspection intervals.

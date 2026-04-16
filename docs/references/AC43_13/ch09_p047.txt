@@ -1,0 +1,35 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 3: EMERGENCY EQUIPMENT
+
+9-47. OXYGEN SYSTEMS. The following
+instructions are to serve as a guide for the inspection and maintenance of aircraft oxygen
+systems. The information is applicable to both
+portable and permanently-installed equipment.
+a. Aircraft Gaseous Oxygen Systems.
+The oxygen in gaseous systems is supplied
+from one or more high- or low-pressure oxygen cylinders. Since the oxygen is compressed
+within the cylinder, the amount of pressure indicated on the system gauge bears a direct relationship to the amount of oxygen contained
+in the cylinder. The pressure-indicating line
+connection is normally located between the
+cylinder and a pressure-reducing valve.
+NOTE: Some of the gaseous oxygen
+systems do not use pressure-reducing
+valves. The high pressure is reduced
+to a useable pressure by a regulator.
+This regulator is located between the
+high- and low-pressure system.
+CAUTION: Oxygen rich environments are dangerous.
+b. Portable Oxygen Systems. The three
+basic types of portable oxygen systems are:
+demand, pressure demand, and continuous
+flow. The components of these systems are
+identical to those of a permanent installation
+with the exception that some parts are miniaturized as necessary. This is done in order that
+they may be contained in a case or strapped
+around a person’s shoulder. It is for this portability reason that special attention be given to
+assuring that any storage or security provision
+for portable oxygen equipment in the aircraft is
+adequate, in good condition, and accessible to
+the user.
+NOTE: Check portable equipment
+including its security provisions frequently, since it is more susceptible to
+personnel abuse than a permanentlyinstalled system.

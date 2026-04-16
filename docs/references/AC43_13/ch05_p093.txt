@@ -1,0 +1,37 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 7: ULTRASONIC INSPECTION
+
+5-93. BASIC EQUIPMENT. Most ultrasonic inspection systems include the following
+basic equipment; portable instruments (frequency range 0.5 to 15 MHz), transducers
+(longitudinal and shear wave), positioners, reference standards, and couplant.
+a. Ultrasonic Instruments. A portable,
+battery-powered ultrasonic instrument is used
+for field inspection of airplane structure. (See
+figure 5-17.) The instrument generates an
+[FIG 5-15] Ultrasound.
+[FIG 5-16] Pulse-echo and through-transmission ultrasonic inspection techniques.
+[FIG 5-17] Typical portable ultrasonic inspection instrument.
+ultrasonic pulse, detects and amplifies the returning echo, and displays the detected signal
+on a cathode ray tube or similar display. Piezoelectric transducers produce longitudinal or
+shear waves, which are the most commonly
+used wave forms for aircraft structural inspection.
+b. Positioning Fixtures. To direct ultrasound at a particular angle, or to couple it into
+an irregular surface, transducer positioning
+fixtures and sound-coupling shoes are employed. (See figure 5-18.) Shoes are made of
+a plastic material that has the necessary soundtransmitting characteristics. Positioning fixtures are used to locate the transducer at a prescribed point and can increase the sensitivity
+of the inspection. (See figure 5-19.) If a
+transducer shoe or positioning fixture is required, the inspection procedure will give a
+detailed description of the shoe or fixture.
+c. Reference Standards. Reference standards are used to calibrate the ultrasonic instrument (see figure 5-20), reference standards
+serve two purposes to provide an ultrasonic response pattern that is related to the part being
+inspected, and to establish the required inspection sensitivity. To obtain a representative response pattern, the reference standard configuration is the same as that of the test structure,
+or is a configuration that provides an ultrasonic
+response pattern representative of the test
+structure. The reference standard contains a
+simulated defect (notch) that is positioned to
+provide a calibration signal representative of
+the expected defect. The notch size is chosen
+to establish inspection sensitivity (response to
+the expected defect size). The inspection procedure gives a detailed description of the required reference standard.
+d. Couplants. Inspection with ultrasonics
+is limited to the part in contact with the transducer. A layer of couplant is required to couple the transducer to the test piece because ultrasonic energy will not travel through air.
+Some typical couplants used are: water, glycerin, motor oils, and grease.

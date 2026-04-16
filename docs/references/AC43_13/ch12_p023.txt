@@ -1,0 +1,38 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-23. FLIGHT DATA RECORDER. The
+flight data recorder is housed in a crush-proof
+container located near the tail section of the
+aircraft. The tape unit is fire resistant, and
+contains a radio transmitter to help crash investigators locate the unit under water. Inspection/Operational checks include:
+a. Check special sticker on front of the
+flight data recorder for the date of the next tape
+replacement, if applicable.
+b. Remove recorder magazine and inspect tape for the following:
+(1) broken or torn tape,
+(2) proper feed of tape, and
+(3) all scribes were recording properly
+for approximately the last hour of flight.
+c. Conditions for tape replacement (as
+applicable):
+(1) There is less than 20 hours remaining in the magazine as read on the
+tape remaining indicator.
+(2) Tape has run out.
+(3) Broken tape.
+(4) After hard landings and severe air
+turbulence have been encountered as reported
+by the pilots. After the same tape has been in
+use 1 year (12 months), it must be replaced.
+(5) Ensure that a correlation test has
+been performed and then recorded in the aircraft records.
+d. Refer to the specific equipment manufacturer’s manuals and procedures.
+e. The state-of-the art Solid-State Flight
+Data Recorder (SSFDR) is a highly flexible
+model able to support a wide variety of aeronautical radio, incorporated (ARINC) configurations. It has a Built-In Test Equipment
+(BITE) that establishes and monitors the mission fitness of the hardware. BITE performs
+verification after storage (read after write) of
+flight data and status condition of the memory.
+These recorders have an underwater acoustic
+beacon mounted on its front panel which must
+be returned to their respective manufacturer’s
+for battery servicing. For maintenance information refer to the equipment or aircraft manufacture’s maintenance instruction manual.

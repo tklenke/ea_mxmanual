@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-153. CABLE TENSION ADJUSTMENT. Carefully adjust, control cable tension
+in accordance with the airframe manufacturer’s
+recommendations. On large aircraft, take the
+temperature of the immediate area into consideration when using a tension meter. For long
+cable sections, use the average of two or three
+temperature readings to obtain accurate tension
+values. If necessary, compensate for extreme
+surface temperature variations that may be encountered if the aircraft is operated primarily
+in unusual geographic or climatic conditions
+such as arctic, arid, or tropic locations. Use
+rigging pins and gust locks, as necessary, to ensure satisfactory results. At the completion of
+rigging operations, check turnbuckle adjustment
+and safetying in accordance with section 10 of
+this chapter.
+7-154.7-164.
+[RESERVED.]
+SECTION 9. TURNBUCKLES

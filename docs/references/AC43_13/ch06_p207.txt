@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 13: CORROSION PROOFING OF LAND PLANES CONVERTED TO SEA PLANES
+
+6-207. NECESSARY MINIMUM PRECAUTIONS. The following procedures are
+considered the minimum to safeguard the airworthiness of converted aircraft and are not in
+themselves intended to maintain airworthiness
+for an indefinite period.
+a. Unless already protected, treat exposed fittings or fittings that can be reached
+through inspection openings with two coats of
+zinc chromate primer, paralketone, nonwatersoluble heavy grease, or comparable materials.
+This applies to items such as wing-root fittings, wing-strut fittings, control-surface
+hinges, horns, mating edges of fittings, and attached bolts.
+b. Coat non-stainless control cables with
+grease or paralketone or other comparable
+protective coating, if not replaced with corrosion-resistant cables.
+c. Inspect all accessible sections of aircraft structure. Clean structural parts showing
+corrosion and refinish if corrosion attack is superficial. If a part is severely corroded, replace
+with an adequately corrosion-proofed part.

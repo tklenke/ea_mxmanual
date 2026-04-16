@@ -1,0 +1,43 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 4: NUTS
+
+7-64. SELF-LOCKING NUTS. These nuts
+are acceptable for use on certificated aircraft
+subject to the aircraft manufacturer’s recommended practice sheets or specifications. Two
+types of self-locking nuts are currently in use,
+the all-metal type, and the fiber or nylon type.
+a. DO NOT use self-locking nuts on parts
+subject to rotation.
+b. Self-locking castellated nuts with
+cotter pins or lockwire may be used in any
+system.
+c. Self-locking nuts should not be used
+with bolts or screws on turbine engine airplanes in locations where the loose nut, bolt,
+washer, or screw could fall or be drawn into
+the engine air intake scoop.
+d. Self-locking nuts should not be used
+with bolts, screws, or studs to attach access
+panels or doors, or to assemble any parts that
+are routinely disassembled before, or after each
+flight. They may be used with anti-friction
+bearings and control pulleys, provided the inner race of the bearing is secured to the supporting structure by the nut and bolt.
+e. Metal locknuts are constructed with
+either the threads in the locking insert, out-ofround with the load-carrying section, or with a
+saw-cut insert with a pinched-in thread in the
+locking section. The locking action of the allmetal nut depends upon the resiliency of the
+metal when the locking section and loadcarrying section are engaged by screw threads.
+Metal locknuts are primarily used in high temperature areas.
+f. Fiber or nylon locknuts are constructed with an unthreaded fiber or nylon
+locking insert held securely in place. The fiber
+or nylon insert provides the locking action because it has a smaller diameter than the nut.
+Fiber or nylon self-locking nuts are not installed in areas where temperatures exceed
+°F.
+250 After the nut has been tightened, make
+sure the bolt or stud has at least one thread
+showing past the nut. DO NOT reuse a fiber
+or nylon locknut, if the nut cannot meet the
+minimum prevailing torque values. (See table 7-2.)
+g. Self-locking nut plates are produced in
+a variety of forms and materials for riveting or
+welding to aircraft structures or parts. Certain
+applications require the installation of selflocking nuts in channel arrangement permitting the attachment of many nuts in a row with
+only a few rivets.

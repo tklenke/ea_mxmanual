@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-206. WIRE IDENTIFICATION. To facilitate installation and maintenance, original
+wire-marking identification is to be retained.
+The wire identification marks should consist of
+a combination of letters and numbers that
+identify the wire, the circuit it belongs to, its
+gauge size, and any other information to relate
+the wire to a wiring diagram. All markings
+should be legible in size, type, and color.

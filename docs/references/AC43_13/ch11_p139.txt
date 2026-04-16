@@ -1,0 +1,30 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 10: SERVICE LOOP HARNESSES (PLASTIC TIE STRIPS)
+
+11-139. “SERVICE LOOP.” Primary support for service loop harness(es) should be a
+cushion clamp and a connector at the harness
+termination. Service loop harnesses should be
+inspected for the following:
+a. Adequate Length. Components
+should extend out from their mounting position a distance that permits rotating and unlocking (or locking) the electrical connector.
+Usually a distance of 3 to 6 inches, with all
+other components installed, should be sufficient.
+b. Bundle BreakOut Point.
+(1) Bundle breakout point should be
+adequately supported with string tie.
+(2) Service loop must maintain a minimum bend radius of 3 times the harness diameter.
+(3) The breakout point should be located directly behind, beside, below, or above
+the component so that the service loop harness
+does not bind other components.
+(4) Plastic ties should not be used between the service loop breakout and the electrical connector when they are likely to chafe
+against adjacent wire.
+c. Service Loop Routing. The service
+loop harness should be routed directly from the
+breakout point to the component. The harness
+should not contact moving mechanical components or linkage, and should not be wrapped or
+tangled with other service loop harnesses.
+d. Service Loop Harness Termination.
+Strain relief should be provided at the service
+loop harness termination, and is normally provided by the connector manufacturer’s backshell, heat-shrinkable boot, or tubing.
+11-140.11-145.
+[RESERVED.]
+SECTION 11. CLAMPING

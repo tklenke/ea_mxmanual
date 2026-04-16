@@ -1,0 +1,45 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 3: INSPECTION AND TESTING
+
+2-31. FABRIC IDENTIFICATION.
+Cotton Fabric meeting TSO-C15 or TSO-C14
+can be identified by an off-white color and
+thread count of 80 to 94 for TSO-C14b and
+80 to 84 for TSO-C15d in both directions.
+a. Aircraft linen conforming to British
+specification 7F1 may be identified by a
+slightly darker shade than cotton fabric and irregular thread spacing. The average thread
+count will be about the same as Grade A fabric
+(TSO-C15d). The non-uniformity of the linen
+thread size is also noticeable, with one thread
+half the size of the adjacent thread. When
+viewed under a magnifying glass, the ends of
+the cotton and linen fiber nap may be seen on
+the backside. The nap is also seen when the
+coating is removed from the front or outside
+surface. A light-purple color showing on the
+back side of cotton or linen fabric indicates a
+fungicide was present in the dope to resist deterioration by fungus and mildew.
+b. Polyester fabric conforming to
+TSO-C14b or TSO-C15d is whiter in color
+than cotton or linen. The fabric styles adapted
+for use as aircraft covering have a variety of
+thread counts, up to ninety-four (94), depending on the manufacturing source, weight, and
+breaking strength. Polyester is a monofilament
+and will not have any nap or filament ends
+showing.
+c. Glass fabric is manufactured white in
+color, and one source is precoated with a bluetinted dope as a primer and to reduce weave
+distortion during handling. Thread count will
+be approximately 36 threads per inch. Glass
+fabrics are monofilament and will not have any
+nap or filament ends showing unless they are
+inadvertently broken.
+d. When a small fabric sample can be
+removed from the aircraft and all the coatings
+removed, a burn test will readily distinguish
+between natural fabric, polyester, and glass
+fabric. Cotton and linen will burn to a dry ash,
+polyester filaments will melt to a liquid and
+continue burning to a charred ash, and glass
+filaments, which do not support combustion,
+will become incandescent over a flame.

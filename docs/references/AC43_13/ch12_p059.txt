@@ -1,0 +1,27 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-59. TEST PITOT SYSTEM in accordance with the aircraft manufacturer’s instructions. If the manufacturer has not issued inlowing may be used:
+a. Seal the drain holes and connect the
+pitot pressure openings to a tee to which a
+source of pressure and manometer or reliable
+indicator is connected.
+b. Restrain hoses that can whip due to
+applied pressure.
+c. Apply pressure to cause the airspeed
+indicator to indicate 150 knots (differential
+pressure 1.1 inches of mercury or 14.9 inches
+of water), hold at this point and clamp off the
+source of pressure. After 1 minute, the leakage
+should not exceed 10 knots (decrease in differential pressure of approximately 0.15 inches
+of mercury or 2.04 inches of water).
+CAUTION: To avoid rupturing the
+diaphragm of the airspeed indicator,
+apply pressure slowly and do not
+build up excessive pressure in the line.
+Release pressure slowly to avoid damaging the airspeed indicator.
+d. If the airspeed indicator reading declines, check the system for leaky hoses and
+loose connections.
+e. Inspect the hoses for signs of deterioration, particularly at bends and at the connection points to the pitot mast and airspeed indicator. Replace hoses that are cracked or hardened with identical specification hoses. Any
+time a hose is replaced, perform a pressure
+check.
+Warning: Do not apply suction to pitot lines.

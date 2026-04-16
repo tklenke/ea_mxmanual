@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-125. MOVABLE CONTROLS WIRING PRECAUTIONS. Clamping of wires
+routed near movable flight controls must be
+attached with steel hardware and must be
+spaced so that failure of a single attachment
+point can not result in interference with controls. The minimum separation between wiring and movable controls must be at least
+1/2 inch when the bundle is displaced by light
+hand pressure in the direction of the controls.

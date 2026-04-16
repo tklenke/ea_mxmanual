@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-151. WIRE SPLICES. Standard manufacturing splices have been mistaken for defects in the cable because individual wire end
+splices were visible after assembly of a finished cable length. In some instances, the process of twisting outer strands around the core
+strand may also slightly flatten individual outer
+wires, particularly in the area of a wire splice.
+This flattening is the result of die-sizing the
+cable, and does not affect the strength of the
+cable. These conditions (as shown in figure 7-22) are normal, and are not a cause for
+cable rejection.
+[FIG 7-22] Manufacturer’s wire splice.

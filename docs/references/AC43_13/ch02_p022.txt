@@ -1,0 +1,47 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 2: APPLICATION OF DOPE
+
+2-22. COVERING OVER PLYWOOD.
+Exposed, stressed plywood surfaces, such as
+wings, must be protected from weather
+deterioration with fabric at least equal to that
+used by the original manufacturer. If the quality is not known, intermediate-grade fabric,
+meeting TSO-C14b specification, is acceptable. Fabric may be installed in sections with
+a 1/2 inch edge overlap without covering the
+overlap with finishing tape. Fabric may also
+be installed with the edges butted together, and
+the seam covered with a minimum 1-inch wide
+finishing tape. The seams may be oriented in
+any direction, in reference to the line of flight.
+However, overlapped seams, not covered with
+a finishing tape, should be oriented rearward.
+Fabric should be wrapped completely around a
+wing’s leading and trailing edges and other
+components, where possible, to provide fabricto-fabric continuity around all edges to avoid a
+poorly-bonded fabric edge from peeling from
+the plywood surface causing serious aerodynamic consequences.
+a. After the plywood surface is prepared, and the two pre-coats of clear dope
+have dried as recommended in paragraph 2-6 g, the fabric is pulled snug and
+bonded with clear dope around the perimeter
+of the fabric section. The fabric is then wetted
+with distilled water to remove fold creases, in
+the same manner described for fabric panel areas. After the water has evaporated, a heavy
+coat of low-viscosity clear dope is brushed
+firmly through the fabric to soften the underlying dope pre-coat, insuring a good bond.
+Brushing techniques should be accomplished
+by moving the brush from one side across to
+the opposite side to remove all air bubbles and
+thoroughly saturate the fabric. This is indicated by the plywood grain being easily visible
+through the translucent fabric. Except for very
+small imperfections or small dents in the plywood surface, voids are not permissible between the fabric and plywood surfaces. Voids
+may allow the fabric to balloon from the plywood surface, creating adverse handling characteristics.
+b. After the first dope coat has dried at
+°F,
+least 1 hour at 70 a second heavy coat of
+clear dope is applied by brush to fill the fabric
+weave and prevent pinholes. The installation
+of finish tape around the perimeter of the plywood surfaces, leading edges, and other wear
+points, is optional but recommended for wear
+and chafe protection. The application of aluminum-pigmented dope coating, sanding, and
+finish coats will be the same as that specified
+for fabric panel areas. Reinforcement grommets are not required on drain holes through
+plywood surfaces.

@@ -1,0 +1,7 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 3: INSPECTION OF EQUIPMENT INSTALLATION
+
+11-31. INSTALLATION CLEARANCE
+PROVISIONS. All electrical equipment
+should be installed so that inspection and
+maintenance may be performed and that the installation does not interfere with other systems,
+such as engine or flight controls.

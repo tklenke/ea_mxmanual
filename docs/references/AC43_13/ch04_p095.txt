@@ -1,0 +1,35 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-95. SPLICING TUBING BY INNERSLEEVE METHOD. If the damage to a
+structural tube is such that a partial replacement of the tube is necessary, the inner-sleeve
+splice is recommended; especially where a
+smooth tube surface is desired. (See figure 4-37.)
+a. Make a diagonal cut when removing the
+damaged portion of the tube, and remove the
+burr from the edges of the cut by filing or
+similar means. Diagonally cut a replacement
+steel tube of the same material and diameter,
+and at least the same wall thickness, to match
+the length of the removed portion of the damaged tube. At each end of the replacement
+tube allow a 1/8-inch gap from the diagonal
+cuts to the stubs of the original tube. Select a
+length of steel tubing of the same material, and
+at least the same wall thickness, and of an outside diameter equal to the inside diameter of
+the damaged tube. Fit this inner-sleeve tube
+material snugly within the original tube, with a
+maximum diameter difference of 1/16 inch.
+From this inner-sleeve tube material cut two
+sections of tubing, each of such a length that
+the ends of the inner sleeve will be a minimum
+distance of 1-1/2-tube diameters from the
+nearest end of the diagonal cut.
+[FIG 4-35] Members dented in a bay (repairs by welded sleeve).
+[FIG 4-36] Welded patch repair.
+b. If the inner sleeve fits very tightly in the
+replacement tube, chill the sleeve with dry ice
+or cold water. If this is insufficient, polish
+down the diameter of the sleeve with emery
+cloth. Tack the outer and inner replacement
+tubes using rosette welds. Weld the inner
+sleeve to the tube stubs through the 1/8-inch
+gap, forming a weld bead over the gap.

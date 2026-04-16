@@ -1,0 +1,7 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 3: INSPECTION OF EQUIPMENT INSTALLATION
+
+11-32. WIRES, WIRE BUNDLES, AND
+CIRCUIT PROTECTIVE DEVICES. Before any aircraft electrical load is increased, the
+new total electrical load (previous maximum
+load plus added load) must be checked to determine if the design levels are being exceeded. Where necessary, wires, wire bundles,
+and circuit protective devices having the correct ratings should be added or replaced.

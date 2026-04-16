@@ -1,0 +1,42 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-96. SPLICING TUBING BY OUTERSLEEVE METHOD. If partial replacement
+of a tube is necessary, make the outer-sleeve
+splice using a replacement tube of the same diameter. Since the outer-sleeve splice requires
+the greatest amount of welding, it should be
+used only when the other splicing methods are
+not suitable. Information on the replacement
+by use of the outer-sleeve method is given in
+figure 4-38 and figure 4-39.
+a. Remove the damaged section of a tube
+utilizing a 90-degree cut. Cut a replacement
+steel tube of the same material, diameter, and
+at least the same wall thickness to match the
+length of the removed portion of the damaged
+tube. This replacement tube must bear against
+the stubs of the original tube with a total tolerance not to exceed 1/32 inch. The outer-sleeve
+tube material selected must be of the same
+material and at least the same wall thickness as
+the original tube. The clearance between inside
+diameter of the sleeve and the outside diameter
+of the original tube may not exceed 1/16 inch.
+b. From this outer-sleeve tube material, cut
+diagonally (or fishmouth) two sections of tubing, each of such length that the nearest end of
+the outer sleeve is a minimum distance of
+1-1/2-tube diameters from the end of the cut
+on the original tube. Use a fishmouth sleeve
+wherever possible. Deburr the edges of the
+sleeves, replacement tube, and the original
+tube stubs.
+c. Slip the two sleeves over the replacement
+tube, align the replacement tube with the original tube stubs, and slip the sleeves over the
+center of each joint. Adjust the sleeves to suit
+the area and provide maximum
+reinforcement.
+d. Tack weld the two sleeves to the replacement tube in two places before welding.
+Apply a uniform weld around both ends of one
+of the reinforcement sleeves and allow the
+weld to cool; then, weld around both ends of
+the remaining reinforcement tube. Allow one
+sleeve weld to cool before welding the remaining tube to prevent undue warping.
+[FIG 4-37] Splicing by inner-sleeve method.

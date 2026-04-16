@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-16. FILIFORM CORROSION. Filiform
+corrosion is a special form of oxygen concentration cell which occurs on metal surfaces
+having an organic coating system. It is recognized by its characteristic worm-like trace of
+corrosion products beneath the paint film.
+(See figure 6-8.) Polyurethane finishes are especially susceptible to filiform corrosion. Filiform occurs when the relative humidity of the
+air is between 78 and 90 percent and the surface is slightly acidic. This corrosion usually
+attacks steel and aluminum surfaces. The
+traces never cross on steel, but they will cross
+under one another on aluminum which makes
+the damage deeper and more severe for aluminum. If the corrosion is not removed, the area
+treated, and a protective finish applied, the corrosion can lead to inter-granular corrosion, especially around fasteners and at seams. Filiform corrosion can be removed using glass
+bead blasting material with portable abrasive
+blasting equipment or sanding. Filiform corrosion can be prevented by storing aircraft in an
+environment with a relative humidity below
+70 percent, using coating systems having a low
+rate of diffusion for oxygen and water vapors,
+and by washing the aircraft to remove acidic
+contaminants from the surface.

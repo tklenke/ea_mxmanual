@@ -1,0 +1,137 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 7: TABLE OF ACCEPTABLE WIRES
+
+11-89. SHIELDED WIRE. With the increase in number of highly sensitive electronic
+devices found on modern aircraft, it has become very important to ensure proper shielding for many electric circuits. Shielding is the
+process of applying a metallic covering to
+wiring and equipment to eliminate interference
+caused by stray electromagnetic energy.
+Shielded wire or cable is typically connected to
+the aircraft’s ground at both ends of the wire,
+or at connectors in the cable. Electromagnetic
+Interference (EMI) is caused when electromagnetic fields (radio waves) induce highfrequency (HF) voltages in a wire or component. The induced voltage can cause system
+inaccuracies or even failure, therefore putting
+the aircraft and passengers at risk. Shielding
+helps to eliminate EMI by protecting the primary conductor with an outer conductor. Refer to MIL-DTL-27500, Cable, Power, Electrical and Cable Special Purpose, Electrical
+Shielded and Unshielded General Specifications.
+[TABLE 11-11] Open Wiring.
+Document Voltage Rated wire
+temperature
+rating
+(°C)
+(maximum)
+MIL-W-22759/1 600 200 Fluoropolymer
+coated glass
+MIL-W-22759/2 600 260 Fluoropolymer
+coated glass
+MIL-W-22759/3 600 260 Fluoropolymer
+TFE
+MIL-W-22759/4 600 200 Fluoropolymer
+FEP
+MIL-W-22759/5 600 200 Fluoropolymer
+MIL-W-22759/6 600 260 Fluoropolymer
+MIL-W-22759/7 600 200 Fluoropolymer
+MIL-W-22759/8 600 260 Fluoropolymer
+MIL-W-22759/9 1000 200 Fluoropolymer
+MIL-W-22759/10 1000 260 Fluoropolymer
+MIL-W-22759/13 600 135 Fluoropolymer
+MIL-W-22759/16 600 150 Fluoropolymer
+ETFE
+MIL-W-22759/17 600 150 Fluoropolymer
+ETFE per alloy
+MIL-W-22759/20 1000 200 Fluoropolymer
+MIL-W-22759/21 1000 260 Fluoropolymer
+MIL-W-22759/34 600 150 Fluoropolymer
+modified ETFE
+MIL-W-22759/35 600 200 Fluoropolymer
+modified ETFE per alloy
+MIL-W-22759/41 600 200 Fluoropolymer
+modified ETFE
+MIL-W-22759/42 600 200 Fluoropolymer
+modified ETFE copper alloy
+MIL-W-22759/43 600 200 Fluoropolymer
+modified ETFE
+MIL-W-25038/3/2/ 600 260 See specification
+MIL-W-81044/6 600 150 Crosslinked
+MIL-W-81044/7 600 150 Crosslinked
+MIL-W-81044/9 600 150 Crosslinked
+MIL-W-81044/10 600 150 Crosslinked
+* Inorganic Fibers - Glass - TFE
+Insulation Type Conductor type
+insulated TFE and TFE Silver coated copper
+insulated TFE and TFE Nickel coated copper
+insulated TFE -glass- Nickel coated copper
+insulated TFE -glass- Silver coated copper
+insulated extruded TFE Silver coated copper
+insulated extruded TFE Nickel coated copper
+insulated extruded TFE Silver coated copper
+insulated extruded TFE Nickel coated copper
+insulated extruded TFE Silver coated copper
+insulated extruded TFE Nickel coated copper
+insulated FEP PVF2 Tin coated copper,
+insulated extruded Tin coated copper,
+insulated extruded Silver coated high strength copinsulated extruded TFE Silver coated high strength copper alloy
+insulated extruded TFE Nickel coated high strength
+copper alloy
+insulated crosslinked Tin coated copper
+insulated crosslinked Silver coated high strength copinsulated crosslinked Nickel coated copper
+insulated crosslinked Nickel coated high strength
+insulated crosslinked Silver coated copper
+sheet * See specification sheet
+polyalkene Tin coated copper
+polyalkene Silver coated high strength copper alloy
+polyalkene Tin coated copper
+polyalkene Silver coated high strength copper alloy
+[TABLE 11-12] Protected wiring.
+Document Voltage Rated wire
+temperature
+rating
+(°C)
+(maximum)
+MIL-W-22759/11 600 200 Fluoropolymer
+MIL-W-22759/12 600 260 Fluoropolymer
+MIL-W-22759/14 600 135 Fluoropolymer
+MIL-W-22759/15 600 135 Fluoropolymer
+MIL-W-22759/18 600 150 Fluoropolymer
+MIL-W-22759/19 600 150 Fluoropolymer
+MIL-W-22759/22 600 200 Fluoropolymer
+MIL-W-22759/23 600 260 Fluoropolymer
+MIL-W-22759/32 600 150 Fluoropolymer
+modified ETFE
+MIL-W-22759/33 600 200 Fluoropolymer
+modified ETFE per alloy
+MIL-W-22759/44 600 200 Fluoropolymer
+modified ETFE
+MIL-W-22759/45 600 200 Fluoropolymer
+modified ETFE
+MIL-W-22759/46 600 200 Fluoropolymer
+modified ETFE per alloy
+MIL-W-81044/12 600 150 Crosslinked
+MIL-W-81044/13 600 150 Crosslinked
+MIL-W-81381/17 600 200 Fluorocarbon
+MIL-W-81381/18 600 200 Fluorocarbon
+MIL-W-81381/19 600 200 Fluorocarbon
+MIL-W-81381/20 600 200 Fluorocarbon
+MIL-W-81381/21 600 150 Fluorocarbon
+11-90.11-95.
+[RESERVED.]
+Insulation Type Conductor type
+insulated extruded TFE Silver coated copper
+insulated extruded TFE Nickel coated copper
+insulated FEP-PVF2 Tin coated copper
+insulated FEP-PVF2 Silver plated high strength copper
+alloy
+insulated extruded ETFE Tin coated copper
+insulated extruded ETFE Silver coated high strength copper alloy
+insulated extruded TFE Silver coated high strength copper alloy
+insulated extruded TFE Nickel coated high strength copper alloy
+insulated crosslinked Tin coated copper
+insulated crosslinked Silver coated high strength copinsulated crosslinked Silver coated copper
+insulated crosslinked Nickel coated copper
+insulated crosslinked Nickel coated high strength coppolyalkene - PVF2 Tin coated copper
+polyalkene - PVF2 Silver coated high strength copper alloy
+polyimide Silver coated copper
+polyimide Nickel coated copper
+polyimide Silver coated high strength copper alloy
+polyimide Nickel coated high strength copper alloy
+polyimide Tin coated copper
+SECTION 8. WIRING INSTALLATION

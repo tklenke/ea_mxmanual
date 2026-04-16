@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-15. MARKER BEACON. Marker beacon receivers operate at 75 MHz and sense the
+audio signature of each of the three types of
+beacons. The marker beacon receiver is not
+tunable. The blue outer marker light illuminates when the receiver acquires a 75 MHz
+signal modulated with 400 Hz, an amber middle marker light for a 75 MHz signal modulated with 1300 Hz and, a white inner marker
+light for a 75 MHz signal modulated with
+3000 Hz. The marker beacon system must be
+operationally evaluated in VFR when an ILS
+runway is available. The receiver sensitivity
+switch must be placed in LOW SENSE (the
+normal setting). Marker audio must be adequate. Ground test equipment must be used to
+verify marker beacon operation. Marker beacon with self test feature, verify lamps, audio
+and lamp dimming.

@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-77. PREPARATION FOR WELDING.
+a. Hold elements to be welded in a welding
+jig or fixture which is sufficiently rigid to prevent misalignment due to expansion and contraction of the heated material and which
+positively and accurately positions the
+pieces to be welded.
+b. Clean parts to be welded with a wire
+brush or other suitable method prior to welding. Do not use a brush of dissimilar metal,
+such as brass or bronze on steel. The small
+deposit left by a brass or bronze brush will
+materially weaken the weld, and may cause
+cracking or subsequent failure of the weld. If
+the members are metallized, the surface metal
+may be removed by careful sandblasting followed by a light buffing with emery cloth.

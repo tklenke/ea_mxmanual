@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-192. ELECTRIC SHOCK PREVENTION BONDING. Electric shock to personnel should be prevented by providing a low resistance path of 1/100 ohm or less between
+structure and metallic conduits or equipment.
+The allowable ground resistance should be
+such that the electric potential of the conduit or
+equipment housing does not reach a dangerous
+value under probable fault conditions. The
+current carrying capacity of all elements of the
+ground circuit should be such that, under the
+fault condition, no sparking, fusion, or dangerous heating will occur. Metallic supports usually provide adequate bonding if metal-tometal contact is maintained.

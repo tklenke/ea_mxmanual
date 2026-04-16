@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-61. REPLACING LINES. If necessary
+to replace lines, observe the following installation:
+a. Attach lines at regular intervals by
+means of suitable clamps.
+b. Do not clamp lines at end fittings.
+c. Maintain the slope of lines toward
+drains to ensure proper drainage.
+d. Check the lines for leaks.

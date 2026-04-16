@@ -1,0 +1,1476 @@
+AC 43.13-1B  Chapter 13: HUMAN FACTORS
+
+13-2. THE FAA AVIATION SAFETY
+PROGRAM has condensed these HF reports
+DO I HAVE THE KNOWLEDGE TO PERFORM THE TASK?
+DO I HAVE THE TECHNICAL DATA TO
+PERFORM THE TASK?
+HAVE I PERFORMED THE TASK PREVIOUSLY?
+DO I HAVE THE PROPER TOOLS AND
+EQUIPMENT TO PERFORM THE TASK?
+HAVE I HAD THE PROPER TRAINING TO
+SUPPORT THE JOB TASK?
+AM I MENTALLY PREPARED TO PERFORM THE JOB TASK?
+AM I PHYSICALLY PREPARED TO PERFORM THE TASK?
+HAVE I TAKEN THE PROPER SAFETY
+PRECAUTIONS TO PERFORM THE TASK?
+DO I HAVE THE RESOURCES AVAILABLE
+TO PERFORM THE TASK?
+HAVE I RESEARCHED THE FAR’S TO ENSURE COMPLIANCE?
+[FIG 13-1] Personal Minimum’s Checklist
+into a personal minimums checklist, which
+asks the mechanic to answer 10 ‘yes or no’
+questions before the maintenance task is begun
+and 10 ‘yes or no’ questions after the task is
+completed. If the mechanic answers “NO” to
+any of the 20 questions, the aircraft should not
+be returned to service. We have provided the
+checklist in figure 13-1 for your evaluation and
+review. A color copy of the checklist is available from any Flight Standards District Office.
+Just ask for the Airworthiness Safety Program
+manager.
+DID I PERFORM THE JOB TASK TO THE
+BEST OF MY ABILITIES?
+WAS THE JOB TASK PERFORMED TO BE
+EQUAL TO THE ORIGINAL?
+WAS THE JOB TASK PERFORMED IN ACCORDANCE WITH APPROPRIATE DATA?
+DID I USE ALL THE METHODS, TECHNIQUES, AND PRACTICES ACCEPTABLE
+TO INDUSTRY?
+DID I PERFORM THE JOB TASK WITHOUT
+PRESSURES, STRESS, AND DISTRACTIONS?
+DID I REINSPECT MY WORK OR HAVE
+SOMEONE INSPECT MY WORK BEFORE
+RETURNING TO SERVICE?
+DID I MAKE THE PROPER RECORD ENTRIES FOR THE WORK PERFORMED?
+DID I PERFORM THE OPERATIONAL
+CHECKS AFTER THE WORK WAS COMPLETED?
+AM I WILLING TO SIGN ON THE BOTTOM
+LINE FOR THE WORK PERFORMED?
+AM I WILLING TO FLY IN THE AIRCRAFT
+ONCE IT IS APPROVED FOR THE RETURN
+TO SERVICE?
+APPENDIX 1. GLOSSARY
+The following words and terms represent some
+field of aviation. For a more complete list of
+consult an aviation dictionary.
+PTFEa
+abrasion resistant solid insulation wall of
+PTFE with hard, nonconductive grit positioned midway in the wall thickness, and significantly improves
+the resistance of the PTFE material to damage from
+wear.
+acetylene—gas composed of two parts of carbon
+and two parts of hydrogen. When burned in the
+atmosphere of oxygen, it produces one of the highest flame temperatures obtainable.
+acetylene regulator—manually adjustable device
+used to reduce cylinder pressure to torch pressure
+and to keep the pressure constant. They are never
+to be used as oxygen regulators.
+adherend—one of the members being bonded together by adhesive.
+Directivea
+Airworthiness regulation issued by
+the FAA that applies to aircraft, aircraft engines,
+propellers, or appliances, when an unsafe condition
+exists and that condition is likely to exist or develop
+in other products of the same type design.
+airworthy—is when an aircraft or one of its component parts meets its type design and is in a condition for safe operation.
+ambient light—the visible light level measured at
+the surface of the part.
+(A)the
+ampere basic unit of current flow. One A
+is the amount of current that flows when a difference of potential of 1 V is applied to a circuit with a
+Ω.
+resistance of 1 One coulomb per second.
+antennaa
+device designed to radiate or intercept
+electromagnetic waves.
+anti-tear strips—strips of fabric of the same material as the airplane is covered with, laid over the
+wing rib under the reinforcing tape.
+apparent power—the product of volts and amperes in AC circuits where the current and voltage
+are out of phase.
+applianceany
+instrument, mechanism, equipment, part, apparatus, appurtenance, or accessory,
+including communications equipment, that is used
+of those that are often encountered in the
+definitions, a mechanic or technician should
+or intended to be used in operating or controlling
+an aircraft in flight, is installed in or attached to the
+aircraft, and is not part of an airframe, engine or
+propeller.
+arma
+measurement of distance, in inches, feet,
+etc., used in weight and balance calculations.
+Normally only the longitudinal arm is of practical
+importance. The three axial arms are longitudinal
+arm, lateral arm, and vertical arm.
+(ADF)a
+automatic direction finder radio receiver utilizing a directional loop antenna that enables the receiver to indicate the direction from
+which a radio signal is being received; also called a
+radio compass.
+(AFCS)a
+automatic flight control system flight
+control system incorporating an automatic pilot with
+additional systems such as a VOR coupler, an ILS
+approach coupler, and an internal navigation system that is fully automatic, so the aircraft can be
+flown in a completely automatic mode.
+avionicsthe
+science and technology of electronics as applied to aviation.
+azimuthangular
+distance measured on a horizontal circle in a clockwise direction from either
+north or south.
+balancethe
+condition of stability which exists in
+an aircraft when all weight and forces are acting in
+such a way as to prevent rotation about an axis or
+pivot point.
+base metal—the metal to be welded, brazed, soldered, or cut.
+black light—electromagnetic radiation in the near
+ultraviolet range of wavelength.
+blade station—is a reference position on a blade
+that is a specified distance from the center of the
+hub.
+bond—the adhesion of one surface to another,
+with or without the use of an adhesive as a bonding
+agent.
+bonding—a general term applied to the process of
+electrically connecting two or more conductive objects. In aircraft, the purpose of bonding (except as
+applied to individual connections in the wiring and
+grounding systems) is to provide conductive paths
+for electric currents. This is accomplished by providing suitable low-impedance connections joining
+conductive aircraft components and the aircraft
+structure. Another purpose of bonding is to ensure
+the safe passage of current caused by lightning or
+static electricity through the aircraft structure.
+borescope—a long, tubular optical instrument designed for remote visual inspection of surfaces.
+brashness—a condition of wood characterized by
+low resistance to shock and by an abrupt failure
+across the grain without splintering.
+braze welding—a welding process variation in
+°C
+which a filler metal, having a liquidus above 450
+°F)
+(840 and below the solidus of the base metal is
+used. Unlike brazing, in braze welding the filler
+metal is not distributed in the joint by capillary action.
+brazing—the joining of two pieces of metal by wetting their surface with molten alloy of copper, zinc,
+or tin.
+bus or bus bar—solid copper strips to carry current between primary and secondary circuits; also
+used as jumpers.
+butt joint—a joint between two members aligned
+approximately in the same plane.
+butyrate dope—a finish for aircraft fabric consisting of a film base of cellulose fibers dissolved in
+solvents with the necessary plasticizers, solvent,
+and thinners.
+cable—(electrical)assembly
+of one or more con­ tively large amount of summer wood, usually more
+ductors within an enveloping protective sheath so
+constructed as to permit use of conductors separately or in a group.
+calibrationa
+set of operations, performed in accordance with a definite document procedure,
+which compares the measurements performed by
+an instrument or standard, for the purpose of detecting and reporting, or eliminating by adjustment,
+errors in the instrument tested.
+gravitythat
+center of point about which the aircraft would balance if suspended. For field weight
+and balance purposes/control, the center of gravity
+is normally calculated only along its longitudinal
+axis (nose to tail), disregarding both the lateral and
+vertical location.
+certification—implies that a certificate is in existence which certifies or states a qualification.
+check—a lengthwise separation of the wood, the
+greater part of which occurs across the rings of annual growth.
+chemical conversion coating (Specification
+MIL-C-81706)—is a chemical surface treatment
+used on aluminum alloys to inhibit corrosion and to
+provide a proper surface for paint finishing.
+chordan
+imaginary straight line joining the leading
+and trailing edges of an airfoil.
+circuit—a closed path or mesh of closed paths
+usually including a source of EMF.
+breakera
+circuit protective device for opening a
+circuit automatically when excessive current is
+flowing through it.
+close-grained wood—wood with narrow and inconspicuous annual rings. The term is sometimes
+used to designate wood having small and closelyspaced pores, but in this sense the term “finetextured” is more often used.
+coil shot—production of longitudinal magnetization
+accomplished by passing current through a coil encircling the part being inspected.
+compassa
+device used to determine direction
+on the Earth’s surface. A magnetic compass utilizes the Earth’s magnetic field to establish direction.
+compression wood—identified by its relatively
+wide annual rings, usually eccentric, and its relathan 50 percent of the width of the annual rings in
+which it occurs. Compression wood shrinks excessively lengthwise as compared with normal
+wood.
+conductora
+wire or other material suitable for
+conducting electricity.
+conduita
+rigid metallic or nonmetallic casing, or
+a flexible metallic casing covered with a woven
+braid or synthetic rubber used to encase electrical
+cables.
+contactelectrical
+connectors in a switch, sole­ the aircraft is in level flight attitude.
+noid or relay that controls the flow of current.
+panelan
+control upright panel, open or closed,
+where switches, rheostats, meters, etc., are installed for the control and protection of electrical
+machinery.
+corrosion—the electrochemical deterioration of a
+metal resulting from chemical reaction to the surrounding environment.
+crack—is a partial separation of material caused
+by vibration, overloading, internal stresses, nicks,
+defective assemblies, fatigue, or rapid changes in
+temperature.
+creepage—is the conducting of electrical current
+along a surface between two points at different potentials. The current’s ability to pass between two
+points increases with higher voltage and when deposits of moisture or other conductive materials exist on the surfaces.
+cross grain—grain not parallel with the axis of a
+piece. It may be either diagonal or spiral grain or a
+combination of the two.
+cross coat—a double coat of dope or paint. It is
+sprayed on in one direction, and then immediately
+after the solvent flash-off, it is sprayed at right angles to the first coat.
+cureto
+change the properties of a thermosetting
+resin irreversibly by vulcanization or chemical reaction. May be accomplished by the addition of curing
+(cross-linking) agents, with or without a catalyst, and
+with or without heat or pressure.
+temperaturetemperature
+curing to which a resin
+or an assembly is subjected in order to cure the
+resin.
+cutting torch—a device used in gas cutting of
+metals.
+dampinglimiting
+the duration of vibration by either electrical or mechanical means.
+datainformation
+that supports and/or describes
+the original aircraft design, alteration or repair including the following: (1) drawings, sketches, and or photographs; (2) engineering analysis; (3) engineering
+orders; and (4) operating limitations.
+datumimaginary
+vertical plane from which all horizontal measurements are made or indicated when
+derating—is a technique whereby a part is
+stressed in actual usage at values well below the
+manufacturer’s rating for the part. By decreasing
+mechanical, thermal, and electrical stresses, the
+probability of degradation or catastrophic failure is
+lessened.
+direct current electrode negative—the arrangement of direct current arc welding leads in which
+the work is the positive pole and the electrode is
+the negative pole of the welding arc.
+direct current electrode positive—the arrangement of direct current arc welding leads in which
+the work is the negative pole and the electrode is
+the positive pole of the welding arc.
+discontinuity—an interruption in the normal physical structure or configuration of a part, such as a
+crack, lap, seam, inclusion, or porosity.
+distal tip—the tip, lens end, of a borescope.
+dope—liquid applied to fabric to tauten it by shrinking, strengthen it, and render it airtight by acting as
+a filler.
+Dope-proofing—protecting a surface from the
+chemicals and chafing qualities of dope and doped
+fabrics.
+drape—the ability of tape and broad goods to conform to a contoured shape.
+loopa
+drip bundle installation method used to
+prevent water or other fluid contaminants from running down the wiring into a connector.
+dry rot—a term loosely applied to many types of
+wood decay but especially to that which, when in
+an advanced stage, permits the wood to be easily
+crushed to a dry powder. The term is actually a
+misnomer for any decay, since all fungi require
+considerable moisture for growth.
+dwell time—the total time that a penetrant, emulsifier (or remover), or developer remains on the surface of the test part.
+dye penetrant inspection—an inspection method
+for surface cracks in which a penetrating dye is allowed to enter any cracks present and is pulled out
+of the crack by an absorbent developer. A crack
+appears as a line on the surface of the developer.
+edge grain—edge-grain lumber has been sawed
+parallel with the pith of the log and approximately at
+right angles to the growth rings; that is, the rings
+form an angle of 45 degrees or more with the surface of the piece.
+electricity—one of the fundamental quantities in
+nature consisting of elementary particles, electrons
+and protons, which are manifested as a force of attraction or repulsion, and also in work that can be
+performed when electrons are caused to move; a
+material agency which, when in motion, exhibits
+magnetic, chemical, and thermal effects, and when
+at rest is accompanied by an interplay of forces between associated localities in which it is present.
+electromagnet—temporary magnet which is magnetized by sending current through a coil of wire
+wound around an iron core.
+Electromagnetic/Radio Frequency Interference
+(EMI/RFI)—frequency spectrum of electromagnetic
+radiation extending from subsonic frequency to
+X-rays. This term should not be used in place of
+the term Radio Frequency Interference (RFI). (See
+radio frequency interference.) Shielding materials
+for the entire EMI spectrum are not readily available.
+electromotive force (EMF)—difference of electrical potential measured in volts.
+electron—a negative charge that revolves around
+the nucleus of an atom; a unit of a negative electrical charge.
+electronics—general term that describes the
+branch of electrical science and technology that
+treats the behavior and effects of electron emission
+and transmission.
+electron Volt (eV)—a unit of energy equal to the
+energy aquired by an electron falling though potential differences of one volt, approximately
+1.602X 10-19 joule.
+emulsion-type cleaner—a chemical cleaner which
+mixes with water or petroleum solvent to form an
+emulsion (a mixture which will separate if allowed
+to stand). It is used to loosen dirt, soot, or oxide
+films from the surface of an aircraft.
+epoxy—one of various usually thermosetting resins capable of forming tight cross-linked polymer
+structures marked by toughness, strong adhesion,
+high corrosion, and chemical resistance, used especially in adhesives and surface coating.
+epoxy primer—a two-part catalyzed material used
+to provide a good bond between a surface and a
+surface coating.
+epoxy resin—a common thermosetting resin
+which exhibits exceptionally good adhesion, low
+cure shrinkage, and low water-absorption properties.
+erosion—loss of metal from metal surfaces by the
+action of small particles such as sand or water.
+ETFE(Frequently
+referred to by the trade name,
+TEFZEL) a copolymer of PTFE and polyethylene.
+exciter—small generator for supplying direct current to the alternator’s field windings.
+exfoliation corrosion—a form of intergranular
+corrosion that attacks extruded metals along their
+layer-like grain structure.
+expandable sleeving—open-weave braided
+sleeving used to protect wire and cables from
+abrasion and other hazards (commonly known by
+trade name EXPANDO).
+FEP—fluorinated ethylene propylene (commonly
+known by the trade name, TEFLON). A melt extrudable fluorocarbon resin, very similar in appearance and performance to PTFE, but with a maximum temperature rating of 200 °C.
+ferrous metal—iron, or any alloy containing iron.
+fiberglassthe
+most common material used to reinforce structures in home-built and experimental
+aircraft. Available as mat, roving, fabric, etc. It is incorporated into both thermoset and thermoplastic
+resins. The glass fibers increase mechanical
+strength, impact resistance, stiffness, and dimensional stability of the matrix.
+fillthreads
+in a fabric that run crosswise of the
+woven material.
+filiform corrosion—a thread, or filament-like corrosion which forms on aluminum skins beneath the
+finish.
+finish—external coating or covering of an aircraft
+or part.
+flat grain—lumber has been sawed parallel with
+the pith of the log and approximately tangent to the
+growth rings; that is, the rings form an angle of less
+than 45 degrees with the surface of the piece.
+fluorescent—a substance is said to be fluorescent
+when it will glow or fluoresce when excited by ultraviolet light. Some types of dye-penetrant material
+use fluorescent dyes which are pulled from the
+cracks by a developer and observed under “black”
+ultraviolet light.
+flux—materials used to prevent, dissolve, or facilitate removal of oxides and other undesirable surface substances. Also, the name for magnetic
+fields.
+fretting corrosion—corrosion damage between
+close-fitting parts which are allowed to rub together. The rubbing prevents the formation of protective oxide films and allows the metals to corrode.
+fuse—a protective device containing a special wire
+that melts when current exceeds the rated value for
+a definite period.
+checkthis
+functional test may require the use of
+appropriate test equipment.
+galvanic corrosion—corrosion due to the presence of dissimilar metals in contact with each
+other.
+gas cylinder—a portable container used for transportation and storage of a compressed gas.
+gas tungsten arc welding—(GTAW) an arc welding process which produces coalescence of metals
+by heating them with an arc between a tungsten
+(nonconsumable) electrode and the work. Shielding is obtained from a gas or gas mixture. Pressure may or may not be used and filler metal may
+or may not be used.
+generator—a device for converting mechanical
+energy into electrical energy.
+(GPS)a
+global positioning system navigation
+system that employs satellite transmitted signals to
+determine the aircraft’s location.
+grain—the direction, size, arrangement, appearance, or quality of the fibers in wood or metal.
+grain - diagonal—annual rings in wood at an angle with the axis of a piece as a result of sawing at
+an angle with the bark of the tree.
+grommet—an insulating washer that protects the
+sides of holes through which wires must pass/or a
+metal or plastic drain attached to fabric on aircraft.
+the
+gross weight total weight of the aircraft
+including its contents.
+grounding—the term is usually applied to a particular form of bonding that is the process of electrically connecting conductive objects to either conductive structure or some other conductive return
+path for the purpose of safely completing either a
+normal or fault circuit.
+harness—a cable harness is a group of cables or
+wires securely tied as a unit.
+honeycombmanufactured
+product consisting of a
+resin-impregnated sheet or metal material which has
+been corrugated or expanded into hexagon-shaped
+and other structural-shaped cells. Primarily used as
+core material for sandwich constructions.
+(L)the
+inductance ability of a coil or conductor to
+oppose a change in current flow.
+insulatora
+material that will not conduct current
+to an appreciable degree.
+circuitsmall,
+integrated complete circuit built up
+by vacuum deposition and other techniques, usually on a silicon chip, and mounted in a suitable
+package.
+intergranular corrosion—the formation of corrosion along the grain boundaries within a metal alloy.
+interlocked-grained wood—wood in which the fibers are inclined in one direction in a number of
+rings of annual growth, then gradually reverse and
+are inclined in an opposite direction in succeeding
+growth rings, then reverse again.
+inverter—a device for converting direct current to
+alternating current.
+laminatea
+product obtained by bonding two or
+more laminae of the same material or of different
+materials.
+laminated wood—a piece of wood built up of plies
+or laminations that have been joined either with
+glue or with mechanical fastenings. The term is
+most frequently applied where the plies are too
+thick to be classified as veneer and when the grain
+of all plies is parallel.
+leakage field—the magnetic field forced out into
+the air by the distortion of the field within a part,
+caused by the presence of a discontinuity or
+change in section configuration.
+linterthe
+short fiber left on the cotton seed after
+ginning.
+localizerthat
+section of an ILS that produces the
+directional reference beam.
+Navigation)a
+LORAN (Long-Range radio navigation system utilizing master and slave stations
+transmitting timed pulses. The time difference in
+reception of pulses from several stations establishes a hyperbolic line of position that may be
+identified on a LORAN chart. By utilizing signals
+from two pairs of stations, a fix in position is obtained.
+magnetic field—the space around a source of
+magnetic flux in which the effects of magnetism
+can be determined.
+beacona
+marker radio navigation aid used in an
+instrument approach to identify distance to the
+runway. As the aircraft crosses over the markerbeacon transmitter, the pilot receives an accurate
+indication of the airplane’s distance from the runway through the medium of a flashing light and an
+aural signal.
+switcha
+master switch designed to control all
+electric power to all circuits in a system.
+moisture content of wood—weight of the water
+contained in the wood usually expressed in percentage of the weight of the kiln-dry wood.
+multiconductor cable—consists of two or more
+cables or wires, all of which are encased in an
+outer covering composed of synthetic rubber, fabric, or other material.
+nick—a sharp notch-like displacement of metal
+surface.
+braidNOMEX
+nomex is the trade name for a
+high-temperature polyamide thread that is braided
+over the larger sizes (# 8 gage and larger) of many
+of the military specification wires. It can be encountered in either an off-white or black/green color.
+normalizing—reforming of the grain structure of a
+metal or alloy by proper heat treatment to relieve
+internal stresses.
+circuitan
+open incomplete or broken electrical
+circuit.
+open-grained wood—common classification of
+painters for woods with large pores, such as oak,
+ash, chestnut, and walnut. Also known as “coarsetextured.”
+checkthis
+operational is an operational test to
+determine whether a system or component is functioning properly in all aspects in conformance with
+minimum acceptable manufacture design
+specifications.
+fiberany
+optical filament or fiber made of dielectric materials that guides light whether or not it is
+used to transmit signals.
+rifice—opening through which gas or air flows. It
+is usually the final opening controlled by a valve.
+oxidizing—combining oxygen with any other substance. For example, a metal is oxidized when the
+metal is burned, i.e., oxygen is combined with all
+the metal or parts of it
+oxidizing flame—an oxy-fuel gas flame having an
+oxidizing effect due to excess oxygen.
+oxygen cutting—cutting metal using the oxygen
+jet which is added to an oxygen-acetylene flame.
+oxygen regulator—manually-adjustable device
+used to reduce cylinder pressure to torch pressure
+and to keep the pressure constant. They are never
+to be used as fuel gas regulators.
+peel ply—a layer of resin-free material used to protect a laminate for later secondary bonding (sometimes referred to as a release film).
+pickling—the treatment of a metal surface by an
+acid to remove surface corrosion.
+pitch—is the distance, in inches, that a propeller
+section will move forward in one revolution, or the
+distance a nut will advance in one revolution of the
+screw in a single thread.
+pitch distribution—is the gradual twist in the propeller blade from shank to tip.
+pitted—small irregular shaped cavities in the surface of the parent material usually caused by corrosion, chipping, or heavy electrical discharge.
+pitting—the formation of pockets of corrosion
+products on the surface of a metal.
+plastican
+organic substance of large molecular
+weight which is solid in its finished state and, at
+some stage during its manufacture or its processing
+into a finished article, can be shaped by flow.
+braida
+polyester plastic braiding thread, when
+used as the outer surface of a wire, provides a clothlike appearance.
+tapea
+polyimide plastic film (commonly referred
+to by the trade name, KAPTON). The tape has a
+dark brown color, and is frequently coated with a
+polyimide varnish that has a very distinct mustard
+yellow color. At times, the spiral edge of the outermost tape is apparent under the varnish topcoat. It
+may be used for wire insulation. Total polyimide tape
+insulated wire constructions are inactive for new design on military aircraft and are subject to the procedures defined in FAA Advisory Circular AC 29-2A
+Change 2 Paragraph 29.1359 in Civil Aircraft.
+varnisha
+polyimide liquid form of polyimide that
+is applied to the outer surface of a wire through the
+process of repeated dipping through the varnish
+bath with subsequent heat curing. The successive
+layers rarely reach a total buildup of 1 mil.
+polymerization—basic processes for making large
+(high-polymer) molecules from small ones, normally without chemical change; can be by addition,
+condensation, rearrangement, or other methods.
+porosity—cavity-type discontinuities in metal
+formed by gas entrapment during solidification.
+prepreg—a mat, a fabric, or covering impregnated
+with resin that is ready for lay up and curing.
+propeller—is a rotating airfoil that consists of two
+or more blades attached to a central hub which is
+mounted on the engine crankshaft.
+protractor—is a device for measuring angles.
+(Insulation)polytetrafluoroethylene
+PTFE Tape
+tape (commonly known by the trade name, TEFLON), wrapped around a conductor and then centered with heat, fusing the layers into a virtually homogeneous mass. It is used both as a primary insulation against the conductor, and as an outer layer or
+jacket over a shield. Maximum temperature rating is
+260 °C.
+Fluoridea
+PVF Polyvinylidine fluorocarbon
+2
+plastic, that when used in aircraft wire, is invariably
+radiation cross-linked and employed as the outer
+layer.
+ranging)radio
+radar (radio detecting and
+equipment that utilizes reflected pulse signals to locate and determine the distance to any reflecting
+object within its range.
+radomea
+nonmetallic cover used to protect the
+antenna assembly of a radar system.
+rectifier—a device for converting alternating current to direct current.
+reinforcing tape—a narrow woven cotton or polyester tape used over aircraft fabric to reinforce it at
+the stitching attachments.
+relayan
+electrically-operated remote-control
+switch.
+resin—vast profusion of natural and increasingly,
+synthetic materials used as adhesives, fillers, binders and for insulation.
+resistancethe
+opposition a device or material offers to the flow or current.
+resonance method (ringing) of ultrasonic inspection—a method of detecting material thickness or indications of internal damage by injecting
+variable frequency ultrasonic energy into a material. A specific frequency of energy will produce the
+clearest indication of damage in a given thickness
+of material. When the equipment is calibrated for a
+specific thickness, and this thickness changes, an
+aural or visual alert is given.
+resonant frequency—the frequency of a source of
+vibration that is exactly the same as the natural
+vibration frequency of the structure.
+resonate—a mechanical system is said to resonate when its natural vibration frequency is exactly
+the same as the frequency of the force applied.
+When an object resonates at a particular frequency, the amplitude in its vibration will increase
+immensely as that frequency is reached and will be
+less on either side of that frequency.
+rib—part of primary structure, whose purpose is to
+maintain profile of airfoil and support fabric or thin
+wood covering.
+sacrificial corrosion—a method of corrosion protection in which a surface is plated with a metal
+less noble than itself. Any corrosion will attack the
+plating rather than the base metal.
+constructiona
+sandwich structural panel concept consisting in its simplest form of two relatively
+thin, parallel sheets (face sheets) of structural material bonded to and separated by a relatively thick,
+lightweight core. High strength-to-weight ratios are
+obtained with sandwiched materials.
+scarf joint—a joint made by cutting away similar
+angular segments of two adherents and bonding
+the adherents with cut areas fitted together.
+score—a surface tear or break on a surface that
+has a depth and length ranging between a scratch
+and a gouge.
+scratch—a superficial small cut on a surface.
+deviceany
+semiconductor device based on either preferred conduction through a solid in one direction, as in rectifiers; or on a variation in conduction characteristics through a partially conductive
+material, as in a transistor.
+severe wind and moisture problem (SWAMP)
+areasareas
+such as wheel wells, wing folds, and
+near wing flaps, and areas directly exposed to extended weather conditions are considered SWAMP
+areas on aircraft.
+rubbera
+silicone high temperature (200 °C) plastic insulation that has a substantial silicone content.
+soldering—a group of welding processes that produces coalescence of materials by heating them to
+the soldering temperature and by using a filler
+°C
+metal having a liquidus not exceeding 450
+°F)
+(840 and below the solidus of the base metals.
+The filler metal is distributed between the closelyfitted surfaces of the joint by capillary action.
+solenoida
+tubular coil for the production of a
+magnetic field; electromagnet with a core which is
+able to move in and out.
+spar—main spanwise structural member(s) of an
+aircraft wing or rotorcraft rotor. A wing may have
+one or two made into a single strong box to which
+secondary leading and trailing structures are
+added.
+spiral grain—a type of growth in wood which the
+fibers take a spiral course about the bole of a tree
+instead of the normal vertical course. The spiral
+may extend right-handed or left-handed around the
+tree trunk.
+statorthe
+part of an AC generator or motor which
+contains the stationary winding.
+stress corrosion—corrosion of the intergranular
+type that forms within metals subject to tensile
+stresses which tend to separate the grain boundaries.
+surface tape—pinked-edge strips of fabric doped
+over all seams, rib stitching, and edges of fabric
+covering (also called finishing tape).
+switcha
+device for opening or closing an electrical circuit.
+tape—a tape or a “narrow fabric” is loosely defined
+as a material that ranges in width from 1/4 inch to
+12 inches.
+TCAStraffic
+alert and collision avoidance system.
+An airborne system that interrogates mode A, C,
+and S transponders in nearby aircraft and uses the
+replies to identify and display potential and predicted collision threats.
+thermocoupledevice
+to convert heat energy into
+electrical energy.
+materiala
+thermoplastic material that can be repeatedly softened by an increase in the temperature
+and hardened by a decrease in the temperature with
+no accompanying chemical change. For example, a
+puddle of tar on the road in the summer during the
+heat of day: the tar is soft and fluid; however, when
+cooler in the evening, it becomes solid again.
+materiala
+thermoset material which becomes
+substantially infusible and insoluble when cured by
+the application of heat or by chemical means. A material that will undergo, or has undergone, a chemical
+reaction (different from a thermoplastics physical reaction) by the action of heat, catalysts, ultraviolet
+light, etc. Once the plastic becomes hard, additional
+heat will not change it back into a liquid as would be
+the case with a thermoplastic.
+tip—part of the torch at the end where the gas
+burns, producing the high-temperature flame.
+transceivera
+unit serving as both a receiver and
+a transmitter.
+transformera
+device for raising or lowering AC
+voltage.
+transmitteran
+electronic system designed to
+produce modulated RF carrier waves to be radiated
+by an antenna; also, an electric device used to collect quantitative information at one point and send
+it to a remote indicator electrically.
+transponderan
+airborne receiver-transmitter de­ wood decay—disintegration of wood substance
+signed to aid air traffic control personnel in tracking
+aircraft during flight.
+unbonding—adhesive or cohesive failure between
+laminates. Compare definitions of adhesive, cohesive debond, and disbond.
+(VHF)a
+very high frequency frequency between
+30 and 300 MHz
+(VOR)an and spongy, stringy, pitted, or crumbly.
+VHF omnirange electronic air navigation system that provides accurate direction information in relation to a certain ground station.
+videoscope—a type of borescope.
+visible light—electromagnetic radiation that has a
+wavelength in the range from about 3,900 to 7,700
+angstroms and that may be seen by the unaided
+human eye.
+checkutilizing
+visual acceptable methods, techniques, and practices to determine physical condition and safety item.
+voltunit
+of potential, potential difference, or electrical pressure.
+regulatordevice
+voltage used in connection with
+generators to keep the voltage constant as load or
+speed is changed.
+warpthreads
+in a fabric that run the length of the
+woven material as it comes from the mill.
+wattthe
+unit of power; equal to a joule per second.
+wattmeteran
+instrument for measuring electrical
+power.
+waveguidea
+hollow, typically rectangular, metallic tube designed to carry electromagnetic energy
+at extremely high frequencies.
+wavy-grained wood—wood in which the fibers
+collectively take the form of waves or undulations.
+welding—a materials-joining process used in making welds.
+welding rod—a form of welding filler metal, normally packaged in straight lengths.
+welding torch—the device used in gas welding.
+through the action of wood-destroying fungi.
+wood decay - incipient—the early stage of decay
+in which the disintegration has not proceeded far
+enough to soften or otherwise perceptibly impair
+the hardness of the wood.
+wood decay - typical or advanced—the stage of
+decay in which the disintegration is readily recognized because the wood has become punky, soft
+x-ray—a radiographic test method used to detect
+internal defects in a weld.
+XL-ETFEA
+process of radiation cross-linking the
+polymer chains is used to thermally set the plastic.
+This prevents the material from softening and melting at elevated temperature.
+XL-Polyalkenean
+insulation material based on the
+polyolefin family that has its normally thermomelt
+characteristic altered by the radiation cross-linking
+process to that of a nonmelt, therm-set material.
+APPENDIX 2. ACRONYMS AND ABBREVIATIONS
+The acronyms and abbreviations listed are some
+of many that are likely to be encountered by the
+aviation mechanic or technician involved in the
+maintenance of aircraft.
+429ARINC
+429 data bus standard
+629ARINC
+629 data bus standard
+A/Danalog/digital;
+analog-to -digital BNRbinary
+CONVanalog-to
+A/D -digital converter
+A/Lautoland
+ACAdvisory
+Circular
+acalternating
+current
+ACARSARINC
+Communication Addressing and
+Reporting System
+ACOAircraft
+Certification Office
+ADAirworthiness
+Directive
+ADCair-data
+computer
+ADCPATC
+dual-control panel
+ADEDSadvanced
+electronic display system
+ADFautomatic
+direction finder
+ADIattitude-director
+indicator; air data
+instrument
+AFCautomatic
+frequency control
+AFCSautomatic
+flight control system
+AFDSautopilot
+flight director system
+AIMAeronautical
+Information Manual
+AIRCOMair/ground
+communications
+AMamplitude
+modulation
+AMPLamplifier
+AMP or
+AMPamperes
+AMSAerospace
+Material Specification
+ANArmy/Navy
+ANDArmy
+Navy Design
+ANSIAmerican
+National Standards Institute
+ANTantenna
+APautopilot
+APBauxiliary
+power breaker
+APCUauxiliary
+power control unit
+APUauxiliary
+power unit
+ARINCAeronautical
+Radio Incorporated
+IOARINC
+ARNC I/O error
+STPARINC
+ARNC I/O UART data strip error
+ASTMAmerican
+Society for Testing Materials
+ATAAir
+Transport Association
+ATCair
+traffic control
+ATCTATC
+transponder
+ATCTSATC
+transponder system
+AUXauxiliary
+AVCautomatic
+volume control
+AWGAmerican
+Wire Gauge
+AWSAir
+Weather Service
+B/CUbattery/charger
+unit
+BATTbattery
+BAT or
+BCDbinary-coded
+decimal
+BITbinary
+digit; built-in test
+BITEbuilt-in
+test equipment
+BITSbus
+interconnect transfer switch
+numerical reference; binary
+BPband-pass
+BPCUbus
+power control unit
+BTbus
+tie
+BTBbus
+tie breaker
+BTCbefore
+top center
+BUSelectrical
+bus; 429 digital data bus
+C.G.Center
+of Gravity
+CACcaution
+advisory computer
+CAGEcommercial
+and government entity code
+CAWScentral
+aural warning system; caution
+and warning system
+CKT/BKRcircuit
+CB, C/B, or breaker
+CDIcourse-deviation
+indicator
+CDUcentral
+display unit
+CFCcarbon
+fiber composite
+CFDIUcentralized
+fault display interface unit
+CFDScentralized
+fault display system
+CHANchannel
+CH or
+CHGRcharger
+CKTcircuit
+CLKclock
+CLRclear
+CMCScentral
+maintenance computer system
+CMPTRcomputer
+COcarbon
+monoxide
+COAXcoaxial
+COPcopper
+CPcontrol
+panel
+CRTcathode-ray
+tube; circuit
+control
+CSE or CSEU system electronics unit
+CSEUPcontrol
+system electronics unit panel
+CTcomputed
+tomography
+CTcurrent
+transformer
+CTNcaution
+CUcontrol
+unit; copper
+CVRcockpit
+voice recorder
+CWcontinuous
+wave
+D/Adigital-to-analog
+DACdigital-to
+analog converter
+DADCdigital
+air-data computer
+DBTdead
+bus tie
+dcdirect
+current
+DCDRdecoder
+DDBdigital
+data bus
+DEMODdemodulator
+DEMUXdemultiplexer
+DFDRdigital
+flight data recorder
+DGdirectional
+gyro
+DGTLdigital
+DHdecision
+height
+SOLdisconnect
+DISC solenoid
+DISCdisconnect
+DISTRdistribution
+DMAdirect
+memory access
+DMBdead
+main bus
+DMCdisplay
+management computer
+DMEdistance-measuring
+equipment
+DMEAdistance-measuring
+equipment antenna
+DNdown
+DUdisplay
+unit
+E/Eor
+E & E electrical/electronic
+E1-1first
+shelf, number 1 equipment rack
+E2-2second
+shelf, number 2 equipment rack
+EADFelectronic
+automatic direction finder
+EADIelectronic
+attitude-director indicator
+EAROMelectrically
+alterable read-only memory
+ECEICAS
+computer
+ECAMelectronic
+centralized aircraft monitoring
+EDSPEICAS
+display select panel
+EDUEICAS
+display unit
+EECelectronic
+engine control
+EFIelectronic
+flight instrument
+EFISelectronic
+flight instrument system
+EFISCPEFIS
+control panel
+EFISCUEFIS
+comparator unit
+EFISsymbol
+EFISG generator
+EFISremote
+EFISRLS light sensor
+EHSIelectronic
+horizontal-situation indicator
+EHSIDelectronic
+horizontal-situation indicator
+display
+EHSVelectrohydraulic
+servo value
+EICASengine
+indicating and crew alerting
+system
+ELCUelectrical
+load control unit
+ELECelectric;
+electronic
+ELECTelectrical
+ELEXelectronics;
+electrical
+ELTEmergency
+Locator Transmitter
+GENemergency
+EMER generator
+emfelectromotive
+force
+EMFIelectromechanical
+flight instrument
+EMIElectromagnetic
+interference
+AVAILexternal
+EP power available
+EPexternal
+power
+EPCexternal
+power contactor
+EPCSelectronic
+power control switch
+EPROMerasable
+programmable read-only
+memory
+eV—electron volt
+EXCTRexciter
+PWRexternal
+EXT power
+FAAFederal
+Aviation Administration
+FAA-PMAFederal
+Aviation Administration Parts
+Manufacturer Approval
+FMfrequency
+modulation
+FM/CWfrequency
+modulation continuous wave
+FMCflight
+management computer
+FMCDflight
+management computer control
+display unit
+FMCSflight
+management computer system
+FMSflight
+management system
+FODforeign
+object damage
+FREQfrequency
+FSEUflap/slat
+electronic unit
+FWDforward
+FW or
+G/Sglide
+slope
+GALYgalley
+GAL or
+GCRgenerator
+control relay auxiliary contact
+GCUgenerator
+control unit
+GEBgenerator
+circuit breaker
+GENgenerator
+GLRgalley
+load relay
+GMAWgas
+metal arc welding
+GMTGreenwich
+mean time; cordinated
+Universal time
+PWRground
+GND power
+RETground
+GND return
+SVCEground
+GND service
+GRDground
+GND or
+GPCUground
+power control unit
+GPSglobal
+positioning system
+GPSWgear
+opposition switch
+GPUground
+power unit
+GPWground
+proximity warning
+GPWSground
+proximity warning system
+GSRground
+service relay
+GSSRground
+service select relay
+GSTRground
+service transfer relay
+GTAWgas
+tungsten arc welding
+GWPCground
+proximity warning computer
+H/Lhigh/low
+HEAhigh-frequency
+radio antenna
+high
+HF (hf) frequency (3 to 30 MHz)
+HFCPhigh-frequency
+radio control panel
+Zhigh
+HI impedance
+HZhertz
+I.D.inner
+diameter
+I/Oinput/output
+IAPSintegrated
+avionics processor system standard
+IASindicated
+airspeed
+IDGintegrated
+drive generator milliseconds
+IFintermediate
+frequency
+IFRinstrument
+flight rules time-between-failure
+IGNignition
+IISintegrated
+instrument system
+ILSinstrument
+landing system Aerospace Standard
+INDLindicator
+light
+INSTinstrument
+INSTRinstrument
+INTCONinterconnect
+INTECinterface
+INTERinterrogation
+INTPHinterphone
+INVinverter
+ILSreceiver
+IR
+kHzkilohertz
+KSIthousands
+of pounds per square inch bearing selection
+kVkilovolts
+kVAkilovoltamperes
+kVARkilovoltampere
+reactive
+L-Bandradio
+frequency band (390 to 1550 MHz)
+LCDliquid-crystal
+display
+LDload
+LEDlight-emitting
+diode address; power amplifier
+low
+LF (lf) frequency (30 to 300 kHz)
+Zlow
+LO impedance
+LOClocalizer
+LRUline
+replaceable unit
+LSloudspeaker
+LSBlower
+sideband
+LSPTMlimit
+switch position transmitter module
+LTlight
+LTS
+lights
+MACmean
+aerodynamic chord
+MAN/ELECmanual/electric
+MBAmarker-beacon
+antenna
+MCDPmaintenance
+control and display panel
+MCDUmultipurpose
+control and display unit
+MDEmodern
+digital electronics
+MECmain
+equipment center; main engine
+control
+MEGAmillion
+MEG or
+MEKmethylethylketone
+MEMmemory
+METOMaximum
+except-take off
+MF(mf)
+medium frequency (300 kHz to 3 MHz)
+MHzmegahertz
+MICmicrophone
+MICRO-Pmicroprocessor
+MIGmetal
+inert gas
+MILLIone
+one-thousandth (0.001)
+BCNmarker
+MKR beacon
+MSmilitary
+MSDSMaterial
+Safety Data Sheets
+MSEC(ms)
+MSGmessage
+MTBFmean
+MUXmultiplexer
+mVmillivolts
+NASNational
+NAVnavigation
+NCnormally
+closed; not connected;
+no connection
+NDBnondirectional
+beacon
+NDINondestructive
+Inspection
+NEGnegative
+NSEC
+(ns) nanoseconds
+NTSBNational
+Transportation Safety Board
+NVMnonvolatile
+memory
+OAMoriginal
+aircraft manufacturer
+OBSomni
+OCovercurrent
+OEMoriginal
+equipment manufacturer
+OFover-frequency
+OVovervoltage
+OVV or
+OVCOovervoltage
+OVVCO or cutout
+P-Sparallel
+to series
+PApassenger
+PARA/SERparallel
+to serial
+PCUpassenger
+control unit; power control unit
+PFDpermanent-magnet
+generator
+PMAParts
+Manufacturer Approval
+POSpositive
+POTpotentiometer;
+plan of test
+PRpower
+relay
+PRLparallel
+PROMprogrammable
+read-only memory
+PROXproximity
+PSEUproximity
+switch electronic unit
+PSIpounds
+per square inch
+PWRpower
+SPLYpower
+PWR supply
+QPLQualified
+Products List
+QTYquantity
+r-treceiver-transmitter
+RAradio
+altimeter; radio altitude
+RADradio
+RAIND radio altimeter indicator
+RAMrandom-access
+memory
+RARTradio
+altimeter receiver-transmitter
+RATram
+air turbine
+RCCBremote-control
+circuit breaker mode select panel
+RCLrecall
+RCVRreceiver
+RCVR/XMTRreceiver/transmitter
+RDMIradio
+distance magnetic indicator
+radio
+RF (rf) frequency
+RFIradio-frequency
+interference UFunderfrequency
+RLSremote
+light sensor
+RMIradio
+magnetic indicator
+rpmrevolution
+per minute
+RTVroom
+temperature vulcanizing
+SAESociety
+of Automotive Engineers
+SATstatic
+air temperature
+SATCOMsatellite
+communication
+SCRsilicon-controlled
+rectifier
+SDIsource
+destination identifier
+SELCALselective
+calling system V dc, Vdc, or VDC direct current
+DLserial
+SER data link
+SGsymbol
+generator
+SITASociété
+International de
+Telecommunications Aeronautiques
+SMAWshielded
+metal arc welding
+SMDsurface
+mounted device
+SNRsignal-to-noise
+ratio large-scale integration
+SOLsolenoid
+SOLVsolenoid
+valve
+SOMstart
+of message
+SOTstart
+of transmission
+SPKRspeaker
+SPRsoftware
+problem report
+SQLsquelch
+SSBsingle
+sideband
+SSIDSupplemental
+Structural Inspection electronics unit power supply
+Documents
+SSMsign
+status matrix
+STsynchro
+transmitter
+INVstatic
+STAT inverter
+STBYstandby
+STCSupplemental
+Type Certificate XFRtransfer
+SWswitch
+GENsymbol
+SYM generator
+T-Rtransformer-rectifier
+TATtrue
+air temperature
+TBDPtie
+bus differential protection
+TCType
+Certificate
+TCAStraffic
+alert and collision avoidance
+system
+TCDSType
+Certificate Data Sheets
+TDCtop
+dead center
+TFRtransfer
+TIGtungsten
+inert gas
+TMCthrust
+management computer
+TMSterminal
+marking sleeve
+TMSthrust
+management system
+TMSPthrust
+TRUtransformer-rectifier
+unit
+TSOTechnical
+Standard Order
+TXPDRtransponder
+µµµµmicro
+UBRutility
+bus relay
+UHFultrahigh
+frequency (300 MHz to 3 GHz)
+UNDFunderfrequency
+UNDVundervoltage
+USunderspeed
+(us)upper
+USB sideband
+USECmicroseconds
+UVundervoltage
+UVutraviolet
+VACvolts
+V ac, Vac, or alternating current
+volts
+Vvolts;
+voltage; vertical; valve
+VAvolt-amperes
+VARvolt-ampere
+reactive
+VFRvisual
+flight rules
+very
+VHF (vhf) high frequency
+(30 TO 300 MHz)
+VLSIvery
+VORVHF
+omnirange; visual omnirange
+VORTACVOR
+tactical air navigation
+VRvoltage
+regulator
+VRMSvolts
+root means square
+Wwatts
+WARNwarning
+WCPweather
+radar control panel
+WEAweather
+WEUwarning
+WPTwaypoint
+(WXR)weather
+WX radar
+XCVRtransceiver
+XDCRtransducer
+XFMRtransformer
+XMITtransmit
+XMTRtransmitter
+XPDRtransponder
+Atto (a) = quintillionth
+Femto (f) = quadrillionth
+µµ
+Pico (p), or = trillionth
+mµ 10-9
+Nano (n), or = billionth
+(µ) = millionth of = times
+Micro
+Milli (m) = thousandth
+Centi (c) = hundredth
+Deci (d) = tenth of
+unity = = 1
+Deka (da) = ten times
+Hecto (h) = hundred
+Kilo (k) = thousand
+Mega (M) = million times
+Giga (G), or kM = billion times
+Tera (T) = trillion times
+10-18
+of = times
+10-15
+of = times
+10-12
+of = times
+of = times
+10-6
+10-3
+of = times`
+10-2
+of = times
+10-1
+= times
+100
+= 10 times
+102
+times = times
+103
+times = times
+106
+= times
+109
+= times
+1012
+= times

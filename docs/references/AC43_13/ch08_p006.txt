@@ -1,0 +1,21 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-6. OIL FILTER INSPECTION. The oil
+filter provides an excellent method for discovering internal engine damage. During the inspection of the engine oil filter, the residue on
+the screens, disks, or disposable filter cartridge
+and the residue in the filter housing are carefully examined for metal particles. A new engine or a newly-overhauled engine will often
+have a small amount of fine metal particles in
+the screen or filter, but this is not considered
+abnormal. After the engine has been operated
+for a time and the oil has been changed one or
+more times, there should not be an appreciable
+amount of metal particles in the oil screen. If
+an unusual residue of metal particles is found
+in the oil screen, the engine must be taken out
+of service and disassembled to determine the
+source of the particles. As an additional precaution, an oil analysis/trend analysis may prevent an engine failure in flight.
+At oil changes, oil samples are often taken and
+sent to laboratories to be analyzed for wear by
+determining the amount of metal in the sample. Over time, a trend is developed and the
+engine can be removed from service before
+failure.

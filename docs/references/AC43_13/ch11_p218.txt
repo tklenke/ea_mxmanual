@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-218. IDENTIFICATION OF WIRE
+BUNDLES AND HARNESSES. The identification of wire bundles and harnesses is becoming a common practice and may be accomplished by the use of a marked sleeve tied
+in place or by the use of pressure-sensitive tape
+as indicated in figure 11-25.
+[FIG 11-25] Identification of wire bundles and harnesses.
+a. Wires for which identifications are
+reassigned after installation, may be remarked
+on sleeves at the termination of each wire
+segment. It may be necessary to reidentify
+such wires throughout their lengths to facilitate ease of maintenance.
+b. For high-density harnessed, shielded,
+and jacketed multiconductor cables and when
+using nonsignificant wire identification, color
+coding or its alphanumeric equivalent may be
+interchanged within the same harnesses. The
+alphanumeric equivalent of the color code
+should be as set forth in MIL-STD-681.

@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 1: AVIONICS EQUIPMENT MAINTENANCE
+
+12-2. HANDLING OF COMPONENTS.
+Any unit containing electronic components
+such as transistors, diodes, integrated circuits,
+proms, roms, and memory devices should be
+protected from excessive shocks. Excessive
+shock can cause internal failures in an of these
+components. Most electronic devices are
+subject to damage by electrostatic discharges
+(ESD).
+CAUTION: To prevent damage due
+to excessive electrostatic discharge,
+proper gloves, finger cots, or
+grounding bracelets should be used.
+Observe the standard procedures for
+handling equipment containing electrostatic sensitive devices or assemblies in accordance with the recommendations and procedures set forth
+in the maintenance instructions set
+forth by the equipment manufacturers.
+12-3.12-7.
+[RESERVED.]
+SECTION 2. GROUND OPERATIONAL
+(ELECTRICAL)

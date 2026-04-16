@@ -1,0 +1,37 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 7: SAFETYING
+
+7-123. SAFETY WIRE. Do not use stainless steel, monel, carbon steel, or aluminum
+alloy safety wire to secure emergency mechanisms such as switch handles, guards covering
+handles used on exits, fire extinguishers,
+emergency gear releases, or other emergency
+equipment. Some existing structural equipment or safety-of-flight emergency devices require copper or brass safety wire (.020 inch diameter only). Where successful emergency
+operation of this equipment is dependent on
+shearing or breaking of the safety wire, particular care should be used to ensure that safetying does not prevent emergency operation.
+a. There are two methods of safety
+wiring; the double-twist method that is most
+commonly used, and the single-wire method
+used on screws, bolts, and/or nuts in a closelyspaced or closed-geometrical pattern such as a
+triangle, square, rectangle, or circle. The single-wire method may also be used on parts in
+electrical systems and in places that are difficult to reach. (See figures 7-3 and 7-3a.)
+b. When using double-twist method of
+safety wiring, .032 inch minimum diameter
+wire should be used on parts that have a hole
+diameter larger than .045 inch. Safety wire of
+.020 inch diameter (double strand) may be
+used on parts having a nominal hole diameter
+between .045 and .062 inch with a spacing
+between parts of less than 2 inches. When
+using the single-wire method, the largest size
+wire that the hole will accommodate should be
+used. Copper wire (.020 inch diameter), aluminum wire (.031 inch diameter), or other
+similar wire called for in specific technical orders, should be used as seals on equipment
+such as first-aid kits, portable fire extinguishers, emergency valves, or oxygen regulators.
+CAUTION: Care should be taken not
+to confuse steel with aluminum wire.
+c. A secure seal indicates that the component has not been opened. Some emergency
+devices require installation of brass or soft
+[FIG 7-3] Securing screws, nuts, bolts, and snaprings.
+FIGURE 7-3a. Wire twisting by hand.
+copper shear safety wire. Particular care
+should be exercised to ensure that the use of
+safety wire will not prevent emergency operation of the devices.

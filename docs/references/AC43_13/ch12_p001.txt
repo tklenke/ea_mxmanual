@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 1: AVIONICS EQUIPMENT MAINTENANCE
+
+12-1. GENERAL. There are several methods of ground checking avionics systems.
+a. Visual Check. Check for physical
+condition and safety of equipment and components.
+b. Operation Check. This check is performed primary by the pilot, but may also be
+performed by the mechanics after annual and
+100-hour inspections. The aircraft flight
+manual, the Airman’s Information Manual
+(AIM), and the manufacturer’s information
+are used as a reference when performing the
+check.
+c. Functional Test. This is performed by
+qualified mechanics and repair stations to
+check the calibration and accuracy of the avionics with the use of test equipment while
+they are still on the aircraft, such as the transponder and the static checks. The equipment
+manufacturer’s manuals and procedures are
+used as a reference.
+d. Bench Test. When using this method
+the unit or instrument is removed from the
+aircraft and inspected, repaired, and calibrated
+as required.
+e. Electromagnetic Interference (EMI).
+For EMI tests, refer to chapter 11 paragraph 11-107 of this AC.

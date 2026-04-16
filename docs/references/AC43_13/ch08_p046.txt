@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 3: EXHAUST SYSTEMS
+
+8-46. MUFFLER/HEAT EXCHANGER
+FAILURES. Approximately one-half of all
+exhaust system failures are traced to cracks or
+ruptures in the heat exchanger surfaces used
+for cabin and carburetor air heat sources.
+a. Failures in the heat exchanger’s surface (usually the muffler’s outer wall) allow
+exhaust gases to escape directly into the cabin
+heat system. The failures are, for the most
+part, attributed to thermal and vibration fatigue
+cracking in the areas of stress concentration;
+e.g., tailpipe and stack, inlet-attachment areas.
+(See figures 8-13 through 8-16.)
+b. Failures of the spot welds which attach heat transfer pins, as shown in figure 8-14A, can result in exhaust gas leakage.
+In addition to the CO hazard, failure of heat
+exchanger surfaces can permit exhaust gases to
+be drawn into the engine induction system and
+cause engine overheating and power loss.

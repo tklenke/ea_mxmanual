@@ -1,0 +1,34 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 4: CABIN INTERIOR
+
+9-62. PART 23 AIRCRAFT INTERIOR.
+Materials used in part 23 aircraft interiors must
+meet the requirements of section 23.853, and
+the burn test requirements called out in part 23,
+appendix F.
+a. If the fabric is bought in bulk to
+refurbish a part 23 aircraft then the fabric must
+meet the part 23 burn requirements. A burn
+test would have to be done on samples of the
+material and fabrics by an approved and rated
+FAA Repair Station. That FAA Repair Station
+would certify that all the material and fabrics
+meet part 23, appendix F requirements. The
+mechanic would include that repair station’s
+statement in the aircraft’s records.
+b. If STC-approved interior kit with
+either PMA or TSO-approved materials for a
+part 23 aircraft is bought, the mechanic would
+only have to reference the STC number on
+FAA Form 337 and the aircraft’s records.
+Part 23, appendix F would not be required.
+c. If an annual inspection is to be
+performed on a part 23 aircraft in which a
+new interior was installed, but the aircraft’s
+records do not reflect that a burn test was
+performed on the interior’s materials and
+fabric by an FAA Approved Repair Station, or
+there is no mention of an STC or FAA
+Form 337 in the aircraft records, then a burn
+test that meets, part 23, appendix F must be
+accomplished before the aircraft is approved
+for return to service.

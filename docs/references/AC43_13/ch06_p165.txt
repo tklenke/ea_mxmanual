@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 10: FERROUS METALS
+
+6-165. SPECIAL TREATMENT OF
+HIGH-STRENGTH STEEL. (High-strength
+steels heat treated above Rockwell C40,
+180,000 psi tensile strength). Any corrosion
+on the surface of a highly-stressed steel part is
+potentially dangerous, and the careful removal
+of corrosion products is mandatory. Surface
+scratches or change in surface structure from
+overheating can cause sudden failure of these
+parts. The removal of corrosion products is
+required and will be performed carefully and
+completely.
+a. Acceptable methods include careful
+use of mild abrasive mats, cloths, and papers,
+such as fine grit aluminum oxide, metallic
+wool, or fine buffing compounds.
+b. Undesirable methods include the use
+of any power tool because the danger of local
+overheating and the formation of notches that
+could lead to failure. The use of chemical corrosion removers is prohibited, without engineering authorization, because high-strength
+steel parts are subject to hydrogen embrittlement.

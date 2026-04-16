@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-222. MARKER SLEEVE INSTLATION AFTER PRINTING. The following
+general procedures apply:
+a. Hold marker, printed side up, and
+press end of wire on lip of sleeve to open
+sleeve. (See figure 11-33.)
+[FIG 11-33] Inserting wire into marker.
+b. If wire has been stripped, use a scrap
+piece of unstripped wire to open the end of the
+marker.
+c. Push sleeve onto wire with a gentle
+twisting motion.
+d. Shrink marker sleeve, using heat gun
+with shrink tubing attachment. (See figure 11-34.)
+[FIG 11-34] Shrinking marker on wire.
+11-223.11-229.
+[RESERVED.]
+
+SECTION 17. CONNECTORS

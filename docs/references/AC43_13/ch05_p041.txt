@@ -1,0 +1,47 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-41. PRINCIPLES OF OPERATION.
+Magnetic particle inspection uses the tendency
+of magnetic lines of force, or flux, of an applied field to pass through the metal rather
+than through the air. A defect at or near the
+metal’s surface distorts the distribution of the
+magnetic flux and some of the flux is forced to
+pass out through the surface. (See figure 5-9.)
+The field strength is increased in the area of
+the defect and opposite magnetic poles form
+on either side of the defect. Fine magnetic
+particles applied to the part are attracted to
+these regions and form a pattern around the defect. The pattern of particles provides a visual
+indication of a defect. (See figure 5-10.)
+[FIG 5-9] Magnetic field disrupted.
+[FIG 5-10] Crack detection by magnetic particle inspection.
+a. To locate a defect, it is necessary to
+control the direction of magnetization, and flux
+lines must be perpendicular to the longitudinal
+axes of expected defects. Examination of
+critical areas for defects may require complete
+disassembly. Two methods of magnetization,
+circular and longitudinal, are used to magnetize the part and induce perpendicular flux
+paths. Parts of complex configuration may require local magnetization to ensure proper
+magnetic field direction and adequate removal
+of surface coatings, sealants, and other similar
+compounds. Possible adverse influence of the
+applied or residual magnetic fields on delicate
+parts such as instruments, bearings, and
+mechanisms may require removal of these
+parts before performing the inspection.
+b. Certain characteristics inherent in
+the magnetic particle method may introduce
+errors in examination results. Nonrelevant errors are caused by magnetic field distortions
+due to intentional design features, such as:
+(1) Sharp radii, less than 0.10 inch radius, in fillets;
+(2) Thread roots, keyways, and drilled
+holes; and
+(3) Abrupt changes in geometry or in
+magnetic properties within the part.
+c. Operators must understand nonrelevant error indications and recognize them
+during examination. Proper analysis of indications in these regions will require considerable skill and experience, and supplemental
+methods may be required before a final
+evaluation can be made. Special techniques
+for examination of these areas are given in
+subsequent paragraphs.

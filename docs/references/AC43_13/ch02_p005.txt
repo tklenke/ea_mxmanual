@@ -1,0 +1,48 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-5. RECOVERING AIRCRAFT. Recover or repair aircraft with a fabric of equal
+quality and strength to that used by the original
+aircraft manufacturer. It is recommended that
+fabric conforming to TSO-C15d or TSO-C14b
+be used to recover aircraft originally covered
+with lower strength fabric conforming to
+AMS 3802, current edition.
+NOTE: Recovering or repairing aircraft with any type fabric and/or
+coating other than the type used by
+the original aircraft manufacturer is
+considered a major alteration. Obtain
+approval from the FAA on fabric and
+installation data. Cotton and linen rib
+lacing cord, machine and hand-sewing
+thread, and finishing tapes should not
+be used with polyester and glass fabric
+covering.
+a. Reinforcing tape minimum tensile
+strength is listed in table 2-2. Reinforcing tape
+meeting specification MIL-T-5661, Type I,
+current edition, is acceptable. Reinforcing tape
+should have a minimum 40 lb. resistance without failure when static tested in shear against a
+single rib lace, or a pull-through resistance
+when tested against a single-wire clip, rivet,
+screw, or any other type of fabric-to-rib
+attachment. Reinforcing tape is used over the
+rib cab on top of the fabric and for inter-rib
+bracing.
+b. Finishing Tape, sometimes referred to
+as surface tape, should have the same properties as the fabric used to cover the aircraft.
+c. Lacing Cord shall have a minimum
+breaking strength of 40 lb. Lacing cord meeting the specifications listed in table 2-2 is acceptable. Rib lace cord should have a microcrystalline fungicidal wax, paraffin-free wax,
+or beeswax coating, or other approved treatment to prevent wearing and fraying when
+pulling through the structure.
+d. Machine Thread shall have a minimum breaking strength of 5 lb. Thread meeting the specifications listed in table 2-2 is acceptable.
+e. Hand-Sewing Thread shall have a
+minimum breaking strength of 14 lb. Thread
+meeting the specifications listed in table 2-2, is
+acceptable. When covering with STCapproved fabric covering material, use the type
+of sewing thread approved by the STC and
+manufactured under the specific PMA.
+f. Flutter Precautions. When re-covering
+or repairing control surfaces, especially on
+high performance airplanes, make sure that
+dynamic and static balances are not adversely
+affected. Weight distribution and mass balance must be considered to preclude to possibility of induced flutter.

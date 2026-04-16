@@ -1,0 +1,164 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-96. GENERAL. Wires and cables
+should be inspected for adequacy of support,
+protection, and general condition throughout.
+The desirable and undesirable features in aircraft wiring installations are listed below and
+indicate conditions that may or may not exist.
+Accordingly, aircraft wiring must be visually
+inspected for the following requirements:
+CAUTION: For personal safety, and
+to avoid the possibility of fire, turn off
+all electrical power prior to starting
+an inspection of the aircraft electrical
+system or performing maintenance.
+a. Wires and cables are supported by
+suitable clamps, grommets, or other devices at
+intervals of not more than 24 inches, except
+when contained in troughs, ducts, or conduits.
+The supporting devices should be of a suitable
+size and type, with the wires and cables held
+securely in place without damage to the insulation.
+b. Metal stand-offs must be used to
+maintain clearance between wires and structure. Employing tape or tubing is not acceptable as an alternative to stand-offs for maintaining clearance.
+c. Phenolic blocks, plastic liners, or
+rubber grommets are installed in holes, bulkheads, floors, or structural members where it is
+impossible to install off-angle clamps to
+maintain wiring separation. In such cases, additional protection in the form of plastic or insulating tape may be used.
+d. Wires and cables in junction boxes,
+panels, and bundles are properly supported and
+laced to provide proper grouping and routing.
+INSPECTION REQUIREMENTS
+e. Clamp retaining screws are properly
+secured so that the movement of wires and cables is restricted to the span between the points
+of support and not on soldered or mechanical
+connections at terminal posts or connectors.
+f. Wire and cables are properly supported
+and bound so that there is no interference with
+other wires, cables, and equipment.
+g. Wires and cables are adequately supported to prevent excessive movement in areas
+of high vibration.
+h. Insulating tubing is secured by tying,
+tie straps or with clamps.
+i. Continuous lacing (spaced 6 inches
+apart) is not used, except in panels and junction boxes where this practice is optional.
+When lacing is installed in this manner, outside junction boxes should be removed and replaced with individual loops.
+j. Do not use tapes (such as friction or
+plastic tape) which will dry out in service, produce chemical reactions with wire or cable insulation, or absorb moisture.
+k. Insulating tubing must be kept at a
+minimum and must be used to protect wire and
+cable from abrasion, chafing, exposure to
+fluid, and other conditions which could affect
+the cable insulation. However; the use of insulating tubing for support of wires and cable
+in lieu of stand-offs is prohibited.
+l. Do not use moisture-absorbent material
+as “fill” for clamps or adapters.
+m. Ensure that wires and cables are not
+tied or fastened together in conduit or insulating tubing.
+n. Ensure cable supports do not restrict
+the wires or cables in such a manner as to interfere with operation of equipment shock
+mounts.
+o. Do not use tape, tie straps, or cord for
+primary support.
+p. Make sure that drain holes are present in drip loops or in the lowest portion of
+tubing placed over the wiring.
+q. Ensure that wires and cables are
+routed in such a manner that chafing will not
+occur against the airframe or other components.
+r. Ensure that wires and cables are positioned in such a manner that they are not
+likely to be used as handholds or as support for
+personal belongings and equipment.
+s. Ensure that wires and cables are
+routed, insofar as practicable, so that they are
+not exposed to damage by personnel moving
+within the aircraft.
+t. Ensure that wires and cables are located so as not to be susceptible to damage by
+the storage or shifting of cargo.
+u. Ensure that wires and cables are
+routed so that there is not a possibility of damage from battery electrolytes or other corrosive
+fluids.
+v. Ensure that wires and cables are adequately protected in wheel wells and other areas where they may be exposed to damage
+from impact of rocks, ice, mud, etc. (If rerouting of wires or cables is not practical, protective jacketing may be installed). This type
+of installation must be held to a minimum.
+w. Where practical, route electrical wires
+and cables above fluid lines and provide a 6
+inch separation from any flammable liquid,
+fuel, or oxygen line, fuel tank wall, or other
+low voltage wiring that enters a fuel tank and
+requires electrical isolation to prevent an ignition hazard. Where 6 inch spacing cannot
+practically be provided, a minimum of 2 inches
+must be maintained between wiring and such
+lines, related equipment, fuel tank walls and
+low voltage wiring that enters a fuel tank.
+Such wiring should be closely clamped and
+rigidly supported and tied at intervals such that
+contact betwe4en such lines, related equipment, fuel tank walls or other wires, would not
+occur, assuming a broken wire and a missing
+wire tie or clamp.
+x. Ensure that a trap or drip loop is
+provided to prevent fluids or condensed moisture from running into wires and cables
+dressed downward to a connector, terminal
+block, panel, or junction box.
+y. Wires and cables installed in bilges
+and other locations where fluids may be
+trapped are routed as far from the lowest point
+as possible or otherwise provided with a
+moisture-proof covering.
+z. Separate wires from high-temperature
+equipment, such as resistors, exhaust stacks,
+heating ducts, etc., to prevent insulation breakdown. Insulate wires that must run through
+hot areas with a high-temperature insulation
+material such as fiberglass or PTFE. Avoid
+high-temperature areas when using cables
+having soft plastic insulation such as polyethylene, because these materials are subject to
+deterioration and deformation at elevated temperatures. Many coaxial cables have this type
+of insulation.
+aa. The minimum radius of bends in
+wire groups or bundles must not be less than
+10 times the outside diameter of the largest
+wire or cable, except that at the terminal strips
+where wires break out at terminations or reverse direction in a bundle. Where the wire is
+suitably supported, the radius may be 3 times
+the diameter of the wire or cable. Where it is
+not practical to install wiring or cables within
+the radius requirements, the bend should be
+enclosed in insulating tubing. The radius for
+thermocouple wire should be done in accordance with the manufacturer’s recommendation and shall be sufficient to avoid excess
+losses or damage to the cable.
+bb. Ensure that RF cables, e.g., coaxial
+and triaxial are bent at a radius of no less than
+6 times the outside diameter of the cable.
+cc. Ensure that wires and cables, that
+are attached to assemblies where relative
+movement occurs (such as at hinges and rotating pieces; particularly doors, control sticks,
+control wheels, columns, and flight control
+surfaces), are installed or protected in such a
+manner as to prevent deterioration of the wires
+and cables caused by the relative movement of
+the assembled parts.
+dd. Ensure that wires and electrical cables are separated from mechanical control cables. In no instance should wire be able to
+come closer than 1/2 inch to such controls
+when light hand pressure is applied to wires or
+controls. In cases where clearance is less than
+this, adequate support must be provided to
+prevent chafing.
+ee. Ensure that wires and cables are
+provided with enough slack to meet the following requirements:
+(1) Permit ease of maintenance.
+(2) Prevent mechanical strain on the
+wires, cables, junctions, and supports.
+(3) Permit free movement of shock and
+vibration mounted equipment.
+(4) Allow shifting of equipment, as
+necessary, to perform alignment, servicing,
+tuning, removal of dust covers, and changing
+of internal components while installed in aircraft.
+ff. Ensure that unused wires are individually dead-ended, tied into a bundle, and
+secured to a permanent structure. Each wire
+should have strands cut even with the insulation and a pre-insulated closed end connector
+or a 1-inch piece of insulating tubing placed
+over the wire with its end folded back and tied.
+gg. Ensure that all wires and cables are
+identified properly at intervals of not more
+than 15 inches. Coaxial cables are identified at
+both equipment ends.

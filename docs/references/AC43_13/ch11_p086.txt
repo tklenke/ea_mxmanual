@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 7: TABLE OF ACCEPTABLE WIRES
+
+11-86. OPEN AIRFRAME INTERCONNECTING WIRE. Interconnecting wire is
+used in point to point open harnesses, normally
+in the interior or pressurized fuselage, with
+each wire providing enough insulation to resist
+damage from handling and service exposure.
+(See table 11-11.) Electrical wiring is often installed in aircraft without special enclosing
+means. This practice is known as open wiring
+and offers the advantages of ease of maintenance and reduced weight.

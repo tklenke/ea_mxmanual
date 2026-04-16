@@ -1,0 +1,22 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-84. ROSETTE WELDS are generally
+employed to fuse an inner reinforcing tube
+(liner) with the outer member. Where a rosette
+weld is used, drill a hole, (in the outside tube
+only) of sufficient size to insure fusion of the
+inner tube. A hole diameter of approximately
+one-fourth the tube diameter of the outer tube
+serves adequately for this purpose. In cases of
+tight-fitting sleeves or inner liners, the rosettes
+may be omitted. Rosette weld edge distance is
+1/2 the diameter of the tube, as measured from
+the edge of the rosette hole to the end of the
+inside and outside tube. Rosettes shall not be
+considered when determining the strength of a
+welded form. Drill an 1/8-inch hole in the
+lower tube in the center of the intended rosette
+weld so the heat does not burn away the outer
+tube. This small hole tends to bleed off the heat
+from the torch and keeps the size of the rosette
+small.

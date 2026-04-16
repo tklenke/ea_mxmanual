@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 2: SCREWS
+
+7-15. STRUCTURAL SCREWS. NAS502,
+NAS503, AN509, NAS220 through NAS227,
+and NAS583 through NAS590, may be used
+for structural applications, similar to structural
+bolts or rivets. These screws are fabricated
+from a material with a high-tensile strength
+and differ from structural bolts only in the type
+of head.

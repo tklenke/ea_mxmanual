@@ -1,0 +1,21 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-122. MOISTURE PROTECTION,
+WHEEL WELLS, AND LANDING GEAR
+AREAS.
+a. Wires located on landing gear and in
+the wheel well area can be exposed to many
+hazardous conditions if not suitably protected.
+Where wire bundles pass flex points, there
+must not be any strain on attachments or excessive slack when parts are fully extended or
+retracted. The wiring and protective tubing
+must be inspected frequently and replaced at
+the first sign of wear.
+b. Wires should be routed so that fluids
+drain away from the connectors. When this is
+not practicable, connectors must be potted.
+Wiring which must be routed in wheel wells or
+other external areas must be given extra protection in the form of harness jacketing and
+connector strain relief. Conduits or flexible
+sleeving used to protect wiring must be
+equipped with drain holes to prevent entrapment of moisture.

@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-55. HEATER ELEMENTS. A heating
+element is located within the tube head to prevent the unit from becoming clogged during
+icing conditions experienced during flight. A
+switch in the cockpit controls the heater.
+Some pitot-static tubes have replaceable heater
+elements while others do not. Check the
+heater element or the entire tube for proper operation by noting either ammeter current or
+that the tube or port is hot to the touch. (See
+figure 12-6.)

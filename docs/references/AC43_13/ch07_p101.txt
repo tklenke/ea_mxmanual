@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 6: PINS
+
+7-101. TAPER PINS. Plain (AN385) and
+threaded (AN386) taper pins are used in joints
+which carry shear loads and where the absence
+of play is essential. The plain taper pin is usually drilled and secured with wire. The
+threaded taper pin is used with a taper-pin
+washer (AN975) and shear nut (safetied with a
+cotter pin) or self-locking nut (if undrilled).
+Typical pin types are shown in table 7-15.

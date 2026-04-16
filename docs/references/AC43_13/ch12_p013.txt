@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-13. AUTOMATIC DIRECTION
+FINDER (ADF). The ADF receivers are primarily designed to receive nondirectional beacons (NDB) in the 19 to 535 kHz amplitude
+modulation (AM) broadcast low band. The
+receivers will also operate in the commercial
+AM band. The ADF display pointer will indicate the relative bearing to a selected AM band
+transmitter that is in range. An ADF system
+must be checked by tuning to an adequate
+NDB or commercial AM station. Verify
+proper bearing to station, audio identification
+and tone/beat frequency oscillator (BFO), correct operation in closed circuit (LOOP) and
+sense modes. Note the orientation of the selected station to the aircraft using an appropriate chart. Observe the ADF relative bearing
+reading, and compare to the chart. Slew the
+needle and observe how fast (or slowly) it returns to the reading. ADF performance may
+be degraded by lightning activity, airframe
+charging, ignition noise and atmospheric phenomena.

@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 11: HOLOGRAPHY
+
+5-127. GENERAL. Holography is an NDI
+technique that uses visible light waves coupled with photographic equipment to create a
+three-dimensional image. The process uses
+two laser beams, one called a reference beam
+and the other called an object beam. The two
+laser beams are directed to an object, between
+beam applications the component is stressed.
+The beams are then compared and recorded
+relatively simple instrumentation. However,
+slight movement of bolted or riveted joints can
+also generate acoustic signals. Thus a complex
+structure may have many acoustic sources besides flaws in its components. These unwanted emission sources greatly complicate
+acoustic-emission tests of complex structures.
+The difficulties are not prohibitive, but they
+put a premium on the intelligent use of signal
+processing and interpretation. Therefore, because of the complexity of aircraft structures,
+application of acoustic-emission testing to aircraft has required a new level of sophistication,
+both in testing techniques and data interpretation. Research and testing programs are currently in progress to determine the feasibility
+of acoustic-emission testing on several different types of aircraft.
+5-114.5-119.
+[RESERVED.]
+heated or cooled. The greater the material’s
+resistance to heat flow, the more readily the
+flow can be identified due to temperature differences caused by the flaw.
+5-121.5-126.
+[RESERVED.]
+on film, or other electronic recording medium,
+creating a double image. Indications of applied stresses or defects are shown as virtual
+images with a system of fringe lines overlaying the part. Holography is most commonly
+used for rapid assessment of surface flaws in
+composite structures.
+5-128.5-133.
+[RESERVED.]
+SECTION 12. SHEAROGRAPHY

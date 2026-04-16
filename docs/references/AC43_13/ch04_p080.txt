@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-80. NONDESTRUCTIVE TESTING or
+evaluation is advisable in critical applications.
+Nondestructive testing methods such as; magnetic particle, liquid penetrant, radiography,
+ultrasonic, eddy current, and acoustic emission
+can be used; however, they require trained and
+qualified people to apply them.

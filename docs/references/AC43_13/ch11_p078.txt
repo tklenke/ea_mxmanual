@@ -1,0 +1,68 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 6: AIRCRAFT ELECTRICAL WIRE SELECTION
+
+11-78. SUBSTITUTIONS. In the repair
+and modification of existing aircraft, when a
+replacement wire is required, the maintenance
+manual for that aircraft must first be reviewed
+to determine if the original aircraft manufacturer (OAM) has approved any substitution. If
+not, then the OAM must be contacted for an
+acceptable replacement.
+a. MIL-W-5088L, replaced by AS50881A,
+A lists wire
+wiring aerospace vehicle, Appendix
+types that have been approved for military
+aerospace applications in open and protected
+wiring applications. These wires could potentially be used for substitution when approved
+by the OAM.
+b. Areas designated as severe wind and
+moisture problem (SWAMP) areas differ
+from aircraft to aircraft but generally are considered to be areas such as wheel wells, near
+wing flaps, wing folds, pylons, and other exterior areas that may have a harsh environment.
+Wires for these applications often have design
+features incorporated into their construction
+that may make the wire unique; therefore an
+acceptable substitution may be difficult, if not
+impossible, to find. It is very important to use
+the wire type recommended in the aircraft
+manufacturer’s maintenance handbook.
+Table 11-2b. Comparable properties of wire insulation
+Relative Ranking 1
+Weight PI
+Temperature PTFE
+Abrasion resistance PI
+Cut-through resistance PI
+Chemical resistance PTFE
+Flammability PTFE
+Smoke generation PI
+Flexibility PTFE
+Creep (at temperature) PI
+Arc propagation resistance PTFE
+c. The use of current military specification, multi-conductor cables in place of OEM
+installed constructions may create
+problems such as color sequence. Some civilian aircraft are wired with the older color sequence employing “Red-Blue-Yellow” as the
+first three colors. Current military specification, multi-conductor cables, in accordance
+with MIL-C-27500, use “White-Blue-Orange”
+for the initial three colors. Use of an alternative color code during modification without
+adequate notation on wiring diagrams could
+severely complicate subsequent servicing of
+the aircraft. At the time of this writing,
+MIL-C-27500 is being revised to include the
+older color sequence and could eliminate this
+problem in the future.
+11-79.11-84.
+[RESERVED.]
+systems.
+����
+Most desirable Least
+2 3 4
+ETFE COMP PTFE
+COMP PI ETFE
+ETFE COMP PTFE
+COMP ETFE PTFE
+ETFE COMP PI
+COMP PI ETFE
+COMP PTFE ETFE
+ETFE COMP PI
+COMP PTFE ETFE
+ETFE COMP PI
+SECTION 7. TABLE OF ACCEPTABLE WIRES

@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-197. HARDWARE ASSEMBLY. Details of bonding connections must be described in maintenance manuals and adhered to
+carefully when connections are removed or replaced during maintenance operations. In order to avoid corrosion problems and ensure
+long-term integrity of the electrical connection,
+hardware used for this purpose must be as defined in these documents or at least be
+equivalent in material and surface. Installation
+of fasteners used in bonded or grounded connections should be made in accordance with
+SAE ARP-1870. Threaded fasteners must be
+torqued to the level required by SAE
+ARP-1928.
+11-198.11-204.
+[RESERVED.]
+SECTION 16. WIRE MARKING

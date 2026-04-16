@@ -1,0 +1,37 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-9. REINFORCING TAPE.
+a. Reinforcing tape should be securely
+bonded to the fabric surface with dope before
+cord lacing or installation of hardware. Where
+multiple attachments are in close proximity,
+such as on a wing rib, continuous reinforcing
+tape should be installed, extending at least
+1 inch past the last attachment at each end.
+Random or wide spacing, such as on fuselage
+stringers or empennage surfaces, may be reinforced with 2-inch lengths of reinforcing tape
+centered on the attachment location.
+[FIG 2-3] Exploded side view of rib.
+b. Reinforcing tapes should be of the
+appropriate width for hardware attachment
+such as screws, rivets, wire clips, etc., which
+pierce the center of the tape. Reinforcing tape
+under cord lacing should be the same width as
+the rib to which the fabric is laced and may be
+comprised of multiple widths positioned
+side-by-side to achieve the required width.
+c. When the aircraft Vne speed is over
+250 mph, anti-tear strips, cut from the same
+quality fabric used to cover the aircraft, are
+recommended for use under reinforcing tape
+on the entire top surface of the wing and on the
+portion of the wing’s bottom surface in the
+propeller slipstream. The propeller slipstream
+is considered to be the propeller diameter plus
+one outboard rib. The anti-tear strip should be
+installed completely around the wing, beginning and ending at the trailing edge in the propeller slipstream, and installed from the trailing edge over the leading edge and back under
+to the front spar on the balance of the ribs.
+Anti-tear strips should extend 1/2 inch past the
+wing rib cap edges and be thoroughly bonded
+to the fabric with dope before the reinforcing
+tape is installed. (See figure 2-3.)

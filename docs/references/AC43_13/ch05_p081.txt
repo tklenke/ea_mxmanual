@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-81. FLAWS. Certain types of flaws are
+difficult to detect by radiography. Cracks cannot be detected unless they are essentially
+along the axis of the radiation beam. Tight
+cracks in thick sections may not be detected at
+all, even when properly oriented. Minute discontinuities such as: inclusions in wrought
+material, flakes, microporosity, and microfissures may not be detected unless they are sufficiently segregated to yield a detectable gross
+effect. Delaminations are nearly impossible to
+detect with radiography. Because of their unfavorable orientation, delaminations do not
+yield differences in adsorption that enable
+laminated areas to be distinguished from delaminated areas.

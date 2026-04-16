@@ -1,0 +1,94 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 7: SAFETYING
+
+7-126. SECURING OIL CAPS, DRAIN
+COCKS, AND VALVES. (See figure 7-4a.)
+When securing oil caps and drain cocks, the
+safety wire should be anchored to an adjacent
+fillister-head screw. This method of safety
+wiring is applied to wingnuts, filler plugs, single-drilled head bolts, fillister-head screws,
+etc.; which are safety wired individually.
+When securing valve handles in the vertical
+position, the wire is looped around the threads
+of the pipe leading into one side of the valve,
+[FIG 7-4] Use of a typical wire twister.
+FIGURE 7-4a. Securing oil caps, drain cocks, and valves.
+double-twisted around the valve handle, and
+anchored around the threads of the pipe leading into the opposite side of the valve. When
+castellated nuts are to be secured with safety
+wire, tighten the nut to the low side of the selected torque range, unless otherwise specified;
+and, if necessary, continue tightening until a
+slot lines with the hole. In blind tapped hole
+applications of bolts or castellated nuts on
+studs, the safety wiring should be in accordance with the general instructions of this
+chapter. Hollow-head bolts are safetied in the
+manner prescribed for regular bolts.
+NOTE: Do not loosen or tighten
+properly tightened nuts to align
+safety-wire holes.
+NOTE: Although there are numerous
+safety wiring techniques used to secure aircraft hardware, practically all
+are derived from the basic examples
+shown in figures 7-5 through 7-5b.
+Examples 1, 2, 3, and 4 apply to all types of bolts,
+similar parts which are wired so that the loosening
+of the other part. The direction of twist from the
+ples 1, 3, and 4 to keep the loop in position against
+second to the third unit in example 2 is clockwise
+The wire entering the hole in the third unit will be
+counterclockwise twist after it leaves the hole, the
+bolt.
+Examples 5, 6, 7, & 8 show methods for wiring various
+over the unit rather than around it when wiring castellated
+ance problem.
+Example 9 shows the Hollow-head
+method for wiring bolts in be wired
+different planes. Note that the tab bent
+wire should always be ap- hole to avoid
+plied so that tension is in possible injury
+the tightening direction. nel working
+[FIG 7-5] Safety-wiring procedures.
+fillister-head screws, square-head plugs, and other
+tendency of either part is counteracted by tightening
+second to the third unit is counterclockwise in examthe head of the bolt. The direction of twist from the
+to keep the wire in position around the second unit.
+the lower wire, except example 2, and by making a
+loop will be secured in place around the head of that
+standard items, NOTE: Wire may be wrapped
+nuts or on other items when there is a clearplugs shall Correct application of single
+as shown with wire to closely spaced multiinside the ple group.
+snags and
+to personon the engine.
+Examples 12 and 13 show methods for attaching
+Example 14 shows bolt Example 15 shows
+wired to a right-angle method for wiring
+bracket with the wire connecting rod.
+wrapped around the
+bracket.
+Fittings incorporating wire lugs shall be wired as shown
+ples 17 and 18. Where no lock-wire lug is provided,
+be applied as shown in examples 19 and 20 with
+exerted to ensure that wire is wrapped tightly around
+FIGURE 7-5a. Safety-wiring procedures.
+lead seal to protect critical adjustments.
+correct Example 16 shows correct
+adjustable method for wiring the coupling nut on flexible line to
+the straight connector
+brazed on rigid tube.
+in Exam- Small size coupling nuts
+wire should shall be wired by wrapping
+caution being the wire around the nut
+the fitting. and inserting it through
+the holes as shown.
+Coupling nuts attached to straight connectors
+shown, when hex is an integral part of the connector.
+Straight Connector (Bulkhead Type)
+Examples 26, 27, and 28 show the proper
+checknut wired independently so that it need not
+FIGURE 7-5b. Safety-wiring procedures.
+shall be wired as,
+Coupling nuts on a tee
+shall be wired, as shown
+above, so that tension is
+always in the tightening direction.
+method for wiring various standard fittings with
+be disturbed when removing the coupling nut.

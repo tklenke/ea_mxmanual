@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-24. COCKPIT VOICE RECORDERS
+(CVR). CVR’s are very similar to flight data
+recorders. They look nearly identical and operate in almost the same way. CVR’s monitors
+the last 30 minutes of flight deck conversations
+and radio communications. The flight deck
+conversations are recorded via the microphone
+monitor panel located on the flight deck. This
+panel is also used to test the system and erase
+the tape, if so desired. Before operating the
+erase CVR mode, consult the operational manual of the manufacturer for the CVR.
+a. Playback is possible only after the recorder is removed from the aircraft.
+b. Refer to the specific equipment manufacturer’s manuals and procedures.
+c. The Solid State Cockpit Voice Recorder system is composed of three essential
+components a solid state recorder, a control
+unit (remote mic amplifier), and an area microphone. Also installed on one end of the
+recorder is an Under water Locator Beacon
+(ULB). The recorder accepts four separate
+audio inputs: pilot, copilot, public address/third crew member, and cockpit area microphone and where applicable, rotor speed
+input and flight data recorder synchronization
+tone input. For maintenance information refer
+to the equipment manufacturer’s maintenance
+manual.

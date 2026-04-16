@@ -1,0 +1,32 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-87. ELECTRIC-RESISTANCE WELDING. Many thin sheet metal parts for aircraft,
+especially stainless steel parts, are joined by
+one of the forms of electric resistance welding,
+either spot welding or seam welding.
+a. Spot Welding. Two copper electrodes are
+held in the jaws of the spot welding machine,
+and the material to be welded is clamped between them. Pressure is applied to hold the
+electrodes tightly together, and electrical current flows through the electrodes and the material. The resistance of the material being
+welded is so much higher than that of the copper electrodes that enough heat is generated to
+melt the metal. The pressure on the electrodes
+forces the molten spots in the two pieces of
+metal to unite, and this pressure is held after
+the current stops flowing long enough for the
+metal to solidify. Refer to MIL HDBK-5 for
+joint construction and strength data. The
+amount of current, pressure, and dwell time are
+all carefully controlled and matched to the type
+of material and the thickness to produce the correct spot welds. (See figure 4-31.)
+b. Seam Welding. Rather than having to
+release the electrodes and move the material to
+form a series of overlapping spot welds, a
+seam-welding machine is used to manufacture
+[FIG 4-31] In spot welding, heat is produced by
+electrical resistance between copper electrodes. Pressure is simultaneously applied to electrode tips to force
+metal together to complete fusing process. Spot-weldnugget size is directly related to tip size.
+fuel tanks and other components where a continuous weld is needed. Two copper wheels
+replace the bar-shaped electrodes. The metal
+to be welded is moved between them, and
+electric pulses create spots of molten metal
+that overlap to form the continuous seam.

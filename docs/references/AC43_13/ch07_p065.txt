@@ -1,0 +1,75 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 4: NUTS
+
+7-65. NUT IDENTIFICATION FINISHES. Several types of finishes are used on
+self-locking nuts. The particular type of finish
+is dependent on the application and temperature requirement. The most commonly used
+finishes are described briefly as follows.
+[TABLE 7-2] Minimum prevailing torque values for reused self-locking nuts.
+FINE THREAD SERIES
+MINIMUM PREVAILING
+THREAD SIZE TORQUE
+7/16 -20 8 inch-pounds
+1/2 -20 10 inch-pounds
+9/16 -18 13 inch-pounds
+5/8 -18 18 inch-pounds
+3/4 -16 27 inch-pounds
+7/8 -14 40 inch-pounds
+1 -14 55 inch-pounds
+1-1/8 -12 73 inch-pounds
+1-1/4 -12 94 inch-pounds
+COARSE THREAD SERIES
+THREAD SIZE MINIMUM PREVAILING
+TORQUE
+7/16 -14 8 inch-pounds
+1/2 -13 10 inch-pounds
+9/16 -12 14 inch-pounds
+5/8 -11 20 inch-pounds
+3/4 -10 27 inch-pounds
+7/8 -9 40 inch-pounds
+1 -8 51 inch-pounds
+1-1/8 -8 68 inch-pounds
+1-1/4 -8 88 inch-pounds
+a. Cadmium-Plating. This is an electrolytically deposited silver-gray plating which
+provides exceptionally good protection against
+corrosion, particularly in salty atmosphere, but
+is not recommended in applications where the
+°F. d. Solid Lubricant Coating. Locknuts
+temperature exceeds 450 The following
+additional finishes or refinements to the basic
+cadmium can be applied.
+(1) Chromic Clear Dip. Cadmium surfaces are passivated, and cyanide from the
+plating solution is neutralized. The protective
+film formed gives a bright, shiny appearance,
+and resists staining and finger marks.
+(2) Olive Drab Dichromate. Cadmiumplated work is dipped in a solution of chromic
+acid, nitric acid, acetic acid, and a dye which
+produces corrosion resistance.
+(3) Iridescent Dichromate. Cadmiumplated work is dipped in a solution of sodium
+dichromate and takes on a surface film of basic
+chromium chromate which resists corrosion.
+Finish is yellow to brown in color.
+NOTE: Cadmium-plated nuts are restricted for use in temperatures not to
+°°°°F.
+exceed 450 When used in tem-
+°°°°F,
+peratures in excess of 450 the
+cadmium will diffuse into the base material causing it to become very brittle
+and subject to early failure.
+b. Silver plating. Silver plating is applied
+to locknuts for use at higher temperatures.
+Important advantages are its resistance to ex-
+°F)
+treme heat (1,400 and its excellent lubricating characteristics. Silver resists galling
+and seizing of mating parts when subjected to
+heat or heavy pressure.
+c. Anodizing for Aluminum. An inorganic oxide coating is formed on the metal by
+connecting the metals and anodes in a suitable
+electrolyte. The coating offers excellent corrosion resistance and can be dyed in a number of
+colors.
+are also furnished with molybdenum disulfide
+for lubrication purposes. It provides a clean,
+dry, permanently-bonded coating to prevent
+seizing and galling of threads. Molybdenum
+disulfide is applied to both cadmium and silver-plated parts. Other types of finishes are
+available, but the finishes described in this
+chapter are the most widely used.

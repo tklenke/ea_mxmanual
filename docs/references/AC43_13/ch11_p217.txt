@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-217. INSTALLATION OF PRINTED
+SLEEVES. Polyolefin sleeving should be
+used in areas where resistance to solvent and
+synthetic hydraulic fluids is necessary. Sleeves
+may be secured in place with cable ties or by
+heat shrinking. The identification sleeving for
+various sizes of wire is shown in table 11-17.
+Table 11-17. Recommended size of identification
+sleeving.
+Wire Size Sleeving Size
+AN AL No. Nominal ID
+(inches)
+#24 12 .085
+#22 11 .095
+#20 10 .106
+#18 9 .118
+#16 8 .113
+#14 7 .148
+#12 6 .166
+#10 4 .208
+#8 #8 2 .263
+#6 #6 0 .330
+#4 #4 inch .375
+3/8
+#2 #2 inch .500
+1/2
+#1 #1 inch .500
+1/2
+#0 #0 5/8 inch .625
+#00 #00 inch .625
+5/8
+#000 #000 inch .750
+3/4
+#0000 #0000 3/4 inch .750

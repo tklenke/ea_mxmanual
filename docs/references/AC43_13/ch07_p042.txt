@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-42. DRILLED HEAD BOLTS (AN73
+THROUGH AN81). The AN drilled head
+bolt is similar to the standard hex bolt, but has
+a deeper head which is drilled to receive safety
+wire. The physical differences preventing direct interchangeability are the slightly greater
+head height, and longer thread length of the
+AN73 through AN81 series. The AN73
+through AN81 drilled head bolts have been superseded by MS20073, for fine thread bolts
+and MS20074 for coarse thread bolts. AN73,
+AN74, MS20073, and MS20074 bolts of like
+thread and grip lengths are universally, functionally, and dimensionally interchangeable.

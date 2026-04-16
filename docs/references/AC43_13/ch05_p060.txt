@@ -1,0 +1,34 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 5: PENETRANT INSPECTION
+
+5-60. GENERAL. Penetrant inspection is
+used on nonporous metal and nonmetal components to find material discontinuities that are
+open to the surface and may not be evident to
+normal visual inspection. The part must be
+clean before performing a penetrant inspection.
+The basic purpose of penetrant inspection is to
+increase the visible contrast between a discontinuity and its background. This is accomplished by applying a liquid of high penetrating power that enters the surface opening of a
+discontinuity. Excess penetrant is removed
+and a developer material is then applied that
+draws the liquid from the suspected defect to
+reveal the discontinuity. The visual evidence
+of the suspected defect can then be seen either
+by a color contrast in normal visible white
+light or by fluorescence under black ultraviolet
+light. (See figure 5-13.)
+a. The penetrant method does not depend upon ferro-magnetism like magnetic particle inspection, and the arrangement of the
+discontinuities is not a factor. The penetrant
+method is effective for detecting surface defects in nonmagnetic metals and in a variety of
+nonmetallic materials. Penetrant inspection is
+also used to inspect items made from ferromagnetic steels and its sensitivity is generally
+greater than that of magnetic particle inspection. Penetrant inspection is superior to visual
+inspection but not as sensitive as other advanced forms of tests for detection of
+in-service surface cracks.
+b. The major limitations of the penetrant
+inspection is that it can detect only those discontinuities that are open to the surface; some
+other method must be used for detecting subsurface defects. Surface roughness or porosity
+can limit the use of liquid penetrants. Such
+surfaces can produce excessive background
+indications and interfere with the inspection.
+Penetrant inspection can be used on most airframe parts and assemblies accessible to its
+application. The basic steps to perform penetrant inspections are briefly described in the
+following paragraphs.

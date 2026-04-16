@@ -1,0 +1,32 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-49. DETERMINATION OF FIELD
+STRENGTH. Factors such as part size,
+shape, magnetic properties of the material, and
+the method of magnetization will affect the
+field strength induced within a part by a given
+applied magnetizing force. The factors vary
+considerably, making it difficult to establish
+rules for magnetizing during examination.
+Technique requirements are best determined
+on actual parts having known defects.
+a. A magnetization indicator, such as a
+Quantitative Quality Indicator (QQI), should
+be used to verify that adequate magnetic flux
+strength is being used. It effectively indicates
+the internally-induced field, the field direction,
+and the quality of particle suspension during
+magnetization.
+b. The level of magnetization required
+for detection of service-related defects in most
+cases can be lower than that required for material and manufacturing control. Contact the
+manufacturer for correct specifications.
+NOTE: If the examination must be
+performed with less current than is
+desired because of part size or equipment limitations, the lower field
+strength can be partially accommodated by reducing the area of examination for each magnetization, or the
+examination can be supplemented by
+using electromagnetic yokes. Examine
+only 4 inches on either side of a coil
+instead of 6, or apply additional magnetization around the periphery of a
+hollow cylinder when using an internal conductor.

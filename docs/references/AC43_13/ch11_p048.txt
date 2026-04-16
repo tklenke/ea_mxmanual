@@ -1,0 +1,60 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 4: INSPECTION OF CIRCUIT-PROTECTION DEVICES
+
+11-48. DETERMINATION OF CIRCUIT
+BREAKER RATINGS. Circuit protection
+devices must be sized to supply open circuit
+capability. A circuit breaker must be rated so
+that it will open before the current rating of the
+wire attached to it is exceeded, or before the
+cumulative rating of all loads connected to it
+are exceeded, whichever is lowest. A circuit
+breaker must always open before any component downstream can overheat and generate
+smoke or fire. Wires must be sized to carry
+continuous current in excess of the circuit
+protective device rating, including its timecurrent characteristics, and to avoid excessive
+voltage drop. Refer to section 5 for wire rating
+methods.
+11-48. RELAYS. A relay is an electrically
+controlled device that opens and closes electrical contacts to effect the operation of other devices in the same or in another electrical circuit. The relay converts electrical energy into
+mechanical energy through various means, and
+through mechanical linkages, actuates electrical conductors (contacts) that control electrical
+circuits. Solid-state relays may also be used in
+electrical switching applications.
+a. Use of Relays. Most relays are used as
+a switching device where a weight reduction
+can be achieved, or to simplify electrical controls. It should be remembered that the relay is
+an electrically operated switch, and therefore
+subject to dropout under low system voltage
+conditions.
+b. Types of Connections. Relays are
+manufactured with various connective means
+from mechanical to plug-in devices. Installation procedures vary by the type of connection
+and should be followed to ensure proper operation of the relay.
+c. Repair. Relays are complicated electromechanical assemblies and most are not repairable.
+d. Relay Selection.
+(1) Contact ratings, as described on the
+relay case, describe the make, carry, and break
+capability for resistive currents only. Consult
+the appropriate specification to determine the
+derating factor to use for other types of current
+loads. (Ref. MIL-PRF-39016, MIL-PRF-5757,
+MIL-PRF-6016, MIL-PRF-835836.)
+(2) Operating a relay at less than nominal coil voltage may compromise its performance and should never be done without written
+manufacturer approval.
+e. Relay Installation and Maintenance.
+For installation and maintenance, care should
+be taken to ensure proper placement of hardware, especially at electrical connections. The
+use of properly calibrated torque wrenches and
+following the manufacturer’s installation procedures is strongly recommended. This is especially important with hermetically sealed
+relays, since the glass-to-metal seal (used for
+insulation of the electrically “live” components) is especially vulnerable to catastrophic
+failure as a result of overtorquing.
+(1) When replacing relays in alternating
+current (ac) applications, it is essential to
+maintain proper phase sequencing. For any
+application involving plug-in relays, proper
+engagement of their retaining mechanism is
+vital.
+(2) The proximity of certain magnetically permanent, magnet assisted, coil operated
+relays may cause them to have an impact on
+each other. Any manufacturer’s recommendations or precautions must be closely followed.

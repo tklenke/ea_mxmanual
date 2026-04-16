@@ -1,0 +1,77 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 3: PRECAUTIONARY MEASURES
+
+4-36. FLUTTER AND VIBRATION
+PRECAUTIONS. To prevent the occurrence
+of severe vibration or flutter of flight control
+surfaces during flight, precautions must be
+taken to stay within the design balance limitations when performing maintenance or repair.
+a. Balance Changes. The importance of
+retaining the proper balance and rigidity of aircraft control surfaces cannot be overemphasized. The effect of repair or weight change on
+the balance and center of gravity is proportionately greater on lighter surfaces than on the
+older heavier designs. As a general rule, repair
+the control surface in such a manner that the
+weight distribution is not affected in any way,
+in order to preclude the occurrence of flutter of
+the control surface in flight. Under certain
+conditions, counter-balance weight is added
+forward of the hinge line to maintain balance.
+Add or remove balance weights only when
+necessary in accordance with the manufacturer’s instructions. Flight testing must be accomplished to ensure flutter is not a problem.
+Failure to check and retain control surface balance within the original or maximum allowable value could result in a serious flight
+hazard.
+b. Painting and Refinishing. Special
+emphasis is directed to the effect of too many
+extra coats of paint on balanced control surfaces. Mechanics must avoid adding additional coats of paint in excess of what the
+manufacturer originally applied. If available
+consult the aircraft manufacturer’s instructions
+relative to finishing and balance of control
+surfaces.
+c. Trapped Water or Ice. Instances of
+flutter have occurred from unbalanced conditions caused by the collection of water or ice
+within the surface. Therefore, ventilation and
+drainage provisions must be checked and retained when maintenance is being done.
+d. Trim Tab Maintenance. Loose or vibrating trim tabs will increase wear of actuating mechanisms and hinge points which may
+develop into serious flutter conditions. When
+this happens, primary control surfaces are
+highly susceptible to wear, deformation, and
+fatigue failures because of the buffeting nature
+of the airflow over the tab mechanism. Trailing-edge play of the tab may increase, creating
+an unsafe flutter condition. Careful inspection
+of the tab and its mechanism should be conducted during overhaul and annual inspection
+periods. Compared to other flight control systems on the aircraft, only a minor amount of
+tab-mechanism wear can be tolerated.
+(1) Free play and stiffness may best be
+measured by a simple static test where “upward” and “downward” (or “leftward” and
+“rightward”) point forces are applied near the
+trailing edge of the tab at the span-wise attachment of the actuator (so as not to twist the
+tab). The control surface to which the trim tab
+is attached should be locked in place. Rotational deflection readings are then taken near
+the tab trailing edge using an appropriate
+measuring device, such as a dial gauge. Several deflection readings should be taken using
+loads first applied in one direction, then in the
+opposite. If the tab span does not exceed
+35 percent of the span of the supporting control surface, the total free play at the tab trailing edge should not exceed 2 percent of the tab
+chord. If the tab span equals or exceeds
+35 percent of the span of the supporting control surface, the total free play at the tab trailing edge should not exceed 1 percent of the
+distance from the tab hinge line to the trailing
+edge of the tab perpendicular to the tab hinge
+line. For example, a tab that has a chord of
+4 inches and less than or equal to 35 percent of
+the control surface span would have a maximum permissible free play of 4 inches x 0.020
+or 0.080 inches (total motion up and down)
+measured at the trailing edge. Correct any free
+play in excess of this amount.
+(2) Care must also be exercised during
+repair or rework to prevent stress concentration
+points or areas that could increase the fatigue
+susceptibility of the trim tab system. Advisory
+Circular (AC) 23.629-1A, Means of Compliance with Section 23.629, “Flutter,” contains
+additional information on this subject.
+NOTE: If the pilot has experienced
+flutter, or thinks he/she has, then a
+complete inspection of the aircraft
+flight control system and all related
+components including rod ends,
+bearings, hinges, and bellcranks must
+be accomplished. Suspected parts
+should be replaced.

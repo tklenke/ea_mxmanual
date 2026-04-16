@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 2: VISUAL INSPECTION
+
+5-15. GENERAL. Visual inspection is the
+oldest and most common form of NDI for aircraft. Approximately 80 percent of all NDI
+procedures are accomplished by the direct visual methods. This inspection procedure may
+be greatly enhanced by the use of appropriate
+combinations of magnifying instruments,
+borescopes, light sources, video scanners, and
+other devices discussed in this AC. Visual inspection provides a means of detecting and examining a wide variety of component and material surface discontinuities, such as cracks,
+corrosion, contamination, surface finish, weld
+joints, solder connections, and adhesive disbonds. Visual inspection is widely used for
+detecting and examining aircraft surface
+cracks, which are particularly important because of their relationship to structural failures.
+Visual inspection is frequently used to provide
+verification when defects are found initially
+using other NDI techniques. The use of optical aids for visual inspection is beneficial and
+recommended. Optical aids magnify defects
+that cannot be seen by the unaided eye and also
+permit visual inspection in inaccessible areas.

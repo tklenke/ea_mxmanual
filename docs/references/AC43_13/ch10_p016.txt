@@ -1,0 +1,160 @@
+AC 43.13-1B  Chapter 10: WEIGHT AND BALANCE  Section 2: WEIGHING PROCEDURES
+
+10-16. WEIGHT AND BALANCE COMPUTATIONS. It is often necessary after
+completing an extensive alteration to establish
+by computation that the authorized weight and
+c.g. limits as shown in the TCDS and Aircraft
+Specifications are not exceeded. Paragraph
+b(2) explains the significance of algebraic
+signs used in balance computations.
+EMPTY WEIGHT AND EMPTY WEIGHT CENTER OF GRAVITY
+(when aircraft is weighed with oil)
+GIVEN:
+Aircraft as weighed with full oil --------------------------------------------------------------1186
+Center of gravity --------------------------------------------------------------------------------9.7”
+Full oil capacity 9 qts. --------------------------------------------------------------------------17
+SOLVING:
+Weight # x Arm” = Moment “#
+Aircraft as weighed + 1186 +
+Less oil - 17 -
+Total + 1169(A)
+Empty Weight (A) = 1169 pounds
+Empty Weight Center of Gravity B = 12337
+A 1169
+[FIG 10-9] Empty weight and empty weight center of
+a. The TCDS or Aircraft Specifications
+contain the following information relating to
+the subject:
+(1) Center of gravity range.
+(2) Empty weight c.g. range when applicable.
+(3) Leveling means.
+(4) Datum.
+(5) Maximum weights.
+(6) Number of seats and arm.
+lbs.
+lbs.
+9.7 + 11504
+49.0 + 833
++ 12337(B)
+= + 10.6”
+gravity when aircraft is weighed with oil.
+(7) Maximum baggage and arm.
+(8) Fuel capacity and arm.
+(9) Oil capacity and arm.
+(10) Equipment items and arm.
+b. The TCDS do not list the basic required equipment prescribed by the applicable
+airworthiness regulations for certification. Refer to the manufacturer’s equipment list for
+such information.
+purposes.
+Gasoline ----------- 6 pounds per U.S. gal.
+Turbine Fuel ------ 6.7 pounds per U.S. gal.
+Lubricating oil ---- 7.5 pounds per U.S. gal.
+Crew and
+passengers ----- 170 pounds per person.
+(2) It is important to retain the proper
+algebraic sign (+ or -) through all balance
+computations. For the sake of uniformity in
+these computations, visualize the aircraft with
+the nose to the left. In this position any arm to
+the left (forward) of the datum is “minus” and
+any arm to the right (rearward) of the datum is
+“plus.” Any item of weight added to the aircraft either side of the datum is plus weight,
+any weight item removed is a minus weight.
+When multiplying weights by arms, the answer
+is plus if the signs are the same, and minus if
+the signs are different. The following combinations are possible:
+Items added forward of the datum( + ) weight x ( - ) arm = ( - ) moment.
+Items added to the rear of the datum( + ) weight x ( + ) arm = ( + ) moment.
+Items removed forward of the datum( - ) weight x ( - ) arm = ( + ) moment.
+Items removed rear of the datum( - ) weight x ( + ) arm = ( - ) moment.
+(3) The total weight of the airplane is
+equal to the weight of the empty aircraft plus
+the weight of the items added minus the
+weight of the items removed.
+(4) The total moment of the aircraft is
+the algebraic sum of the empty weight moment
+of the aircraft and all of the individual moments of the items added and/or removed.
+TREME CONDITIONS. The weight and
+balance extreme conditions represent the
+maximum forward and rearward c.g. position
+for the aircraft. Include the weight and balance
+data information showing that the c.g. of the
+aircraft (usually in the fully loaded condition)
+falls between the extreme conditions.
+a. Forward Weight and Balance Check.
+When a forward weight and balance check is
+made, establish that neither the maximum
+weight nor the forward c.g. limit listed in the
+TCDS and Aircraft Specifications are exceeded. To make this check, the following information is needed:
+(1) The weights, arms, and moment of
+the empty aircraft.
+(2) The maximum weights, arms, and
+moments of the items of useful load that are
+located ahead of the forward c.g. limit.
+(3) The minimum weights, arms, and
+moments of the items of useful load that are
+located aft of the forward c.g. limit. A typical
+example of the computation necessary to make
+this check, using this data, is shown in figure 10-10.
+b. Rearward Weight and Balance
+Check. When a rearward weight and balance
+check is made, establish that neither the
+maximum weight nor the rearward c.g. limit
+listed in the TCDS and Aircraft Specifications
+are exceeded. To make this check, the following information is needed:
+(1) The weight, arms, and moments of
+the empty aircraft.
+(2) The maximum weights, arms, and
+moments of the items of useful load that are
+located aft of the rearward c.g. limit.
+TO CHECK: MOST FORWARD WEIGHT AND BALANCE
+GIVEN:
+Actual empty weight of the aircraft --------------------------------------------------------------------------1169#
+Empty weight center of gravity-------------------------------------------------------------------------------+
+*Maximum weight----------------------------------------------------------------------------------------------2100#
+*Forward C.G.. limit -------------------------------------------------------------------------------------------+
+*Oil capacity, 9 qts. --------------------------------------------------------------------------------------------17#
+*Pilot in farthest forward seat equipped with
+controls (unless otherwise placarded)-----------------------------------------------------------------------170#
+*Since the fuel tank is located to the rear of the
+forward C.G. limit, minimum fuel should be included.
+METO HP = 165 = 13.75 gal. x 6#--------------------------------------------------------------------------83#
+12 12
+* Information should be obtained from the aircraft specification.
+Note: Any items or passengers must be used if they are
+Full fuel must be used if the tank is located ahead
+CHECK OF FORWARD WEIGHT AND BALANCE EXTREME
+Weight (#) x Arm (“) = Moment (“#)
+Aircraft empty +
+Oil +
+Pilot +
+Fuel +
+Total +
+Divide the TM (total moment) by the TW (total weight)
+TM = 16104 = + 11.2”
+TW 1439
+Since the forward C.G. limit and the maximum weight
+extreme condition is satisfactory.
+[FIG 10-10] Example of check of most forward weight
+EXTREME.
+10.6”
+8.5”
+at -49”
+at +16”
+at +22”
+located ahead of the forward C.G. limit.
+of the forward C.G. limit.
+1169 + 10.6 + 12391
+17 - 49 - 833
+170 + 16 + 2720
+83 + 22 + 1826
+1439 (TW) + 16104 (TM)
+to obtain the forward weight and balance extreme.
+are not exceeded, the forward weight and balance
+and balance extreme.
+(3) The minimum weights, arms, and
+moments of the items of useful load that are
+located ahead of the rearward c.g. limit. A
+typical example of the computation necessary
+to make this check, using this data, is shown in
+figure 10-11.

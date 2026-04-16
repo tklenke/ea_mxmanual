@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-19. ALTIMETERS. Aircraft conducting
+operations in controlled airspace under instru
+ment flight rule (IFR) are required to have
+their static system(s) and each altimeter instrument inspected and tested within the previous 24 calendar months. Frequent functional
+checks of all altimeters and automatic pressure
+altitude reporting systems are recommended.
+a. The tests required must be performed
+by:
+(1) The manufacturer of the aircraft on
+which the tests and inspection are to be performed.
+(2) A certificated repair station properly
+equipped to perform those functions and
+holding:
+(a) An instrument rating Class I.
+(b) A limited instrument rating appropriate to the make and model of appliance
+to be tested.
+(c) A certified/qualified mechanic
+with an airframe rating(static system tests and
+inspections only). Any adjustments shall be
+accomplished only by an instrument shop certified/qualified person using proper test
+equipment and adequate reference to the
+manufacturer’s maintenance manuals. The
+altimeter correlation adjustment shall not be
+adjusted in the field. Changing this adjustment
+will nullify the correspondence between the
+basic test equipment calibration standards and
+the altimeter. It will also nullify correspondence between the encoding altimeter and its
+encoding digitizer or the associated blind encoder.
+b. Examine the altimeter face for evidence of needle scrapes or other damage.
+Check smoothness of operation, with particular attention to altimeter performance during
+decent.
+c. Contact an appropriate air traffic facility for the pressure altitude displayed to the
+controller from your aircraft. Correct the reported altitude as needed, and compare to the
+reading on the altimeter instrument. The difference must not exceed 125 feet.

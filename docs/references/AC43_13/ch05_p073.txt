@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-73. GENERAL. Radiography (x-ray) is
+an NDI method used to inspect material and
+components, using the concept of differential
+adsorption of penetrating radiation. Each
+specimen under evaluation will have differences in density, thickness, shapes, sizes, or
+absorption characteristics, thus absorbing different amounts of radiation. The unabsorbed
+radiation that passes through the part is recorded on film, fluorescent screens, or other
+radiation monitors. Indications of internal and
+external conditions will appear as variants of
+black/white/gray contrasts on exposed film, or
+variants of color on fluorescent screens. (See
+figure 5-14.)

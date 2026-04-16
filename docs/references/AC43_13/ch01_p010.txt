@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 1: MATERIALS AND PRACTICES
+
+1-10. CLAMPING PRESSURE.
+a. Use the recommended pressure to
+squeeze adhesive out into a thin, continuous
+film between the wood layers. This forces air
+from the joint and brings the wood surfaces
+into intimate contact. Pressure should be applied to the joint before the adhesive becomes
+too thick to flow and is accomplished by
+means of clamps, presses, or other mechanical
+devices.
+b. Nonuniform clamping pressure
+commonly results in weak and strong areas in
+the same joint. The amount of pressure required to produce strong joints in aircraft assembly operations varies with the type of adhesive used and the type of wood to be
+bonded. Typical pressures when using resorcinol may vary from 125 to 150 pounds per
+square inch for softwoods and 150 to
+200 pounds per square inch for hardwoods.
+Insufficient pressure or poorly machined wood
+surfaces usually result in thick bond lines,
+which indicate a weak joint, and should be
+carefully guarded against. Some epoxy adhesives require much less clamping pressure to
+produce acceptable joint strength. Be sure to
+read and follow the manufacturer’s instructions in all cases.

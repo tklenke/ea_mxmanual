@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-121. PRECAUTIONS.
+a. Never kink coaxial cable.
+b. Never drop anything on coaxial cable.
+c. Never step on coaxial cable.
+d. Never bend coaxial cable sharply.
+e. Never loop coaxial cable tighter than
+the allowable bend radius.
+f. Never pull on coaxial cable except in a
+straight line.
+g. Never use coaxial cable for a handle,
+lean on it, or hang things on it (or any other
+wire).
+FIGURE 11-9a. Slack between supports
+FIGURE 11-9b. Drainage hole in low point of tubing.

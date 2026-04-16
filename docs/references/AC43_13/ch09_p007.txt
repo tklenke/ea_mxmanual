@@ -1,0 +1,124 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-7. LANDING GEAR COMPONENTS.
+The following items are susceptible to service
+difficulties and should be inspected.
+a. Shock Absorbers. Inspect the entire
+shock-strut for evidence of leaks, cracks, and
+possible bottoming of the piston, as this condition causes overloading of landing-gear
+components and contributes to fatigue cracks.
+Check all bolts, bolt holes, pins, and bushings
+for condition, lubrication, and proper torque
+values. Grease fitting holes (pressure-type) are
+especially vulnerable to cracks and crossthreading damage. Check all safety wire and
+other locking devices, especially at the main
+packing gland nuts.
+(1) When assembling shock-struts, use
+the correct type and number of new “O”-rings,
+Chevron seals, and backup rings. Use only the
+correct filler valve core assembly, and follow
+the manufacturer’s instructions when servicing
+with fluid and air. Either too much or too little
+air or oil will affect aircraft handling characteristics during taxi, takeoff, and landing, and
+can cause structural overloads.
+(2) Shock cords and rubber discs deteriorate with age and exposure. When this type
+of shock absorber is used, inspect for general
+condition; i.e., cleanliness, stretching, fraying,
+and broken strands. These components should
+be kept free of petroleum products as they accelerate deterioration of the rubber.
+b. Nose Gear Assembly. Inspection of
+the steering mechanism should include torquelinks (scissors), torque-tubes, control rods and
+rod-end bearings, shimmy dampers, cables,
+and turning stops. In addition, check all nose
+landing gear components, including mud
+scrapers and slush deflectors, for damage.
+(1) Towing of some aircraft with the
+rudder locks installed, may cause damage to
+the steering linkage and rudder control system.
+Exceeding the steering or towing stop limits
+should be followed by a close inspection of the
+entire nose steering assembly. A broken
+steering stop will allow turning beyond the design limit, transmitting excessive loads to
+structures, and to the rudder control system. It
+is recommended that the nose steering arc limits be painted on the steering collar or fuselage.
+(2) Inspect shimmy dampers for leakage
+around the piston shaft and at fluid line connections, and for abnormal wear or looseness
+around the pivot points. Also check for proper
+rigging, “bottoming” of the piston in the cylinder, and the condition of the external stops on
+the steering collar.
+c. Tail Wheels. Disassembly, cleaning,
+and re-rigging of tail wheels are periodically
+necessary. Inspect them for loose or broken
+bolts, broken springs, lack of lubrication, and
+general condition. Check steerable tail wheels
+for proper steering action, steering-horn wear,
+clearances, and for security and condition of
+steering springs and cables.
+d. Gear Doors. Inspect gear doors frequently for cracks, deformation, proper rigging, and general condition. Gear door hinges
+are especially susceptible to progressive
+cracking, which can ultimately result in complete failure, allowing the door to move and
+cause possible jamming of the gear. This condition could also result in the loss of the door
+during flight. In addition, check for proper
+safetying of the hinge pins and for distorted,
+sheared, loose, or cracked hinge rivets. Inspect
+the wheel wells for improper location or routing of components and related tubing or wiring. This could interfere with the travel of the
+gear door actuating mechanisms.
+e. Wheels. Inspect the wheels periodically for cracks, corrosion, dents, distortion,
+and faulty bearings in accordance with the
+manufacturer’s service information. In splittype wheels, recondition bolt holes which have
+become elongated due to some play in the
+through-bolt, by the use of inserts or other
+FAA-approved means. Pay particular attention
+to the condition of the through-bolts and nuts.
+Carefully inspect the wheels used with tubeless
+tires for damage to the wheel flange and for
+proper sealing of the valve. The sealing ring
+used between the wheel halves should be free
+of damage and deformation. When bolting
+wheel halves together, tighten the nuts to the
+proper torque value. Periodically accomplish
+an inspection to ensure the nuts are tight and
+that there is no movement between the two
+halves of the wheel. Maintain grease retaining
+felts in the wheel assembly in a soft, absorbent
+condition. If any have become hardened, wash
+them with a petroleum-base cleaning agent; if
+this fails to soften them, they should be replaced.
+(1) Corrosion of wheels. Remove all
+corrosion from the wheel half, and inspect it to
+ensure that the wheel halves are serviceable.
+Apply corrosion prevention treatments as applicable. Prime with a zinc chromate primer or
+equivalent, and apply at least two finish coats.
+(2) Dented or distorted wheels. Replace wheels which wobble excessively due to
+deformation resulting from a severe side-load
+impact. In questionable cases, consult the local representative of the FAA concerning the
+airworthiness of the wheels. Minor dents do
+not affect the serviceability of a wheel.
+(3) Wheel bearings. When inspecting
+wheel bearings for condition, replace damaged
+or excessively worn parts. Maintain bearings
+and races as matched sets. Pack bearings only
+with the grease type called for in the manufacturer’s maintenance manual prior to their
+installation. Avoid pre-loading the wheel
+bearing when installing it on the aircraft by
+tightening the axle nut just enough to prevent
+wheel drag or side play.
+f. Brakes. Disassemble and inspect the
+brakes periodically and examine the parts for
+wear, cracks, warpage, corrosion, elongated
+holes, etc. Discolored brake disks are an indication of overheated brakes and should be replaced. If any of these or other faults are indicated, repair, recondition, or replace the affected parts in accordance with the manufacturer’s recommendations.
+g. Hydraulic Brakes. For proper maintenance, periodically inspect the entire hydraulic
+system from the reservoir to the brakes.
+Maintain the fluid at the recommended level
+with proper brake fluid. When air is present in
+the brake system, bleed in accordance with the
+manufacturer’s instructions. Replace flexible
+hydraulic hoses which have deteriorated due to
+long periods of service and replace hydraulic
+piston seals when there is evidence of leakage.
+h. Micro-Switches. Inspect microswitches for security of attachment, cleanliness, general condition, and proper operation.
+Check the associated wiring for chafing,
+proper routing, and to determine that protective covers are installed on wiring terminals, if
+required. Check the condition of the rubber
+dust boots which protect the micro-switch
+plungers from dirt and corrosion.

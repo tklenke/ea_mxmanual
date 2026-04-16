@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-16. LONG RANGE NAVIGATION
+(LORAN). The LORAN has been an effective
+alternative to Rho/Theta R-Nav systems. Hyperbolic systems require waypoint designation
+in terms of latitude and longitude, unlike
+original R-Nav (distance navigation) systems,
+which define waypoints in terms of distance
+(Rho) and angle (Theta) from established VOR
+or Tacan facilities. Accuracy is better than the
+VOR/Tacan system but LORAN is more prone
+to problems with precipitation static. Proper
+bonding of aircraft structure and the use of
+high-quality static wicks will not only produce
+improved LORAN system performance, but
+can also benefit the very high frequency
+(VHF) navigation and communications systems. This system has an automatic test
+equipment (ATE).
+NOTE: Aircraft must be outside of
+hangar for LORAN to operate.
+Normally self test check units, verification of
+position, and loading of flight plan will verify
+operation verification of proper flight manual
+supplements and operating handbooks on
+board, and proper software status can also be
+verified.

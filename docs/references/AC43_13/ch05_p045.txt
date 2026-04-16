@@ -1,0 +1,27 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-45. PREPARATION OF SURFACE.
+a. Remove protective coatings according
+to the manufacturer’s instructions if necessary.
+Unless otherwise specified, magnetic particle
+examination should not be performed with
+coatings in place that could prevent the detection of surface defects in the ferro-magnetic
+substrate. Such coatings include paint or
+chromeplate thicker than 0.003 inch, or ferromagnetic coatings such as electroplated nickel
+thicker than 0.001 inch.
+b. Parts should be free of grease, oil,
+rust, scale, or other substances which will interfere with the examination process. If required, clean by vapor degrease, solvent, or
+abrasive means per the manufacturer’s instructions. Use abrasive cleaning only as necessary to completely remove scale or rust. Excessive blasting of parts can affect examination
+results.
+c. Exercise extreme care to prevent any
+cleaning material or magnetic particles from
+becoming entrapped where they cannot be removed. This may require extracting components such as bushings, bearings, or inserts
+from assemblies before cleaning and magnetic
+particle examination.
+d. A water-break-free surface is required for parts to be examined by water suspension methods. If the suspension completely wets the surface, this requirement is
+met.
+e. Magnetic particle examination of assembled bearings is not recommended because
+the bearings are difficult to demagnetize. If a
+bearing cannot be removed, it should be protected from the magnetic particle examination
+materials and locally magnetized with a magnetic yoke to limit the magnetic field across
+the bearing.

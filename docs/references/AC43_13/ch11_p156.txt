@@ -1,0 +1,22 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 12: WIRE INSULATION AND LACING STRING TIE
+
+11-156. INSULATION MATERIALS. Insulating materials should be selected for the
+best combination of characteristics in the following categories:
+a. Abrasion resistance.
+b. Arc resistance (noncarbon tracking).
+c. Corrosion resistance.
+d. Cut-through strength.
+e. Dielectric strength.
+f. Flame resistance.
+g. Heat distortion temperature.
+h. Impact strength.
+i. Mechanical strength.
+j. Resistance to fluids.
+k. Resistance to notch propagation.
+l. Smoke emission.
+AND LACING STRING TIE
+m. Special properties unique to the
+aircraft.
+n. For a more complete selection of insulated wires refer to SAE AS 4372 Aerospace
+Wire Performance Requirement and SAE
+AS 4373 Test Methods for Aerospace Wire.

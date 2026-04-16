@@ -1,0 +1,189 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 2: HYDRAULIC SYSTEMS
+
+9-29. HYDRAULIC SYSTEM MAINTENANCE PRACTICES. The maintenance of
+hydraulic and pneumatic systems should be
+performed in accordance with the aircraft
+manufacturer’s instructions. The following is
+a summary of general practices followed when
+dealing with hydraulic and pneumatic systems.
+a. Service. The servicing of hydraulic and
+pneumatic systems should be performed at the
+intervals specified by the manufacturer. Some
+components, such as hydraulic reservoirs, have
+servicing information adjacent to the component. When servicing a hydraulic reservoir,
+make certain to use the correct type of fluid.
+Hydraulic fluid type can be identified by color
+and smell; however, it is good practice to take
+fluid from the original marked container and
+then to check the fluid by color and smell for
+verification. Fluid containers should always
+be closed, except when fluid is being removed.
+b. Contamination Control. Contamination, both particulate and chemical, is detrimental to the performance and life of components in the aircraft hydraulic system. Contamination enters the system through normal
+wear of components, by ingestion through external seals, during servicing, or maintenance
+when the system is opened to replace/repair
+components, etc. To control the particulate
+contamination in the system, filters are installed in the pressure line, in the return line,
+and in the pump case drain line of each system.
+The filter rating is given in terms of “micron,”
+and is an indication of the particle size that
+will be filtered out. The replacement interval
+of these filters is established by the manufacturer and is included in the maintenance manual. However, in the absence of specific replacement instructions, a recommended service life of the filter elements is:
+filters3000
+Pressure hrs.
+Filters1500
+Return hrs.
+filters600
+Case drain hrs.
+(1) When replacing filter elements, be
+sure that there is no pressure on the filter bowl.
+Protective clothing and a face shield must be
+used to prevent fluid from contacting the eye.
+Replace the element with one that has the
+proper rating. After the filter element has been
+replaced, the system must be pressure tested to
+ensure that the sealing element in the filter assembly is intact.
+(2) In the event of a major component
+failure, such as a pump, consideration must be
+given to replacing the system filter elements,
+as well as the failed component. System filters
+may also be equipped with differential pres(∆P)
+sure indicators. These indicators are designed to “pop-up” when the pressure drop
+across the element reaches a predetermined
+value caused by contamination held by the
+element. The indicators are designed to prevent false indications due to cold start, pump
+ripple, and shock loads. Consequently, a filter
+whose indicator has been activated must be replaced. In fact, some indicator designs are
+such that the indicator cannot be reset, unless
+the filter bowl is removed and the element replaced.
+c. Flushing a Hydraulic System. When
+inspection of hydraulic filters or hydraulic
+fluid evaluation indicates that the fluid is contaminated, flushing the system may be necessary. This must be done according to the
+manufacturer’s instructions; however, a typical
+procedure for flushing is as follows:
+(1) Connect a ground hydraulic test
+stand to the inlet and outlet test ports of the
+system. Verify that the ground unit fluid is
+clean and contains the same fluid as the aircraft.
+(2) Change the system filters.
+(3) Pump clean, filtered fluid through
+the system, and operate all subsystems until no
+obvious signs of contamination are found
+during inspection of the filters. Dispose of
+contaminated fluid and filter. (Note: A visual
+inspection of hydraulic filters is not always effective.)
+(4) Disconnect the test stand and cap
+the ports.
+(5) Ensure that the reservoir is filled to
+the FULL line or proper service level.
+d. Inspections. Hydraulic and pneumatic
+systems are inspected for leakage, worn or
+damaged tubing, worn or damaged hoses, wear
+of moving parts, security of mounting for all
+units, safetying, and any other condition specified by the maintenance manual. A complete
+inspection includes considering the age, cure
+date, stiffness of the hose, and an operational
+check of all subsystems.
+(1) Leakage from any stationary connection in a system is not permitted, and if
+found, it should be repaired. A small amount
+of fluid seepage may be permitted on actuator
+piston rods and rotating shafts. In a hydraulic
+system, a thin film of fluid in these areas indicates that the seals are being properly lubricated. When a limited amount of leakage is
+allowed at any point, it is usually specified in
+the appropriate manual.
+(2) Tubing should not be nicked, cut,
+dented, collapsed, or twisted beyond approved
+limits. The identification markings or lines on
+a flexible hose will show whether the hose has
+been twisted. (See figure 9.9.)
+(3) All connections and fittings associated with moving units must be examined for
+play evidencing wear. Such units should be in
+an unpressurized condition when they are
+checked for wear.
+(4) Accumulators must be checked for
+leakage, air or gas preload, and position. If the
+accumulator is equipped with a pressure
+gauge, the preload can be read directly.
+(5) An operational check of the system
+can be performed using the engine-driven
+pump, an electrically-operated auxiliary pump
+(if such a pump is included in the system), or a
+ground test unit. The entire system and each
+subsystem should be checked for smooth operation, unusual noises, and speed of operation
+for each unit. The pressure section of the system should be checked with no subsystems to
+see that pressure holds for the required time
+without the pump supplying the system. System pressure should be observed during operation of each subsystem to ensure that the engine-driven pump maintains the required pressure.
+e. Troubleshooting. Hydraulic system
+troubleshooting varies according to the complexity of the system and the components in
+the system. It is, therefore, important that the
+technician refer to the troubleshooting information furnished by the manufacturer.
+(1) Lack of pressure in a system can be
+caused by a sheared pump shaft, defective relief valve, the pressure regulator, an unloading
+valve stuck in the “kicked-out” position, lack
+of fluid in the system, the check valve installed
+backward, or any condition that permits free
+flow back to the reservoir or overboard. If a
+system operates satisfactorily with a ground
+test unit but not with the system pump, the
+pump should be examined.
+(2) If a system fails to hold pressure in
+the pressure section, the likely cause is the
+pressure regulator, an unloading valve, a leaking relief valve, or a leaking check valve.
+(3) If the pump fails to keep pressure up
+during operation of the subsystem, the pump
+may be worn or one of the pressure-control
+units may be leaking.
+(4) High pressure in a system may be
+caused by a defective or improperly-adjusted
+pressure regulator, an unloading valve, or by
+an obstruction in a line or control unit.
+(5) Unusual noise in a hydraulic system,
+such as banging and chattering, may be caused
+by air or contamination in the system. Such
+noises can also be caused by a faulty pressure
+regulator, another pressure-control unit, or a
+lack of proper accumulator action.
+(6) Maintenance of hydraulic system
+components involves a number of standard
+practices together with specialized procedures
+set forth by manufacturers such as the replacement of valves, actuators, and other
+units, including tubing and hoses. Care should
+be exercised to prevent system contamination
+damage to seals, packings, and other parts, and
+to apply proper torque in connecting fittings.
+When installing fittings, valves, etc. always
+lubricate the threads with hydraulic fluid.
+(7) Overhaul of hydraulic and pneumatic units is usually accomplished in approved repair facilities; however, replacement
+of seals and packings may be done from time
+to time by technicians in the field. When a
+unit is disassembled, all O-ring and Chevron
+seals should be removed and replaced with
+new seals. The new seals must be of the same
+material as the original and must carry the correct manufacturer’s part number. No seal
+should be installed unless it is positively identified as the correct part and the shelf life has
+not expired.
+(8) When installing seals, care should
+be exercised to ensure that the seal is not
+scratched, cut, or otherwise damaged. When it
+is necessary to install a seal over sharp edges,
+the edges must be covered with shim stock,
+plastic sheet, or electrical tape.
+(9) The replacement of hydraulic units
+and tubing usually involves the spillage of
+some hydraulic fluid. Care should be taken to
+ensure that the spillage of fluid is kept to a
+minimum by closing valves, if available, and
+by plugging lines immediately after they are
+disconnected. All openings in hydraulic systems should be capped or plugged to prevent
+contamination of the system.
+(10) The importance of the proper
+torque applied to all nuts and fittings in a system cannot be over-emphasized. Too much
+torque will damage metal and seals, and too
+little torque will result in leaks and loose parts.
+The proper torque wrenches with the appropriate range should be used in assembling system
+units.
+f. Disposal of Used Hydraulic Fluids. In
+the absence of organizational guidelines, the
+technician should be guided by local, state, and
+federal regulations, with regard to means of
+disposal of used hydraulic fluid. Presently, the
+most universally accepted procedure for disposal of phosphate ester-based fluid is incineration.

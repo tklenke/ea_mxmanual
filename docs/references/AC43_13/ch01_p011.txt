@@ -1,0 +1,63 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 1: MATERIALS AND PRACTICES
+
+1-11. METHOD OF APPLYING PRESSURE. The methods of applying pressure to
+joints in aircraft bonding operations range
+from the use of brads, nails, small screws, and
+clamps; to the use of hydraulic and electrical
+power presses. The selection of appropriate
+clamping means is important to achieving
+sound bond joints.
+a. Hand nailing is used rather extensively
+in the bonding of ribs and in the application of
+plywood skins to the wing, control surfaces,
+and fuselage frames. Small brass screws may
+also be used advantageously when the particular parts to be bonded are relatively small
+and do not allow application of pressure by
+means of clamps. Both nails and screws produce adverse after effects. There is considerable risk of splitting small parts when installing nails or screws. Metal fasteners also provide vulnerable points for moisture to enter
+during service.
+b. On small joints using thin plywood for
+gussets or where plywood is used as an outer
+skin, the pressure is usually applied by nailing
+or stapling. Thin plywood nailing strips are
+often used to spread the nailing pressure over a
+larger area and to facilitate removal of the nails
+after the adhesive has cured.
+c. The size of the nails must vary with
+the size of the members. If multiple rows of
+nails are required, the nails should be 1 inch
+apart in rows spaced 1/2 inch apart. The nails
+in adjacent rows should be staggered. In no
+case should the nails in adjacent rows be more
+than 3/4 inch from the nearest nail. The length
+of the nails should be such that they penetrate
+the wood below the joint at least 3/8 inch. In
+the case of small members, the end of the nail
+should not protrude through the member below
+the joint. Hit the nails with several light
+strokes, just seating the head into the surface
+of the gusset. Be careful not to crush the wood
+with a heavy hammer blow.
+d. In some cases the nails are removed
+after adhesive cure, while in others the nails
+are left in place. The nails are employed for
+clamping pressure during adhesive cure and
+must not be expected to hold members together in service. In deciding whether to re
+move nails after assembly, the mechanic
+should examine adjacent structure to see
+whether nails remain from original manufacture.
+e. On larger members (spar repairs for
+example), apply pressure by means of screw
+clamps, such as a cabinet-maker’s bar or
+“C-clamps.” Strips or blocks should be used
+to distribute clamping pressure and protect
+members from local crushing due to the
+limited pressure area of the clamps, especially
+when one member is thin (such as plywood).
+The strip or block should be at least twice as
+thick as the thinner member being bonded.
+f. Immediately after clamping or nailing
+a member, the mechanic must examine the entire joint to assure uniform part contact and
+adhesive squeeze-out. Wipe away excess adhesive.
+1-12.1-17.
+[RESERVED.]
+SECTION 2. HEALTH AND SAFETY

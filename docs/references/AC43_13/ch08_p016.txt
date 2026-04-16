@@ -1,0 +1,92 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-16. OPERATIONAL PROBLEMS.
+Whenever problems develop during engine
+operation, which appear to be caused by the
+ignition system, it is recommended that the
+spark plugs and ignition harnesses be checked
+first before working on the magnetos. The
+following are the more common spark plug
+malfunctions and are relatively easy to identify.
+a. Fouling.
+(1) Carbon fouling (see figure 8-6) is
+identified by the dull black, sooty deposits on
+the electrode end of the plug. Although the
+primary causes are excessive ground idling and
+rich idle mixtures, a cold heat range may also
+be a contributing factor.
+(2) Lead fouling is characterized by
+hard, dark, cinder-like globules which gradually fill up the electrode cavity and short out
+the plug. (See figure 8-6a.) The primary cause
+for this condition is poor fuel vaporization
+combined with a high tetraethyl-lead content
+fuel. A cold heat range may also contribute to
+this condition.
+(3) Oil fouling is identified by a wet,
+black carbon deposit over the entire firing end
+of the plug as shown in figure 8-6b. This condition is fairly common on the lower plugs in
+horizontally-opposed engines, and both plugs
+in the lower cylinders of radial engines. Oil
+fouling is normally caused by oil drainage past
+the piston rings after shutdown. However,
+when both spark plugs removed from the same
+cylinder are badly fouled with oil and carbon,
+some form of engine damage should be suspected, and the cylinder more closely inspected. Mild forms of oil fouling can usually
+be cleared up by slowly increasing power,
+while running the engine until the deposits are
+burned off and the misfiring stops.
+[FIG 8-6] Typical carbon-fouled spark plug.
+b. Fused Electrodes. There are many different types of malfunctions which result in
+fused spark plug electrodes; however, most are
+associated with pre-ignition either as the cause
+or the effect. For this reason, any time a spark
+plug is found with the following defects, further investigation of the cylinder and piston
+should be conducted.
+(1) Occasionally, the ceramic nose core
+will crack, break away, and remain trapped behind the ground electrode. This piece of insulation material will then buildup heat to the
+point it will ignite the fuel/air mixture prematurely. The high temperatures and pressures
+encountered during this condition can cause
+damage to the cylinder and piston and ultimately lead to fusing and shorting out of the
+plug. (See figure 8-6c.)
+FIGURE 8-6a. Typical lead-fouled spark plug.
+(2) Corrosive gases formed by combustion and the high voltage spark have eroded the
+electrodes. Spark plugs in this condition require more voltage to fire—often more than
+the ignition system can produce. (See figure 8-6d.)
+c. Bridged Electrodes. Occasionally, free
+combustion chamber particles will settle on the
+electrodes of a spark plug and gradually bridge
+the electrode gap, resulting in a shorted plug.
+Small particles may be dislodged by slowly
+cycling the engine as described for the oilfouled condition; however, the only remedy for
+more advanced cases is removal and replacement of the spark plug. This condition is
+shown in figure 8-6e.
+FIGURE 8-6b. Typical oil-fouled spark plug.
+d. Metal Deposits. Whenever metal spray
+is found on the electrodes of a spark plug, it is
+an indication that a failure of some part of the
+engine is in progress. The location of the cylinder in which the spray is found is important
+in diagnosing the problem, as various types of
+failures will cause the metal spray to appear
+differently. For example, if the metal spray is
+located evenly in every cylinder, the problem
+will be in the induction system, such as an impeller failure. If the metal spray is found only
+on the spark plugs in one cylinder, the problem
+is isolated to that cylinder and will generally
+be a piston failure.
+In view of the secondary damage which occurs
+whenever an engine part fails, any preliminary
+indication such as metal spray should be thoroughly investigated to establish and correct the
+cause.
+FIGURE 8-6c. Typical spark plug with cracked
+core nose.
+e. Flashover. It is important that spark
+plug terminal contact springs and moisture
+seals be checked regularly for condition and
+cleanliness to prevent “flashover” in the connector well. Foreign matter or moisture in the
+terminal connector well can reduce the insulation value of the connector to the point the ignition system voltages at higher power settings
+may flash over the connector well surface to
+ground and cause the plug to misfire. If
+moisture is the cause, hard starting can also result. The cutaway spark plug shown in figure 8-7 illustrates this malfunction. Any spark
+plug found with a dirty connector well may
+have this condition, and should be reconditioned before reuse.
+FIGURE 8-6d. Typical worn out spark plug.

@@ -1,0 +1,47 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 3: INSPECTION
+
+1-28. TYPES OF DETERIORATION
+AND DAMAGE.
+a. Wood Decay. Wood is an organic
+product which is subject to attack by fungi.
+Fungi are plants that grow on and in wood.
+The moisture content of the wood nominally
+will have to be 20 percent or greater to sustain
+fungus growth. The result of this growth is
+called decay. Decayed wood exhibits softness,
+swelling if still wet, excessive shrinkage when
+dry, cracking, and discoloration. Repair or replace wood if any amount or form of decay is
+found.
+b. Splitting. Splits or cracks in wooden
+members occur along grain lines. When the
+moisture content of wood is lowered, its dimensions decrease. The dimensional change is
+greatest in a tangential direction (across the fibers and parallel to the growth rings), somewhat less in a radial direction (across the fibers
+and perpendicular to the growth rings), and is
+negligible in a longitudinal direction (parallel
+to the fibers). These dimensional changes can
+have detrimental effects upon a wood structure, particularly when two parts are bonded
+together with grains in different directions.
+This effect can often be seen where a plywood
+doubler is bonded to a spruce member. As the
+spruce member dries, it attempts to shrink, but
+is restrained by the plywood, which shrinks
+less. The resulting stress in the spruce member
+exceeds its cross-grain strength, and a split occurs.
+c. Bond Failure. Bond joint failure is
+generally due to improper fabrication technique or prolonged exposure to moisture in
+service. Although none of the older adhesives
+have been specifically found to fail by simple
+aging, the mechanic is advised to inspect all
+accessible joints carefully.
+d. Finish Failure. The finish coat on
+wood structure (usually varnish) is the last line
+of defense to prevent water entry into wood
+and the resulting decay. Finish failure can be
+the result of prolonged water exposure, wood
+splitting, ultraviolet light exposure, or surface
+abrasion.
+e. Damage. Stress, impact, or mechanical
+damage to a wood structure is caused by excessive aerodynamic loads or impact loads occurring while the aircraft is on the ground.
+Overtightening of fittings can also cause
+crushing of the underlying wood member and
+possible bending of the metal fitting.

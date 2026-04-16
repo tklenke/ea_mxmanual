@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 6: PROPELLER TRACKING AND VIBRATION
+
+8-107. GENERAL. To ensure smooth
+powerplant operations, first start with a properly-installed propeller. Each propeller should
+be checked for proper tracking (blades rotating
+in the same plane of rotation). Manufacturer’s
+recommendations should in all cases be
+followed.

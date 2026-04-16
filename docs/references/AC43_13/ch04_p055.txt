@@ -1,0 +1,30 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-55. BENDING METAL. When describing a bend in aviation, the term “bend radii” is
+used to refer to the inside radius. Requirements for bending the metal to various shapes
+are frequently encountered. When a metal is
+bent, it is subjected to changes in its grain
+structure, causing an increase in its hardness.
+a. The minimum radius is determined by
+the composition of the metal, its temper, and
+thickness. Table 4-6 shows the recommended
+radius for different types of aluminum. Note
+that the smaller the thickness of the material,
+the smaller the recommended minimum bend
+radius, and that as the material increases in
+hardness, the recommended bend radii increases.
+b. When using layout techniques, the
+mechanic must be able to calculate exactly
+how much material will be required for the
+bend. It is easier to lay out the part on a flat
+sheet before the bending or shaping is performed. Before bending, smooth all rough
+edges, remove burrs, and drill relief holes at
+the ends of bend lines and at corners; to prevent cracks from starting. Bend lines should
+preferably be made to lie at an angle to the
+grain of the metal (preferably 90 degrees).
+c. Bend radii (BR) in inches for a specific metal composition (alloy) and temper is
+determined from table 4-6. For example, the
+minimum bend radii for 0.016 thick 2024-T6
+(alloy and temper) is found is found to be
+2 to 4 times the material thickness or
+0.032 to 0.064.

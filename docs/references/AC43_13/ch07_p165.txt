@@ -1,0 +1,27 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 9: TURNBUCKLES
+
+7-165. GENERAL. A turnbuckle is a device used in cable systems to provide a means
+of adjusting tension. Turnbuckles have barrelshaped sleeves with internal left- and righthand threads at opposite ends. The cables,
+with terminals attached, are made to such a
+length that, when the turnbuckle is adjusted to
+give the specified cable tension, a sufficient
+number of threads on the terminal ends are
+screwed into the barrel to hold the load. The
+clip-locking turnbuckle and its associated parts
+are identical to standard AN and MS parts except for a slot grooved on the interior of the
+barrel and the shanks of the forks, eyes, etc.
+The clip-locking turnbuckle parts have the
+following drawing numbers: MS21251, turnbuckle body; MS21252, turnbuckle clevis end;
+MS21253, turnbuckle clevis end (for bearing);
+NAS649 and NAS651, turnbuckle clip;
+MS21254 and NAS648, turnbuckle eye (for
+pin); MS21255 and NAS647, turnbuckle eye
+end (for wire rope); NAS645 and NAS646,
+turnbuckle fork; MS21256, turnbuckle barrel
+locking clip; AN130-170, turnbuckle assemblies; and, MS21259 and MS21260, terminal,
+wire rope, stud.
+NOTE: Turnbuckles showing signs of
+thread distortion/bending should be
+replaced. Turnbuckle ends are designed for providing the specified cable tension on a cable system, and a
+bent turnbuckle would place undesirable stress on the cable, impairing the
+function of the turnbuckle.

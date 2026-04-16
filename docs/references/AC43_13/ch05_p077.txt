@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-77. ADVANTAGE OF REAL-TIME
+RADIOGRAPHY OVER FILM RADIOGRAPHY. The principal advantage of real-time
+radiography over film radiography is the opportunity to manipulate the test piece during
+radiographic inspection. This capability allows the inspection of internal mechanisms
+and enhances the detection of cracks and planar defects by allowing manipulation of the
+part to achieve the best orientation for flaw
+detection. Part manipulation during inspection
+also simplifies three-dimensional dynamic imaging for the determination of flaw location
+and size. In film radiography, depth parallel to
+the radiation beam is not recorded. Consequently, the position of a flaw within the volume of a test piece cannot be determined exactly with a single radiograph. To determine
+flaw location and size more exactly with film
+radiography, other film techniques; such as stereo-radiography, triangulation, or simply
+making two or more film exposures with the
+radiation beam being directed at the test piece
+from a different angle for each exposure, must
+be used.

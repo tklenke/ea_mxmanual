@@ -1,0 +1,31 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 7: SAFETYING
+
+7-127. SECURING WITH COTTER
+PINS.
+a. Cotter pins are used to secure such
+items as bolts, screws, pins, and shafts. Their
+use is favored because they can be removed
+and installed quickly. The diameter of the
+cotter pins selected for any application should
+be the largest size that will fit consistent with
+the diameter of the cotter pin hole and/or the
+slots in the nut. Cotter pins should not be reused on aircraft.
+b. To prevent injury during and after pin
+installation, the end of the cotter pin can be
+rolled and tucked.
+NOTE: In using the method of cotter
+pin safetying, as shown in figures 7-6
+and 7-7, ensure the prong, bent over
+the bolt, is seated firmly against the
+bolt shank, and does not exceed bolt
+diameter. Also, when the prong is
+bent over the nut, ensure the bent
+prong is down and firmly flat against
+the nut and does not contact the surface of the washer.
+[FIG 7-6] Securing with cotter pins.
+[FIG 7-7] Alternate method for securing with cotter
+pins.
+7-128.7-139.
+[RESERVED.]
+SECTION 8. INSPECTION AND
+AND TURNBUCKLES

@@ -1,0 +1,93 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 2: APPLICATION OF DOPE
+
+2-23. COATING APPLICATION DEFECTS.
+a. Blushing. The appearance of light
+shaded dull areas on the surface as dope dries
+is the result of moisture in the atmosphere
+condensing on a surface due to the cooling effect of the fast-evaporating components of
+dope thinner escaping from the coating.
+Blushing can occur at any temperature when
+the humidity is above 65 percent. There are
+several ways to remedy this problem. The
+drying time may be slowed by adding up to
+1 quart of blush retarder to 1 gallon of dope or
+by increasing the temperature of the dope room
+and eliminating any cooling draft from blowing across the surface. Blushed surfaces may
+be reworked by spraying several, closely-timed
+coats of a 50/50 blend of blush retarder and
+dope thinner to soften and return the dope surface to the original liquid state. Blush retarder,
+mixed with dope, may delay the full drying
+time by several days, but will eventually escape from the dope film if the room temperature is maintained an average of 70 °F.
+b. Pinholes. Voids between the fabric
+threads that are not filled with the first coats of
+dope are called pinholes. They may be caused
+by fabric contamination, such as oil or finger
+prints, but are usually the result of improper
+dope application. Pinholes are usually found
+in a second layer of fabric such as finishing
+tapes and reinforcing patches or over underlying, non-porous structures; such as leading
+edges, turtle decks, and plywood surfaces.
+Any non-porous structure under fabric will act
+as a backstop and will resist complete dope
+penetration into the fabric. Microscopic cavities between the backstop and fabric collect
+escaping solvent vapors during the drying process and balloon up through the surface leaving pinholes, or become pinholes when the top
+of the balloon is sanded. Moisture, in the fabric or on the backstop surface, also interferes
+with complete dope penetration, resulting in
+pinholes. The remedy for pinholes, at any
+stage before the final finish coat, is to add
+blush retarder to low viscosity dope and carefully brush over the affected surfaces to penetrate into and fill the pinholes. Discontinue
+brushing after five or six strokes to avoid
+leaving brush marks.
+c. Orange Peel. A rough spray gunapplied finish, similar to the texture of an orange peel, may be caused by one or more of
+the following conditions:
+(1) Viscosity of material being sprayed
+is too high.
+(2) Air temperature is too high.
+(3) Spraying in direct sunlight, onto a
+hot surface or in a drafty/windy condition,
+which causes a fast solvent evaporation.
+(4) Spray gun, tip, cap, and/or needle
+are not properly matched for the type material
+being sprayed.
+(5) Volume of air available from the
+compressor not sufficient for spray gun.
+(6) Wrong thinner used and drying too
+fast.
+(7) Spray gun not properly adjusted.
+The spray gun should be adjusted to a uniform
+spray pattern with the material atomized to deposit fine, wet particles that merge and form a
+smooth film.
+d. Blisters. One or more of the following
+conditions my cause blisters:
+(1) Freshly coated surface placed in hot
+sunlight or high temperature area to accelerate
+drying time, causing the vapor from rapidly
+evaporating solvents to be trapped.
+(2) Excessive high air pressure used to
+spray heavy coats which “blasts” air bubbles
+into the coating.
+(3) Water or oil in air supply.
+e. Runs, Sags, and Curtains. These defects may be caused by one or more of the
+following conditions:
+(1) Viscosity of material being sprayed
+is too low.
+(2) Coats applied too heavily.
+(3) Insufficient drying time between
+coats.
+(4) Spray gun held too close to work
+surface.
+(5) Improperly adjusted spray gun.
+f. Spray Gun Laps and Streaks. These
+defects may be caused by one or more of the
+following conditions:
+(1) Spray gun not properly adjusted to
+spray a wet, smooth surface.
+(2) Overspray on a partially-dried surface.
+(3) Spray pattern not sufficiently overlapped on each pass.
+(4) Viscosity of material being sprayed
+is too high.
+(5) Metallic finishes sprayed too heavily allowing metallic pigments to move or flow
+after deposit, causing a marbled appearance.
+2-24.2-29.
+[RESERVED.]
+SECTION 3. INSPECTION AND TESTING

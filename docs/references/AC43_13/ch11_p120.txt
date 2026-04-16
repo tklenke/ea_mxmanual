@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-120. RF CABLE. All wiring needs to be
+protected from damage. However, coaxial and
+triaxial cables are particularly vulnerable to
+certain types of damage. Personnel should exercise care while handling or working around
+coaxial. Coaxial damage can occur when
+clamped too tightly, or when they are bent
+sharply (normally at or near connectors).
+Damage can also be incurred during unrelated
+maintenance actions around the coaxial cable.
+Coaxial can be severely damaged on the inside
+without any evidence of damage on the outside. Coaxial cables with solid center conductors should not be used. Stranded center
+coaxial cables can be used as a direct replacement for solid center coaxial.

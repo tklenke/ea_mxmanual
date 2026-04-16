@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 12: WIRE INSULATION AND LACING STRING TIE
+
+11-157. STRIPPING INSULATION.
+Attachment of wire, to connectors or terminals, requires the removal of insulation to expose the conductors. This practice is commonly known as stripping. Stripping may be
+accomplished in many ways; however, the
+following basic principles should be practiced.
+a. Make sure all cutting tools used for
+stripping are sharp.
+b. When using special wire stripping
+tools, adjust the tool to avoid nicking, cutting,
+or otherwise damaging the strands.
+c. Damage to wires should not exceed the
+limits specified in table 11-13.
+d. When performing the stripping operation, remove no more insulation than is
+necessary.

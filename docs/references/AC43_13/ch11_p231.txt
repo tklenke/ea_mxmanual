@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-231. SELECTION. Connectors
+.
+should be selected to provide the maximum
+degree of safety and reliability considering
+electrical and environmental requirements.
+Consider the size, weight, tooling, logistic,
+maintenance support, and compatibility with
+standardization programs. For ease of assembly and maintenance, connectors using
+crimped contacts are generally chosen for all
+applications except those requiring an hermetic seal. (Reference SAE ARP 1308, Preferred Electrical Connectors For Aerospace
+Vehicles and Associated Equipment.) A replacement connector of the same basic type
+and design as the connector it replaces should
+be used. With a crimp type connector for any
+electrical connection, the proper insertion, or
+extraction tool must be used to install or remove wires from such a connector. Refer to
+manufacturer or aircraft instruction manual.
+After the connector is disconnected, inspect it
+for loose soldered connections to prevent unintentional grounding. Connectors that are
+susceptible to corrosion difficulties may be
+treated with a chemically inert waterproof
+jelly.

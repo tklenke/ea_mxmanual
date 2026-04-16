@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 12: PLATED PARTS
+
+6-193. CHROMIUM AND NICKELPLATED PARTS. Nickel and chromium
+platings are used extensively as protective and
+wear-resistant coatings over high-strength steel
+parts (landing gear journals, shock strut pistons, etc.). Chromium and nickel plate provide
+protection by forming a somewhat impervious
+physical coat over the underlying base metal.
+When breaks occur in the surface, the protection is destroyed.
+a. The amount of reworking that can be
+performed on chromium and nickel-plated
+components is limited.
+b. The rework should consist of light
+buffing to remove corrosion products and produce the required smoothness. The buffing
+should not take the plating below the minimum allowable thickness.
+c. Whenever a chromium or nickel-plated
+component requires buffing, coat the area with
+a corrosion-preventive compound, if possible.
+d. When buffing exceeds the minimum
+thickness of the plating, or the base metal has
+sustained corrosive attack, the component
+should be removed and replaced.
+e. The removed component can be restored to serviceable condition by having the
+old plating completely stripped and replated in
+accordance with acceptable methods and
+specifications.

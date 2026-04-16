@@ -1,0 +1,29 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-47. APPLICATION OF MAGNETIC
+PARTICLES. The magnetic particles used
+can be nonfluorescent or fluorescent (dependent on the examination required) and are applied suspended in a suitable substance. Fluorescent particles are preferred due to their
+higher sensitivity.
+a. Wet Continuous Method. Unless otherwise specified, use only the wet continuous
+method. In the wet continuous method, the
+particle suspension is liberally applied to wet
+all surfaces of the part. The magnetizing current is applied at the instant the suspension is
+diverted from the part. Apply two shots of
+magnetizing current, each at least 1/2 second
+long.
+(1) Wet suspensions of fluorescent particles, either in water or oil, should be used for
+most overhaul and in-service examinations except where the material, size, or shape of the
+part prohibits its use.
+(2) Water, with a suitable rust inhibitor
+and wetting agent, may be used as a liquid vehicle, provided that magnetic examination
+equipment is designed for use or is satisfactorily converted for use with water.
+b. Dry Continuous Method. This
+method is not recommended for use on aerospace components because of its lower sensitivity level.
+c. Residual Magnetization Method. In
+this method, the part is magnetized and the
+magnetizing current is then cut off. If the amperage has been correctly calculated and quality indicator has verified the technique, then
+one shot will correctly magnetize the part. The
+magnetic particles are applied to the part after
+the magnetization. This method is dependent
+upon the retentiveness of the part, the strength
+of the applied field, the direction of magnetization, and the shape of the part.

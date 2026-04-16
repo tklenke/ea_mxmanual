@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 2: SCREWS
+
+7-14. GENERAL. In general, screws differ
+from bolts by the following characteristics.
+a. Screws usually have lower material
+strength, a looser thread fit, head shapes
+formed to engage a screwdriver, and the shank
+may be threaded along its entire length without
+a clearly defined grip. Screws may be divided
+into three basic groups: structural screws, machine screws, and self-tapping screws. Screws
+are marked as required by the applicable Army
+Navy (AN), National Aerospace Standard
+(NAS), or Military Standard (MS) drawing.
+Normally a manufacturer places his trademark
+on the head of the screw. Several types of
+structural screws are available that differ from
+the standard structural bolts only in the type of
+head.
+b. It would be impossible to cover all
+screws that are available to the aviation market; therefore, only the most frequently used
+screws will be discussed in this text. Design
+specifications are available in MIL-HDBK-5,
+or U.S.A.F./Navy T.O.1-1A-8/NAVAIR
+01-1A-8, Structural Hardware.
+c. Typical screw types are shown in table 7-11.

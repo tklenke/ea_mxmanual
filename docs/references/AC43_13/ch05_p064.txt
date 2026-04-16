@@ -1,0 +1,64 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 5: PENETRANT INSPECTION
+
+5-64. TECHNICAL STANDARDS. Two
+of the more generally accepted aerospace industry standards are the MIL-I-25135E, Inspection Materials, Penetrants (see table 5-6)
+and ASTM-E-1417. The penetrant materials
+specification (MIL-I-25135E) is used to procure penetrant materials and the process control specification (MIL-STD-6866) is used to
+establish minimum requirements for conducting a penetrant inspection. Table 5-6 provides
+a partial listing of commonly-accepted standards and specifications for penetrant inspection.
+[TABLE 5-6] Listing of commonly accepted standards and
+NUMBER
+ASTM STANDARDS
+ASTM-E-165 Standard Practice for Liquid Penetrant Inspection
+ASTM -E-270 Standard Definitions of Terms Relating to
+ASTM -E-1135 Standard Method for Comparing the Brightness
+ASTM -E-1208 Standard Method for Fluorescent Liquid
+Process
+ASTM -E-1209 Standard Method for Fluorescent Penetrant
+ASTM -E-1210 Standard Method for Fluorescent Penetrant
+ASTM -E-1219 Standard Method for Fluorescent Penetrant
+ASTM -E-1220 Standard Method for Visible Penetrant Examination
+ASTM -E-2512 Compatibility of Materials with Liquid Oxygen
+SAE-AMS
+SPECIFICATIONS
+AMS-2647 Fluorescent Penetrant Inspection - Aircraft
+US GOVERNMENT
+SPECIFICATIONS
+MIL-STD-271 Requirements for Nondestructive Testing
+MIL-STD-410 Nondestructive Testing Personnel Qualifications
+MIL-STD-1907 Inspection, Liquid Penetrant and Magnetic
+MIL-STD-6866 Inspection, Liquid Penetrant
+MIL-STD-728/1 Nondestructive Testing
+MIL-STD-728/3 Liquid Penetrant Testing
+MIL-STD-25135E Inspection Materials, Penetrants
+QPL-25135 Qualified Products List of Materials Qualified
+T.O. 33B-1-1 U.S. Air Force/Navy Technical Manual,
+OTHER
+PUBLICATIONS
+SNT-TC-1A Personnel Qualification and Certification
+ATA No. 105 Guidelines for Training and Qualifying Personnel
+Metals Handbook, Nondestructive Evaluation, and Quality
+Ninth Edition,
+Volume 17
+5-65.5-72.
+[RESERVED.]
+specifications for penetrant inspection.
+TITLE
+Method
+Liquid Penetrant Inspection
+of Fluorescent Penetrants
+Penetrant Examination Using the Lipophilic Post-Emulsification
+Examination Using the Water Washable Process
+Examination Using the Hydrophilic Post-Emulsification Process
+Examination Using the Solvent Removable Process
+Using the Solvent Removable Method
+(Impact-Sensitivity Threshold Technique)
+and Engine Component Maintenance
+and Certifications
+Particle, Soundness Requirements for Materials, Parts and Welds
+Under MIL-I-25135
+Nondestructive Testing Methods
+in Nondestructive Testing and Recommended Training Courses
+in Nondestructive Methods,
+Control
+SECTION 6. RADIOGRAPHY (X-RAY) INSPECTION

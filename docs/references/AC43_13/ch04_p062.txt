@@ -1,0 +1,325 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-62. SELECTIVE PLATING IN AIRCRAFT MAINTENANCE. Selective plating
+is a method of depositing metal from an electrolyte to the selected area. The electrolyte is
+held in an absorbent material attached to an inert anode. Plating contact is made by brushing
+or swabbing the part (cathode) with the electrolyte-bearing anode.
+a. Selective Plating Uses. This process
+can be utilized for any of the following reasons.
+THE NUMBER OF RIVETS REQUIRED
+OF THE CUT IS DETERMINED BY
+OF THE FRAME “t,” AND THE RIVET
+10 IN A MANNER SIMILAR TO THAT
+20.
+NOTE b. IN TABLE 4-10 INDICATES
+THE NUMBER OF RIVETS SO
+SPLICES IN INTERMEDIATE.
+“L” SHOULD BE MORE THAN TWICE
+Thickness of splice plate to be greater
+[FIG 4-20] Example of intermediate frame stringer splice
+IN EACH LEG ON EACH SIDE
+THE WIDTH “W,” THE THICKNESS
+DIAMETER “d” USING TABLE 4FOR STRINGERS IN FIGURE 4THAT ONLY 60 PERCENT OF
+CALCULATED NEED BE USED IN
+EXAMPLE: (FOR 2017-T3 aluminum alloy frame)
+FLANGE LEG
+t = .040”
+d = 1/8” 2117-T4 (AD)
+W & W = .6 inch
+1 3
+NO. OF RIVETS PER INCH OF WIDTH
+FROM TABLE 4-10 = 6.2
+No. of rivets required = W x 6.2 =
+.6 x 6.2 = 3.72 or 4 rivets.
+60 percent of 4 rivets = 2.4 rivets.
+USE 3 RIVETS ON EACH SIDE OF THE
+CUT IN EACH FLANGE LEG.
+WEB OF ZEE (OR CHANNEL)
+t = .040”
+d = 1/8” 2117-T4 (AD) rivet
+W = 2.0 inches
+NO. OF RIVETS PER INCH OF WIDTH
+FROM TABLE 4-10 = 6.2
+No. of rivets required = W x 6.2 =
+2.0 x 6.2 = 12.4 or 13 rivets.
+60 percent of 13 rivets = 7.8 rivets.
+USE 8 RIVETS ON EACH SIDE OF CUT
+IN THE WEB OF ZEE (OR CHANNEL).
+W
+2
+than that of the frame to be spliced.
+(material 2017-T3 AL alloy).
+[FIG 4-21] Typical methods of repairing cracked leading
+and trailing edges and rib intersections.
+[FIG 4-22] Typical methods of replacing cracked members
+at fittings.
+[FIG 4-23] Typical methods of repairing cracked frame and
+stiffener combination.
+[FIG 4-24] Typical repairs to rudder and to fuselage at
+tail post.
+[FIG 4-25] Typical methods of repairing elongated or worn
+bolt holes.
+(1) To prevent or minimize disassembly, or reassembly.
+(2) Resizing worn components (plate to
+size).
+(3) Filling in damaged or corroded areas.
+(4) To plate small areas of extremely
+large parts.
+(5) To plate electrical contacts.
+(6) To plate parts too large for existing
+baths.
+(7) To supplement conventional plating.
+(8) To plate components which become
+contaminated if immersed in a plating bath.
+(9) To cadmium-plate ultrahigh strength
+steels without hydrogen embrittlement.
+(10) On-site plating.
+(11) Reverse current applications (e.g.,
+stain removal, deburring, etching, and dynamic
+balancing).
+b. Specifications. Selective plating
+(electrodepositions), when properly applied,
+will meet the following specifications and
+standards.
+(1) QQ-C-320, Chromium Plating.
+(2) QQ-N-290, Nickel Plating.
+(3) QQ-P-416, Cadmium Plating.
+(4) QQ-S-365, Silver Plating.
+(5) QQ-Z-325, Zinc Plating.
+(6) MIL-T-10727, Tin Plating.
+(7) MIL-C-14550, Copper Plating.
+(8) MIL-G-45204, Gold Plating.
+c. General Requirements.
+(1) Areas to be repaired by this process
+should be limited to small areas of large parts,
+particularly electrical or electronic parts.
+(2) All solutions should be kept clean
+and free from contamination. Care should be
+taken to insure that the solutions are not contaminated by used anodes or other plating solutions. Brush-plating solutions are not designed to remove large amounts of scale, oil,
+or grease. Mechanical or chemical methods
+should be used to remove large amounts of
+scale or oxide. Use solvents to remove grease
+or oil.
+(3) Brush-plating solutions are five to
+fifty times as concentrated as tank solutions.
+The current densities used range from 500 to
+4,000 amps/feet2. The voltages listed on the
+solution bottles have been precalculated to
+give proper current densities. Too high a current density burns the plating, while too low a
+current density produces stressed deposits and
+low efficiencies. Agitation is provided by anode/cathode motion. Too fast a motion results
+in low efficiencies and stressed deposits, and
+too slow a motion causes burning. A dry tool
+results in burnt plate, coarse grain structure,
+and unsound deposits. The tool cannot be too
+°F
+wet. Solution temperatures of 110 to
+°F
+120 are reached during operation.
+(4) Materials such as stainless steel,
+aluminum, chromium, and nickel (which have
+a passive surface) will require an activating
+operation to remove the passive surface. During the activating process, do not use solutions
+that have been previously used with reverse
+current (because of solution contamination).
+d. Equipment. The power source should
+operate on either 110 or 220-volt alternating
+current (AC), 60 Hertz, single-phase input. It
+should have a capability to produce direct current (DC) having smooth characteristics with
+controlled ripple and be able to output a current of at least 25 amperes at 0 to 25 volts.
+Minimum instrumentation of the power source
+should include a voltmeter, ammeter, and ampere-hour meter.
+(1) The ammeter should provide a fullscale reading equal to the maximum capacity
+of the power source, and with an accuracy of
+±5 percent of the current being measured.
+(2) The voltmeter should have sufficient
+capacity to provide a full-scale reading equal
+to the maximum capacity of the power source
+and an accuracy of ±1.0 volt.
+(3) An ampere-hour meter should be
+readable to 0.001 ampere-hour and have an accuracy of ±0.01 ampere-hour.
+(4) The stylus should be designed for
+rapid cooling and to hold anodes of various
+sizes and configurations. For safety, the anode
+holder should be insulated.
+(5) The containers for holding and
+catching runoff solutions should be designed to
+the proper configuration and be inert to the
+specific solution.
+(6) The mechanical cleaning equipment
+and materials should be designed and selected
+to prevent contamination of the parts to be
+cleaned.
+e. Materials. The anodes should be of
+high-purity dense graphite or platinum-iridium
+alloys. Do not mix solutions from different
+suppliers. This could result in contamination.
+f. Detail Requirements. On large parts,
+no area greater than approximately 10 percent
+of the total area of the part should be plated by
+this selective plating process. Small parts may
+be partially or completely plated. Special
+cases exceeding these limitations should be
+coordinated with the manufacturer of the plating equipment being used and their recommendations should be followed.
+g. Anode Selection. As a general guide,
+the contact area of the anode should be approximately one-third the size of the area to be
+plated. When selecting the anode, the configuration of the part will dictate the shape of the
+anode.
+h. Required Ampere-Hour Calculation.
+The selected plating solution has a factor
+which is equal to the ampere-hours required to
+deposit 0.0001 inch on 1 square inch of surface. Determine the thickness of plating desired on a certain area, and multiply the solution factor times the plating thickness times the
+area in square inches to determine the ampere-hours required. This factor may vary because of temperature, current density, etc.
+i. Cleaning. Remove corrosion, scale,
+oxide, and unacceptable plating prior to processing. Use a suitable solvent or cleaner to
+remove grease or oil.
+j. Plating on Aluminum and Aluminum
+Base Alloys.
+(1) Electroclean the area using direct
+current until water does not break on the surface. This electroclean process should be accomplished at 10 to 15 volts, using the appropriate electroclean solution.
+(2) Rinse the area in cold, clean tap
+water.
+(3) Activate the area with reverse current, 7 to 10 volts, in conjunction with the
+proper activating solution until a uniform,
+gray-to-black surface is obtained.
+(4) Rinse thoroughly in cold, clean tap
+water.
+(5) Immediately electroplate to color
+while the area is still wet, using the appropriate
+nickel solution.
+(6) Rinse thoroughly.
+(7) Immediately continue plating with
+any other solution to desired thickness.
+(8) Rinse and dry.
+k. Plating on Copper and Copper Base
+Alloys.
+(1) Electroclean the area using direct
+current until water does not break on the surface. The electroclean process should be accomplished at 8 to 12 volts using the appropriate electroclean solution.
+(2) Rinse the area in cold, clean tap
+water.
+(3) Immediately electroplate the area
+with any of the plating solutions, except silver.
+Silver requires an undercoat.
+(4) Rinse and dry.
+l. Plating on 300 and 400 Series Stainless Steels, Nickel Base Alloys, Chrome Base
+Alloys, High Nickel Ferrous Alloys, Cobalt
+Base Alloys, Nickel Plate, and Chrome
+Plate.
+(1) Electroclean the area using direct
+current until water does not break on the surface. This electroclean process should be accomplished at 12 to 20 volts using the appropriate electrocleaning solution.
+(2) Rinse the area in cold, clean tap
+water.
+(3) Activate the surface using direct
+current for 1 to 2 minutes, using the activating
+solution, and accomplish at 6 to 20 volts.
+(4) Do not rinse.
+(5) Immediately nickel-flash the surface
+to a thickness of 0.00005 to 0.0001 inch, using
+the appropriate nickel solution.
+(6) Rinse thoroughly.
+(7) Immediately continue plating with
+any other solution to desired thickness.
+(8) Rinse and dry.
+m. Plating on Low-Carbon Steels (Heat
+Treated to 180,000 psi).
+(1) Electroclean the area using direct
+current until water does not break on the surface. This electroclean process should be accomplished at 12 to 20 volts, using the appropriate electrocleaning solution.
+(2) Rinse the area in cold, clean tap
+water.
+(3) Reverse-current etch at 8 to
+10 volts, using the appropriate activating solution, until a uniform gray surface is obtained.
+(4) Rinse thoroughly.
+(5) Immediately electroplate the part
+using any solutions, except copper or silver.
+Both of these require undercoats.
+(6) Rinse and dry.
+n. Plating on Cast Iron and
+High-Carbon Steels (Steels Heat Treated to
+180,000 psi).
+(1) Electroclean the area using direct
+current until water does not break on the surface. This electroclean process should be accomplished at 12 to 20 volts, using the appropriate electrocleaning solution.
+(2) Rinse the area thoroughly in cold,
+clean tap water.
+(3) Reverse-current etch at 8 to
+10 volts, using the appropriate etching solution, until a uniform gray is obtained.
+(4) Rinse thoroughly.
+(5) Remove surface smut with 15 to
+25 volts using the appropriate activating solution.
+(6) Rinse thoroughly.
+(7) Electroplate immediately, using any
+of the solutions, except copper or silver (both
+of these require undercoats).
+(8) Rinse and dry.
+o. Plating on Ultrahigh Strength Steels
+(Heat Treated Above 180,000 psi).
+(1) Electroclean the area using reverse
+current until water does not break on the surface. This electroclean process should be accomplished at 8 to 12 volts using the appropriate electroclean solution.
+(2) Rinse the area thoroughly in cold,
+clean tap water.
+(3) Immediately electroplate the part,
+using either nickel, chromium, gold, or cadmium. Other metals require an undercoat of
+one of the above. Plate initially at the highest
+voltage recommended for the solution so as to
+develop an initial barrier layer. Then reduce to
+standard voltage.
+(4) Rinse and dry.
+°F
+(5) Bake the part for 4 hours at 375
+± °F.
+25
+NOTE: Where the solution vendor
+provides substantiating data that hydrogen embrittlement will not result
+from plating with a particular solution, then a postbake is not required.
+This substantiating data can be in the
+form of aircraft industry manufacturer’s process specifications, military
+specifications, or other suitable data.
+NOTE: Acid etching should be
+avoided, if possible. Where etching is
+absolutely necessary, it should always
+be done with reverse current. Use alkaline solutions for initial deposits.
+p. Dissimilar Metals and Changing
+Base. As a general rule, when plating two dissimilar metals, follow the plating procedure for
+the one with the most steps or activation. If
+activating steps have to be mixed, use reversecurrent activation steps prior to direct-current
+activation steps.
+q. Plating Solution Selection.
+(1) Alkaline and neutral solutions are to
+be used on porous base metals, white metals,
+high-strength steel, and for improved coating
+ability. Acid solutions are to be used for rapid
+buildup and as a laminating structure material
+in conjunction with alkaline-type solutions.
+(2) Chrome brush-plating solutions do
+not yield as hard a deposit as bath-plating solutions. The hardness is about 600 Brinell as
+compared to 1,000 Brinell for hard chrome deposited from a tank.
+(3) Silver-immersion deposits will form
+with no current flowing on most base metals
+from the silver brush-plating solutions. Such
+deposits have poor adhesion to the base metal.
+Consequently, a flash of a more noble metal
+should be deposited prior to silver plating to
+develop a good bond.
+(4) In general, brush plating gives less
+hydrogen embrittlement and a lower fatigue
+strength loss than does equivalent tank deposits. However, all brush-plated, ultrahigh
+strength steel parts (heat treated above
+180,000 psi) should be baked, as mentioned,
+unless it is specifically known that embrittlement is not a factor.
+r. Qualification Tests. All brush-plated
+surfaces should be tested for adhesion of the
+electrodeposit. Apply a 1-inch wide strip of
+Minnesota Mining and Manufacturing tape
+code 250, or an approved equal, with the adhesive side to the freshly plated surface. Apply
+the tape with heavy hand pressure and remove
+it with one quick motion perpendicular to the
+plated surface. Any plating adhering to the
+tape should be cause for rejection.
+s. Personnel Training for Quality Control. Manufacturers of selective-plating
+equipment provide training in application
+techniques at their facilities. Personnel performing selective plating must have adequate
+knowledge of the methods, techniques, and
+practices involved. These personnel should be
+certified as qualified operators by the manufacturers of the products used.
+4-63.4-73.
+[RESERVED.]
+SECTION 5. WELDING AND BRAZING

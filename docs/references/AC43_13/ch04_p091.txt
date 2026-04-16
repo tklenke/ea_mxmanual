@@ -1,0 +1,58 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-91. REPAIR OF TUBULAR MEMBERS.
+a. Inspection. Prior to repairing tubular
+members, carefully examine the structure surrounding any visible damage to insure that no
+secondary damage remains undetected. Secondary damage may be produced in some
+structure, remote from the location of the primary damage, by the transmission of the damaging load along the tube. Damage of this nature usually occurs where the most abrupt
+change in direction of load travel is experienced. If this damage remains undetected,
+subsequent normal loads may cause failure of
+the part.
+b. Location and Alignment of Welds.
+Unless otherwise noted, welded steel tubing
+may be spliced or repaired at any location
+along the length of the tube. To avoid distortion, pay particular attention to the proper fit
+and alignment.
+c. Members Dented at a Cluster. Repair
+dents at a steel-tube cluster joint by welding a
+specially formed steel patch plate over the
+dented area and surrounding tubes. (See figure 4-34.) To prepare the patch plate, cut a
+section of steel sheet of the same material and
+thickness as the heaviest tube damaged. Trim
+the reinforcement plate so that the fingers extend over the tubes a minimum of 1.5 times the
+respective tube diameter. (See figure 4-34.)
+Remove all the existing finish on the damaged
+cluster-joint area to be covered by the reinforcement plate. The reinforcement plate may
+be formed before any welding is attempted, or
+it may be cut and tack-welded to one or more
+of the tubes in the cluster joint, then heated
+and formed around the joint to produce a
+smooth contour. Apply sufficient heat to the
+plate while forming so that there is generally a
+gap of no more than 1/16 inch from the contour of the joint to the plate. In this operation
+avoid unnecessary heating, and exercise care to
+prevent damage at the point of the angle
+[TABLE 4-15] Chart showing Welding Filler Rod
+Welding Rod # AMS Spec. AWS
+4130 AMS 6457 AWS A5.18 Mild Steel, 4130 steel
+4140 AMS 6452 AWS A5.28 4140 Steel
+4043 AMS 4190 AWS A5.10 Most weldable Aluminum
+308L AMS 5692 AWS A5.9 304 Stainless steel
+316L AMS 5692 AWS A5.9 316 Stainless steel
+AZ61A AMS 4350 AWS
+ERTi-5 AMS 4954 AWS
+formed by any two adjacent fingers of the
+plate. After the plate is formed and tack
+welded to the cluster joint, weld all the plate
+edges to the cluster joint.
+selection.
+Spec. Welds these Metals
+A5.19 AZ61A Magnesium
+A5-16 Titanium
+[FIG 4-34] Finger patch repairs for members dented at a cluster.
+d. Members Dented in a Bay. Repair
+dented, bent, cracked, or otherwise damaged
+tubular members by using a split-sleeve reinforcement. Carefully straighten the damaged
+member, and in the case of cracks, drill
+No. 40 (0.098) inch stop holes at the ends of
+the crack.

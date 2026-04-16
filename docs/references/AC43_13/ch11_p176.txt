@@ -1,0 +1,42 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 14: TERMINAL REPAIRS
+
+11-176. STUDS AND INSULATORS. The
+following recommendations concerning studs
+also apply to other feed-through conductors.
+a. Current Carrying Stud Resistance.
+Due to heat loss arising from wire-to-lug and
+lug-to-stud voltage drop, the resistance per unit
+length of a current carrying stud should not be
+greater than that of the wire.
+b. Size of Studs. In designing the stud for
+a feed-through connection, attention should be
+given to the higher resistance of brass, as compared to copper. A suggested method of determining the size is to use a current density in
+the stud equivalent to that of the wire, compensating for the difference of resistance of the
+metals. Consideration should also be given to
+mechanical strength.
+c. Support for Studs. The main stud
+support in the feed-through insulation should
+be independent of the attachment of the lugs to
+the stud. Therefore, loosening of the insulation support of the stud will not affect the
+electric contact efficiency. In other words, the
+contact pressure on the wire lugs should not in
+any way be affected by the loosening of the
+stud in the insulator.
+d. Support of Wire at Studs. Unless
+some other positive locking action is provided,
+the lug or wire should be supported next to the
+stud to prevent loosening the connection with a
+side pull on the wire. Torque recommendations for attaching electrical wiring devices to
+terminal boards or blocks, studs, posts, etc.,
+are normally found in the manufacturer’s
+maintenance instruction manual.
+e. Feed-Through Insulator and Stud
+Design. Feed-through insulator design should
+be such as to prevent a loose insulator from
+failing to provide circuit isolation. It should
+not be able to move from between the stud and
+the structure, thus allowing the two to come
+into contact. The assembly should be so designed that it is impossible to inadvertently
+misassemble the parts so that faults will result.
+Also, it is desirable to provide means to prevent the feed-through stud from turning while
+tightening the connection.

@@ -1,0 +1,55 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 2: TESTING OF METALS
+
+4-18. BRINELL HARDNESS TEST. In
+this test a standard constant load, usually
+500 to 3,000 kg, is applied to a smooth flat
+metal surface by a hardened steel-ball type indenter, 10 mm in diameter. The 500-kg load is
+usually used for testing nonferrous metals such
+as copper and aluminum alloys, whereas the
+3,000-kg load is most often used for testing
+harder metals such as steels and cast irons.
+The numerical value of Brinell Hardness (HB),
+is equal to the load, divided by the surface area
+of the resulting spherical impression.
+P
+HB =
+D
+(π − −
+[D (D2 d 2 )])
+2
+Where P is the load, in kg; D is the diameter of
+the ball, in mm; and d is the diameter of the
+indentation, in mm.
+a. General Precautions. To avoid misapplication of Brinell hardness testing, the
+fundamentals and limitations of the test procedure must be clearly understood. To avoid inaccuracies, the following rules should be followed.
+(1) Do not make indentations on a
+curved surface having a radius of less than
+1 inch.
+(2) Do make the indentations with the
+correct spacing. Indentations should not be
+made too close to the edge of the work piece
+being tested.
+(3) Apply the load steadily to avoid
+overloading caused by inertia of the weights.
+(4) Apply the load so the direction of
+loading and the test surface are perpendicular
+to each other within 2 degrees.
+(5) The thickness of the work piece
+being tested should be such that no bulge or
+mark showing the effect of the load appears on
+the side of the work piece opposite the indentation.
+(6) The indentation diameter should be
+clearly outlined.
+b. Limitations. The Brinell hardness test
+has three principal limitations.
+(1) The work piece must be capable of
+accommodating the relatively large indentations.
+(2) Due to the relatively large indentations, the work piece should not be used after
+testing.
+(3) The limit of hardness, 15 HB with
+the 500-kg load to 627 HB with the 3,000-kg
+load, is generally considered the practical
+range.
+c. Calibration. A Brinell Hardness Tester
+should be calibrated to meet ASTM standard
+E10 specifications.

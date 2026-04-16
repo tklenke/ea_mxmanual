@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 10: SAFETY METHODS FOR TURNBUCKLES
+
+7-183. SPECIAL LOCKING DEVICES.
+Several turnbuckle locking devices are available for securing turnbuckle barrels such as
+wire-locking clips. Persons intending to use a
+special device must ensure the turnbuckle assembly has been designed to accommodate
+such devices. A typical unit is shown in figure 7-28. When special locking devices are
+not readily available, the use of safety wire is
+acceptable.

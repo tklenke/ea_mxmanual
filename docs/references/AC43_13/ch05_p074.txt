@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-74. LIMITATIONS. Compared to other
+nondestructive methods of inspection, radiography is expensive. Relatively large costs and
+space allocations are required for a radiographic laboratory. Costs can be reduced considerably when portable x-ray or gamma-ray
+sources are used in film radiography and space
+is required only for film processing and interpretation. Operating costs can be high because
+sometimes as much as 60 percent of the total
+inspection time is spent in setting up for radiography. With real-time radiography, operating costs are usually much lower, because
+setup times are shorter and there are no extra
+costs for processing or interpretation of film.

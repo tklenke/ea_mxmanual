@@ -1,0 +1,29 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-9. SELF-LOCKING NUTS FOR AIRCRAFT ENGINES AND ACCESSORIES.
+Self-locking nuts may be used on aircraft engines provided the following criteria are met:
+a. When their use is specified by the engine manufacturer in the assembly drawing,
+parts list, and bills of material.
+b. When the nuts will not fall inside the
+engine should they loosen and come off.
+c. When there is at least one full thread
+protruding beyond the nut.
+d. Where the temperature will not exceed the maximum limits established for the
+self-locking material used in the nut. On many
+engines the cylinder baffles, rocker box covers,
+drive covers and pads, and accessory and supercharger housings are fastened with fiber insert lock nuts which are limited to a maximum
+°F.
+temperature of 250 Above this temperature, the fiber insert will usually char and, consequently, lose its locking characteristic. For
+locations such as the exhaust pipe attachment
+to the cylinder, a locknut which has good
+locking features at elevated temperatures will
+give invaluable service. In a few instances, fiber insert lock nuts have been approved for use
+on cylinder hold-down studs. This practice is
+not generally recommended, since especially
+tight stud fits to the crankcase must be provided, and extremely good cooling must prevail so that low temperatures exist where the
+nut is installed.
+e. Information concerning approved
+self-locking nuts and their use on specific engines are usually found in engine manufacturer’s manuals or bulletins. If the desired information is not available, it is suggested that
+the engine manufacturer be contacted.
+f. Refer to Chapter 7, Aircraft Hardware,
+Control Cables, and Turnbuckles, for additional information on self-locking nuts.

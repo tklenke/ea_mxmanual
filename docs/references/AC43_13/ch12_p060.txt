@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-60. MAINTENANCE PRECAUTIONS.
+Observe the following precautions in all pitotstatic system leak testing:
+a. Before any pitot/static system is
+tested, determine that the design limits of instruments attached to it will not be exceeded
+during the test. To determine this, locate and
+identify all instruments attached to the system.
+b. A system diagram will help to determine the location of all instruments as well as
+locate a leak while observing instrument indications. If a diagram is not available, instruments can be located by tracing physical installation.
+c. Be certain that no leaks exist in the
+test equipment.
+d. Run full range tests only if you are
+thoroughly familiar with the aircraft instrument system and test equipment.
+e. Make certain the pressure in the pitot
+system is always equal to, or greater than, that
+in the static system. A negative differential
+pressure across an airspeed indicator can damage the instrument.
+f. The rate of change or the pressure
+applied should not exceed the design limits of
+any pitot or static instruments connected to the
+systems.
+g. When lines are attached to or removed from the bulkhead feed-through fitting
+or at a union, ensure the line attached to the
+opposite end is not loose, twisted, or damaged
+by rotation of the fitting. Such fittings normally are provided with a hex flange for holding the fitting.

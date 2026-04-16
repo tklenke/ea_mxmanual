@@ -1,0 +1,42 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-63. TROUBLESHOOTING THE PITOT/STATIC PRESSURE SYSTEM.
+a. If instruments are inoperative or erratic operation occurs, take the following action:
+Table 12-1. Color codes for pitot-static systems.
+CODE
+ABBR. DEFINITION COLOR
+PITOT
+PP PRESSURE NATURAL
+STATIC
+PRESSURE
+SP (PILOT) RED
+STATIC
+PRESSURE GREEN
+(CO-PILOT)
+STATIC
+PRESSURE YELLOW
+(CABIN)
+STATIC
+PRESSURE
+(STANDBY) BLUE
+(1) Check for clogged lines. Drain
+lines at the valves (especially after aircraft has
+been exposed to rain). Disconnect lines at the
+instruments and blow them out with
+low-pressure air.
+(2) Check lines for leaks or looseness
+at all connections. Repair as required.
+b. If the pitot heating element(s) are
+operative, check the following:
+(1) Are circuit breaker(s) tripped?
+(2) Reset the circuit breaker to determine if:
+(a) The system is OK, or
+(b) The circuit breaker trips again,
+if so:
+1. Check the wiring continuity to the ground. If the switch(s) is defective,
+repair as necessary.
+2. Check the heating element;
+replace it if it is defective.
+12-64.12-69.
+[RESERVED.]
+SECTION 5. AVIONICS TEST EQUIPMENT

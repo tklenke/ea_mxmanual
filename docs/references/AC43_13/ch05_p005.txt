@@ -1,0 +1,216 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 1: GENERAL
+
+5-5. FLAWS. Although a specific discussion of flaws and processes will not be given
+in this AC, the importance of this area should
+not be minimized. Inspection personnel
+should know where flaws occur or can be expected to exist and what effect they can have in
+each of the NDI test methods. Misinterpretation and/or improper evaluation of flaws or
+improper performance of NDI can result in
+serviceable parts being rejected and defective
+parts being accepted.
+All NDI personnel should be familiar with the
+detection of flaws such as: corrosion, inherent
+flaws, primary processing flaws, secondary
+processing or finishing flaws, and in-service
+flaws. The following paragraphs classify and
+discuss the types of flaws or anomalies that
+may be detected by NDI.
+a. Corrosion. This is the electrochemical
+deterioration of a metal resulting from chemical reaction with the surrounding environment.
+Corrosion is very common and can be an extremely critical defect. Therefore, NDI personnel may devote a significant amount of
+their inspection time to corrosion detection.
+b. Inherent Flaws. This group of flaws is
+present in metal as the result of its initial solidification from the molten state, before any
+of the operations to forge or roll it into useful
+sizes and shapes have begun. The following
+are brief descriptions of some inherent flaws.
+(1) Primary pipe is a shrinkage cavity
+that forms at the top of an ingot during metal
+solidification, which can extend deep into the
+ingot. Failure to cut away all of the ingot
+shrinkage cavity can result in unsound metal,
+called pipe, that shows up as irregular voids in
+finished products.
+(2) Blowholes are secondary pipe holes
+in metal that can occur when gas bubbles are
+trapped as the molten metal in an ingot mold
+solidifies. Many of these blowholes are clean
+on the interior and are welded shut into sound
+metal during the first rolling or forging of the
+ingot. However, some do not weld and can
+appear as seams or laminations in finished
+products.
+(3) Segregation is a nonuniform distribution of various chemical constituents that
+can occur in a metal when an ingot or casting
+solidifies. Segregation can occur anywhere in
+the metal and is normally irregular in shape.
+However, there is a tendency for some constituents in the metal to concentrate in the liquid that solidifies last.
+(4) Porosity is holes in a material’s surface or scattered throughout the material,
+caused by gases being liberated and trapped as
+the material solidifies.
+(5) Inclusions are impurities, such as
+slag, oxides, sulfides, etc., that occur in ingots
+and castings. Inclusions are commonly caused
+by incomplete refining of the metal ore or the
+incomplete mixing of deoxidizing materials
+added to the molten metal in the furnace.
+(6) Shrinkage cracks can occur in castings due to stresses caused by the metal contracting as it cools and solidifies.
+c. Primary Processing Flaws. Flaws
+which occur while working the metal down by
+hot or cold deformation into useful shapes
+such as bars, rods, wires, and forged shapes are
+primary processing flaws. Casting and welding are also considered primary processes although they involve molten metal, since they
+result in a semi-finished product. The following are brief descriptions of some primary
+processing flaws:
+(1) Seams are surface flaws, generally
+long, straight, and parallel to the longitudinal
+axis of the material, which can originate from
+ingot blowholes and cracks, or be introduced
+by drawing or rolling processes.
+(2) Laminations are formed in rolled
+plate, sheet, or strip when blowholes or internal fissures are not welded tight during the
+rolling process and are enlarged and flattened
+into areas of horizontal discontinuities.
+(3) Cupping is a series of internal metal
+ruptures created when the interior metal does
+not flow as rapidly as the surface metal during
+drawing or extruding processes. Segregation
+in the center of a bar usually contributes to the
+occurrence.
+(4) Cooling cracks can occur in casting
+due to stresses resulting from cooling, and are
+often associated with changes in cross sections
+of the part. Cooling cracks can also occur
+when alloy and tool steel bars are rolled and
+subsequently cooled. Also, stresses can occur
+from uneven cooling which can be severe
+enough to crack the bars. Such cracks are generally longitudinal, but not necessarily straight.
+They can be quite long, and usually vary in
+depth along their length.
+(5) Flakes are internal ruptures that can
+occur in metal as a result of cooling too rapidly. Flaking generally occurs deep in a heavy
+section of metal. Certain alloys are more susceptible to flaking than others.
+(6) Forging laps are the result of metal
+being folded over and forced into the surface,
+but not welded to form a single piece. They
+can be caused by faulty dies, oversized dies,
+oversized blanks, or improper handling of the
+metal in the die. They can occur on any area
+of the forging.
+(7) Forging bursts are internal or external ruptures that occur when forging operations are started before the material to be
+forged reaches the proper temperature
+throughout. Hotter sections of the forging
+blank tend to flow around the colder sections
+causing internal bursts or cracks on the surface. Too rapid or too severe a reduction in a
+section can also cause forging bursts or cracks.
+(8) A hot tear is a pulling apart of the
+metal that can occur in castings when the metal
+contracts as it solidifies.
+(9) A cold shut is a failure of metal to
+fuse. It can occur in castings when part of the
+metal being poured into the mold cools and
+does not fuse with the rest of the metal into a
+solid piece.
+(10) Incomplete weld penetration is a
+failure of the weld metal to penetrate completely through a joint before solidifying.
+(11) Incomplete weld fusion occurs in
+welds where the temperature has not been high
+enough to melt the parent metal adjacent to the
+weld.
+(12) Weld undercutting is a decrease in
+the thickness of the parent material at the toe
+of the weld caused by welding at too high a
+temperature.
+(13) Cracks in the weld metal can be
+caused by the contraction of a thin section of
+the metal cooling faster than a heavier section
+or by incorrect heat or type of filler rod. They
+are one of the more common types of flaws
+found in welds.
+(14) Weld crater cracks are star shaped
+cracks that can occur at the end of a weld run.
+(15) Cracks in the weld heat-affected
+zone can occur because of stress induced in the
+material adjacent to the weld by its expansion
+and contraction from thermal changes.
+(16) A slag inclusion is a nonmetallic
+solid material that becomes trapped in the weld
+metal or between the weld metal and the base
+metal.
+(17) Scale is an oxide formed on metal
+by the chemical action of the surface metal
+with oxygen from the air.
+d. Secondary Processing or Finishing
+Flaws. This category includes those flaws associated with the various finishing operations,
+after the part has been rough-formed by rolling, forging, casting or welding. Flaws may be
+introduced by heat treating, grinding, and
+similar processes. The following are brief descriptions of some secondary processing or
+finishing flaws.
+(1) Machining tears can occur when
+working a part with a dull cutting tool or by
+cutting to a depth that is too great for the material being worked. The metal does not break
+away clean, and the tool leaves a rough, torn
+surface which contains numerous short discontinuities that can be classified as cracks.
+(2) Heat treating cracks are caused by
+stresses setup by unequal heating or cooling of
+portions of a part during heat treating operations. Generally, they occur where a part has a
+sudden change of section that could cause an
+uneven cooling rate, or at fillets and notches
+that act as stress concentration points.
+(3) Grinding cracks are thermal type
+cracks similar to heat treating cracks and can
+occur when hardened surfaces are ground. The
+overheating created by the grinding can be
+caused by the wheel becoming glazed so that it
+rubs instead of cutting the surface; by using
+too little coolant; by making too heavy a cut;
+or by feeding the material too rapidly. Generally, the cracks are at right angles to the direction of grinding and in severe cases a complete
+network of cracks can appear. Grinding cracks
+are usually shallow and very sharp at their
+roots, which makes them potential sources of
+fatigue failure.
+(4) Etching cracks can occur when
+hardened surfaces containing internal residual
+stresses are etched in acid.
+(5) Plating cracks can occur when hardened surfaces are electroplated. Generally,
+they are found in areas where high residual
+stresses remain from some previous operation
+involving the part.
+e. In-Service Flaws. These flaws are
+formed after all fabrication has been completed
+and the aircraft, engine, or related component
+has gone into service. These flaws are attributable to aging effects caused by either time,
+flight cycles, service operating conditions, or
+combinations of these effects. The following
+are brief descriptions of some in-service flaws.
+(1) Stress corrosion cracks can develop
+on the surface of parts that are under tension
+stress in service and are also exposed to a corrosive environment, such as the inside of wing
+skins, sump areas, and areas between two
+metal parts of faying surfaces.
+(2) Overstress cracks can occur when a
+part is stressed beyond the level for which it
+was designed. Such overstressing can occur as
+the result of a hard landing, turbulence, accident, or related damage due to some unusual or
+emergency condition not anticipated by the designer, or because of the failure of some related structural member.
+(3) Fatigue cracks can occur in parts
+that have been subjected to repeated or
+changing loads while in service, such as riveted lap joints in aircraft fuselages. The crack
+usually starts at a highly-stressed area and
+propagates through the section until failure occurs. A fatigue crack will start more readily
+where the design or surface condition provides
+a point of stress concentration. Common
+stress concentration points are: fillets; sharp
+radii; or poor surface finish, seams, or grinding
+cracks.
+(4) Unbonds, or disbonds, are flaws
+where adhesive attaches to only one surface in
+an adhesive-bonded assembly. They can be the
+result of crushed, broken, or corroded cores in
+adhesive-bonded structures. Areas of unbonds
+have no strength and place additional stress on
+the surrounding areas making failure more
+likely.
+(5) Delamination is the term used to define the separation of composite material layers within a monolithic structure. Ultrasonic is
+the primary method used for the detection of
+delamination in composite structures.

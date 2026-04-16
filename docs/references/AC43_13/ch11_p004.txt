@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 1: INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+
+11-4. CLEANING AND PRESERVATION. Annual cleaning of electrical equipment to remove dust, dirt, and grime is recommended. Suitable solvents or fine abrasives
+that will not score the surface or remove the
+plating may be used to clean the terminals and
+mating surfaces if they are corroded or dirty.
+Only cleaning agents that do not leave any type
+of residue must be used. Components must be
+cleaned and preserved in accordance with the
+aircraft handbooks or manufacturer’s instructions. Avoid using emery cloth to polish
+commutators or slip rings because particles
+may cause shorting and burning. Be sure that
+protective finishes are not scored or damaged
+when cleaning. Ensure that metal-to-metal
+electrically bonded surfaces are treated at the
+interface with a suitable anti-corrosive conductive coating, and that the joint is sealed
+around the edges by restoring the original
+primer and paint finish. Connections that must
+withstand a highly corrosive environment may
+be encapsulated with an approved sealant in
+order to prevent corrosion.
+CAUTION: Turn power off before
+cleaning.

@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 1: IDENTIFICATION OF METALS
+
+4-3. INTERCHANGEABILITY OF
+Plain carbon steel 10XX
+STEEL TUBING. Carbon
+machining.
+Carbon steel with about 1.75% manganese 13XX
+a. “4130” welded tubing conforming to
+.25% molybdenum. 40XX
+Specification MIL-T-6731, and “4130” seam-less
+1% chromium, .25% molybdenum 41XX
+tubing conforming to Specification MIL-T-6736
+2% nickel, 1% chromium, .25% molybdenum 43XX
+are interchangeable.
+1.7% nickel, .2% molybdenum 46XX
+3.5% nickel, .25% molybdenum 48XX
+b. NE-8630 welded tubing conforming to 1%
+1% chromium, 1.00% carbon 51XXX
+Specification MIL-T-6734, and NE-8630
+1.5% chromium steels 52XX
+seamless tubing conforming to Specification
+1.5% chromium, 1.00% carbon 52XXX
+MIL-T-6732 are interchangeable.
+1% chromium steel with .15% vanadium 61XX
+.5% chromium, .5% nickel, .20% molybde- 86XX
+num

@@ -1,0 +1,21 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 2: STORAGE BATTERIES
+
+11-15. GENERAL. Aircraft batteries may
+be used for many functions, e.g., ground
+power, emergency power, improving DC bus
+stability, and fault-clearing. Most small private aircraft use lead-acid batteries. Most
+commercial and military aircraft use NiCad
+batteries. However, other types are becoming
+available such as gel cell and sealed lead-acid
+batteries. The battery best suited for a particular application will depend on the relative
+importance of several characteristics, such as
+weight, cost, volume, service or shelf life, discharge rate, maintenance, and charging rate.
+Any change of battery type may be considered
+a major alteration.
+a. Storage batteries are usually identified
+by the material used for the plates. All battery
+types possess different characteristics and,
+therefore, must be maintained in accordance
+with the manufacturer’s recommendations..
+WARNING: It is extremely dangerous to store or service lead-acid and
+NiCad batteries in the same area. Introduction of acid electrolytes into alkaline electrolyte will destroy the NiCad and vice-versa.

@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 3: EXHAUST SYSTEMS
+
+8-51. TURBO-SUPERCHARGER. When
+a turbo-supercharger is included, the exhaust
+system operates under greatly-increased pressure and temperature conditions. Extra precautions should be taken in the exhaust
+system’s care and maintenance. During
+[FIG 8-22] Effect of improperly positioned exhaust
+pipe/muffler clamp.
+high-altitude operation, the exhaust system
+pressure is maintained at, or near, sea level
+values. Due to the pressure differential, any
+leaks in the system will allow the exhaust
+gases to escape with a torch-like intensity that
+can severely damage adjacent structures. A
+common cause of turbo-supercharger malfunction is coke deposits (carbon buildup) in
+the waste gate unit causing erratic system operation. Excessive deposit buildups may cause
+the waste gate valve to stick in the closed position, causing an overboost condition. Coke
+deposit buildup in the turbo-supercharger itself
+will cause a gradual loss of power in flight and
+low deck pressure reading before takeoff. Experience has shown that periodic decoking, or
+removal of carbon deposits, is necessary to
+maintain peak efficiency. Clean, repair, overhaul, and adjust turbo-supercharger system
+components and controls in accordance with
+the applicable manufacturer’s instructions.

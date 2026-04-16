@@ -1,0 +1,37 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 4: CORROSION PREVENTIVE MAINTENANCE
+
+6-51. GUIDELINES: AIRCRAFT OPERATING OVER SALT WATER. In addition to the inspection and treatment prescribed
+above, the following treatment shall be applied:
+a. Remove all traces of salt water and salt
+water residue by thoroughly washing the aircraft with fresh water.
+(1) After drying, coat the propeller,
+hubs, blades and other unpainted or unprotected parts of the engine and its installation
+parts by spraying or rubbing lightly with corrosion preventive compound, Specification
+MIL-C-16173, Grade 4.
+(2) Apply this mixture on parts that
+move or require some lubrication and on all
+fittings subject to corrosion such as landing
+gear retracting plungers, control surface
+hinges, control cables, exposed rivets and
+bolts, and other similar parts not protected by
+paint. Apply with a cloth or a soft brush
+soaked in the mixture.
+(3) Wipe off excess mixture. When applying the mixture take care that as little as
+possible is deposited on exhaust pipes or collector rings to avoid a fire hazard when the engine is started. Keep the ignition wires, propeller anti-icer feed hose, tires, and other rubber parts free of the mixture.
+b. Where maximum corrosion protection
+is desired on stationary parts, use exterior surface corrosion preventive compound, Specification MIL-C-16173, grade I.
+c. Wipe the exposed portion of the landing gear shock strut piston with a cloth soaked
+in the applicable hydraulic fluid.
+d. Most parts of landing gear wheels are
+made from magnesium or aluminum alloys
+which corrode rapidly unless carefully protected. When the aircraft operates near salt
+water and off coral beaches, the corrosion can
+be very rapid. Inspect wheels to determine the
+paint condition.
+e. Refinish portions of a wheel where
+paint has deteriorated, peeled, or chipped.
+f. Except for friction and bearing surfaces, apply a protective coating to all parts of
+wheels and brake assemblies.
+6-52.6-62.
+[RESERVED.]
+SECTION 5. VISUAL CORROSION

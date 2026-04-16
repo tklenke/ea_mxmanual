@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-196. CLEANING. In order to ensure
+proper ground connection conductivity, all
+paint, primer, anodize coating, grease, and
+other foreign material must be carefully removed from areas that conduct electricity. On
+aluminum surfaces, apply chemical surface
+treatment to the cleaned bare metal surface in
+accordance with the manufacturer’s instructions within 4-8 hours, depending on ambient
+moisture/contaminate content.

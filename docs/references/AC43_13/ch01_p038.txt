@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-38. CONTROL SURFACE FLUTTER
+PRECAUTIONS. When repairing or refinishing control surfaces, especially on highperformance airplanes, care must be exercised
+that the repairs do not involve the addition of
+weight aft of the hinge line. Such a procedure
+may adversely affect the balance of the surface
+to a degree that could induce flutter. As a general rule, it will be necessary to repair control
+surfaces in such a manner that the structure is
+identical to the original, and that the stiffness,
+weight distribution, and mass balance are not
+affected in any way. Consult the aircraft
+maintenance manual or seek manufacturer’s
+direction for specific requirements on checking
+control surface balance after repair and refinishing of any control surface.

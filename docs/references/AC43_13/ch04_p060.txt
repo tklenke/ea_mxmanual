@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-60. STEEL AND ALUMINUM FITTINGS.
+a. Steel Fittings. Inspect for the following defects.
+(1) Fittings are to be free from
+scratches, vise and nibbler marks, and sharp
+bends or edges. A careful examination of the
+fitting with a medium power (at least
+10 power) magnifying glass is acceptable as an
+inspection.
+(2) When repairing aircraft after an accident or in the course of a major overhaul, inspect all highly-stressed main fittings, as set
+forth in the manufacturer’s instruction manual.
+(3) Replace torn, kinked, or cracked fittings.
+(4) Elongated or worn bolt holes in fittings, which were designed without bushings,
+are not to be reamed oversize. Replace such
+fittings, unless the method of repair is approved by the FAA. Do not fill holes with
+welding rod. Acceptable methods of repairing
+elongated or worn bolt holes in landing gear,
+stabilizer, interplane, or cabane-strut ends are
+shown in figure 4-25.
+b. Aluminum and Aluminum Alloy Fittings.
+(1) Replace damaged fittings with new
+parts that have the same material specifications.
+(2) Repairs may be made in accordance
+with data furnished by the aircraft manufacturer, or data substantiating the method of repair may be submitted to the FAA for approval.

@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-205. GENERAL. The proper identification of electrical wires and cables with their
+circuits and voltages is necessary to provide
+safety of operation, safety to maintenance personnel, and ease of maintenance.
+a. Each wire and cable should be marked
+with a part number. It is common practice for
+wire manufacturers to follow the wire material
+part number with the five digit/letter C.A.G.E.
+code identifying the wire manufacturer. Existing installed wire that needs replacement can
+thereby be identified as to its performance capabilities, and the inadvertent use of a lower
+performance and unsuitable replacement wire
+avoided.
+b. The method of identification should
+not impair the characteristics of the wiring.
+CAUTION: Do not use metallic bands
+in place of insulating sleeves. Exercise
+care when marking coaxial or data
+bus cable, as deforming the cable may
+change its electrical characteristics.

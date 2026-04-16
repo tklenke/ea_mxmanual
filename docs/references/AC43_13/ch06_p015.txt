@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-15. ACTIVE-PASSIVE CELLS. Metals
+which depend on a tightly adhering passive
+film, usually an oxide, for corrosion protection
+are prone to rapid corrosive attack by activepassive cells. Active-passive cells are often referred to as a type of concentration cell corrosion. However, the active-passive cell is actually two forms of corrosion working in conjunction. The corrosive action usually starts as
+an oxygen concentration cell. As an example,
+salt deposits on the metal surface in the presence of water containing oxygen can create the
+oxygen cell. The passive film will be broken
+beneath the salt crystals. Once the passive
+film is broken, the active metal beneath the
+film will be exposed to corrosive attack. (See
+figure 6-7.) Rapid pitting of the active metal
+will result. This reaction can become locally
+intense due to several factors. First the reaction is augmented by the affected area, since
+the proportion of the exposed base metal is
+small compared to the surrounding nonreactive metal. This effectively concentrates
+the focal point of the reaction, often resulting
+in deep pits in a short time and a greater rate of
+corrosion.

@@ -1,0 +1,4 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-215. IDENTIFICATION TAPE. Identification tape can be used in place of sleeving,
+in most cases (i.e. polyvinylfluoride).

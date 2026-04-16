@@ -1,0 +1,33 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-239. POTTING CONNECTORS.
+Connectors that have been potted primarily offer protection against concentration of
+moisture in the connectors. A secondary benefit of potting is the reduced possibility of
+breakage between the contact and wire due to
+vibration.
+a. Connectors specifically designed for
+potting compounds should be potted to provide environment resistance. An o-ring or
+sealed gasket should be included to seal the
+interface area of the mated connector. A plastic potting mold, that remains on the connector
+after the potting compounds have cured,
+should also be considered. To facilitate circuit
+changes, spare wires may be installed to all
+unused contacts prior to filling the connector
+with potting compound.
+b. Connect wires to all contacts of the
+connector prior to the application of the potting compound. Wires that are not to be used
+should be long enough to permit splicing at a
+later date. Unused wires should be as shown
+in figure 11-38 and the cut ends capped with
+heat-shrinkable caps or crimped insulated end
+caps such as the MS 25274 prior to securing to
+[FIG 11-38] Spare wires for potting connector.
+11-241.11-247.
+[RESERVED.]
+the wire bundle. Clean the areas to be potted
+with dry solvent and complete the potting operation within 2 hours after this cleaning. Allow the potting compound to cure for 24 hours
+°F °F
+at a room temperature of 70 to 75 or
+°F
+carefully placed in a drying oven at 100 for
+3 to 4 hours. In all cases follow manufacturer’s instructions.

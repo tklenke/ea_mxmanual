@@ -1,0 +1,109 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 3: EMERGENCY EQUIPMENT
+
+9-49. MAINTENANCE.
+a. Oxygen Tanks, Cylinders, and HoldDown Brackets.
+(1) Remove from service any cylinders
+that show signs of abuse, dents, bulges, cracks,
+distortion, damaged thread, or defects which
+might render them unsafe. Typical examples
+of oxygen cylinder damage are shown in figure 9-14.
+(2) When replacing an oxygen cylinder,
+be certain that the replacement cylinder is of
+the same size and weight as the one removed.
+[FIG 9-14] Oxygen cylinder damage.
+NOTE: Cylinders having greater
+weight or size will require strengthened cylinder mounting brackets and
+a reevaluation to determine that the
+larger or heavier cylinder will not interfere with adjacent systems, components, or structural members, and that
+the strength of attaching structure is
+adequate and any additional weight
+will be computed into the aircraft’s
+weight and balance report.
+(3) Replace or repair any cylinder
+mounting brackets that show signs of wear.
+Visible cracks may be welded in accordance
+[FIG 9-15] Cylinder brackets and clamps.
+with manufacturer’s standards. Replace the
+cylinder straps or clamps that show wear or
+abuse. For typical mounting bracket cracks
+and failure, see figure 9-15.
+b. Lines and Fittings.
+(1) Replace any oxygen line that is
+chafed, rusted, corroded, dented, cracked, or
+kinked.
+(2) Clean oxygen system fittings
+showing signs of rusting or corrosion in the
+threaded area. To accomplish this, use a
+cleaner recommended by manufacturers of
+oxygen equipment. Replace lines and fittings
+that cannot be cleaned.
+(a) The high-pressure lines which are
+located between the oxygen bottle (outside the
+oxygen service filler) and the regulator are
+normally fabricated from stainless steel or
+thick-wall, seamless copper alloy tubing. The
+fittings on high-pressure lines are normally silver brazed.
+NOTE: Use silver alloys free of cadmium when silver brazing. The use of
+silver brazing alloys, which contain
+cadmium, will emit a poisonous gas
+when heated to a molten state. This
+gas is extremely hazardous to health if
+inhaled.
+(b) The low-pressure lines extend
+from the pressure regulator to each passenger
+and crew oxygen outlet. These lines are fabricated from seamless aluminum alloy, copper,
+or flexible hose. Normally, flare- or flangetype connections are used.
+CAUTION: Do not allow oil, grease,
+flammable solvent, or other combustibles such as lint or dust to come in
+contact with threads or any parts that
+will be exposed to pressurized oxygen.
+(c) It is advisable to purge the oxygen
+system any time work has been accomplished
+on any of the lines and fittings. Use dry nitrogen or dry air for purging the system. All open
+lines should be capped immediately after
+purging.
+(d) When oxygen is being lost from a
+system through leakage, a sequence of steps
+may be necessary to locate the opening. Leakage may often be detected by listening for the
+distinct hissing sound of escaping gas. If this
+check proves negative, it will be necessary to
+soap-test all lines and connections with a castile soap and water solution or specially compounded leak-test material. Make the solution
+thick enough to adhere to the contours of the
+fittings. At the completion of the leakage test,
+remove all traces of the soap and water.
+CAUTION: Do not attempt to tighten
+any connections while the system is
+charged.
+c. Regulators, Valves, and Gauges. Line
+maintenance of oxygen regulators, valves, and
+gauges does not include major repair. These
+components are precision made and their repair usually requires the attention of a repair
+station or the manufacturer. Care must be
+taken when reinstalling these components to
+ascertain if the threaded area is free of nicks,
+burrs, and contaminants that would prevent the
+connections from sealing properly.
+CAUTION: Do not use petroleum lubricants on these components.
+d. Masks and Hoses.
+(1) Troubleshooting. If a mask assembly is defective (leaks, does not allow breathing, or contains a defective microphone), it is
+advisable to return the mask assembly to the
+manufacturer or a repair station.
+(2) Maintenance Practice and Cleaning.
+(a) Clean and disinfect the mask assemblies after use, as appropriate.
+NOTE: Use care to avoid damaging
+the microphone assembly while
+cleaning and sterilizing.
+(b) Wash the mask with a mild soap
+solution and rinse it with clear water.
+(c) To sterilize, swab the mask thoroughly with a gauze or sponge soaked in a
+water merthiolate solution. This solution
+should contain 1/5-teaspoon of merthiolate
+per 1 quart of water. Wipe the mask with a
+clean cloth and air dry.
+(d) Replace the hose if it shows evidence of deterioration.
+(e) Hoses may be cleaned in the same
+manner as the mask.
+(f) Observe that each mask breathing
+tube end is free of nicks, and that the tube end
+will slip into the cabin oxygen receptacle with
+ease and not leak.

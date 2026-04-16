@@ -1,0 +1,57 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 3: EMERGENCY EQUIPMENT
+
+9-48. INSPECTION. Hands, clothing, and
+tools must be free of oil, grease, and dirt when
+working with oxygen equipment. Traces of
+these organic materials near compressed oxygen may result in spontaneous combustion,
+explosions, and/or fire.
+a. Oxygen Tanks and Cylinders. Inspect
+the entire exterior surface of the cylinder for
+indication of abuse, dents, bulges, and strap
+chafing.
+(1) Examine the neck of cylinder for
+cracks, distortion, or damaged threads.
+(2) Check the cylinder to determine if
+the markings are legible.
+(3) Check the date of the last hydrostatic test. If the periodic retest date is past, do
+not return the cylinder to service until the test
+has been accomplished.
+(4) Inspect the cylinder mounting
+bracket, bracket hold-down bolts, and cylinderholding straps for cracks, deformation, cleanliness, and security of attachment.
+(5) In the immediate area where the
+cylinder is stored or secured, check for evidence of any types of interference, chafing, deformation, or deterioration.
+b. Lines and Fittings.
+(1) Inspect oxygen lines for chafing,
+corrosion, flat spots and irregularities, i.e.,
+sharp bends, kinks, and inadequate security.
+(2) Check fittings for corrosion around
+the threaded area where lines are joined. Pressurize the system and check for leaks. (See
+paragraph 9-49b(2)(d).)
+CAUTION: In pressurizing the system, actuate the valve slowly to avoid
+surging which could rupture the line.
+c. Regulators, Valves, and Gauges.
+(1) Examine all parts for cracks, nicks,
+damaged threads or other apparent damage.
+(2) Actuate the regulator controls and
+the valve to check for ease of operation.
+(3) Determine if the gauge is functioning properly by observing the pressure buildup and the return to zero when the system oxygen is bled off.
+d. Masks and Hoses.
+(1) Check the oxygen mask for fabric
+cracks and rough face seals. If the mask is a
+full-face model, inspect the glass or plastic for
+cleanliness and state of repair.
+(2) When appropriate, with due regard
+to hygienic considerations, the sealing qualities
+of an oxygen mask may be tested by placing a
+thumb over the connection at the end of the
+mask tube and inhaling very lightly. Remove
+the thumb from the disconnect after each continuous inhalation. If there is no leakage, the
+mask will adhere tightly to the face during inhalation, and definite resistance to inhalation
+will be noticeable.
+(3) Flex the mask hose gently over its
+entirety and check for evidence of deterioration or dirt.
+(4) Examine the mask and hose storage
+compartment for cleanliness and general condition.
+(5) If the mask and hose storage compartment is provided with a cover or release
+mechanism, thoroughly check the operation of
+the mechanism.

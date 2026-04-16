@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 10: THERMOGRAPHY
+
+5-120. GENERAL. Thermography is an NDI
+technique that uses radiant electromagnetic
+thermal energy to detect flaws. The presence
+of a flaw is indicated by an abnormal temperature variant when the item is subjected to
+normal heating and cooling conditions inherent
+to the in-service life, and/or when artificially
+SECTION 11. HOLOGRAPHY

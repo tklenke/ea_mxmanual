@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-12. RETRACTION TESTS. Periodically
+perform a complete operational check of the
+landing gear retraction system. Inspect the
+normal extension and retraction system, the
+emergency extension system, and the indicating and emergency warning system. Determine that the actuating cylinders, linkage, slide
+tubes, sprockets, chain or drive gears, gear
+doors, and the up-and-down locks are in good
+condition and properly adjusted and lubricated,
+and the wheels have adequate clearance in the
+wheel wells. In addition, an electrical continuity check of micro-switches and associated
+wiring is recommended. Only qualified personnel should attempt adjustments to the gear
+position and warning system micro-switches.
+Follow the manufacturer’s recommendations.

@@ -1,0 +1,33 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 7: ULTRASONIC INSPECTION
+
+5-97. LEAK TESTING. The flow of a
+pressurized gas through a leak produces sound
+of both sonic and ultrasonic frequencies. If the
+gas leak is large, the sonic frequency sound it
+produces can probably be detected with the ear
+or with such instruments as stethoscopes or
+microphones; however, the ear and these instruments have limited ability to detect and locate small leaks. Ultrasonic leak detectors are
+frequently used to detect leaks that cannot be
+detected by the above methods, because they
+are very sensitive to ultrasonic energy and, under most conditions, background noise at other
+frequencies does not affect them.
+a. Standard Method. A standard method
+of testing for leaks using ultrasonics is provided in ASTM E 1002. The method covers
+procedures for calibration, location, and estimated measurements of leakage by the ultrasonic technique (sometimes called ultrasonic
+translation).
+b. Detection Distance. Ultrasonic energy
+in the relatively low-frequency range of
+30-50 KHz travels easily through air; therefore, an ultrasonic leak detector can detect
+leakage with the probe located away from the
+leak. The maximum detection distance depends on the leakage rate.
+c. Typical Applications. Some typical
+applications for the ultrasonic leak detector on
+aircraft are: fuel system pressurization tests, air
+ducts and air conditioning systems, emergency
+evacuation slides, tire pressure retention, electrical discharge, oxygen lines and valves, internal leaks in hydraulic valves and actuators,
+fuel cell testing, identifying cavitation in hydraulic pumps, arcing in wave guides, cabin
+and cockpit window and door seals, and cabin
+pressurization testing.
+5-98.5-104.
+[RESERVED.]
+SECTION 8. TAP TESTING

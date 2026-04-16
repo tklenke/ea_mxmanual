@@ -1,0 +1,7 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-90. WELDING ROD SELECTION.
+Most aircraft repair shops that are prepared to
+make weld repairs should have the basic selection of welding rods available. The best
+rods to stock, the metals they weld, and the
+AWS specification number are shown in table 4-15.

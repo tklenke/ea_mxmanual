@@ -1,0 +1,140 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 1: IDENTIFICATION OF METALS
+
+4-4. IDENTIFICATION OF ALUMINUM.
+To provide a visual means for identifying the
+various grades of aluminum and aluminum
+alloys, such metals are usually marked with
+symbols such as a Government Specification
+Number, the temper or condition furnished, or
+the commercial code marking. Plate and sheet
+are usually marked with specification numbers
+or code markings in rows approximately
+5 inches apart. Tubes, bars, rods, and extruded
+shapes are marked with specification numbers
+or code markings at intervals of 3 to 5 feet
+along the length of each piece.
+The commercial code marking consists of a
+number which identifies the particular composition of the alloy. In addition, letter suffixes
+(see table 4-4) designate the basic temper designations and subdivisions of aluminum alloys.
+[TABLE 4-2] Numerical system for steel identification.
+TYPES OF STEELS NUMERALS
+AND DIGITS
+steel with additional sulfur for easy 11XX
+chromium steels 51XX
+.5% chromium, .5% nickel, .25% molybde- 87XX
+num
+2% silicon steels, .85% manganese 92XX
+3.25% nickel, 1.20% chromium, .12% mo- 93XX
+lybdenum
+[TABLE 4-3] Examples of stainless and heat-resistant steels
+ALLOY DESIGNATION CARBON CHROMIUM NICKEL
+302 0.15 18
+310 0.25 25 20
+321 0.08 18 11
+347 0.08 18 11
+410 0.15 12.5
+430 0.12 17
+446 0.20 25
+PH15-7 Mo 0.09 15
+17-4 PH 0.07 16.5
+nominal composition (percent)
+OTHER GENERAL CLASS OF STEEL
+9 Austenitic
+Austenitic
+Titanium Austenitic
+Columbium or Austenitic
+Tantalum
+Martensitic, Magnetic
+Ferritic, Magnetic
+Nitrogen Ferritic, Magnetic
+7 Molybdenum, Precipitation
+Aluminum Hardening
+4 Copper, Precipitation
+Columbium Hardening
+or Tantalum
+[TABLE 4-4] Basic temper designations and subdivisions from
+NON HEAT-TREATABLE ALLOYS
+Temper Temper
+Designation Definition Designation
+-0 Annealed recrystallized (wrought products only) -0
+applies to softest temper of wrought products.
+-H1 Strain-hardened only. Applies to products which -T1
+are strain-hardened to obtain the desired strength
+without supplementary thermal treatment.
+-H12 Strain-hardened one-quarter-hard temper. -T2
+-H14 Strain-hardened half-hard temper. -T3
+-H16 Strain-hardened three-quarters-hard temper. -T36
+-H18 Strain-hardened full-hard temper. -T4
+-H2 Strain-hardened and then partially annealed. Ap- -T42
+plies to products which are strain-hardened more
+than the desired final amount and then reduced in
+strength to the desired level by partial annealing.
+-H22 Strain-hardened and partially annealed to -T5
+one-quarter-hard temper.
+-H24 Strain-hardened and partially annealed to half-hard -T6
+temper.
+-H26 Strain-hardened and partially annealed to -T62
+three-quarters-hard temper.
+-H28 Strain-hardened and partially annealed to full-hard -T351,
+temper. -T451,
+-T3510, percent, depending on the product.
+-T3511,
+-T4510,
+-T4511.
+-H3 Strain-hardened and then stabilized. Applies to -T651,
+products which are strain-hardened and then sta- -T851,
+bilized by a low temperature heating to slightly -T6510,
+lower their strength and increase -T8510,
+-T6511,
+ductility.
+-T8511.
+-H32 Strain-hardened and then stabilized. Final temper -T652
+is one-quarter hard.
+-H34 Strain-hardened and then stabilized. Final temper -T8
+is one-half hard.
+-H36 Strain-hardened and then stabilized. Final temper -T/4
+is three-quarters hard.
+-H38 Strain-hardened and then stabilized. Final temper -T86
+is full-hard.
+-H112 As fabricated; with specified mechanical property -T9
+limits.
+-F For wrought alloys; as fabricated. No mechanical -T10
+properties limits. For cast alloys; as cast.
+-F For wrought alloys; as fabricated. No mechanical
+4-5. - 4-15. [RESERVED.]
+aluminum alloys.
+HEAT-TREATABLE ALLOYS
+Definition
+Annealed recrystallized (wrought products only)
+applies to softest temper of wrought products.
+Cooled from an elevated temperature shaping
+process (such as extrusion or casting) and naturally aged to a substantially stable condition.
+Annealed (castings only).
+Solution heat-treated and cold-worked by the
+flattening or straightening operation.
+Solution heat-treated and cold-worked by reduction of 6 percent
+Solution heat-treated.
+Solution heat-treated by the user regardless of
+prior temper (applicable only to 2014 and 2024
+alloys).
+Artificially aged only (castings only).
+Solution heat-treated and artificially aged.
+Solution heat-treated and aged by user regardless of prior temper (applicable only to 2014 and
+2024 alloys).
+Solution heat-treated and stress relieved by
+stretching to produce a permanent set of 1 to 3
+Solution heat-treated, stress relieved by stretching to produce a permanent set of 1 to 3 percent,
+and artificially aged.
+Solution heat-treated, compressed to produce a
+permanent set and then artificially aged.
+Solution heat-treated, cold-worked and then artificially aged.
+Solution heat-treated, cold-worked by the flattening or straightening operation, and then artificially
+aged.
+Solution heat-treated, cold-worked by reduction
+of 6 percent, and then artificially aged.
+Solution heat-treated, artificially aged and then
+cold-worked.
+Cooled from an elevated temperature shaping
+process artificially aged and then cold-worked.
+properties limits. For cast alloys; as cast.
+SECTION 2. TESTING OF METALS

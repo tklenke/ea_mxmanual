@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 20: ELECTRICAL AND ELECTRONIC SYMBOLS
+
+11-271. GENERAL. The electrical and
+electronic symbols shown here are those that
+are likely to be encountered by the aviation
+maintenance technician. They are in accordance with ANSI-Y32.2-1975.
+[TABLE 11-27] Electronic/Electrical Symbols.
+Symbol Meaning
+AND ELECTRONIC SYMBOLS

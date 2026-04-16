@@ -1,0 +1,96 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-44. MATERIALS USED IN MAGNETIC PARTICLE INSPECTION. The
+particles used in magnetic particle inspection
+are finely divided ferro-magnetic materials that
+have been treated with color or fluorescent
+dyes to improve visibility against the various
+surface backgrounds of the parts under inspection. Magnetic particles, particle-suspension
+vehicles, and cleaners are required for conducting magnetic particle inspection. Requirements for magnetic particle inspection materials, other than cleaners, are contained in the aerospace industry standard,
+ASTM-E1444, Inspection, Magnetic Particle
+(as revised). A certification statement which
+will certify that the material meets applicable
+specification requirements will generally be
+received when a magnetic particle inspection
+material is purchased. Magnetic particle inspection materials for use on a specific part or
+component will generally be specified by the
+aircraft or component manufacturer or the
+FAA in documents such as; maintenance or
+overhaul manuals, AD’s, SSID’s, or manufacturer’s SB’s. However, if the magnetic particle inspection materials are not specified for
+the specific part or component to be inspected,
+it is recommended that personnel use materials
+meeting the aircraft or component manufacturers’ specifications or materials meeting the requirements of ASTM-E1444. Other FAA engineering-approved materials may also be
+used. Table 5-2 provides a partial listing of
+commonly accepted standards and specifications for magnetic particle inspection.
+[TABLE 5-2] Listing of commonly accepted standards and
+NUMBER
+ASTM STANDARDS
+ASTM A275/A275 M-96 Standard Test Method
+1995
+ASTM A456/A456 M Rev. A. Standard Specification
+Forgings. 1995
+ASTM D96
+Standard Test Methods for Water and Sediment in Crude Oils by Centrifuge
+Method (Field Procedure). 1988
+ASTM E125-63 (1993)
+Standard Reference Photographs for Magnetic Particle Indications on Ferrous
+Castings. (Revised 1993) 1963
+ASTM E1316-95C Standard Terminology for
+E269).
+SAE-AMS
+SPECIFICATIONS
+AMS 2300G Premium Aircraft-Quality
+dure. 1991 (Revised 1995)
+MAM 2300A Premium Aircraft Quality
+dure Metric (SI) Measurement. 1992
+AMS 2303C Aircraft Quality Steel Cleanliness
+netic Particle Inspection Procedure. 1993
+MAM 2303A Aircraft Quality Steel Cleanliness
+netic Particle Inspection Procedure Metric (SI) Measurement. 1993
+AMS 2641 Vehicle, Magnetic Particle
+AMS 3040B Magnetic Particles, Nonfluorescent,
+AMS 3041B Magnetic Particles, Nonfluorescent,
+1988
+AMS 3042B Magnetic Particles, Nonfluorescent,
+AMS 3043A Magnetic Particles, Nonfluorescent,
+1988
+AMS 3044C Magnetic Particles, Fluorescent,
+AMS 3045B Magnetic Particles, Fluorescent,
+AMS 3046B Magnetic Particles, Fluorescent,
+1989
+U.S. GOVERNMENT
+SPECIFICATIONS
+DOD-F-87935 Fluid, Magnetic Particle
+Mil-Std-271F Requirements for Nondestructive
+Mil-Std-410E Nondestructive Testing
+MIL-HDBK-728/1 Nondestructive Testing.
+MIL-HDBK-728/4A Magnetic Particle Testing.
+OTHER PUBLICATIONS
+SNT-TC-1A American Society for Nondestructive
+(Personnel Qualification and Certification in Nondestructive Testing and Recommended Training Courses) Note: Updated every 4 years - 1996 edition
+due in early 1997.
+ATA No. 105 Air Transport Association
+ASM Handbook, Personnel in Nondestructive
+Volume 17 Nondestructive Evaluation
+specifications for magnetic particle inspection.
+TITLE
+for Magnetic Particle Examination of Steel Forgings.
+for Magnetic Particle Examination of Large Crankshaft
+Nondestructive Examination. 1995 (Replaces ASTM
+Steel Cleanliness Magnetic Particle Inspection ProceSteel Cleanliness Magnetic Particle Inspection ProceMartensitic Corrosion Resistant Steels MagMartensitic Corrosion Resistant Steels MagInspection Petroleum Base. 1988
+Dry Method. 1995
+Wet Method, Oil Vehicle, Ready-To-Use.
+Wet Method, Dry Powder. 1988
+Wet Method, Oil Vehicle, Aerosol Packaged.
+Wet Method, Dry Powder. 1989
+Wet Method, Oil Vehicle Ready-to-Use. 1989
+Wet Method, Oil Vehicle, Aerosol Packaged.
+Inspection, Suspension. 1993
+Testing Methods. 1993
+Personnel Qualifications and Certifications. 1991
+1985
+1993
+Testing. Recommended Practice . 1992
+of America. Guidelines for Training and Qualifying
+Testing Methods, (Revision 4 1993)
+and Quality Control. 1989

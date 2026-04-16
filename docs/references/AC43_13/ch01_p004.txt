@@ -1,0 +1,93 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 1: MATERIALS AND PRACTICES
+
+1-4. ADHESIVES. Because of the critical
+role played by adhesives in aircraft structure,
+the mechanic must employ only those types of
+adhesives that meet all of the performance requirements necessary for use in certificated
+civil aircraft. Use each product strictly in accordance with the aircraft and adhesive manufacturer’s instructions.
+a. Adhesives acceptable to the FAA can
+be identified in the following ways:
+(1) Refer to the aircraft maintenance or
+repair manual for specific instructions on acceptable adhesive selection for use on that type
+aircraft.
+(2) Adhesives meeting the requirements
+of a Military Specification (Mil Spec), Aerospace Material Specification (AMS), or Technical Standard Order (TSO) for wooden aircraft structures are satisfactory providing they
+are found to be compatible with existing
+structural materials in the aircraft and the fabrication methods to be used in the repair.
+b. Common types of adhesives that are
+or have been used in aircraft structure fall into
+two general groups: casein and syntheticresins. Adhesive technology continues to
+evolve, and new types (meeting the requirements of paragraph 1-4a) may become available in the future.
+(1) Casein adhesive performance is
+generally considered inferior to other products
+available today, modern adhesives should be
+considered first.
+CAUTION: Casein adhesive deteriorates over the years after exposure to
+moisture in the air and temperature
+variations. Some modern adhesives
+are incompatible with casein adhesive.
+If a joint that has previously been
+bonded with casein is to be rebonded
+with another type adhesive, all traces
+of the casein must be scraped off before the new adhesive is applied. If
+any casein adhesive is left, residual alkalinity may cause the new adhesive to
+fail to cure properly.
+(2) Synthetic-resin adhesives comprise
+a broad family which includes plastic resin
+glue, resorcinol, hot-pressed Phenol, and epoxy.
+(3) Plastic resin glue (urea-formaldehyde resin glue) has been used in wood aircraft
+for many years. Caution should be used due to
+possible rapid deterioration (more rapidly than
+wood) of plastic resin glue in hot, moist environments and under cyclic swell-shrink stress.
+For these reasons, urea-formaldehyde should
+be considered obsolete for all repairs. Any
+proposed use of this type adhesive should be
+discussed with the appropriate FAA office
+prior to using on certificated aircraft.
+(4) Federal Specification MMM-A181D and Military Specification MIL-A-22397
+both describe a required series of tests that
+verify the chemical and mechanical properties
+of resorcinol. Resorcinol is the only known
+adhesive recommended and approved for use
+in wooden aircraft structure and fully meets
+necessary strength and durability requirements.
+Resorcinol adhesive (resorcinol-formaldehyde
+resin) is a two-part synthetic resin adhesive
+consisting of resin and a hardener. The appropriate amount of hardener (per manufacturer’s
+instruction) is added to the resin, and it is
+stirred until it is uniformly mixed; the adhesive
+is now ready for immediate use. Quality of fit
+and proper clamping pressure are both critical
+to the achievement of full joint strength. The
+adhesive bond lines must be very thin and uniform in order to achieve full joint strength.
+CAUTION: Read and observe material safety data. Be sure to follow the
+manufacturer’s instructions regarding
+mixing, open assembly and close assembly times, and usable temperature
+ranges.
+(5) Phenol-formaldehyde adhesive is
+commonly used in the manufacturing of aircraft grade plywood. This product is cured at
+elevated temperature and pressure; therefore, it
+is not practical for use in structural repair.
+(6) Epoxy adhesives are a two-part
+synthetic resin product, and are acceptable
+providing they meet the requirements of paragraph 1-4a. Many new epoxy resin systems
+appear to have excellent working properties.
+They have been found to be much less critical
+of joint quality and clamping pressure. They
+penetrate well into wood and plywood. However, joint durability in the presence of elevated temperature or moisture is inadequate in
+many epoxies. The epoxy adhesives generally
+consist of a resin and a hardener that are mixed
+together in the proportions specified by the
+manufacturer. Depending on the type of epoxy, pot life may vary from a few minutes to
+an hour. Cure times vary between products.
+CAUTION: Some epoxies may have
+unacceptable thermal or other hidden
+characteristics not obvious in a shop
+test. It is essential that only those
+products meeting the requirements of
+paragraph 1-4a be used in aircraft repair. Do not vary the resin-tohardener ratio in an attempt to alter
+the cure time. Strength, thermal, and
+chemical resistance will be adversely
+affected. Read and observe material
+safety data. Be sure to follow the adhesive manufacturer’s instructions regarding mixing, open and closed curing time, and usable temperature
+ranges.

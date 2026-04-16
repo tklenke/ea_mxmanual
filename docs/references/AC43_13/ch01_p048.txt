@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-48. DETERMINATION OF SINGLE
+OR DOUBLE CURVATURE. Much of the
+outside surface of plywood aircraft is curved.
+On such areas, plywood used for repairs to the
+skin must be similarly curved. Curved skins
+are either of single curvature or of double
+(compound) curvature. A simple test to determine which type of curvature exists may be
+made by laying a sheet of heavy paper on the
+surface in question. If the sheet can be made
+to conform to the surface without wrinkling,
+the surface is either flat or single curvature. If
+the sheet cannot be made to conform to the
+surface without wrinkling, the surface is of
+double curvature.

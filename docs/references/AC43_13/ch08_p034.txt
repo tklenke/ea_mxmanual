@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 2: FUEL SYSTEMS
+
+8-34. FUEL CROSS-FEED, FIREWALL
+SHUTOFF, AND TANK SELECTOR
+VALVES. Inspect these valves for leakage
+and proper operation as follows.
+a. Internal leakage can be checked by
+placing the appropriate valve in the “off” position, draining the fuel strainer bowl, and observing if fuel continues to flow into it. Check
+all valves located downstream of boost pumps
+with the pump(s) operating. Do not operate
+the pump(s) longer than necessary.
+b. External leakage from these units can
+result in a severe fire hazard, especially if the
+unit is located under the cabin floor or within a
+similarly-confined area. Correct the cause of
+any fuel stains associated with fuel leakage.
+c. Selector Handles. Check the operation
+of each handle or control to see that it indicates
+the actual position of the selector valve to the
+placard location. Movement of the selector
+handle should be smooth and free of binding.
+Assure that stops and detents have positive action and smooth operational feel. Worn or
+missing detents and stops can cause unreliable
+positioning of the fuel selector valve.
+d. Worn Linkage. Inaccurate positioning
+of fuel selector valves can also be caused by
+worn mechanical linkage between the selector
+handle and the valve unit. An improper fuel
+valve position setting can seriously reduce engine power by restricting the available fuel
+flow. Check universal joints, pins, gears,
+splines, cams, levers, etc., for wear and excessive clearance which prevent the valve from
+positioning accurately or from obtaining fully
+“off” and “on” positions.
+e. Assure that required placards are
+complete and legible. Replace those that are
+missing or cannot be read easily.

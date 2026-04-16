@@ -1,0 +1,165 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 8: ALUMINUM AND ALUMINUM ALLOYS
+
+6-136. EXAMPLES OF REMOVING
+CORROSION FROM ALUMINUM AND
+ALUMINUM ALLOYS.
+a. Positively identify the metal as aluminum.
+b. Clean the area to be reworked. Strip
+paint if required.
+c. Determine extent of corrosion damage.
+d. Remove light to moderate corrosion
+with one of the following.
+(1) Non-Powered Corrosion Removal.
+(a) The removal of corrosion products by hand can be accomplished by use of
+aluminum grit and silicon carbide abrasive,
+such as non-woven, non-metallic, abrasive mat
+(Spec. MIL-A-9962), abrasive cloth, and paper. Aluminum wool, fiber bristle brushes, and
+pumice powder are also acceptable methods.
+(b) Stainless steel brush (Spec.
+H-B-178, type III, class 2) may be used as long
+as the bristles do not exceed 0.010 inch in diameter. After use of this brush the surface
+should be polished with 60 grit aluminum oxide abrasive paper, then with 400 grit aluminum oxide paper. Care should be exercised in
+any cleaning process to avoid breaking the
+protective film.
+(c) Steel wool, emery cloth, steel
+wire brushes (except stainless steel brush)
+copper alloy brushes, rotary wire brushes, or
+severe abrasive materials should not be used
+on any aluminum surface.
+(2) Chemical Corrosion Removal.
+(a) The corrosion removal compound
+aluminum pretreatment MIL-C-38334, an acid
+material, may be used to remove corrosion
+products from aluminum alloy materials or
+items (e.g., skins, stringer, ribs in wings, tubing, or ducts). MIL-C-38334 is available in
+two types:
+1 Type I Liquid concentrate materials should be diluted in accordance with the
+manufacture’s instructions before use. Type I
+has a 1 year shelf life; therefore it shall not be
+used after 1 year from the date of manufacture.
+2 Type II Powdered concentrate
+materials should be dissolved in the volume of
+water specified on the kit. These materials
+have an indefinite shelf life in the dry state.
+Once mixed, they should be used within
+90 days.
+(b) Mix MIL-C-38334 in wood,
+plastic, or plastic-lined containers only. Wear
+acid-resistant gloves, protective mask and
+protective clothing when working with this
+acid compound. If acid contacts the skin or
+eyes, flush immediately with water.
+(c) Apply MIL-C-38334 solution by
+flowing, mopping, sponging, brushing, or
+wiping. When applying the solution to large
+areas, begin the application at the lowest area
+and work upward, applying the solution with a
+circular motion to disturb the surface film and
+ensure proper coverage. If pumping is required, pumps, valves, and fittings should be
+manufactured from 18-8 stainless steel or
+plastic.
+CAUTION: When working with
+MIL-C-38334, keep the solution away
+from magnesium surfaces. The solution must be confined to the area being treated. All parts and assemblies
+including cadmium-plated items and
+hinges susceptible to damage from
+acid should be masked and/or protected. Also mask all openings leading
+to the primary structure that could
+trap the solution and doors or other
+openings that would allow the solution
+(uncontrolled) to get into the aircraft
+or equipment interior. It is a good
+practice to keep a wet rag on hand at
+all times, for removal of spills or
+splashes.
+(d) Allow the solution to remain on
+the surface for approximately 12 minutes and
+then rinse away with clean tap water. For pitted or heavily-corroded areas the compound
+will be more effective if applied warm
+(140 °F) followed by vigorous agitation with a
+non-metallic acid-resisting brush or aluminum
+oxide abrasive nylon mat. Allow sufficient
+dwell time, 12 to 15 minutes, before rinsing.
+After each application examine the pits and/or
+corroded area to determine if another application is required with a 4 to 10 power magnifying glass. (Select the power depending on the
+distance available to make the inspection.)
+Corrosion still on the area will appear as a
+powdery crust slightly different in color than
+the uncorroded base metal. Darkening of area
+due to shadows and reaction from the acid remover should not be considered.
+(e) Once the corrosion has been removed and the area well-rinsed with clean
+water, a chromate conversion coating such as
+MIL-C-81706 or MIL-C-5541 alodine 1200,
+must be applied immediately thereafter.
+e. Remove moderate to heavy corrosion
+with one of the following.
+(1) Powered Corrosion Removal.
+(a) Where the problem is severe
+enough to warrant the use of power tools, a
+pneumatic drill motor driving either an aluminum-oxide-impregnated nylon abrasive wheel,
+flap brush or rubber grinding wheel may be
+used with an abrasive value to approximately
+120 grit, as needed. Corrosion-removal accessories, such as flap brushes or rotary files,
+should be used on one type of metal only. For
+example, a flap brush used to remove aluminum should not be used to remove magnesium,
+steel, etc. Pneumatic sanders may be used
+with disk and paper acceptable for use on aluminum.
+(b) When mechanically removing
+corrosion from aluminum, especially aircraft
+skin thinner than 0.0625 inch, extreme care
+must be used. Vigorous, heavy, continuous
+abrasive grinding can generate enough heat to
+cause metallurgical change. If heat damage is
+suspected, hardness tests or conductivity tests
+must be accomplished to verify condition of
+the metal. The use of powered rotary files
+should be limited to heavy corrosion and
+should not be used on skin thinner than
+0.0625 inch.
+(2) Blasting.
+(a) Abrasive blasting may be used on
+aluminum alloys using glass beads (Spec.
+MIL-G-9954) sizes 10 to 13, or grain abrasive
+(Spec. MIL-G-5634) types I and III may be
+used as an alternate method of removing corrosion from clad and non-clad aluminum alloys. Abrasive blasting should not be used to
+remove heavy corrosion products. Direct pressure machines should have the nozzle pressure
+set at 30 to 40 psi for clad aluminum alloys
+and 40 to 45 psi for non-clad aluminum alloys.
+Engineering approval should be obtained prior
+to abrasive blasting metal thinner than
+0.0625 inch.
+(b) When using abrasive blasting on
+aluminum alloys, do not allow the blast stream
+to dwell on the same spot longer than
+15 seconds. Longer dwell times will cause excessive metal removal. Intergranular exfoliation corrosion is not to be removed by abrasive
+blasting; however, blasting may be used with
+powered corrosion removal to determine
+whether all exfoliation corrosion has been removed.
+f. Inspect the area for remaining corrosion. Repeat procedure if any corrosion remains.
+NOTE: If corrosion remains after the
+second attempt, use a stronger
+method, e.g., chemical to mechanical.
+g. Using a blend ratio of 20:1 (length to
+depth) blend and finish the corrosion rework
+area with progressively finer abrasive paper
+until 400-grit paper is used.
+h. Clean reworked area using dry cleaning
+solvent. Do not use kerosene or any other petroleum base fuel as a cleaning solvent.
+i. Determine depth of faired depressions
+to ensure that rework limits have not been exceeded.
+j. Apply chemical conversion coating,
+MIL-C-81706, immediately after reworking. If
+48 hours or more have elapsed since the conversion coating was first applied and the
+primer or final paint system has not yet been
+applied, then reapply the conversion coating
+before continuing.
+NOTE: These solutions should not be
+allowed to come in contact with magnesium or high-strength steels
+(180,000 psi). Do not permit solutions
+or materials to contact paint thinner,
+acetone or other combustible material:
+FIRE MAY RESULT.
+k. Apply paint finish to area.
+6-137.6-147.
+[RESERVED.]
+SECTION 9. MAGNESIUM AND MAGNESIUM ALLOYS

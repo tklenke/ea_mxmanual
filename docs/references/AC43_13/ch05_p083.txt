@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-83. SAFETY. Radiographic safety requirements can be obtained from; the OEM’s
+manual, FAA requirements, cognizant FAA
+ACO engineers, and radiation safety organizations such as the Nuclear Regulatory Commission (NRC). Information in radiation safety
+publications can be used as a guide to ensure
+that radiation exposure of personnel involved
+in radiographic operations is limited to safe
+levels, and to afford protection for the general
+public.
+5-84.5-88.
+[RESERVED.]
+SECTION 7. ULTRASONIC INSPECTION

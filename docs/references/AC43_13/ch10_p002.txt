@@ -1,0 +1,145 @@
+AC 43.13-1B  Chapter 10: WEIGHT AND BALANCE  Section 1: TERMINOLOGY
+
+10-2. TERMINOLOGY. The following
+terminology is used in the practical application
+of weight and balance control.
+a. Maximum Weight. The maximum
+weight is the maximum authorized weight of
+the aircraft and its contents as listed in the
+specifications.
+b. Empty Weight. The empty weight of
+an aircraft includes all operating equipment
+that has a fixed location and is actually installed in the aircraft. It includes the weight of
+the airframe, powerplant, required equipment,
+optional and special equipment, fixed ballast,
+full engine coolant, hydraulic fluid, residual
+fuel, and oil. Additional information regarding
+fluids that may be contained in the aircraft
+systems and must be included in the empty
+weight will be indicated in the pertinent Aircraft Specifications or TCDS.
+c. Negligible Weight Change is any
+change of one pound or less for aircraft whose
+weight empty is less than 5,000 pounds; two
+pounds or less for aircraft whose weight empty
+is more than 5,000 and 50,000 pounds; and
+five pounds or less for aircraft whose weight
+empty is more than 50,000 pounds. Negligible
+c. g. change is any change of less than 0.05%
+MAC for fixed wing aircraft, 0.2 percent of the
+maximum allowable c. g. range for rotary wing
+aircraft.
+d. Useful Load. The useful load is the
+empty weight subtracted from the maximum
+weight of the aircraft. This load consists of the
+pilot, crew (if applicable), maximum oil, fuel,
+passengers, and baggage unless otherwise
+noted.
+e. Weight Check. The weight check consists of checking the sum of the weights of all
+items of useful load against the authorized useful load (maximum weight less empty weight)
+of the aircraft.
+f. Datum. The datum is an imaginary
+vertical plane from which all horizontal measurements are taken for balance purposes with
+the aircraft in level flight attitude. The datum
+is indicated in most Aircraft Specifications or
+TCDS. On some of the older aircraft, when
+the datum is not indicated, any convenient datum may be selected. Once the datum is selected, all moment arms and the location of the
+permissible c.g. range must be taken with reference to it. Examples of typical locations of
+the datum are shown in figure 10-1.
+g. Arm (or Moment Arm). The arm (or
+moment arm) is the horizontal distance in
+inches from the datum to the c.g. of an item.
+The algebraic sign is plus ( + ) if measured aft
+[FIG 10-1] Typical datum locations.
+of the datum, and minus ( - ) if measured forward of the datum. Examples of plus and minus arms are shown in figure 10-2.
+[FIG 10-2] Illustration of arm (or moment arm).
+h. Moment. The moment is the product
+of a weight multiplied by its arm. The moment
+of an item about the datum is obtained by
+multiplying the weight of the item by its horizontal distance from the datum. A typical
+moment calculation is given in figure 10-3.
+i. Center of Gravity. The c.g. is a point
+about which the nose-heavy and tail-heavy
+moments are exactly equal in magnitude. If
+the aircraft is suspended from the c.g., it will
+not have a tendency to pitch in either direction
+(nose up or down). The weight of the aircraft
+(or any object) may be assumed to be concentrated at its c.g. (See figure 10-3.)
+j. Empty Weight Center of Gravity.
+The empty weight c.g. is the c.g. of an aircraft
+in its empty weight condition, and is an essential part of the weight and balance record.
+Formulas for determining the c.g. for tail and
+nosewheel type aircraft are given in figure 10-4. Typical examples of computing the
+empty weight and empty weight c.g. for aircraft are shown in figures 10-5 and 10-6.
+k. Empty Weight Center of Gravity
+Range. The empty weight c.g. range is determined so that the empty weight c.g. limits will
+not be exceeded under standard specifications
+loading arrangements. Calculations as outlined in paragraph 10-16 should be completed
+when it is possible to load an aircraft in a
+manner not covered in the Aircraft Specifications or TCDS (extra tanks, extra seats, etc.).
+The empty weight c.g. range, when applicable,
+is listed in the Aircraft Specifications or
+TCDS. Calculation of empty weight c.g. is
+shown in figures 10-5 and 10-6.
+l. Operating Center of Gravity Range.
+The operating c.g. range is the distance between the forward and rearward c.g. limits indicated in the pertinent Aircraft Specifications
+or TCDS. These limits are determined for the
+most forward and most rearward loaded c.g.
+positions at which the aircraft meets the requirements of Title 14 of the Code of Federal
+Regulation (14 CFR). The limits are indicated
+in the specifications in either percent of mean
+aerodynamic chord (MAC) or inches from the
+[FIG 10-3] Example of moment computation.
+datum. The c.g. of the loaded aircraft must be
+within these limits at all times as illustrated in
+figure 10-7.
+m. Mean Aerodynamic Chord (MAC).
+The MAC is established by the manufacturer
+who defines its leading edge and its trailing
+edge in terms of inches from the datum. The
+c.g. location and various limits are then expressed in percentages of the chord. The
+location and dimensions of the MAC can be
+found in the Aircraft Specifications, the
+TCDS, the aircraft flight manual, or the aircraft weight and balance report.
+n. Weighing Point. If the c.g. location is
+determined by weighing, it is necessary to obtain horizontal measurements between the
+points on the scale at which the aircraft’s
+weight is concentrated. If weighed using
+[FIG 10-4] Empty weight center of gravity formulas.
+[FIG 10-5] Empty weight and empty center of gravity
+- tail-wheel type aircraft.
+[FIG 10-6] Empty weight and empty weight center of
+gravity - nosewheel-type aircraft.
+[FIG 10-7] Operating center of gravity range.
+scales under the landing gear tires, a vertical
+line passing through the centerline of the axle
+will locate the point on the scale at which the
+weight is concentrated. This point is called the
+“weighing point.” Other structural locations
+capable of supporting the aircraft, such as jack
+pads on the main spar, may also be used if the
+aircraft weight is resting on the jack pads. Indicate these points clearly in the weight and
+balance report when used instead of the landing gear. Typical locations of the weighing
+points are shown in figure 10-8.
+o. Zero Fuel Weight. The maximum
+permissible weight of a loaded aircraft (passengers, crew, cargo, etc.) less its fuel is zero
+fuel weight. All weights in excess of maximum zero fuel weight must consist of usable
+fuel.
+p. Minimum Fuel. The minimum fuel for
+balance purposes is 1/12 gallon per maximumexcept-take-off horsepower (METO). Minimum fuel is the maximum amount of fuel
+which can be used in weight and balance computations when low fuel might adversely affect
+the most critical balance conditions. To determine the weight of fuel in pounds divide the
+METO horsepower by two.
+q. Full Oil. The full oil is the quantity of
+oil shown in the Aircraft Specifications or
+TCDS as oil capacity. Use full oil as the
+quantity of oil when making the loaded weight
+and balance computations.
+r. Tare. The weight of chocks, blocks,
+stands, etc., used when weighing aircraft is
+called tare and is included in the scale readings. Tare is deducted from the scale reading
+at each respective weighing point when tare is
+involved, to obtain the actual aircraft weight.
+[FIG 10-8] Weighing point centerline.
+10-3.10-13.
+[RESERVED.]
+SECTION 2 WEIGHING PROCEDURES

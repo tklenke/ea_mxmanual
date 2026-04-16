@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 10: FERROUS METALS
+
+6-164. GENERAL. One of the most familiar kinds of corrosion is red iron rust. Red iron
+rust results from atmospheric oxidation of steel
+surfaces. Some metal oxides protect the underlying base metal, but red rust is not a protective coating. Its presence actually promotes
+additional attack by attracting moisture from
+the air and acts as a catalyst to promote additional corrosion.
+a. Red rust first shows on bolt heads,
+hold down nuts, and other unprotected aircraft
+hardware. Red rust will often occur under
+nameplates that are secured to steel parts. Its
+presence in these areas is generally not dangerous. It has no immediate effect on the
+structural strength of any major components.
+However, it shows a general lack of maintenance and may indicate attack in more critical
+areas.
+b. When paint failures occur or mechanical damage exposes highly-stressed steel
+surfaces to the atmosphere, even the smallest
+amount of rusting is potentially dangerous and
+should be removed immediately.

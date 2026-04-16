@@ -1,0 +1,53 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 2: FUEL SYSTEMS
+
+8-31. FUEL LINES AND FITTINGS.
+When fuel system lines are to be replaced or
+repaired, consider the following fundamentals
+in addition to the applicable airworthiness requirements. Additional inspection and repair
+practices for aircraft tubing systems may be
+found in the Chapter 9, Aircraft Systems and
+Components.
+a. Compatibility of Fittings. All fittings
+are to be compatible with their mating parts.
+Although various types of fittings appear to be
+interchangeable in many cases they have different thread pitch or minor design differences
+which prevent proper mating and may cause
+the joint to leak or fail.
+b. Routing. Make sure that the line does
+not chafe against control cables, airframe
+structure, etc., or come in contact with electrical wiring or conduit. Where physical separation of the fuel lines from electrical wiring or
+conduit is impracticable, locate the fuel line
+below the wiring and clamp it securely to the
+airframe structure. In no case should wiring be
+supported by the fuel line.
+c. Alignment. Locate bends accurately so
+that the tubing is aligned with all support
+clamps and end fittings and is not drawn,
+pulled, or otherwise forced into place by them.
+Never install a straight length of tubing between two rigidly-mounted fittings. Always
+incorporate at least one bend between such fittings to absorb strain caused by vibration and
+temperature changes.
+d. Bonding. Bond metallic fuel lines at
+each point where they are clamped to the
+structure. Integrally bonded and cushioned
+line support clamps are preferred to other
+clamping and bonding methods.
+e. Support of Line Units. To prevent
+possible failure, all fittings heavy enough to
+cause the line to sag should be supported by
+means other than the tubing.
+f. Support clamps.
+(1) Place support clamps or brackets for
+metallic lines as follows.
+Approximate
+Tube O.D. distance between
+supports
+1/8”-3/16”--------------------------------- 9”
+1/4”-5/16”--------------------------------- 12”
+3/8”-1/2”----------------------------------- 16”
+5/8”-3/4”----------------------------------- 22”
+1”-1 1/4”----------------------------------- 30”
+1 1/2”-2”----------------------------------- 40”
+(2) Locate clamps or brackets as close
+to bends as possible to reduce overhang. (See
+figure 8-12.)

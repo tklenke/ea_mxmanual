@@ -1,0 +1,49 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 4: REPAIRS TO FABRIC COVERING
+
+2-42. GENERAL. All materials used to
+make repairs to fabric covering must be of a
+quality at least equal to the original materials.
+Workmanship and repair methods must be
+made in a manner that will return the fabric
+covering to its original airworthy condition.
+a. Any combination of seams hand-sewn
+and overlapped and doped may be used to
+make repairs and install new fabric sections.
+(See paragraph 2-7.)
+b. All pigmented dope coats, including
+aluminum-pigmented coats, should be removed to the clear dope preliminary coats before installing a new fabric section or finishing
+tape on the old fabric. The appropriate dope
+thinner (see paragraph 2-20) may be applied
+with a brush to soften the old dope. The softened coats can then be removed down to the
+clear dope coats by scraping with a dull-bladed
+knife while supporting the fabric from the back
+side. Removing the old dope by sanding is
+optional.
+c. Avoid allowing dope to run down the
+back side of the fabric or drip through the wing
+onto the back side of the opposite surface,
+which will cause cosmetic damage and will
+show in a high gloss finish.
+d. Repairing a new fabric section over
+two adjacent wing ribs is considered a major
+repair. A log book entry and an FAA
+Form 337 must be processed accordingly.
+e. All fabric patch edges not covered
+with a finishing tape should have a pinked
+edge or a 1/4-inch raveled edge.
+f. Where the edge of a new fabric section will be located within 1 inch of a structural member to which the fabric is attached by
+rib lacing or other methods, the new fabric
+section should be extended 3 inches past the
+structural member.
+NOTE: Before installing new finishing tape, duplicate the original rib
+lacing or other attachments without
+removing the original rib lacing or attachment. Removing the original finishing tape is optional.
+g. When installing large sections of fabric on a wing or other components, all machine-sewn and/or overlapped and doped
+seams should be made in accordance with the
+guidelines specified in paragraphs 2-7 and 2-8.
+h. When repairing a covering material
+other than cotton or linen, which was approved with the manufacturer’s type certificate
+(TC), or approved under the authority of an
+STC, follow the repair instructions furnished
+by the aircraft manufacturer or supplier of the
+STC-approved covering materials.

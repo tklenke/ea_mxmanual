@@ -1,0 +1,39 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 1: GENERAL
+
+6-4. MICRO-ORGANISMS.
+a. Bacteria may be either aerobic or anaerobic. Aerobic bacteria require oxygen to
+live. They accelerate corrosion by oxidizing
+sulfur to produce sulfuric acid. Bacteria living
+adjacent to metals may promote corrosion by
+depleting the oxygen supply or by releasing
+metabolic products. Anaerobic bacteria, on the
+other hand, can survive only when free oxygen
+is not present. The metabolism of these bacteria requires them to obtain part of their sustenance by oxidizing inorganic compounds, such
+as iron, sulfur, hydrogen, and carbon monoxide. The resultant chemical reactions cause
+corrosion.
+b. Fungi are the growths of microorganisms that feed on organic materials.
+While low humidity does not kill microbes, it
+slows their growth and may prevent corrosion
+damage. Ideal growth conditions for most micro-organisms are temperatures between
+68 and 104 °F (20 and 40 °C) and relative humidity between 85 and 100 percent.
+c. Damage resulting from microbial
+growth can occur when any of three basic
+mechanisms, or a combination of these, is
+brought into play. First, fungi have a tendency
+to hold moisture, which contributes to other
+forms of corrosion. Second, because fungi are
+living organisms, they need food to survive.
+This food is obtained from the material on
+which the fungi are growing. Third, these micro-organisms secrete corrosive fluids that attack many materials, including some that are
+not fungi nutrient.
+d. Microbial growth must be removed
+completely to avoid corrosion. Microbial
+growth should be removed by hand with a firm
+non-metallic bristle brush and water. Removal
+of microbial growth is easier if the growth is
+kept wet with water. Microbial growth may
+also be removed with steam at 100 psi. Protective clothing must be used when using
+steam for removing microbial growth.
+6-5.6-10.
+[RESERVED.]
+SECTION 2. TYPES OF CORROSION

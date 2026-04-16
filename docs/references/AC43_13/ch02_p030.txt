@@ -1,0 +1,78 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 3: INSPECTION AND TESTING
+
+2-30. GENERAL. All components of the
+covering should be inspected for general condition. Loose finishing tape and reinforcing
+patches; chafing under fairings; brittle, cracking, peeling, or deteriorated coatings; fabric
+tears and rock damage; broken or missing rib
+lacing; and rodent nests are unacceptable. The
+entire fabric covering should be uniformly taut
+with no loose or wrinkled areas, or excess tension which can warp and damage the airframe.
+a. Excess Tension. There are no methods
+or specifications for measuring acceptable fabric tension other than observation. Excess tension may warp critical components, such as
+longerons, wing rib, and trailing edges out of
+position, weakening the airframe structure.
+(1) Excess tension with cotton, linen,
+and glass fiber fabric covering is usually
+caused by excessive dope film on a new covering, or continuous shrinking of an originally
+satisfactory dope film as the plasticizers migrate from the dope with age. Heat from sun
+exposure accelerates plasticizer migration.
+(2) Excess tension with polyester fabric,
+coated with dope, is usually caused by the
+combined tension of the heat tautened polyester fabric and continuous shrinking of the dope
+film as the plasticizers migrate from the dope
+with age.
+b. Loose Fabric. Fabric that flutters or
+ripples in the propeller slipstream, balloons, or
+is depressed excessively in flight from the
+static position, is unacceptable.
+(1) Loose or wrinkled cotton, linen, and
+glass fabric covering may be caused by inadequate dope film; poor quality dope; fabric installed with excess slack; or by a bent, broken,
+or warped structure.
+(2) Loose or wrinkled polyester fabric
+covering, finished with coatings other than
+dope, may be caused by inadequate or excessive heat application; excess slack when the
+fabric was installed; or bent or warped structure. Polyester fabric which does not meet aircraft quality specifications will very likely become loose after a short period of time.
+(3) Glass fabric covering should be
+tested with a large suction cup for rib lacing
+cord failure and reinforcing tape failure caused
+by chafing on all wing ribs and other structural
+attachments throughout the airframe. Particular attention should be given to the area within
+the propeller slipstream. If failure is indicated
+by the covering lifting from the static position,
+the rib lacing cord and reinforcing tape must
+be reinstalled with double the number of original laces.
+NOTE: Temporary wrinkles will develop in any fabric coated and finished with dope, when moisture from
+rain, heavy fog, or dew is absorbed
+into a poor-quality dope film, causing
+the film to expand. Temporary wrinkles may also develop with any type of
+thick coatings, on any type of fabric,
+when an aircraft is moved from a cold
+storage area to a warm hangar or
+parked in the warming sunshine,
+causing rapid thermal expansion of
+the coating.
+c. Coating Cracks. Fabric exposed
+through cracks in the coating may be initially
+tested for deterioration by pressing firmly with
+a thumb to check the fabric’s strength. Natural
+fibers deteriorate by exposure to ultraviolet radiation, mildew, fungus from moisture, high
+acid-content rain, dew, fog, pollution, and age.
+Polyester filaments will deteriorate by exposure to UV radiation.
+(1) Glass fabric will not deteriorate
+from UV exposure, but will be deteriorated by
+acid rain, dew fallout, and chaffing if loose in
+the prop blast area.
+(2) Cotton, linen, and glass fabric coverings are dependent solely on the strength and
+tautening characteristics of the dope film to
+carry the airloads. Dope coatings on heattautened polyester fabric will also absorb all
+the airloads because the elongation of polyester filaments are considerably higher than the
+dope film. Polyester fabric that is coated with
+materials other than dope, is dependent solely
+on the heat tautening and low-elongation characteristics of the polyester filaments to develop
+tension and transmit the airloads to the airframe without excess distortion from a static
+position.
+(3) Cracks in coatings will allow any
+type of exposed fabric to deteriorate. Cracks
+should be closed by sealing or removing the
+coatings in the immediate area and replace
+with new coatings, or recover the component.

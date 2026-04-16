@@ -1,0 +1,7 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 3: EXHAUST SYSTEMS
+
+8-45. GENERAL. Any exhaust system failure should be regarded as a severe hazard.
+Depending upon the location and type of failure, it can result in carbon monoxide (CO) poisoning of crew and passengers, partial or complete engine power loss, or fire. Exhaust system failures generally reach a maximum rate of
+occurrence at 100 to 200 hours’ operating
+time, and over 50 percent of the failures occur
+within 400 hours.

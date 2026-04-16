@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 5: WASHERS
+
+7-86. PLAIN WASHERS (AN960 AND
+AN970). Plain washers are widely used with
+hex nuts to provide a smooth bearing surface,
+act as a shim to obtain the proper grip length,
+and to position castellated nuts in relation to
+drilled cotter pin holes in bolts. Use plain
+washers under lock washers to prevent damage
+to bearing surfaces. Cadmium-plated steel
+washers are recommended for use under
+boltheads and nuts used on aluminum alloy or
+magnesium structures to prevent corrosion.
+The AN970 steel washer provides a larger
+bearing surface than the plain type, and is often
+used in wooden structures under boltheads and
+nuts to prevent local crushing of the surface.

@@ -1,0 +1,38 @@
+AC 43.13-1B  Chapter 3: FIBERGLASS AND PLASTICS  Section 1: REPAIR OF LIGHT LOAD LAMINATE STRUCTURES
+
+3-1. GENERAL. There is a wide variation
+in the composition and structural application
+of laminates, and it is essential that these factors be given major consideration when any
+restoration activities are undertaken. To a
+similar extent, there also exist many types of
+laminate structure repairs that may or may not
+be suitable for a given condition. For this reason, it is important that the aircraft or component manufacturer’s repair data be reviewed
+when determining what specific type of repair
+is permissible and appropriate for the damage
+at hand.
+NOTE: Review Material Safety Data
+Sheets for material to be used. When
+handling materials, prepreg fabrics,
+or parts with prepared surfaces, observe shelf life. Latex gloves and approved masks must be worn.
+a. The materials used in the repair of
+laminate structures must preserve the strength,
+weight, aerodynamic characteristics, or electrical properties of the original part or assembly.
+Preservation is best accomplished by replacing
+damaged material with material of identical
+chemical composition or a substitute approved
+by the manufacturer.
+b. To eliminate dangerous stress concentrations, avoid abrupt changes in
+cross-sectional areas. When possible, for scarf
+joints and facings, make small patches round
+or oval-shaped, and round the corners of large
+repairs. Smooth and properly contour aerodynamic surfaces.
+c. Test specimens should be prepared
+during the actual repair. These can then be
+subjected to a destructive test to establish the
+quality of the adhesive bond in the repaired
+LOAD LAMINATE STRUCTURES
+part. To make this determination valid, the
+specimens must be assembled with the same
+adhesive batch mixture and subjected to curing
+pressure, temperature, and time identical to
+those in the actual repair.

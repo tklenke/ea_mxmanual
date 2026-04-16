@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-25. WEATHER RADAR. Ground performance shall include antenna rotation, tilt,
+indicator brilliance, scan rotation, and indication of received echoes. It must be determined
+that no objectionable interference from other
+electrical/electronic equipment appears on the
+radar indicator, and that the radar system does
+not interfere with the operation of any of the
+aircraft’s communications or navigation systems.
+CAUTION: Do not turn radar on
+within 15 feet of ground personnel, or
+containers holding flammable or explosive materials. The radar should
+never operate during fueling operations. Do not operate radar system
+when beam may intercept larger metallic objects closer than 150 feet, as
+crystal damage might occur. Do not
+operate radar when cooling fans are
+inoperative. Refer to the specific Ra
+dar System equipment manufacturer’s
+manuals and procedures.

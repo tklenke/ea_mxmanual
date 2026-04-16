@@ -1,0 +1,7 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-75. FILM OR PAPER RADIOGRAPHY. In film or paper radiography, a twodimensional latent image from the projected
+radiation is produced on a sheet of film or paper that has been exposed to the unabsorbed
+radiation passing through the test piece. This
+technique requires subsequent development of
+the exposed film or paper so that the latent image becomes visible for viewing.

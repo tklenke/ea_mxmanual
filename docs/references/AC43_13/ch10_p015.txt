@@ -1,0 +1,58 @@
+AC 43.13-1B  Chapter 10: WEIGHT AND BALANCE  Section 2: WEIGHING PROCEDURES
+
+10-15. PROCEDURES. Accepted procedures when weighing an aircraft are:
+a. Remove excessive dirt, grease, moisture, etc., from the aircraft before weighing.
+b. Weigh the aircraft inside a closed
+building to prevent error in scale reading due
+to wind.
+c. Determine the empty weight c. g. by
+placing the aircraft in a level flight attitude.
+d. Have all items of equipment that are
+included in the certificated empty weight report installed in the aircraft when weighing.
+These items of equipment are a part of the current weight and balance report.
+e. The scales should have a current calibration before weighing begins. Zero and use
+the scales in accordance with the scale manufacturer’s instructions. Platform scales and
+suitable support for the aircraft, if necessary,
+are usually placed under the wheels of a landplane, the keel of a seaplane float, or the skis
+of a skiplane. Other structural locations capable of supporting the aircraft, such as jack
+pads, may be used. Clearly indicate these
+points and the alternate equipment used in the
+weight and balance report.
+f. Drain the fuel system until the quantity
+indicator reads zero or until the tanks are
+empty with the aircraft in level flight attitude,
+unless otherwise noted in the TCDS or Aircraft
+Specifications. The amount of fuel remaining in
+the tank, lines, and engine is termed residual fuel
+and is to be included in the empty weight. In special cases, the aircraft may be weighed with
+full fuel in tanks provided a definite means of
+determining the exact weight of the fuel is
+available.
+g. The oil system should be filled to the
+quantity noted in the TCDS or Aircraft Specifications.
+NOTE: On Civil Aeronautics Regulations (CAR-3) Certified Aircraft, the
+weight of the oil was subtracted
+mathematically to get the empty
+weight. In 14 CFR, part 23 aircraft,
+the weight of the oil is included in the
+empty weight.
+When weighed with full oil, actual empty
+weight equals the actual recorded weight less
+the weight of the oil in the oil tank( oil weight
+= oil capacity in gallons x 7.5 pounds). Indicate on all weight and balance reports whether
+weights include full oil or oil drained. (See figure 10-9.)
+h. Do not set brakes while taking scale
+reading.
+i. Note any tare reading when the aircraft
+is removed from the scales.
+10-15a. REPAIRS AND ALTERATIONS
+are the major sources of weight changes, and it
+is the responsibility of the aircraft mechanic
+making any repairs or alteration to know the
+weight and location of these changes, and to
+compute the new CG and record the new
+empty (EW) weight and EWCG data in the
+aircraft flight manual.
+10-15b. ANNUAL OR 100-HOUR INSPECTION. After conducting an annual or
+100-hour inspection, the aircraft mechanic
+aircraft records is current and accurate.

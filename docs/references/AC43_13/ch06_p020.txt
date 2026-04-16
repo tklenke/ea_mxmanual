@@ -1,0 +1,45 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-20.
+STRESS CORROSION CRACKING.
+This form of corrosion involves a constant or
+cyclic stress, acting in conjunction
+adjacent to steel fastener.
+with a damaging chemical environment. The
+stress may be caused by internal or external
+loading.
+a. Internal stress may be trapped in a
+part of structure during manufacturing processes such as cold working or by unequal
+cooling from high temperatures. Most manufacturers follow up these processes with a
+stress relief operation. Even so, sometimes
+stress remains trapped. The stress may be externally introduced in part structure by riveting, welding, bolting, clamping, press fit, etc.
+If a slight mismatch occurs, or a fastener is
+over-torque, internal stress will be present.
+b. Internal stress is more important than
+design stress, because stress corrosion is difficult to recognize before it has overcome the
+design safety factor. The level of stress varies
+from point to point within the metal. Stresses
+near the yield strength are generally necessary
+to promote stress corrosion cracking. (See figure 6-12.) However, failures may occur at
+lower stresses. Specific environments have
+been identified which cause stress corrosion
+cracking of certain alloys.
+[FIG 6-11] Galvanic corrosion of magnesium adjacent
+[FIG 6-12] Stress corrosion cracking.
+(1) Salt solutions and sea water cause
+stress corrosion cracking of high-strength,
+heat-treated steel and aluminum alloys.
+(2) Methyl alcohol-hydrochloric acid
+solutions will cause stress corrosion cracking
+of some titanium alloys.
+(3) Magnesium alloys may stresscorrode in moist air.
+(4) Stress Corrosion may be reduced by
+•
+applying protective coatings,
+•
+stress relief heat treatments,
+•
+using corrosion inhibitors, or
+•
+controlling the environment.
+to steel fastener.

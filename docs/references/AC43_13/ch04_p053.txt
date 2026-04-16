@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-53. SELECTION OF ALUMINUM
+FOR REPLACEMENT PARTS. All aluminum replacement sheet metal must be identical
+to the original or properly altered skin. If another alloy is being considered, refer to the information on the comparative strength properties of aluminum alloys contained in
+MIL-HDBK-5.
+a. Temper. The choice of temper depends
+upon the severity of the subsequent forming
+operations. Parts having single curvature and
+straight bend lines with a large bend radius
+may be advantageously formed from
+heat-treated material; while a part, such as a
+fuselage frame, would have to be formed from
+a soft, annealed sheet, and heat-treated after
+forming. Make sure sheet metal parts which
+are to be left unpainted are made of clad (aluminum coated) material. Make sure all sheet
+material and finished parts are free from
+cracks, scratches, kinks, tool marks, corrosion
+pits, and other defects which may be factors in
+subsequent failure.
+b. Use of Annealed Alloys for Structural Parts. The use of annealed aluminum
+alloys for structural repair of an aircraft is not
+recommended. An equivalent strength repair
+using annealed aluminum will weigh more
+than a repair using heat-treated aluminum
+alloy.

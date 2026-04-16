@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 7: TABLE OF ACCEPTABLE WIRES
+
+11-88. SEVERE WIND AND MOISTURE
+PROBLEMS (SWAMP). Areas such as
+wheel wells, wing fold and pylons, flap areas,
+and those areas exposed to extended weather
+shall dictate selection and will require special
+consideration. Insulation or jacketing will vary
+according to the environment. Suitable wire
+types selected from MIL-W-22759 shall be
+used in these applications. (See table 11-11.)
+Suitable wire types selected from
+MIL-W-22759 are preferred for areas that require repeated bending and flexing of the wire.
+Consideration should be made to areas that require frequent component removal or repair.
+(See table 11-11.)

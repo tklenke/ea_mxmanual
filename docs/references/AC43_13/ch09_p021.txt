@@ -1,0 +1,31 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-21. WHEEL INSTALLATION. Various
+procedures are used for installing wheel assemblies on an aircraft.
+a. The axle should first be cleaned and inspected for surface damage, damage to the axle
+threads, and the general condition and security
+of bolts holding the axle onto the landing-gear
+leg. The wheel bearings should be cleaned and
+packed with approved grease. The wheel
+bearing and tire must be inspected and assembled. Many aircraft have specific torque requirements for the wheel-retaining nuts. These
+torque requirements may have two values
+specified. The retaining nut is first tightened
+to the higher value to seat the bearing. It is
+then backed off and tightened to the lower
+value specified. While tightening the wheel
+retaining nuts, the wheel should be rotated.
+b. Great care should be exercised to see
+that the wheel-retaining nuts are not overtightened. In the absence of specific instructions, the wheel-retaining nut is tightened until
+bearing drag is felt. The nut is then backed off
+about one serration (castellation) or one-sixth
+turn before bending up the tab on the tab-lock
+washer or installing the cotter pin.
+c. The grease cover or wheel cover, if
+used, is then installed. During this installation
+any required brake, air-pressure sensors, and
+speed-sensor components should be installed
+and connected, as appropriate, for the specific
+aircraft.
+9-22.9.24.
+[RESERVED.]
+SECTION 2. HYDRAULIC SYSTEMS

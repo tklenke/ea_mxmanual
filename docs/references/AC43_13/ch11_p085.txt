@@ -1,0 +1,21 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 7: TABLE OF ACCEPTABLE WIRES
+
+11-85. AIRCRAFT WIRE TABLE. Tables 11-11 and 11-12 list wires used for the
+transmission of signal and power currents in
+aircraft. It does not include special purpose
+wires such as thermocouple, engine vibration
+monitor wire, fiber optics, data bus, and other
+such wire designs. Fire resistant wire is included because it is experiencing a wider application in aircraft circuits beyond that of the
+fire detection systems.
+a. All wires in tables 11-11 and 11-12
+have been determined to meet the flammability
+requirements of Title 14 of the Code of Federal
+Regulation (14 CFR) part 25, section
+25.869(a)(4) and the applicable portion of
+part 1 of Appendix F of part 25.
+b. The absence of any wire from tables 11-11 and 11-12 are not to be construed as
+being unacceptable for use in aircraft. However, the listed wires have all been reviewed
+for such use and have been found suitable, or
+have a successful history of such usage.
+c. Explanations of the various insulation
+materials mentioned in table 11-11, by abbreviations, can be found in the glossary.

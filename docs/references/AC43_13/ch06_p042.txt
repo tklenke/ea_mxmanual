@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 3: CORROSION PROTECTION MEASURES FOR BASIC MATERIALS
+
+6-42. TUBE INTERIORS. Protect the interiors of structural steel and aluminum tubing
+against corrosion. A small amount of water
+entrapped in a tube can corrode entirely
+through the tube thickness in a short period.
+Coat the tube interior by flushing with hot linseed oil, paralketone, or other approved corrosion inhibitor. The flushing liquid is usually
+introduced through small holes drilled in the
+tubing. Allow the flushing liquid to drain and
+plug the holes with a screw or by other means
+to prevent entry of moisture. Air and watertight sealing of the tubing will also give adequate protection against corrosion if the tubing
+is internally dry before being sealed.
+6-43.6-49.
+[RESERVED.]
+SECTION 4. CORROSION PREVENTIVE MAINTENANCE

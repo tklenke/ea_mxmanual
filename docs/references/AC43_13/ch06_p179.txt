@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 11: OTHER METALS AND ALLOYS
+
+6-179. NOBLE METAL COATINGS -
+CLEANUP AND RESTORATION. Silver,
+platinum, and gold finishes are used in aircraft
+assemblies because of their resistance to ordinary surface attack and their improved electrical or heat conductivity. Silver-plated electrodes can be cleaned of brown or black sulfide
+tarnish, by placing them in contact with a piece
+of magnesium sheet stock while immersed in a
+warm water solution of common table salt
+mixed with baking soda or by using a fine
+grade abrasive mat or pencil eraser followed
+by solvent cleaning. If assemblies are involved, careful drying and complete displacement of water is necessary. In general, cleaning of gold or platinum coatings is not recommended in the field.

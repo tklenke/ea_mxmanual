@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 11: CLAMPING
+
+11-147. WIRE AND CABLE CLAMPS
+INSPECTION. Inspect wire and cable
+clamps for proper tightness. Where cables
+pass through structure or bulkheads, inspect
+for proper clamping and grommets. Inspect
+for sufficient slack between the last clamp and
+the electronic equipment to prevent strain at
+the cable terminals and to minimize adverse
+effects on shock-mounted equipment.
+[FIG 11-11] Safe angle for cable clamps.
+[FIG 11-12] Typical mounting hardware for MS-21919 cable
+clamps.
+[FIG 11-13] Installing cable clamp to structure.
+[FIG 11-14] Clamping at a bulkhead hole.
+11-148.11-154.
+[RESERVED.]
+SECTION 12. WIRE INSULATION

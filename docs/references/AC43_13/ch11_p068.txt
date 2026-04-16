@@ -1,0 +1,198 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 5: ELECTRICAL WIRE RATING
+
+11-68. INSTRUCTIONS FOR USE OF
+ELECTRICAL WIRE CHART.
+a. Correct Size. To select the correct size
+of electrical wire, two major requirements
+must be met:
+(1) The wire size should be sufficient to
+prevent an excessive voltage drop while carrying the required current over the required
+distance. (See table 11-6, Tabulation Chart, for
+allowable voltage drops.)
+(2) The size should be sufficient to prevent overheating of the wire carrying the required current. (See paragraph 11-69 for allowable current carrying calculation methods.)
+b. Two Requirements. To meet the two
+requirements (see paragraph 11-66b) in selecting the correct wire size using figure 11-2
+or figure 11-3, the following must be known:
+(1) The wire length in feet.
+(2) The number of amperes of current to
+be carried.
+(3) The allowable voltage drop
+permitted.
+(4) The required continuous or intermittent current.
+(5) The estimated or measured conductor temperature.
+(6) Is the wire to be installed in conduit
+and/or bundle?
+(7) Is the wire to be installed as a single
+wire in free air?
+c. Example No. 1. Find the wire size in
+figure 11-2 using the following known information:
+(1) The wire run is 50 feet long, including the ground wire.
+(2) Current load is 20 amps.
+(3) The voltage source is 28 volts from
+bus to equipment.
+(4) The circuit has continuous operation.
+(5) Estimated conductor temperature is
+°C
+20 or less.
+The scale on the left of the chart represents
+maximum wire length in feet to prevent an excessive voltage drop for a specified voltage
+source system (e.g., 14V, 28V, 115V, 200V).
+This voltage is identified at the top of scale
+and the corresponding voltage drop limit for
+continuous operation at the bottom. The scale
+(slant lines) on top of the chart represents amperes. The scale at the bottom of the chart represents wire gauge.
+STEP 1: From the left scale find the wire
+length, 50 feet under the 28V source column.
+STEP 2: Follow the corresponding horizontal
+line to the right until it intersects the slanted
+line for the 20-amp load.
+STEP 3: At this point, drop vertically to the
+bottom of the chart. The value falls between
+No. 8 and No. 10. Select the next larger size
+wire to the right, in this case No. 8. This is the
+smallest size wire that can be used without exceeding the voltage drop limit expressed at the
+bottom of the left scale. This example is plotted on the wire chart, figure 11-2. Use figure
+11-2 for continuous flow and figure 11-3 for
+intermittent flow.
+d. Procedures in Example No. 1 paragraph 11-68c, can be used to find the wire size
+for any continuous or intermittent operation
+(maximum two minutes). Voltage (e.g.
+14 volts, 28 volts, 115 volts, 200 volts) as indicated on the left scale of the wire chart in
+figure 11-2 and 11-3.
+e. Example No. 2. Using figure 11-2, find
+the wire size required to meet the allowable
+voltage drop in table 11-6 for a wire carrying
+current at an elevated conductor temperature
+using the following information:
+(1) The wire run is 15.5 feet long, including the ground wire.
+(2) Circuit current (I2) is 20 amps,
+continuous.
+(3) The voltage source is 28 volts.
+°C
+(4) The wire type used has a 200
+conductor rating and it is intended to use this
+thermal rating to minimize the wire gauge.
+Assume that the method described in paragraph 11-66d(6) was used and the minimum
+wire size to carry the required current is #14.
+°C
+(5) Ambient temperature is 50 under
+hottest operating conditions.
+f. Procedures in example No. 2.
+STEP 1: Assuming that the recommended
+load bank testing described in paragraph 11-66d(5) is unable to be conducted,
+then the estimated calculation methods outlined in paragraph 11-66d(6) may be used to
+determine the estimated maximum current
+(Imax). The #14 gauge wire mentioned above
+°C
+can carry the required current at 50 ambient
+(allowing for altitude and bundle derating).
+(1) Use figure 11-4a to calculate the
+Imax a #14 gauge wire can carry.
+Where:
+T = estimated conductor temperature
+2
+T = 50 °C ambient temperature
+1
+T = 200 °C maximum conductor rated
+R
+temperature
+(2) Find the temperature differences
+°C.
+(T -T1) = (200 °C-50 °C) = 150
+R
+°C
+(3) Follow the 150 corresponding
+horizontal line to intersect with #14 wire size,
+drop vertically and read 47 Amps at bottom of
+chart (current amperes).
+(4) Use figure 11-5, left side of chart
+reads 0.91 for 20,000 feet, multiple
+0.91 x 47 Amps = 42.77 Amps.
+(5) Use figure 11-6, find the derate
+factor for 8 wires in a bundle at 60 percent.
+First find the number of wires in the bundle (8)
+at bottom of graph and intersect with the
+60 percent curve meet. Read derating factor,
+(left side of graph) which is 0.6. Multiply
+0.6 x 42.77 Amps = 26 Amps.
+I = 26 amps (this is the maximum
+max
+current the #14 gauge wire could carry at 50°C
+ambient
+L =15.5 feet maximum run length for size
+1
+#14 wire carrying 20 amps from figure 11-2
+STEP 2: From paragraph 11-66d (5) and (6),
+determine the T and the resultant maximum
+2
+wire length when the increased resistance of
+the higher temperature conductor is taken into
+account.
+( )
+( )
+= + −
+T T T T I / I
+2 1 R 1 2 max
+= °C + −
+T 50 (200 C 50 C)( 20A / 26A
+2
+= 50 °C+(150 °C)(.877)
+T = 182 °C
+2
+°C)(L
+(254.5 )
+1
+=
+L =
+2
+°C)
+(234.5 + (T )
+2
+°C)(15.5Ft)
+(254.5
+L =
+2
+°C) °C)
+(234.5 + (182
+L = 9.5 ft
+2
+The size #14 wire selected using the methods
+outlined in paragraph 11-66d is too small to
+meet the voltage drop limits from figure 11-2
+for a 15.5 feet long wire run.
+STEP 3: Select the next larger wire (size #12)
+and repeat the calculations as follows:
+L =24 feet maximum run length for
+1
+12 gauge wire carrying 20 amps from figure 11-2.
+I = 37 amps (this is the maximum current
+max
+the size #12 wire can carry at 50 °C ambient.
+Use calculation methods outlined in paragraph 11-69 and figure 11-4a.
+= =
+T 50 o C+(200 oC-50 oC) ( 20A / 37A
+2
+50 oC + (150 o C)(-540) = 131 oC
+oC(L
+254.5 )
+=
+L 1
+2
+oC+(T
+234.5 )
+2
+oC)(24ft)
+(254.5 6108
+= =
+L
+2
+(234.5 oC) + (131 oC) 366
+oC)(24ft)
+(254.5
+= =
+L 16.7 ft
+2
+366
+The resultant maximum wire length, after adjusting downward for the added resistance associated with running the wire at a higher temperature, is 15.4 feet, which will meet the
+original 15.5 foot wire run length requirement
+without exceeding the voltage drop limit expressed in figure 11-2.

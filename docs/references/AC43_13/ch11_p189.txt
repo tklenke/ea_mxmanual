@@ -1,0 +1,56 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-189. BONDING JUMPER INSTALLATIONS. Bonding jumpers should be made
+as short as practicable, and installed in such a
+manner that the resistance of each connection
+does not exceed .003 ohm. The jumper should
+not interfere with the operation of movable
+aircraft elements, such as surface controls, nor
+should normal movement of these elements result in damage to the bonding jumper.
+a. Bonding Connections. To ensure a
+low-resistance connection, nonconducting finishes, such as paint and anodizing films,
+should be removed from the attachment surface to be contacted by the bonding terminal.
+On aluminum surfaces, a suitable conductive
+chemical surface treatment, such as Alodine,
+should be applied to the surfaces within
+24 hours of the removal of the original finish.
+Refer to SAE, ARP 1870 for detailed instructions. Electric wiring should not be grounded
+directly to magnesium parts.
+b. Corrosion Protection. One of the
+more frequent causes of failures in electrical
+system bonding and grounding is corrosion.
+Aircraft operating near salt water are particularly vulnerable to this failure mode. Because
+bonding and grounding connections may involve a variety of materials and finishes, it is
+important to protect completely against dissimilar metal corrosion. The areas around
+completed connections should be post-finished
+in accordance with the original finish requirements or with some other suitable protective
+finish within 24 hours of the cleaning process.
+In applications exposed to salt spray environment, a suitable noncorrosive sealant, such as
+one conforming to MIL-S-8802, should be
+used to seal dissimilar metals for protection
+from exposure to the atmosphere.
+c. Corrosion Prevention. Electrolytic
+action may rapidly corrode a bonding connection if suitable precautions are not taken.
+Aluminum alloy jumpers are recommended for
+most cases; however, copper jumpers should
+be used to bond together parts made of stainless steel, cadmium plated steel, copper, brass,
+or bronze. Where contact between dissimilar
+metals cannot be avoided, the choice of jumper
+and hardware should be such that corrosion is
+minimized, and the part likely to corrode
+would be the jumper or associated hardware.
+Tables 11-14 through 11-16 and figures 11-20
+through 11-22 show the proper hardware combinations for making a bond connection. At
+locations where finishes are removed, a protective finish should be applied to the completed connection to prevent subsequent
+corrosion.
+d. Bonding Jumper Attachment. The
+use of solder to attach bonding jumpers should
+be avoided. Tubular members should be
+bonded by means of clamps to which the
+jumper is attached. Proper choice of clamp
+material should minimize the probability of
+corrosion.
+e. Ground Return Connection. When
+bonding jumpers carry substantial ground return current, the current rating of the jumper
+should be determined to be adequate and that
+a negligible voltage drop is produced.

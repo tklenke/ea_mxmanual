@@ -1,0 +1,52 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-104. STAINLESS STEEL STRUCTURE. Repair structural components made
+from stainless steel, particularly the “18-8” variety (18 percent chromium, 8 percent nickel),
+joined by spot welding, in accordance with the
+instructions furnished by the manufacturer,
+DER, or FAA. Substitution of bolted or riveted connections for spot-welded joints are to
+(applicable to wing and tail surface brace struts and other
+be specifically approved by a DER or the
+FAA. Repair secondary structural and nonstructural elements such as tip bows or leading
+and trailing edge tip strips of wing and control
+surfaces by soldering with a 50-50 lead-tin solder or a 60-40 lead-tin solder. For best results,
+use a flux of phosphoric acid (syrup). Since
+the purpose of flux is to attack the metal so
+that the soldering will be effective, remove excess flux by washing the joint. Due to the
+high-heat conductivity of the stainless steel,
+use a soldering iron large enough to do the
+work properly.
+INSERT TUBE IS OF SAME STREAMLINE
+A- Is ²/³ B.
+B- Is Minor Axis Length of Original Streamline Tube.
+C- Is Major Axis Length of Original Streamline Tube.
+S.L. Size A B C L
+1” .382 .572 1.340 5.160
+1-¼ .476 .714 1.670 6.430
+1-½ .572 .858 2.005 7.720
+1-¾ .667 1.000 2.339 9.000
+2 .763 1.144 2.670 10.300
+2-¼ .858 1.286 3.008 11.580
+2-½ .954 1.430 3.342 12.880
+[FIG 4-44] Streamline tube splice using split insert (applicable
+TUBING AS ORIGINAL.
+to landing gear).
+A- Streamline Tube Length of Minor Axis, Plate Widths.
+B- Distance of First Plate From Leading Edge, ²/³ A.
+C- Streamline Tube Length of Major Axis.
+S.L. Size A B C 6A
+1” .572 .382 1.340 3.430
+1-¼ .714 .476 1.670 4.280
+1-½ .858 .572 2.005 5.150
+1-¾ 1.000 .667 2.339 6.000
+2 1.144 .762 2.670 6.860
+2-¼ 1.286 .858 3.008 7.720
+2-½ 1.430 .954 3.342 8.580
+[FIG 4-45] Streamline tube splice using plates (applicable
+to landing gear).
+[FIG 4-46] Representative types of repairable axle assemblies.
+[FIG 4-47] Landing gear assemblies that CANNOT be
+4-105.4-110.
+[RESERVED.]
+repaired by welding.
+SECTION 6. WELDING AND BRAZING SAFETY

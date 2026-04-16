@@ -1,0 +1,32 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-209. TYPES OF WIRE MARKINGS.
+The preferred method is to mark directly on
+the wire. A successful requirement qualification should produce markings that meet the
+marking characteristics specified in MIL-W5088 or AS50881A without causing insulation
+degradation. Teflon coated wires, shielded
+wiring, multi-conductor cable, and thermocouple wires usually require special sleeves to
+carry identification marks. There are some
+wire marking machines in the market that can
+be used to stamp directly on the type wires
+mentioned above. Whatever method of marking is used, the marking should be legible and
+the color should contrast with the wire insula- tion
+3” 15”
+H215A20 H215A20
+(b) Single wire without sleeve
+[FIG 11-23] Spacing of printed identification marks (direct
+[FIG 11-24] Spacing of printed identification marks
+(indirect marking).
+or sleeve.
+15” 3”
+H215A20
+marking).
+a. Extreme care must, therefore, be taken
+during circuit identification by a hot stamp
+machine on insulation wall 10 mils or thinner.
+b. Alternative identification methods
+such as “Laser Printing”, “Ink Jet”, and “Dot
+Matrix” are preferred. When such modern
+equipment is not available, the use of stamped
+identification sleeving should be considered on
+insulation wall thickness of 10 mils or less.

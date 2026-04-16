@@ -1,0 +1,150 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-190. CREEPAGE DISTANCE. Care
+should be used in the selection of electrical
+components to ensure that electrical clearance
+and creepage distance along surfaces between
+adjacent terminals, at different potentials, and
+between these terminals and adjacent ground
+surfaces are adequate for the voltages involved.
+[TABLE 11-14] Stud bonding or grounding to flat surface.
+Aluminum Terminal and Jumper
+Screw or
+Structure Bolt and Plain nut Washer
+Lock nut A
+Aluminum Cadmium Cadmium Aluminum
+Alloys Plated steel Plated Steel Alloy
+Magnesium Cadmium Cadmium Magnesium
+Alloys Plated Steel Plated Steel Alloy
+Steel, Cadmium Cadmium Cadmium None
+Plated Plated Steel Plated Steel
+Steel, Corrosion Corrosion Re­ Cadmium None
+Resisting sisting Steel Plated Steel
+Tinned Copper Terminal and Jumper
+Aluminum Cadmium Cadmium Aluminum
+Alloys Plated Steel Plated Steel Alloy
+Magnesium
+Alloys1
+Steel, Cadmium Cadmium Cadmium None
+Plated Plated Steel Plated Steel
+Steel, Corrosion Corrosion Re­ Corrosion None
+Resisting sisting Steel Resisting Steel
+1
+Avoid connecting copper to magnesium.
+Washer Washer Lock Lock
+B C & D washer E washer F
+Aluminum Cadmium Cadmium Cadmium
+Alloy Plated Steel or Plated Steel Plated Steel
+Aluminum
+Magnesium Cadmium Cadmium Cadmium
+Alloy Plated Steel or Plated Steel Plated Steel
+Aluminum
+None Cadmium Cadmium Cadmium
+Plated Steel or Plated Steel Plated Steel
+Aluminum
+None Cadmium Corrosion Cadmium
+Plated Steel or Resist Steel Plated Steel
+Aluminum
+Aluminum Cadmium Cadmium Cadmium
+Alloy Plated Steel Plated Steel Plated Steel
+or Aluminum
+None Cadmium Cadmium Cadmium
+Plated Steel Plated Steel Plated Steel
+None Cadmium Corrosion Corrosion
+Plated Steel Resisting Resisting
+Steel Steel
+[TABLE 11-15] Plate nut bonding or grounding to flat surface.
+Aluminum Terminal and Jumper
+Screw or bolt
+Structure and nut plate Rivet
+Aluminum Alloys Cadmium Plated Aluminum Alloy
+Steel Steel Steel or
+Magnesium Alloys Cadmium Plated Aluminum Alloy
+Steel Steel Steel or nesium Alloy
+Steel, Cadmium Cadmium Plated Corrosion
+Plated Steel Resisting Steel
+Steel, Corrosion Re- Corrosion Resisting Corrosion
+sisting Steel or Cadmium Resisting Steel
+Plated Steel Aluminum
+Tinned Copper Terminal and Jumper
+Aluminum Alloys Cadmium Plated Aluminum Alloy
+Steel Steel Steel
+Alloys1
+Magnesium
+Steel, Cadmium Cadmium Plated Corrosion
+Plated Steel Resisting Steel
+Steel, Corrosion Corrosion Resisting Corrosion
+Resisting Steel Resisting Steel
+1
+Avoid connecting copper to magnesium.
+2.Use
+washers having a conductive finished treated
+Lockwasher Washer A Washer B
+Cadmium Plated Cadmium Plated None
+Aluminum
+Cadmium Plated Cadmium Plated None or MagAluminum
+Cadmium Plated Cadmium Plated None
+Steel Steel or
+Aluminum
+Cadmium Plated Cadmium Plated Cadmium
+Steel Steel or Plated Steel
+Cadmium Plated Cadmium Plated Aluminum2
+Alloy
+Cadmium Plated Cadmium Plated
+None
+Steel Steel
+Cadmium Plated Cadmium Plated
+None
+Steel Steel
+to prevent corrosion, suggest AN960JD10L
+[TABLE 11-16] Bolt and nut bonding or grounding to flat surface.
+Aluminum Terminal and Jumper
+Screw or bolt
+Structure and nut plate Lock-nut
+Aluminum Alloys Cadmium Plated Cadmium Plated
+Steel Steel Steel or Aluminum Steel or
+Magnesium Alloys Cadmium Plated Cadmium Plated
+Steel Steel Magnesium alloy Steel or
+Steel, Cadmium Cadmium Plated Cadmium Plated
+Plated Steel Steel
+Steel, Corrosion Re- Corrosion Resisting Cadmium Plated
+sisting Steel or Cadmium Steel
+Plated Steel Aluminum
+Tinned Copper Terminal and Jumper
+Aluminum Alloy Cadmium Plated Cadmium Plated
+Steel Steel Steel Plated Steel
+Alloy1
+Magnesium
+Steel, Cadmium Cadmium Plated Cadmium Plated
+Plated Steel Steel
+Steel, Corrosion Re­ Corrosion Resisting Cadmium Plated
+sisting Steel or Cadmium Steel
+Plated Steel
+1
+Avoid connecting copper to magnesium.
+2.Use
+washers having a conductive finished treated to prevent
+Washer A Washer B Washer C
+Cadmium Plated None Cadmium Plated
+Aluminum
+Magnesium Alloy None or Cadmium Plated
+Aluminum
+Cadmium Plated Cadmium Cadmium Plated
+Steel Plated Steel Steel or
+Aluminum
+Corrosion Cadmium Cadmium Plated
+Resisting Steel Plated Steel Steel or
+Cadmium Plated Aluminum2 Cadmium
+Alloy
+Cadmium Plated Cadmium
+None
+Steel Plated Steel
+Corrosion Resisting Cadmium
+None
+Steel Plated Steel
+corrosion, suggest AN960JD10L
+[FIG 11-20] Copper jumper connector to
+[FIG 11-21] Bonding conduit to structure.
+[FIG 11-22] Aluminum jumper connection
+tubular structure.
+to tubular structure.

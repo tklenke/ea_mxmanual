@@ -1,0 +1,76 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 2: VISUAL INSPECTION
+
+5-18. VISUAL INSPECTION PROCEDURES. Corrosion can be an extremely critical defect. Therefore, NDI personnel should
+be familiar with the appearance of common
+types of corrosion and have training and
+[FIG 5-1] Typical borescope designs.
+experience on corrosion detection on aircraft
+structure and engine materials. (Reference:
+AC 43-4A, Corrosion Control for Aircraft, for
+additional information on corrosion.
+a. Preliminary Inspection. Perform a
+preliminary inspection of the overall general
+area for cleanliness, presence of foreign objects, deformed or missing fasteners, security
+of parts, corrosion, and damage. If the configuration or location of the part conceals the
+area to be inspected, use visual aids such as a
+mirror or borescope.
+b. Corrosion Treatment. Treat any corrosion found during preliminary inspection
+after completing a visual inspection of any selected part or area.
+NOTE: Eddy current, radiography,
+or ultrasonic inspection can determine the loss of metal to corrosion.
+c. Lighting. Provide adequate lighting to
+illuminate the selected part or area.
+d. Personal Comfort. Personal comfort
+(temperature, wind, rain, etc.) of the inspector
+can be a factor in visual inspection reliability.
+e. Noise. Noise levels while conducting a
+visual inspection are important. Excessive
+noise reduces concentration, creates tension,
+and prevents effective communication. All
+these factors will increase the likelihood of errors.
+f. Inspection Area Access. Ease of access to the inspection area has been found to
+be of major importance in obtaining reliable
+visual inspection results. Access consists of
+the act of getting into an inspection position
+(primary access) and doing the visual inspection (secondary access). Poor access can affect
+the inspector’s interpretation of discontinuities,
+decision making, motivation, and attitude.
+g. Precleaning. Clean the areas or surface
+of the parts to be inspected. Remove any contaminates that might hinder the discovery of
+existing surface indications. Do not remove
+the protective finish from the part or area prior
+to inspection. Removal of the finish may be
+required at a later time if other NDI techniques
+are required to verify any visual indications of
+flaws that are found.
+h. Inspection. Carefully inspect the area
+for discontinuities, using optical aids as
+required. An inspector normally should have
+available suitable measuring devices, a flashlight, and a mirror.
+(1) Surface cracks. When searching for
+surface cracks with a flashlight, direct the light
+beam at a 5 to 45 degree angle to the inspection surface, towards the face. (See figure 5-2.) Do not direct the light beam at such
+an angle that the reflected light beam shines directly into the eyes. Keep the eyes above the
+reflected light beam during the inspection.
+Determine the extent of any cracks found by
+directing the light beam at right angles to the
+crack and tracing its length. Use a 10-power
+magnifying glass to confirm the existence of a
+suspected crack. If this is not adequate, use
+other NDI techniques, such as penetrant, magnetic particle, or eddy current to verify cracks.
+(2) Other surface discontinuities. Inspect for other surface discontinuities, such as:
+discoloration from overheating; buckled,
+bulging, or dented skin; cracked, chafed, split,
+or dented tubing; chafed electrical wiring; delaminations of composites; and damaged protective finishes.
+i. Recordkeeping. Document all discrepancies by written report, photograph, and/or
+video recording for appropriate evaluation.
+The full value of visual inspection can be realized only if records are kept of the discrepancies found on parts inspected. The size and
+shape of the discontinuity and its location on
+the part should be recorded along with other
+pertinent information, such as rework performed or disposition. The inclusion on a report of some visible record of the discontinuity
+makes the report more complete.
+[FIG 5-2] Using a flashlight to inspect
+5-19.5-24.
+[RESERVED.]
+for cracks.
+SECTION 3. EDDY CURRENT INSPECTION

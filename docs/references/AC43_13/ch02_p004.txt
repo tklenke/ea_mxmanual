@@ -1,0 +1,15 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-4. AIRCRAFT FABRIC-NATURAL.
+Physical specifications and minimum strength
+requirements for natural fiber fabric, cotton
+and linen, used to recover or repair components of an aircraft, are listed in table 2-1.
+Tear resistance is an important factor when
+considering aircraft fabric. A test method such
+as ASTM D 1424 is recommended. Technical
+Standard Order TSO-C15d, entitled Aircraft
+Fabric, Grade A (AMS 3806D); and
+TSO-C14b, Aircraft Fabric, Intermediate
+Grade (AMS 3804C) current edition, respectively, describe the minimum standards that all
+fabric must meet to qualify as aircraft covering
+material.

@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 14: TERMINAL REPAIRS
+
+11-175. ATTACHMENT OF TERMINALS TO STUDS. Connectors and terminals
+in aircraft require special attention to ensure a
+safe and satisfactory installation. Every possibility of short circuits, due to misinstallation,
+poor maintenance, and service life, should be
+addressed in the design. Electrical equipment
+malfunction has frequently been traced to poor
+terminal connections at terminal boards.
+Loose, dirty, or corroded contact surfaces can
+produce localized heating that may ignite
+nearby combustible materials or overheat adjacent wire insulation. (See paragraph 11-178)

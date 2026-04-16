@@ -1,0 +1,37 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 1: MATERIALS AND PRACTICES
+
+1-8. ASSEMBLY TIME IN BONDING.
+Resorcinol, epoxy, and other adhesives cure as
+a result of a chemical reaction. Time is an important consideration in the bonding process.
+Specific time constraints are as follows:
+a. Pot life is the usable life of the adhesive
+from the time that it is mixed until it must be
+spread onto the wood surface. Once pot life
+has expired, the remaining adhesive must be
+discarded. Do not add thinning agents to the
+adhesive to extend the life of the batch.
+b. Open assembly time is the period from
+the moment the adhesive is spread until the
+parts are clamped together. Where surfaces
+are coated and exposed freely to the air, some
+adhesives experience a much more rapid
+change in consistency than when the parts are
+laid together as soon as the spreading has been
+completed.
+c. Closed assembly time is the period
+from the moment that the structure parts are
+placed together until clamping pressure is applied. The consistency of the adhesive does
+not change as rapidly when the parts are laid
+together.
+d. Pressing (or clamping) time is the period during which the parts are pressed tightly
+together and the adhesive cures. The pressing
+time must be sufficient to ensure that joint
+strength is adequate before handling or machining the bonded structure.
+NOTE: Follow the adhesive manufacturer’s instructions for all time limits
+in the bonding process. If the recommended open or closed assembly periods are exceeded, the bond process
+should not be continued. Discard the
+parts if feasible. If the parts cannot be
+discarded, remove the partially cured
+adhesive and clean the bond line per
+adhesive manufacturer’s instructions
+before application of new adhesive.

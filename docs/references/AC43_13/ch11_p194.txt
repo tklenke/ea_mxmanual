@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-194. LIGHTNING PROTECTION
+FOR ANTENNAS AND AIR DATA
+PROBES. Antenna and air data probes that
+are mounted on exterior surfaces within lightning strike zones should be provided with a
+means to safely transfer lightning currents to
+the airframe, and to prevent hazardous surges
+from being conducted into the airframe via
+antenna cables or wire harnesses. Usually, the
+antenna mounting bolts provide adequate
+lightning current paths. Surge protectors built
+into antennas or installed in coaxial antenna
+cables or probe wire harnesses will fulfill these
+requirements. Candidate designs should be
+verified by simulated lightning tests in accordance with RTCA DO-160C, Section 23.

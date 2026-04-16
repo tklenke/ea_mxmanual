@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 4: INSPECTION OF CIRCUIT-PROTECTION DEVICES
+
+11-51. CIRCUIT BREAKER USAGE.
+Circuit breakers are designed as circuit protection for the wire (see paragraph 11-48
+and 11-49), not for protection of black boxes
+or components. Use of a circuit breaker as a
+switch is not recommended. Use of a circuit
+breaker as a switch will decrease the life of the
+circuit breaker.

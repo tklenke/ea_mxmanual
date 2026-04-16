@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-82. FIELD INSPECTION. The field inspection of thick sections can be a timeconsuming process, because the effective
+radiation output of portable sources may require long exposure times of the radiographic
+film. This limits field usage to sources of
+lower activity that can be transported. The
+output of portable x-ray sources may also limit
+field inspection of thick sections, particularly
+if a portable x-ray tube is used. Portable x-ray
+tubes emit relatively low-energy (300 kev) radiation and are limited in the radiation output.
+Both of these characteristics of portable x-ray
+tubes combine to limit their application to the
+inspection of sections having the adsorption
+equivalent of 75 mm (3 inches) of steel maximum. Portable linear accelerators and betatrons that provide high-energy (> 1 MeV)
+x-rays can be used for the radiographic field
+inspection of thicker sections.

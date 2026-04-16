@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-18. EXFOLIATION CORROSION. Exfoliation corrosion is an advanced form of inter-granular corrosion and shows itself by lifting up the surface grains of a metal by the
+force of expanding corrosion products occurring at the grain boundaries just below the surface. (See figure 6-10.) It is visible evidence
+of inter-granular corrosion and is most often
+seen on extruded sections where grain thickness are usually less than in rolled forms.
+[FIG 6-9] Inter-granular Corrosion of 7075-T6 aluminum
+[FIG 6-10] Exfoliation corrosion.

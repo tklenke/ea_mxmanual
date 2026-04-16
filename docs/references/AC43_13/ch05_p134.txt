@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 12: SHEAROGRAPHY
+
+5-134. GENERAL. Shearography was developed for strain measurements. The process
+now provides a full-field video strain gauge,
+in real time, over large areas. It is an enhanced form of holography, which requires
+the part to be under stress. A laser is used for
+illumination of the part while under stress.
+The output takes the form of an image processed video display. This technique has been
+used effectively in locating defects, such as
+disbonds and delaminations, through multiple
+bondlines. It is capable of showing the size
+and shape of subsurface anomalies when the
+test part is properly stressed. Shearography
+has been developed into a useful tool for NDI.
+It can be used easily in a hangar environment,
+while meeting all laser safety concerns. Other
+applications include the testing of honeycomb
+structures, such as flaps and control surfaces.
+Shearography offers a great increase in the
+speed of inspection by allowing on-aircraft inspections of structures without their removal,
+as well as inspections of large areas in just
+seconds.
+5-135.5-140.
+[RESERVED.]
+CHAPTER 6. CORROSION,
+SECTION 1. GENERAL

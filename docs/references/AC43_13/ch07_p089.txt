@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 5: WASHERS
+
+7-89. TAPER PIN WASHERS (AN975).
+Taper pin washers are used with the threaded
+taper pin. NAS143 and MS20002 washers are
+used with NAS internal wrenching bolts and
+internal wrenching nuts. They may be plain or
+countersunk. The countersunk washer (designated as NAS143C and MS20002C) is used to
+seat the bolthead shank radius, and the plain
+washer is used under the nut.
+7-90.7-100.
+[RESERVED.]
+SECTION 6. PINS

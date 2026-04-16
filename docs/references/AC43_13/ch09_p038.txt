@@ -1,0 +1,79 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 3: EMERGENCY EQUIPMENT
+
+9-38. LIFE RAFT INSPECTIONS. Inspection of life rafts should be performed in
+accordance with the manufacturer’s
+specifications. General inspection procedures
+to be performed on most life rafts are as follows.
+CAUTION: Areas where life rafts are
+inspected or tested must be smooth,
+free of splinters, sharp projections,
+and oil stains. Floors with abrasive
+characteristics, such as concrete or
+rough wood, will be covered with untreated tarpaulins or heavy clean paper.
+a. Inspect life rafts for cuts, tears, or
+other damage to the rubberized material. If the
+raft is found to be in good condition, remove
+the CO bottle(s) and inflate the raft with air to
+2
+a pressure of 2 psi. The air should be introduced at the fitting normally connected to the
+CO bottle(s). After at least 1 hour, to allow
+2
+for the air within the raft to adjust itself to the
+ambient temperature, check pressure and adjust, if necessary, to 2 psi and allow the raft to
+stand for 24 hours. If, after 24 hours, the pressure is less than 1 psi, examine the raft for
+leakage by using soapy water. In order to
+eliminate pressure variations due to temperature differences at the time the initial and final
+reading are taken, test the raft in a room where
+the temperature is fairly constant. If the pressure drop is satisfactory, the raft should be
+considered as being in an airworthy condition
+and returned to service after being fitted with
+correctly charged CO bottles as determined by
+2
+weighing them. Rafts more than 5 years old
+are likely to be unairworthy due to deterioration. It is suggested that serviceable rafts be
+marked to indicate the date of inspection and
+that soapstone be used when folding them preparatory to insertion into the carrying case.
+Take care to see that all of the raft’s required
+equipment is on board and properly stowed. If
+the raft lanyard, used to prevent the raft from
+floating away from the airplane, is in need of
+replacement, use a lanyard not less than 20 feet
+long and having a breaking strength of about
+75 pounds.
+b. It is recommended that the aforementioned procedure be repeated every 18 months
+using the CO bottle(s) for inflation. If a sin2
+gle bottle is used for inflating both compartments, it should be noted whether the inflation
+is proceeding equally to both compartments.
+Occasionally, the formation of “carbon-dioxide
+snow” may occur in one passage of the distribution manifold and divert a larger volume of
+gas to one compartment, which may burst if
+the mattress valve is not open to relieve the
+pressure. If the pressure is satisfactory, return
+the raft to service in accordance with the procedure outlined.
+c. Inspect the CO cylinder for evidence
+2
+of cross-threading or stripping.
+d. Inspect the CO bottle inflation valve
+2
+cable rigging as follows.
+(1) Remove the screws that attach the
+cover plate to the valve and remove the cover
+plate.
+(2) Inspect the firing line cable ball
+swage for engagement in the correct recess for
+either “Upward Pull” or “Downward Pull.”
+The cable will be wrapped around the sheave
+approximately 270 degrees.
+(3) Reposition the cable ball swage as
+required. (See figure 9-12.)
+(4) Replace the cover plate. The green
+dot on the sheave should be visible through the
+window in the cover plate, indicating a
+charged cylinder.
+e. Check the CO cylinder release cable
+2
+and housing for condition and security.
+f. Make sure the safety deflector is removed from the cylinder outlet before connecting the cylinder to the raft. (See
+figure 9-12.)
+g. Stencil the life raft’s inspection date on
+the raft.

@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 3: PRECAUTIONARY MEASURES
+
+4-38. TRANSFER OF STRESSES WITHIN A STRUCTURE. An aircraft structure
+must be designed in such a way that it will accept all of the stresses imposed upon it by the
+flight and ground loads without any permanent
+deformation. Any repair made must accept the
+stresses, carry them across the repair, and then
+transfer them back into the original structure.
+These stresses are considered as flowing
+through the structure, so there must be a continuous path for them, with no abrupt changes
+in cross-sectional areas along the way. Abrupt
+changes in cross-sectional areas of aircraft
+structure that are subject to cycle loading/stresses will result in stress concentration
+that may induce fatigue cracking and eventual
+failure. A scratch or gouge in the surface of a
+highly-stressed piece of metal will cause a
+stress concentration at the point of damage.
+a. Multirow Fastener Load Transfer.
+When multiple rows of rivets are used to secure a lap joint, the transfer of stresses is not
+equal in each row. The transfer of stress at
+each row of rivets may be thought of as transferring the maximum amount capable of being
+transferred without experiencing rivet shear
+failure.
+b. Use Of Stacked Doublers. A stacked
+doubler is composed of two or more sheets of
+material that are used in lieu of a single,
+thicker sheet of material. Because the stress
+transferred at each row of rivets is dependent
+upon the maximum stress that can be transferred by the rivets in that row, the thickness of
+the sheet material at that row need only be
+thick enough to transfer the stress applied.
+Employing this principle can reduce the weight
+of a repair joint.
+4-39.4-49.
+[RESERVED.]
+SECTION 4. METAL REPAIR PROCEDURES

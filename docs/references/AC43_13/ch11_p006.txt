@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 1: INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+
+11-6. ADJUSTMENT AND REPAIR. Accomplish adjustments to items of equipment
+such as regulators, alternators, generators,
+contactors, control devices, inverters, and relays at a location outside the aircraft, and on a
+test stand or test bench where all necessary instruments and test equipment are at hand.
+Follow the adjustment and repair procedures
+outlined by the equipment or aircraft manufacturer. Replacement or repair must be accomplished as a part of routine maintenance.
+Adjustment of a replacement voltage regulator
+is likely since there will always be a difference
+in impedance between the manufacturer’s test
+equipment and the aircraft’s electrical system.

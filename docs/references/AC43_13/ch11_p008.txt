@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 1: INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+
+11-8. BUS BARS. Annually check bus bars
+for general condition, cleanliness, and security
+of all attachments and terminals. Grease, corrosion, or dirt on any electrical junction may
+cause the connections to overheat and eventually fail. Bus bars that exhibit corrosion, even
+in limited amounts, should be disassembled,
+cleaned and brightened, and reinstalled.
+11-9.11-14.
+[RESERVED.]
+SECTION 2. STORAGE BATTERIES

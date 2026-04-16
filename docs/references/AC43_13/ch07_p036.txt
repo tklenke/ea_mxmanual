@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-36. IDENTIFICATION. Aircraft bolts
+may be identified by code markings on the bolt
+heads. These markings generally denote the
+material of which the bolt is made, whether the
+bolt is a standard AN-type or a special-purpose
+bolt, and sometimes include the manufacturer.
+a. AN standard steel bolts are marked
+with either a raised dash or asterisk, corrosionresistant steel is marked by a single dash, and
+AN aluminum-alloy bolts are marked with two
+raised dashes.
+b. Special-purpose bolts include highstrength, low-strength, and close-tolerance
+types. These bolts are normally inspected by
+magnetic particle inspection methods. Typical
+markings include “SPEC” (usually heat-treated
+for strength and durability), and an aircraft
+manufacturer’s part number stamped on the
+head. Bolts with no markings are low strength.
+Close-tolerance NAS bolts are marked with
+either a raised or recessed triangle. The material markings for NAS bolts are the same as for
+AN bolts, except they may be either raised or
+recessed. Bolts requiring non-destructive inspection (NDI) by magnetic particle inspection
+are identified by means of colored lacquer, or
+head markings of a distinctive type. (See figure 7-1.)

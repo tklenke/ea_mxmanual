@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-47. TWELVE POINT, EXTERNAL
+WRENCHING BOLTS, (NAS624
+THROUGH NAS644). These bolts are used
+primarily in high-tensile, high-fatigue strength
+applications. The twelve point head, heatresistant machine bolts (MS9033 through
+MS9039), and drilled twelve point head machine bolts (MS9088 through MS9094), are
+similar to the (NAS624 through NAS644); but
+are made from different steel alloys, and their
+shanks have larger tolerances.

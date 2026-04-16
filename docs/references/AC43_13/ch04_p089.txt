@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-89. AIRCRAFT PARTS NOT TO BE
+WELDED.
+a. Brace Wires and Cables. Do not weld
+aircraft parts whose proper function depends
+upon strength properties developed by coldworking. Among parts in this classification
+are streamlined wire and cables.
+b. Brazed and Soldered Parts. Do not
+weld brazed or soldered parts as the brazing
+mixture or solder will penetrate and weaken
+the hot steel.
+c. Alloy Steel Parts. Do not weld alloy steel
+parts such as aircraft bolts, turnbuckle ends,
+etc., which have been heat treated to improve
+their mechanical properties.
+d. Nos. 2024 and 7075 Aluminum. Do not
+weld these two aluminum alloys (that are often
+used in aircraft construction) because the heat
+from the welding process will cause severe
+cracking. The 2024 aluminum is most often
+used in wing skins, fuselage skins, and in most
+structured airframe parts. The 7075 aluminum
+is most often used in machined fittings such as
+wing-spar attachments, landing-gear attachments, and other structural parts.

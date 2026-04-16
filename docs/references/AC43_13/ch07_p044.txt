@@ -1,0 +1,54 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-44. CLOSE-TOLERANCE BOLTS.
+Close-tolerance, hex head, machine bolts
+(AN173 through AN186), 100-degree countersunk head, close-tolerance, high-strength bolts
+(NAS333 through NAS340), hex head, closetolerance, short thread, titanium alloy bolts
+(NAS653 through NAS658), 100-degree
+countersunk flathead, close-tolerance titanium
+alloy bolts (NAS663 through NAS668), and
+drilled hex head close-tolerance titanium alloy
+bolts (NAS673 through NAS678), are used in
+applications where two parts bolted together
+are subject to severe load reversals and vibration. Because of the interference fit, this type
+FROM OIL FREE CADMIUM PLATED THREADS.
+nuts MS20364 Nuts MS20365 and Nuts MS20364 and
+7-9 20 12
+40 25
+100 60
+225 140
+390 240
+840 500
+1100 660
+1600 960
+2400 1400
+7000 4200
+10,000 6000
+15,000 9000
+25,000 15,000
+7-9 20 12
+35 21
+75 45
+160 100
+275 170
+475 280
+880 520
+1100 650
+1500 900
+2500 1500
+4600 2700
+cadmium-plated steel nuts of the fine or coarse thread series which
+equal face bearing areas.
+of bolt may require light tapping with a mallet
+to set the bolt shank into the bolt hole.
+NOTE: Elimination of friction in interference fit applications may sometimes be attained by placing the bolt
+in a freezer prior to installation.
+When this procedure is used, the bolt
+should be allowed to warm up to ambient temperature before torquing.
+CAUTION: Caution must be exercised in the use of close-tolerance bolts
+for all critical applications, such as
+landing gear, control systems, and
+helicopter rotary controls. Do not
+substitute for close-tolerance fasteners
+without specific instructions from the
+aircraft manufacturer or the FAA.

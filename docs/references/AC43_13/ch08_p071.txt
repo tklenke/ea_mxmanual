@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 4: REPAIR OF METAL PROPELLERS
+
+8-71. GENERAL. Reject damaged blades
+with model numbers which are on the manufacturer’s list of blades that cannot be repaired.
+Follow the propeller manufacturer’s recommendations in all cases, and make repairs in
+accordance with latest techniques and best industry practices.
+NOTE: Title 14 of the Code of Federal Regulations, 14 CFR, part 65 does
+not allow an airframe and power
+plant mechanic to perform major repairs to propellers.

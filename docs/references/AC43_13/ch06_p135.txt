@@ -1,0 +1,27 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 8: ALUMINUM AND ALUMINUM ALLOYS
+
+6-135. CORROSION REMOVAL
+AROUND COUNTERSUNK FASTENERS
+IN ALUMINUM ALLOY. Intergranular corrosion in aluminum alloys often originates at
+countersunk areas where steel fasteners are
+used.
+a. When corrosion is found around a
+fixed fastener head, the fastener must be removed to ensure corrosion removal. All corrosion must be removed to prevent further corrosion and loss of structural strength. To reduce the recurrence of corrosion, the panel
+should receive a chemical conversion coating,
+be primed, and have the fasteners installed wet
+with sealant.
+b. Each time removable steel fasteners
+are removed from access panels, they should
+be inspected for condition of the plating. If
+mechanical or plating damage is evident, replace the fastener. One of the following fastener installation methods should be used:
+(1) Brush a corrosion-preventive compound on the substructure around and in the
+fastener hole, start the fastener, apply a bead of
+sealant to the fastener countersink, set and
+torque the fastener within the working time of
+the sealant (this is the preferred method).
+(2) Apply the corrosion preventive
+compound to the substructure and fastener, set
+and torque the fastener.
+(3) Apply a coating of primer to the
+fastener, and while wet with primer, set and
+torque the fastener.

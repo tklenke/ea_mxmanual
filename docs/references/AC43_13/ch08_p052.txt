@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 3: EXHAUST SYSTEMS
+
+8-52. AUGMENTOR SYSTEMS. Inspect
+augmentor tubes periodically for proper alignment, security of attachment, and general
+[FIG 8-23] Primary inspection areas.
+overall condition. Regardless of whether or
+not the augmentor tubes contain heat exchanger surfaces, they should be inspected for
+cracks along with the remainder of the exhaust
+system. Cracks can present a fire or CO hazard by allowing exhaust gases to enter nacelle,
+wing, or cabin areas.
+8-53.8-70.
+[RESERVED.]
+SECTION 4. REPAIR OF METAL PROPELLERS

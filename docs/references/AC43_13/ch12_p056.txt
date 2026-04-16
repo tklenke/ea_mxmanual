@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-56. SYSTEM INSPECTION.
+a. Inspect air passages in the systems for
+water, paint, dirt or other foreign matter. If
+water or obstructive material has entered the
+system, all drains should be cleaned. Probe
+the drains in the pitot tube with a fine wire to
+remove dirt or other obstructions. The bottom
+static openings act as drains for the head’s
+static chamber. Check these holes at regular
+intervals to preclude system malfunctioning.
+Figure 12-6. Pitot/Static Tube Head
+b. Check to ensure the water drains
+freely. If a problem is experienced with the
+pitot-static system drainage or freezing at altitude, and the tubing diameter is less than
+3/8-inch, replace it with larger tubing.
+c. Check the pitot tube for corrosion.
+(1) The pitot probe should not have
+any corrosion within ½-inch of the probe tip.
+(2) Make sure there is no flaking
+which forms pits and irregularities in the surface of the tube.
+NOTE: It is essential that the static air
+system be drained after the airplane
+has been exposed to rain.

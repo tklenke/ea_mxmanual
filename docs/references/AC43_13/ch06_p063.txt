@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 5: VISUAL CORROSION INSPECTION GUIDE FOR AIRCRAFT
+
+6-63. GENERAL. This guide provides a
+general inspection checklist for those parts or
+surfaces that can be visually inspected without
+disassembly of the aircraft. It is intended for
+use in establishing corrosion inspection areas
+for which the manufacturer has not provided a
+recommended corrosion inspection program.
+The manufacturer’s recommended corrosion
+inspection program will take precedence over
+this guideline. These inspections should be
+accomplished in conjunction with other preventive maintenance.

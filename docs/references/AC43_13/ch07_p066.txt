@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 4: NUTS
+
+7-66. CASTLE NUT (AN310). The castle
+nut is used with drilled shank hex head bolts,
+clevis bolts, drilled head bolts, or studs that are
+subjected to tension loads. The nut has slots or
+castellations cut to accommodate a cotter pin
+or safety wire as a means of safetying.

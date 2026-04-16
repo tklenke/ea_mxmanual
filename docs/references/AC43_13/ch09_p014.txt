@@ -1,0 +1,55 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-14. TIRE INSPECTION AND REPAIR.
+Tires should be inspected frequently for cuts,
+worn spots, bulges on the side walls, foreign
+bodies in the treads, and tread condition. Defective or worn tires may be repaired or retreaded. The term, retread, refers to several
+means of restoring a used tire, whether by applying a new tread alone or tread and side wall
+material in varying amounts. The following
+guidelines should be used for tire inspection:
+a. Tread Wear. Inspect the tires visually
+for remaining tread. Tires should be removed
+when tread has worn to the base of any groove
+at any spot, or to a minimum depth as specified
+by the tire or aircraft manufacturer. Tires worn
+to fabric in the tread area should be removed
+regardless of the amount of tread remaining.
+b. Uneven Wear. If tread wear is excessive on one side, the tire can be dismounted
+and turned around, providing there is no exposed fabric. Gear misalignment causing this
+condition should be corrected.
+WARNING: Do not probe cuts or
+embedded foreign objects while tire is
+inflated.
+c. Tread Cuts. Inspect tread for cuts and
+other foreign object damage, and mark with
+crayon or chalk. Remove tires that have the
+following:
+(1) Any cuts into the carcass ply.
+(2) Cuts extending more than half of the
+width of a rib and deeper than 50 percent of
+the remaining groove depth.
+(3) Weather checking, cracking, cuts,
+and snags extending down to the carcass ply in
+the sidewall and bead areas.
+(4) Bulges in any part of tire tread,
+sidewall, or bead areas that indicate a separation or damaged tire.
+(5) Cracking in a groove that exposes
+fabric or if cracking undercuts tread ribs.
+d. Flat Spots. Generally speaking, tires
+need not be removed because of flat spots due
+to skid or hydroplane burns unless fabric is exposed. If objectionable unbalance results, remove the tire from service.
+e. Beads. Inspect bead areas next to
+wheel flanges for damage due to excessive
+heat, especially if brake drag or severe braking
+has been reported during taxi, takeoff or landing.
+f. Tire Clearance. Look for marks on
+tires, the gear, and in the wheel wells that
+might indicate rubbing due to inadequate
+clearance.
+g. Surface Condition. The surface condition of a tire can be inspected with the tire on
+the aircraft. The tread should be checked for
+abnormal wear. If the tread is worn in the
+center of the tire but not on the edges, this indicates that the tire is over-inflated and the operational air pressure should be reduced. On
+the other hand, a tire worn on the edges, but
+not in the center, indicates under-inflation.
+These indications are shown in figure 9-7.

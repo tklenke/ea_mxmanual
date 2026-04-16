@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 2: SCREWS
+
+7-18. SELF-TAPPING SCREWS. The
+self-tapping screw taps their own mating
+thread when driven into untapped or punched
+holes slightly smaller than the diameter of the
+screw. Self-tapping machine screws (AN504
+and AN530), may be used to attach minor
+nonstructural parts. Self-tapping sheet metal
+screws (AN504, AN530, AN531 and NAS548)
+may be used in blind applications for the temporary attachment of sheet metal for riveting
+and the permanent assembly of nonstructural
+assemblies. The MS21318 is a roundhead
+drive screw used in the attachment of nameplates or in sealing drain holes, and is not intended to be removed after installation. They
+are normally installed by driving the screw into
+a drilled hole with a hammer.
+CAUTION: Self-tapping screws
+should never be used as a replacement
+for standard screws, nuts, bolts, or
+rivets in any aircraft structure.

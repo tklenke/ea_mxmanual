@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 3: INSPECTION OF EQUIPMENT INSTALLATION
+
+11-34. STATIC ELECTRICAL POWER
+Static power converters emCONVERTERS.
+ploy solid-state devices to convert the aircraft’s
+primary electrical source voltage to a different
+voltage or frequency for the operation of radio
+and electronic equipment. They contain no
+moving parts (with the exception of a cooling
+fan on some models) and are relatively maintenance free. Various types are available for ac
+to dc or dc to ac conversion.
+a. Location of static converters should
+be carefully chosen to ensure adequate ventilation for cooling purposes. Heat-radiating fins
+should be kept clean of dirt and other foreign
+matter that may impair their cooling properties.
+b. Static power converters often emit unacceptable levels of EMI that may disrupt
+communication equipment and navigation instruments. Properly shielded connectors, terminal blocks, and wires may be required, with
+all shields well grounded to the airframe.
+CAUTION: Do not load converters beyond their rated capacity.

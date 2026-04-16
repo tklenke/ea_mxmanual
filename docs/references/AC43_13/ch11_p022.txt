@@ -1,0 +1,61 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 2: STORAGE BATTERIES
+
+11-22. INSTALLATION PRACTICES.
+a. External Surface. Clean the external
+surface of the battery prior to installation in the
+aircraft.
+b. Replacing Lead-Acid Batteries.
+When replacing lead-acid batteries with NiCad
+batteries, a battery temperature or current
+monitoring system must be installed. Neutralize the battery box or compartment and
+thoroughly flush with water and dry. A flight
+manual supplement must also be provided for
+the NiCad battery installation. Acid residue
+can be detrimental to the proper functioning of
+a NiCad battery, as alkaline will be to a leadacid battery.
+c. Battery Venting. Battery fumes and
+gases may cause an explosive mixture or contaminated compartments and should be dispersed by adequate ventilation. Venting systems often use ram pressure to flush fresh air
+through the battery case or enclosure to a safe
+overboard discharge point. The venting system pressure differential should always be
+positive, and remain between recommended
+minimum and maximum values. Line runs
+should not permit battery overflow fluids or
+condensation to be trapped and prevent free
+airflow.
+d. Battery Sump Jars. A battery sump
+jar installation may be incorporated in the
+venting system to dispose of battery electrolyte
+overflow. The sump jar should be of adequate
+design and the proper neutralizing agent used.
+The sump jar must be located only on the discharge side of the battery venting system. (See
+figure 11-1.)
+[FIG 11-1] Battery ventilating systems.
+e. Installing Batteries. When installing
+batteries in an aircraft, exercise care to prevent
+inadvertent shorting of the battery terminals.
+Serious damage to the aircraft structure (frame,
+skin and other subsystems, avionics, wire, fuel
+etc.) can be sustained by the resultant high discharge of electrical energy. This condition
+may normally be avoided by insulating the
+terminal posts during the installation process.
+Remove the grounding lead first for battery
+removal, then the positive lead. Connect the
+grounding lead of the battery last to minimize
+the risk of shorting the “hot terminal” of the
+battery during installation.
+f. Battery Hold Down Devices. Ensure
+that the battery hold down devices are secure,
+but not so tight as to exert excessive pressure
+that may cause the battery to buckle causing
+internal shorting of the battery.
+g. Quick-Disconnect Type Battery. If a
+quick-disconnect type of battery connector,
+that prohibits crossing the battery lead is not
+employed, ensure that the aircraft wiring is
+connected to the proper battery terminal. Reverse polarity in an electrical system can seriously damage a battery and other electrical
+components. Ensure that the battery cable
+connections are tight to prevent arcing or a
+high resistance connection.
+11-23.11-29.
+[RESERVED.]
+SECTION 3. INSPECTION OF

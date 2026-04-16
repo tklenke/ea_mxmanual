@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 1: GENERAL
+
+6-1. GENERAL. The purpose of this chapter is to provide information that will help
+maintenance personnel prevent, control, identify, and treat various types of corrosion. (Refer to AC 43-4A, Corrosion Control For Aircraft for a more in-depth study on the detection
+and treatment of corrosion.)
+a. Corrosion is a natural occurrence that
+attacks metal by chemical or electrochemical
+action and converts it back to a metallic compound.
+b. Four conditions must exist before
+electrochemical corrosion can occur. (See figure 6-1.) They are:
+(1) A metal subject to corrosion (Anode);
+(2) A dissimilar conductive material
+(Cathode), which has less tendency to corrode;
+(3) Presence of a continuous, conductive liquid path (Electrolyte); and
+(4) Electrical contact between the anode
+and the cathode (usually in the form of metalto-metal contact such as rivets, bolts, and corrosion).
+c. Elimination of any one of these conditions will stop electrochemical corrosion. (See
+figure 6-2.)
+NOTE: Paint can mask the initial
+stages of corrosion. Since corrosion
+products occupy more volume than
+the original metal, painted surfaces
+should be inspected often for irregularities such as blisters, flakes, chips,
+and lumps.
+INSPECTION & PROTECTION

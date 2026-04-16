@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-92. REPAIR BY WELDED SLEEVE.
+This repair is outlined in figure 4-35. Select a
+length of steel tube sleeve having an inside diameter approximately equal to the outside diameter of the damaged tube and of the same
+material, and at least the same wall thickness.
+Diagonally cut the sleeve reinforcement at a
+30-degree angle on both ends so that the
+minimum distance of the sleeve from the edge
+of the crack or dent is not less than 1-1/2 times
+the diameter of the damaged tube. Cut through
+the entire length of the reinforcement sleeve,
+and separate the half-sections of the sleeve.
+Clamp the two sleeve sections to the proper
+positions on the affected areas of the original
+tube. Weld the reinforcement sleeve along the
+length of the two sides, and weld both ends of
+the sleeve to the damaged tube. (See figure 4-35.) The filling of dents or cracks with
+welding rod in lieu of reinforcing the member
+is not acceptable.

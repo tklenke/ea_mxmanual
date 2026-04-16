@@ -1,0 +1,34 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 9: ACOUSTIC-EMISSION
+
+5-112. GENERAL. Acoustic-Emission is an
+NDI technique that involves the placing of
+acoustical-emission sensors at various locations on the aircraft structure and then applying
+a load or stress. The level of stress applied
+need not reach general yielding, nor does the
+stress generally need to be of a specific type.
+Bending stress can be applied to beamed
+structures, torsional stress can be applied to
+rotary shafts, thermal stresses can be applied
+with heat lamps or blankets, and pressure-induced stress can be applied to pressure-containment systems such as the aircraft
+fuselage. The materials emit sound and stress
+waves that take the form of ultrasonic pulses
+changes in geometry, in which case a standard
+of some sort is required. The entire area of
+interest must be tapped. The surface should be
+dry and free of oil, grease, and dirt. Tap testing is limited to finding relatively shallow defects in skins with a thickness less than
+.080 inch. In a honeycomb structure, for example, the far side bondline cannot be evaluated, requiring two-side access for a complete
+inspection. This method is portable, but no records are produced. The accuracy of this test
+depends on the inspector’s subjective interpretation of the test response; therefore, only
+qualified personnel should perform this test.
+that can be picked up by sensors. Cracks and
+areas of corrosion in the stressed airframe
+structure emit sound waves (different frequencies for different size defects) which are registered by the sensors. These acoustic-emission
+bursts can be used both to locate flaws and to
+evaluate their rate of growth as a function of
+applied stress. Acoustic-emission testing has
+an advantage over other NDI methods in that it
+can detect and locate all of the activated flaws
+in a structure in one test. Acoustic-emission
+testing does not now provide the capability to
+size flaws, but it can greatly reduce the area
+required to be scanned by other NDI methods.

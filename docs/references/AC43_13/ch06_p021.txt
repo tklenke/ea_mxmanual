@@ -1,0 +1,28 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-21. FATIGUE CORROSION. Fatigue
+corrosion involves cyclic stress and a corrosive
+environment. Metals may withstand cyclic
+stress for an infinite number of cycles so long
+as the stress is below the endurance limit of the
+metal. Once the limit has been exceeded, the
+metal will eventually crack and fail from metal
+fatigue. However, when the part or structure
+undergoing cyclic stress is also exposed to a
+corrosive environment, the stress level for failure may be reduced many times. Thus, failure
+occurs at stress levels that can be dangerously
+low depending on the number of cycles assigned to the life-limited part.
+a. Fatigue corrosion failure occurs in
+two stages. During the first stage the combined
+action of corrosion and cyclic stress damages
+the metal by pitting and crack formations to
+such a degree that fracture by cyclic stress will
+occur, even if the corrosive environment is
+completely removed.
+b. The second stage is essentially a fatigue stage in which failure proceeds by propagation of the crack (often from a corrosion pit
+or pits). It is controlled primarily by stress
+concentration effects and the physical properties of the metal. Fracture of a metal part due
+to fatigue corrosion, generally occurs
+at a stress level far below the fatigue limit of
+an uncorroded part, even though the amount of
+corrosion is relatively small.

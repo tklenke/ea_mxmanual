@@ -1,0 +1,41 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 2: HYDRAULIC SYSTEMS
+
+9-28. HANDLING HYDRAULIC FLUID.
+In addition to any other instructions provided
+in the aircraft maintenance manual or by the
+fluid supplier, the following general precautions must be observed in the handling of hydraulic fluids:
+a. Ensure that each aircraft hydraulic
+system is properly identified to show the kind
+of fluid to be used in the system. Identification
+at the filler cap or valve must clearly show the
+type of fluid to be used or added.
+b. Never allow different categories of hydraulic fluids to become mixed. Chemical reactions may occur, fire resistant fluids may
+lose their fire resistance, seals may be damaged, etc.
+c. Never, under any circumstances, service an aircraft system with a fluid different
+from that shown on the instruction plate.
+d. Make certain that hydraulic fluids and
+fluid containers are protected from contamination of any kind. Dirt particles may cause hydraulic units to become inoperative, cause seal
+damage, etc. If there is any question regarding
+the cleanliness of the fluid, do not use it.
+Containers for hydraulic fluid must never be
+left open to air longer than necessary.
+e. Do not expose fluids to high temperature or open flames. Mineral-based fluids are
+highly flammable.
+f. The hydrocarbon-based hydraulic
+fluids are, in general, safe to handle. To work
+with these fluids, reasonable handling procedures must always be followed. Take precaution to avoid fluid getting in the eyes. If fluid
+contacts the eye, wash immediately with water.
+g. When handling Skydrol/Hyjet hydraulic fluids, gloves that are impervious to
+the fluid must be worn. If skin contact occurs,
+wash with soap and water.
+h. When handling phosphate esterbased fluid use eye protection. If the eye is
+exposed to fluid, severe eye pain will occur.
+i. When Skydrol/Hyjet mist or vapor
+exposure is possible, a respirator capable of
+removing organic vapors and mists must be
+worn.
+j. Ingestion of any hydraulic fluid
+should be avoided. Although small amounts
+do not appear to be highly hazardous, any significant amount should be tested in accordance
+with manufacturer’s direction, followed with
+hospital supervised stomach treatment.

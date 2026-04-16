@@ -1,0 +1,6 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-140. GENERAL. Aircraft control cables
+are generally fabricated from carbon steel or
+corrosion-resistant steel wire of either flexible
+or nonflexible-type construction.

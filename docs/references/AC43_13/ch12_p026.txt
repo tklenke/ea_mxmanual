@@ -1,0 +1,6 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-26. RADOME INSPECTION. Inspection of aircraft having weather radar installations should include a visual check of the radome surface for signs of surface damage,
+holes, cracks, chipping, and peeling of paint,
+etc. Attach fittings and fastenings, neoprene
+erosion caps, and lightening strips, when installed, should also be inspected.

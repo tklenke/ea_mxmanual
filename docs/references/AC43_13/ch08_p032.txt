@@ -1,0 +1,58 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 2: FUEL SYSTEMS
+
+8-32. FUEL TANKS AND CELLS.
+Welded or riveted fuel tanks that are made of
+commercially pure aluminum, 3003, 5052, or
+similar alloys, may be repaired by welding.
+Tanks made from heat-treatable aluminum alloys are generally assembled by riveting. In
+case it is necessary to rivet a new piece in a
+tank, use the same material as used in the tank
+undergoing repair, and seal the seams with a
+compound that is insoluble in gasoline. Special sealing compounds are available and
+should be used in the repair of tanks. Inspect
+fuel tanks and cells for general condition, security of attachment, and evidence of leakage.
+Examine fuel tank or cell vent line, fuel line,
+and sump drain attachment fittings closely.
+[FIG 8-12] Location of clamps at tube bends.
+CAUTION: Purge de-fueled tanks of
+explosive fuel/air mixtures in accordance with the manufacturer’s service
+instructions. In the absence of such
+instructions, utilize an inert gas such
+as CO as a purgative to assure the to2
+tal deletion of fuel/air mixtures.
+a. Integral Tanks. Examine the interior
+surfaces and seams for sealant deterioration
+and corrosion (especially in the sump area).
+Follow the manufacturer’s instructions for repair and cleaning procedures.
+b. Internal Metal Tanks. Check the exterior for corrosion and chafing. Dents or
+other distortion, such as a partially-collapsed
+tank caused by an obstructed fuel tank vent,
+can adversely affect fuel quantity gauge accuracy and tank capacity. Check the interior surfaces for corrosion. Pay particular attention to
+the sump area, especially for those of which
+sumps are made of cast material. Repairs to
+the tank may be accomplished in accordance
+with the practices outlined in the chapter 4,
+Metal Structure, Welding and Brazing of this
+AC.
+c. Removal of Flux After Welding. It is
+especially important, after repair by welding,
+to completely remove all flux in order to avoid
+possible corrosion. Promptly upon completion
+of welding, wash the inside and outside of the
+tank with liberal quantities of hot water and
+then drain. Next, immerse the tank in either a
+5 percent nitric or 5 percent sulfuric acid solution. If the tank cannot be immersed, fill the
+tank with either solution, and wash the outside
+with the same solution. Permit the acid to remain in contact with the weld about one hour
+and then rinse thoroughly with clean water.
+Test the efficiency of the cleaning operation by
+applying some acidified 5 percent silver nitrate
+solution to small quantity of the rinse water
+used last to wash the tank. If a heavy white
+precipitate is formed, the cleaning is insufficient and the washing should be repeated.
+d. Flexible Fuel Cells. Inspect the interior for checking, cracking, porosity, or other
+signs of deterioration. Make sure the cell retaining fasteners are properly positioned. If
+repair or further inspection is required, follow
+the manufacturer’s instructions for cell removal, repair, and installation. Do not allow
+flexible fuel cells to dry out. Preserve them in
+accordance with the manufacturer’s instructions.

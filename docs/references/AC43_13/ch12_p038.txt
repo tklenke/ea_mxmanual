@@ -1,0 +1,129 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 3: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT
+
+12-38. PNEUMATIC GYROS.
+a. Venturi Systems. The early gyro instruments were all operated by air flowing out
+of a jet over buckets cut into the periphery of
+the gyro rotor. A venturi was mounted on the
+outside of the aircraft to produce a low pressure, or vacuum, which evacuated the instrument case, and air flowed into the instrument
+through a paper filter and then through a nozzle onto the rotor.
+(1) Venturi systems have the advantage
+of being extremely simple and requiring no
+power from the engine, nor from any of the
+other aircraft systems; but they do have the
+disadvantage of being susceptible to ice, and
+[FIG 12-1] Venturi system for providing airflow through
+when they are most needed, they may become
+unusable.
+(2) There are two sizes of venturi tubes:
+those which produce four inches of suction are
+used to drive the attitude gyros, and smaller
+tubes, which produce two inches of suction,
+are used for the turn and slip indicator. Some
+installations use two of the larger venturi tubes
+connected in parallel to the two attitude gyros,
+and the turn and slip indicator is connected to
+one of these instruments with a needle valve
+between them. A suction gage is temporarily
+connected to the turn and slip indicator, and
+the aircraft is flown so the needle valve can be
+adjusted to the required suction at the instrument when the aircraft is operated at its cruise
+speed. (See figure 12-1.)
+gyro instruments.
+b. Vacuum Pump Systems. In order to
+overcome the major drawback of the venturi
+tube, that is, its susceptibility to ice, aircraft
+were equipped with engine driven vacuum
+pumps and the gyro instruments were driven
+by air pulled through the instrument by the
+suction produced by these pumps. A suction
+relief valve maintained the desired pressure
+(usually about four inches of mercury) on the
+attitude gyro instruments, and a needle valve
+between one of the attitude indicators and the
+turn and slip indicator restricted the airflow to
+maintain the desired 2 inches of suction in its
+case. Most of the early instruments used only
+paper filters in each of the instrument cases,
+but in some installations a central air filter was
+used to remove contaminants from the cabin
+air before it entered the instrument case.
+(1) The early vacuum pumps were
+vane-type pumps of what is called the wet
+type-one with a cast iron housing and steel
+vanes. Engine oil was metered into the pump
+to provide sealing, lubrication, and cooling,
+and then this oil, along with the air, was blown
+through an oil separator where the oil collected
+on baffles and was returned to the engine
+crankcase. The air was then exhausted overboard. Aircraft equipped with rubber deicer
+boots used this discharge air to inflate the
+boots. But before it could be used, this air was
+passed through a second stage of oil separation
+and then to the distributor valve and finally to
+the boots. (See figure 12-2.)
+(2) The airflow through the instruments
+is controlled by maintaining the suction in the
+instrument case at the desired level with a suction relief valve mounted between the pump
+and the instruments. This valve has a
+spring-loaded poppet that offsets to allow
+cabin air to enter the pump and maintain the
+correct negative pressure inside the instrument
+case.
+(3) The more modern vacuum pumps
+are of the dry type. These pumps use carbon
+vanes and do not require any lubrication, as the
+vanes provide their own lubrication as they
+wear away at a carefully predetermined rate.
+Other than the fact that they do not require an
+oil separator, systems using dry air pumps are
+quite similar to those using a wet pump. One
+slight difference, however, is in the need for
+keeping the inside of the pump perfectly clean.
+Any solid particles drawn into the system
+through the suction relief valve can damage
+one of the carbon vanes, and this can lead to
+destruction of the pump, as the particles broken off of one vane will damage all of the
+other vanes. To prevent particles entering the
+relief valve, its air inlet is covered with a filter,
+and this must be cleaned or replaced at the interval recommended by the aircraft manufacturer.
+c. Positive Pressure Systems. Above
+about 18,000 feet there is not enough mass to
+the air drawn through the instruments to provide sufficient rotor speed, and, to remedy this
+problem, many aircraft that fly at high altitude
+use positive pressure systems to drive the gyros. These systems use the same type of air
+pump as is used for vacuum systems, but the
+discharged air from the pump is filtered and
+directed into the instrument case through the
+same fitting that receives the filtered air when
+the vacuum system is used. A filter is installed
+on the inlet of the pump, and then, before the
+air is directed into the instrument case, it is
+again filtered. A pressure regulator is located
+between the pump and the in-line filter to control the air pressure so only the correct amount
+is directed into the instrument case.
+System Filters. The life of an air-driven gyro
+instrument is determined to a great extent by
+the cleanliness of the air that flows over the
+rotor. In vacuum systems, this air is taken
+[FIG 12-2] Instrument vacuum system using a wet-type
+from the cabin where there is usually a good
+deal of dust and very often tobacco smoke.
+Unless all of the solid contaminants are removed from the air before it enters the instrument, they will accumulate, usually in the rotor
+bearings, and slow the rotor. This causes an
+inaccurate indication of the instrument and
+will definitely shorten its service life. Dry air
+vacuum pump.
+pumps are also subject to damage from ingested contaminants, and all of the filters in
+the system must be replaced on the schedule
+recommended by the aircraft manufacturer,
+and more often if the aircraft is operated under
+particularly dusty conditions, especially if the
+occupants of the aircraft regularly smoke while
+flying. (See figures 12-3 and 12-4.)
+[FIG 12-3] Instrument vacuum system using a dry-type air
+[FIG 12-4] Instrument pressure system using a dry-type air
+12-39.12-50.
+[RESERVED.]
+pump.
+pump.
+SECTION 4. PITOT/STATIC SYSTEMS

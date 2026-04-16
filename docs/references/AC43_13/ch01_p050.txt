@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-50. REPAIRS TO DOUBLE CURVATURE PLYWOOD SKIN. The molded plywood necessary for a repair to a damaged plywood skin of double curvature cannot be made
+from flat plywood unless the area to be repaired is very small or is of exceedingly slight
+double curvature; therefore, molded plywood
+of the proper curvature must be on hand before
+the repair can be made. If molded plywood of
+the proper curvature is available, the repair
+may be made using the same procedure as on
+single curvature skins.
+[FIG 1-11] Repair of wood ribs.
+[FIG 1-12] Typical wing compression rib repairs.
+[TABLE 1-2] Minimum recommended bend radii for aircraft
+10 PERCENT MOISTURE THOROUGHLY SOAKED IN HOT
+CONTENT, BENT ON COLD WATER AND BENT ON COLD
+MANDRELS MANDRELS
+90� 0� 45� 90� 0�0R 45°
+AT TO AT OR AT TO AT
+FACE GRAIN TO FACE FACE GRAIN TO FACE
+PLYWOOD
+CHARACTERISTICS
+THICKNESS NUMBER
+MINIMUM BEND RADIUS (INCHES)
+(INCHES) OF PLIES
+.035 3 2.0
+.070 3 5.2
+.100 3 8.6
+.125 3 12
+.155 3 16
+.185 3 20
+.160 5 17
+.190 5 21
+.225 5 27
+.250 5 31
+.315 5 43
+.375 5 54

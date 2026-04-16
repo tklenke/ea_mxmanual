@@ -1,0 +1,43 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 14: HANDLING AND CARE OF AIRCRAFT RECOVERED FROM WATER IMMERSION
+
+6-223. AIRFRAME. The salvable components of the fuselage, wings, empennage, seaplane and amphibian hulls and floats, and
+movable surfaces should be processed as follows:
+a. The fabric from fabric-covered surfaces should be removed and replaced.
+b. Clean the aircraft interior and exterior
+using steam under pressure with steam cleaning compound. Direct the steam into all seams
+and crevices where corrosive water may have
+penetrated. Avoid steam cleaning electrical
+equipment, such as terminal boards and relays.
+c. Areas that have been steam cleaned
+should be rinsed immediately with either hot
+or cold fresh water.
+d. Touch up all scratches and scars on
+painted surfaces using zinc chromate primer or
+preservative.
+e. Undrained hollow spaces or fluid entrapment areas should be provided temporary
+draining facilities by drilling out rivets at the
+lowest point. Install new rivets after drainage.
+f. Remove and replace all leather, fabric
+upholstery, and insulation. Plastic or rubber
+foam that cannot be cleaned of all corrosive
+water must be replaced.
+g. All drain plugs or drive screws in tubular structures should be removed and the
+structure blown out with compressed air. If
+water has reached the tubular interiors, carefully flush with hot fresh water and blow out
+water with compressed air. Roll the structure
+as necessary to remove water from pockets.
+Fill the tubes with hot linseed oil, approximately 180 °F, drain oil and replace drain
+plugs or drive screws.
+h. Clean sealed wood, metallic, and other
+non-metallic areas, excluding acrylic plastics,
+with warm water. Replace wood, metalite, and
+other porous materials exposed to waterimmersion unless surfaces are adequately
+sealed to prevent penetration by water. Virtually all solvents and phenolic type cleaning
+agents are detrimental to acrylics and will either soften the plastic or cause crazing.
+i. Remove instruments and radios and applicable cables and plumbing, and repair and
+inspect as necessary.
+6-224.6-234.
+[RESERVED.]
+CHAPTER 7. AIRCRAFT HARDWARE,
+AND TURNBUCKLES
+SECTION 1. RIVETS

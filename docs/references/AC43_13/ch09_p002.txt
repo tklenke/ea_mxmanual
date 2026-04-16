@@ -1,0 +1,6 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-2. GENERAL INSPECTION. A thorough inspection of the landing gear involves
+the entire structure of the gear, including attachments, struts, wheels, brakes, actuating
+mechanisms for retractable gears, gear hydraulic system and valves, gear doors, and all associated parts. The manufacturer’s inspection
+procedures should be followed where applicable.

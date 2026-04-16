@@ -1,0 +1,66 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 1: RIVETS
+
+7-2. MATERIAL APPLICATIONS.
+a. Rivets made with 2117-T4 are the
+most commonly used rivets in aluminum alloy
+structures. The main advantage of 2117-T4 is
+that it may be used in the condition received
+without further treatment.
+b. The 2017-T3, 2017-T31, and 2024-T4
+rivets are used in aluminum alloy structures
+where strength higher than that of the 2117-T4
+rivet is needed. See Metallic Materials and
+Elements for Flight Vehicle Structures
+(MIL-HDBK-5) for differences between the
+types of rivets specified here.
+c. The 1100 rivets of pure aluminum are
+used for riveting nonstructural parts fabricated
+from the softer aluminum alloys, such as 1100,
+3003, and 5052.
+d. When riveting magnesium alloy
+structures, 5056 rivets are used exclusively
+due to their corrosion-resistant qualities in
+combination with the magnesium alloys.
+e. Mild steel rivets are used primarily in
+riveting steel parts. Do not use galvanized
+rivets on steel parts subjected to high heat.
+f. Corrosion-resistant steel rivets are
+used primarily in riveting corrosion-resistant
+steel parts such as firewalls, exhaust stack
+bracket attachments, and similar structures.
+g. Monel rivets are used in special cases
+for riveting high-nickel steel alloys and nickel
+alloys. They may be used interchangeably
+with stainless steel rivets as they are more easily driven. However, it is preferable to use
+stainless steel rivets in stainless steel parts.
+h. Copper rivets are used for riveting
+copper alloys, leather, and other nonmetallic
+materials. This rivet has only limited usage in
+aircraft.
+i. Hi-Shear rivets are sometimes used in
+connections where the shearing loads are the
+primary design consideration. Its use is restricted to such connections. It should be
+noted that Hi-Shear rivets are not to be used
+for the installation of control surface hinges
+and hinge brackets. Do not paint the rivets before assembly, even where dissimilar metals
+are being joined. However, it is advisable to
+touch up each end of the driven rivet with
+primer to allow the later application of the
+general airplane finish.
+j. Blind rivets in the NASM20600
+through NASM20603 series rivets and the mechanically-locked stem NAS 1398, 1399,
+1738, and 1739 rivets sometimes may be substituted for solid rivets. They should not be
+used where the looseness or failure of a few
+rivets will impair the airworthiness of the aircraft. Design allowable for blind rivets are
+specified in MIL-HDBK-5. Specific structural
+applications are outlined in NASM33522.
+Nonstructural applications for such blind rivets
+as NASM20604 and NASM20605 are contained in NASM33557.
+CAUTION: For sheet metal repairs to airframe, the use of blind rivets must be
+authorized by the airframe manufacturer or
+approved by a representative of the FAA.
+For more information on blind rivets, see page
+4-19, f. of this document.
+7-3.7-13.
+[RESERVED.]
+SECTION 2. SCREWS

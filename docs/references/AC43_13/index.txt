@@ -1,0 +1,899 @@
+AC 43.13-1B — Acceptable Methods, Techniques, and Practices
+
+CHAPTER 1: WOOD STRUCTURE
+
+  SECTION 1: MATERIALS AND PRACTICES
+    1-1  General [ch01_p001.txt]
+    1-2  Woods [ch01_p002.txt]
+    1-3  Modified Wood Products [ch01_p003.txt]
+    1-4  Adhesives [ch01_p004.txt]
+    1-5  Bonding Precautions [ch01_p005.txt]
+    1-6  Preparation of Wood Surfaces for Bonding [ch01_p006.txt]
+    1-7  Applying the Adhesive [ch01_p007.txt]
+    1-8  Assembly Time in Bonding [ch01_p008.txt]
+    1-9  Bonding Temperature [ch01_p009.txt]
+    1-10  Clamping Pressure [ch01_p010.txt]
+    1-11  Method of Applying Pressure [ch01_p011.txt]
+
+  SECTION 2: HEALTH AND SAFETY
+    1-18  General [ch01_p018.txt]
+    1-19  Sanding in Areas of Existing Bond Joints and Finishes [ch01_p019.txt]
+    1-20  Handling of Adhesives and Finishes [ch01_p020.txt]
+
+  SECTION 3: INSPECTION
+    1-27  General [ch01_p027.txt]
+    1-28  Types of Deterioration and Damage [ch01_p028.txt]
+    1-29  Inspection Methods [ch01_p029.txt]
+
+  SECTION 4: REPAIRS
+    1-36  General [ch01_p036.txt]
+    1-37  Replacement of Drain Holes and Skin Stiffeners [ch01_p037.txt]
+    1-38  Control Surface Flutter Precautions [ch01_p038.txt]
+    1-39  Scarf Joints [ch01_p039.txt]
+    1-40  Splicing of Spars [ch01_p040.txt]
+    1-41  Spar Replacement [ch01_p041.txt]
+    1-42  Splicing of Box Spar Webs [ch01_p042.txt]
+    1-43  Replacing Solid-Type Spars With Laminated-Type Spars [ch01_p043.txt]
+    1-44  Spar Longitudinal Cracks and Local Damage [ch01_p044.txt]
+    1-45  Elongated Holes in Spars [ch01_p045.txt]
+    1-46  Rib Repairs [ch01_p046.txt]
+    1-47  Plywood Skin Repair [ch01_p047.txt]
+    1-48  Determination of Single or Double Curvature [ch01_p048.txt]
+    1-49  Repairs to Single Curvature Plywood Skin [ch01_p049.txt]
+    1-50  Repairs to Double Curvature Plywood Skin [ch01_p050.txt]
+    1-51  Types of Patches [ch01_p051.txt]
+    1-52  Fabric Patch [ch01_p052.txt]
+
+  SECTION 5: FINISHING WOOD STRUCTURES
+    1-64  General [ch01_p064.txt]
+    1-65  Acceptable Finishes [ch01_p065.txt]
+    1-66  Precautions [ch01_p066.txt]
+    1-67  Finishing of Interior Surfaces [ch01_p067.txt]
+    1-68  Finishing of Exterior Surfaces [ch01_p068.txt]
+    1-69  Finishing of End Grain Surfaces [ch01_p069.txt]
+    1-70  Finishing with Fabric or Tape [ch01_p070.txt]
+    1-71  Sealing of Bolt Holes [ch01_p071.txt]
+
+
+CHAPTER 2: FABRIC COVERING
+
+  SECTION 1: PRACTICES AND PRECAUTIONS
+    2-1  General [ch02_p001.txt]
+    2-2  Problem Areas [ch02_p002.txt]
+    2-3  Aircraft Fabric-Synthetic [ch02_p003.txt]
+    2-4  Aircraft Fabric-Natural [ch02_p004.txt]
+    2-5  Recovering Aircraft [ch02_p005.txt]
+    2-6  Preparation of the Structure for Covering [ch02_p006.txt]
+    2-7  Fabric Seams [ch02_p007.txt]
+    2-8  Covering Methods [ch02_p008.txt]
+    2-9  Reinforcing Tape [ch02_p009.txt]
+    2-10  Lacing [ch02_p010.txt]
+    2-11  Stitch Spacing [ch02_p011.txt]
+    2-12  Fasteners [ch02_p012.txt]
+    2-13  Finishing Tape [ch02_p013.txt]
+    2-14  Inspection Rings and Drain Grommets [ch02_p014.txt]
+
+  SECTION 2: APPLICATION OF DOPE
+    2-20  General [ch02_p020.txt]
+    2-21  Dope Application Procedure (Natural Fabrics) [ch02_p021.txt]
+    2-22  Covering Over Plywood [ch02_p022.txt]
+    2-23  Coating Application Defects [ch02_p023.txt]
+
+  SECTION 3: INSPECTION AND TESTING
+    2-30  General [ch02_p030.txt]
+    2-31  Fabric Identification [ch02_p031.txt]
+    2-32  Coating Identification [ch02_p032.txt]
+    2-33  Strength Criteria for Aircraft Fabric [ch02_p033.txt]
+    2-34  Fabric Testing [ch02_p034.txt]
+    2-35  Rejuvenation of Dope Film [ch02_p035.txt]
+
+  SECTION 4: REPAIRS TO FABRIC COVERING
+    2-42  General [ch02_p042.txt]
+    2-43  Repair of Tears and Access Openings [ch02_p043.txt]
+    2-44  Sewn-Patch Repair [ch02_p044.txt]
+    2-45  Doped-On Patch Repair [ch02_p045.txt]
+
+
+CHAPTER 3: FIBERGLASS AND PLASTICS
+
+  SECTION 1: REPAIR OF LIGHT LOAD LAMINATE STRUCTURES
+    3-1  General [ch03_p001.txt]
+    3-2  Fiberglass Laminate Repairs [ch03_p002.txt]
+    3-3  Repairing Holes [ch03_p003.txt]
+    3-4  Sample Bagging and Curing Process [ch03_p004.txt]
+
+  SECTION 2: METALLIC SANDWICH SECONDARY STRUCTURE REPAIRS
+    3-10  Repairs to Metallic Sandwich Secondary Structure [ch03_p010.txt]
+    3-11  Finishing [ch03_p011.txt]
+
+  SECTION 3: TRANSPARENT PLASTICS
+    3-18  General [ch03_p018.txt]
+    3-19  Storage and Handling [ch03_p019.txt]
+    3-20  Forming Procedures and Techniques [ch03_p020.txt]
+    3-21  Heating [ch03_p021.txt]
+    3-22  Forms [ch03_p022.txt]
+    3-23  Forming Methods [ch03_p023.txt]
+    3-24  Repair of Plastics [ch03_p024.txt]
+    3-25  Cleaning and Polishing Transparent Plastic [ch03_p025.txt]
+    3-26  Replacement Panels [ch03_p026.txt]
+    3-27  Installation Procedures [ch03_p027.txt]
+
+  SECTION 4: WINDSHIELDS, ENCLOSURES, AND WINDOWS
+    3-40  General [ch03_p040.txt]
+    3-41  Protection [ch03_p041.txt]
+    3-42  Windshield Installation [ch03_p042.txt]
+
+
+CHAPTER 4: METAL STRUCTURE, WELDING, AND BRAZING
+
+  SECTION 1: IDENTIFICATION OF METALS
+    4-1  General [ch04_p001.txt]
+    4-2  Identification of Steel Stock [ch04_p002.txt]
+    4-3  Interchangeability of Steel Tubing [ch04_p003.txt]
+    4-4  Identification of Aluminum [ch04_p004.txt]
+
+  SECTION 2: TESTING OF METALS
+    4-16  Hardness Testing [ch04_p016.txt]
+    4-17  Rockwell Hardness Test [ch04_p017.txt]
+    4-18  Brinell Hardness Test [ch04_p018.txt]
+    4-19  Vickers Hardness Test [ch04_p019.txt]
+    4-20  Microhardness Testing [ch04_p020.txt]
+    4-21  Indentions [ch04_p021.txt]
+    4-22  Magnetic Testing [ch04_p022.txt]
+    4-23  Aluminum Testing [ch04_p023.txt]
+
+  SECTION 3: PRECAUTIONARY MEASURES
+    4-36  Flutter and Vibration Precautions [ch04_p036.txt]
+    4-37  Load Factors for Repairs [ch04_p037.txt]
+    4-38  Transfer of Stresses Within a Structure [ch04_p038.txt]
+
+  SECTION 4: METAL REPAIR PROCEDURES
+    4-50  General [ch04_p050.txt]
+    4-51  Riveted (or Bolted) Steel Truss-Type Structures [ch04_p051.txt]
+    4-52  Aluminum Alloy Structures [ch04_p052.txt]
+    4-53  Selection of Aluminum for Replacement Parts [ch04_p053.txt]
+    4-54  Heat Treatment of Aluminum Alloy Parts [ch04_p054.txt]
+    4-55  Bending Metal [ch04_p055.txt]
+    4-56  Setback [ch04_p056.txt]
+    4-57  Riveting [ch04_p057.txt]
+    4-58  Repair Methods and Precautions for Aluminum Structure [ch04_p058.txt]
+    4-59  Repairing Cracked Members [ch04_p059.txt]
+    4-60  Steel and Aluminum Fittings [ch04_p060.txt]
+    4-61  Castings [ch04_p061.txt]
+    4-62  Selective Plating in Aircraft Maintenance [ch04_p062.txt]
+
+  SECTION 5: WELDING AND BRAZING
+    4-74  General [ch04_p074.txt]
+    4-75  Equipment Selection [ch04_p075.txt]
+    4-76  Accurately Identify the Type of Material to be Repaired [ch04_p076.txt]
+    4-77  Preparation for Welding [ch04_p077.txt]
+    4-78  Inspection of a Completed Weld [ch04_p078.txt]
+    4-79  Microfissures [ch04_p079.txt]
+    4-80  Nondestructive Testing [ch04_p080.txt]
+    4-81  Practices to Guard Against [ch04_p081.txt]
+    4-82  Torch Size (Oxyacetylene welding) [ch04_p082.txt]
+    4-83  Welding Rods and Electrodes [ch04_p083.txt]
+    4-84  Rosette Welds [ch04_p084.txt]
+    4-85  Heat-Treated Members [ch04_p085.txt]
+    4-86  Types of Welding [ch04_p086.txt]
+    4-87  Electric-Resistance Welding [ch04_p087.txt]
+    4-88  Brazing [ch04_p088.txt]
+    4-89  Aircraft Parts Not to be Welded [ch04_p089.txt]
+    4-90  Welding Rod Selection [ch04_p090.txt]
+    4-91  Repair of Tubular Members [ch04_p091.txt]
+    4-92  Repair by Welded Sleeve [ch04_p092.txt]
+    4-93  Repair by Bolted Sleeve [ch04_p093.txt]
+    4-94  Welded-Patch Repair [ch04_p094.txt]
+    4-95  Splicing Tubing by Inner-Sleeve Method [ch04_p095.txt]
+    4-96  Splicing Tubing by Outer-Sleeve Method [ch04_p096.txt]
+    4-97  Splicing Using Larger Diameter Replacement Tubes [ch04_p097.txt]
+    4-98  Repairs at Built-In Fuselage Fittings [ch04_p098.txt]
+    4-99  Engine-Mount Repairs [ch04_p099.txt]
+    4-100  Built-Up Tubular Wing or Tail-Spars [ch04_p100.txt]
+    4-101  Wing-Brace Struts and Tail-Brace Struts [ch04_p101.txt]
+    4-102  Landing Gear Repair [ch04_p102.txt]
+    4-103  Repairs to Welded Assemblies [ch04_p103.txt]
+    4-104  Stainless Steel Structure [ch04_p104.txt]
+
+  SECTION 6: WELDING AND BRAZING SAFETY
+    4-111  General [ch04_p111.txt]
+    4-112  Fire and Explosion Safety [ch04_p112.txt]
+    4-113  Welding Work Area [ch04_p113.txt]
+    4-114  Fire Protection [ch04_p114.txt]
+    4-115  Protective Apparel [ch04_p115.txt]
+    4-116  First-Aid Kits [ch04_p116.txt]
+
+
+CHAPTER 5: NONDESTRUCTIVE INSPECTION (NDI)
+
+  SECTION 1: GENERAL
+    5-1  General [ch05_p001.txt]
+    5-2  Approved Procedures [ch05_p002.txt]
+    5-3  NDT Levels [ch05_p003.txt]
+    5-4  Training, Qualification, and Certification [ch05_p004.txt]
+    5-5  Flaws [ch05_p005.txt]
+    5-6  Selecting the NDI Method [ch05_p006.txt]
+    5-7  Types of Inspections [ch05_p007.txt]
+
+  SECTION 2: VISUAL INSPECTION
+    5-15  General [ch05_p015.txt]
+    5-16  Simple Visual Inspection Aids [ch05_p016.txt]
+    5-17  Borescopes [ch05_p017.txt]
+    5-18  Visual Inspection Procedures [ch05_p018.txt]
+
+  SECTION 3: EDDY CURRENT INSPECTION
+    5-25  Eddy Current Inspection [ch05_p025.txt]
+    5-26  Eddy Current Coils and Probes [ch05_p026.txt]
+    5-27  Field Application of Eddy Current Inspection [ch05_p027.txt]
+    5-28  Surface Inspection [ch05_p028.txt]
+    5-29  Subsurface Inspection [ch05_p029.txt]
+    5-30  Corrosion Inspection [ch05_p030.txt]
+    5-31  Establishing Eddy Current Inspection Procedures [ch05_p031.txt]
+
+  SECTION 4: MAGNETIC PARTICLE INSPECTION
+    5-40  General [ch05_p040.txt]
+    5-41  Principles of Operation [ch05_p041.txt]
+    5-42  Applications [ch05_p042.txt]
+    5-43  Electrical Magnetizing Equipment [ch05_p043.txt]
+    5-44  Materials Used in Magnetic Particle Inspection [ch05_p044.txt]
+    5-45  Preparation of Surface [ch05_p045.txt]
+    5-46  Methods of Examination [ch05_p046.txt]
+    5-47  Application of Magnetic Particles [ch05_p047.txt]
+    5-48  Magnetization [ch05_p048.txt]
+    5-49  Determination of Field Strength [ch05_p049.txt]
+    5-50  Special Examination Techniques [ch05_p050.txt]
+    5-51  Demagnetization and Post-Examination Cleaning [ch05_p051.txt]
+
+  SECTION 5: PENETRANT INSPECTION
+    5-60  General [ch05_p060.txt]
+    5-61  Equipment Used in the Penetrant Inspection Process [ch05_p061.txt]
+    5-62  Basic Steps to Perform Penetration Inspection [ch05_p062.txt]
+    5-63  Cleaners and Applicators [ch05_p063.txt]
+    5-64  Technical Standards [ch05_p064.txt]
+
+  SECTION 6: RADIOGRAPHY (X-RAY) INSPECTION
+    5-73  General [ch05_p073.txt]
+    5-74  Limitations [ch05_p074.txt]
+    5-75  Film or Paper Radiography [ch05_p075.txt]
+    5-76  Real-Time Radiography [ch05_p076.txt]
+    5-77  Advantage of Real-Time Radiography Over Film Radiography [ch05_p077.txt]
+    5-78  Computed Tomography (CT) [ch05_p078.txt]
+    5-79  Uses of Radiography [ch05_p079.txt]
+    5-80  Comparison with Other NDI Methods [ch05_p080.txt]
+    5-81  Flaws [ch05_p081.txt]
+    5-82  Field Inspection [ch05_p082.txt]
+    5-83  Safety [ch05_p083.txt]
+
+  SECTION 7: ULTRASONIC INSPECTION
+    5-89  General [ch05_p089.txt]
+    5-90  Sound Reflection [ch05_p090.txt]
+    5-91  Ultrasonic Inspection Techniques [ch05_p091.txt]
+    5-92  Flaw Detection [ch05_p092.txt]
+    5-93  Basic Equipment [ch05_p093.txt]
+    5-94  Inspection of Bonded Structures [ch05_p094.txt]
+    5-95  Bond Testing Instruments [ch05_p095.txt]
+    5-96  Thickness Measurements [ch05_p096.txt]
+    5-97  Leak Testing [ch05_p097.txt]
+
+  SECTION 8: TAP TESTING
+    5-105  General [ch05_p105.txt]
+
+  SECTION 9: ACOUSTIC-EMISSION
+    5-112  General [ch05_p112.txt]
+    5-113  Applications [ch05_p113.txt]
+
+  SECTION 10: THERMOGRAPHY
+    5-120  General [ch05_p120.txt]
+
+  SECTION 11: HOLOGRAPHY
+    5-127  General [ch05_p127.txt]
+
+  SECTION 12: SHEAROGRAPHY
+    5-134  General [ch05_p134.txt]
+
+
+CHAPTER 6: CORROSION, INSPECTION & PROTECTION
+
+  SECTION 1: GENERAL
+    6-1  General [ch06_p001.txt]
+    6-2  Factors Influencing Corrosion [ch06_p002.txt]
+    6-3  Common Corrosive Agents [ch06_p003.txt]
+    6-4  Micro-Organisms [ch06_p004.txt]
+
+  SECTION 2: TYPES OF CORROSION
+    6-11  General [ch06_p011.txt]
+    6-12  General Surface Corrosion [ch06_p012.txt]
+    6-13  Pitting Corrosion [ch06_p013.txt]
+    6-14  Concentration Cell Corrosion [ch06_p014.txt]
+    6-15  Active-Passive Cells [ch06_p015.txt]
+    6-16  Filiform Corrosion [ch06_p016.txt]
+    6-17  Intergranular Corrosion [ch06_p017.txt]
+    6-18  Exfoliation Corrosion [ch06_p018.txt]
+    6-19  Galvanic Corrosion [ch06_p019.txt]
+    6-20  Stress Corrosion Cracking [ch06_p020.txt]
+    6-21  Fatigue Corrosion [ch06_p021.txt]
+    6-22  Fretting Corrosion [ch06_p022.txt]
+
+  SECTION 3: CORROSION PROTECTION MEASURES FOR BASIC MATERIALS
+    6-29  General [ch06_p029.txt]
+    6-30  Anodizing and Related Processes [ch06_p030.txt]
+    6-31  Plating [ch06_p031.txt]
+    6-32  Phosphate Rust-Proofing [ch06_p032.txt]
+    6-33  Chrome-Pickle Treatment [ch06_p033.txt]
+    6-34  Dichromate Treatment [ch06_p034.txt]
+    6-35  Stannate Immersion Treatment [ch06_p035.txt]
+    6-36  Galvanic Anodizing Treatment [ch06_p036.txt]
+    6-37  Cladding [ch06_p037.txt]
+    6-38  Metal Spraying [ch06_p038.txt]
+    6-39  Shot-Peening [ch06_p039.txt]
+    6-40  Organic Coatings [ch06_p040.txt]
+    6-41  Dope Proofing [ch06_p041.txt]
+    6-42  Tube Interiors [ch06_p042.txt]
+
+  SECTION 4: CORROSION PREVENTIVE MAINTENANCE
+    6-50  Guidelines: All Aircraft [ch06_p050.txt]
+    6-51  Guidelines: Aircraft Operating Over Salt Water [ch06_p051.txt]
+
+  SECTION 5: VISUAL CORROSION INSPECTION GUIDE FOR AIRCRAFT
+    6-63  General [ch06_p063.txt]
+    6-64  Exhaust Trail Areas [ch06_p064.txt]
+    6-65  Battery Compartments and Battery Vent Openings [ch06_p065.txt]
+    6-66  Lavatories and Galleys [ch06_p066.txt]
+    6-67  Bilge Areas [ch06_p067.txt]
+    6-68  Wheel Wells and Landing Gear [ch06_p068.txt]
+    6-69  External Skin Areas [ch06_p069.txt]
+    6-70  Water Entrapment Areas [ch06_p070.txt]
+    6-71  Engine Frontal Areas [ch06_p071.txt]
+    6-72  Electronic Package Compartments [ch06_p072.txt]
+    6-73  Flexible Hose Assemblies [ch06_p073.txt]
+    6-74  Sandwich Panels [ch06_p074.txt]
+    6-75  Control Cables [ch06_p075.txt]
+    6-76  Integral Fuel Cells [ch06_p076.txt]
+    6-77  Electrical Connectors [ch06_p077.txt]
+
+  SECTION 6: CORROSION REMOVAL PROCEDURES
+    6-89  General [ch06_p089.txt]
+    6-90  Safety Precautions [ch06_p090.txt]
+    6-91  Corrosion Control Work Procedures [ch06_p091.txt]
+
+  SECTION 7: BASIC CORROSION REMOVAL TECHNIQUES
+    6-113  General [ch06_p113.txt]
+    6-114  Preparations for Rework [ch06_p114.txt]
+    6-115  Fairing or Blending Reworked Areas [ch06_p115.txt]
+    6-116  Corrosion Removal by Blasting [ch06_p116.txt]
+    6-117  Cleaners, Polishes, and Brighteners [ch06_p117.txt]
+    6-118  Standard Methods [ch06_p118.txt]
+
+  SECTION 8: ALUMINUM AND ALUMINUM ALLOYS
+    6-132  General [ch06_p132.txt]
+    6-133  Special Treatment of Anodized Surfaces [ch06_p133.txt]
+    6-134  Repair of Aluminum Alloy Sheet Metal [ch06_p134.txt]
+    6-135  Corrosion Removal Around Countersunk Fasteners in Aluminum Alloy [ch06_p135.txt]
+    6-136  Examples of Removing Corrosion From Aluminum and Aluminum Alloys [ch06_p136.txt]
+
+  SECTION 9: MAGNESIUM AND MAGNESIUM ALLOYS
+    6-148  General [ch06_p148.txt]
+
+  SECTION 10: FERROUS METALS
+    6-164  General [ch06_p164.txt]
+    6-165  Special Treatment of High Strength Steel [ch06_p165.txt]
+    6-166  Special Treatment of Stainless Steel [ch06_p166.txt]
+    6-167  Example of Removing Corrosion from Ferrous Metals [ch06_p167.txt]
+
+  SECTION 11: OTHER METALS AND ALLOYS
+    6-179  Noble Metal Coatings - Cleanup and Restoration [ch06_p179.txt]
+    6-180  Copper and Copper Alloys [ch06_p180.txt]
+    6-181  Titanium and Titanium Alloys [ch06_p181.txt]
+
+  SECTION 12: PLATED PARTS
+    6-193  Chromium and Nickel Plated Parts [ch06_p193.txt]
+    6-194  Cadmium and Zinc Plated Parts [ch06_p194.txt]
+
+  SECTION 13: CORROSION PROOFING OF LAND PLANES CONVERTED TO SEA PLANES
+    6-206  General [ch06_p206.txt]
+    6-207  Necessary Minimum Precautions [ch06_p207.txt]
+    6-208  Recommended Precautions [ch06_p208.txt]
+
+  SECTION 14: HANDLING AND CARE OF AIRCRAFT RECOVERED FROM WATER IMMERSION
+    6-220  General [ch06_p220.txt]
+    6-221  Initial Fresh Water or Detergent Wash [ch06_p221.txt]
+    6-222  Reciprocating Engines and Propellers [ch06_p222.txt]
+    6-223  Airframe [ch06_p223.txt]
+
+
+CHAPTER 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES
+
+  SECTION 1: RIVETS
+    7-1  General [ch07_p001.txt]
+    7-2  Material Applications [ch07_p002.txt]
+
+  SECTION 2: SCREWS
+    7-14  General [ch07_p014.txt]
+    7-15  Structural Screws [ch07_p015.txt]
+    7-16  Machine Screws [ch07_p016.txt]
+    7-17  Panhead Screws (NAS600 through NAS606, NAS610 through NAS616, [ch07_p017.txt]
+    7-18  Self-Tapping Screws [ch07_p018.txt]
+    7-19  Wood Screws [ch07_p019.txt]
+
+  SECTION 3: BOLTS
+    7-34  General [ch07_p034.txt]
+    7-35  Bolts [ch07_p035.txt]
+    7-36  Identification [ch07_p036.txt]
+    7-37  Grip Length [ch07_p037.txt]
+    7-38  Locking or Safetying of Bolts [ch07_p038.txt]
+    7-39  Bolt Fit [ch07_p039.txt]
+    7-40  Torques [ch07_p040.txt]
+    7-41  Standard Aircraft Hex Head Bolts (AN3 through AN20) [ch07_p041.txt]
+    7-42  Drilled Head Bolts (AN73 through AN81) [ch07_p042.txt]
+    7-43  Engine Bolts [ch07_p043.txt]
+    7-44  Close-Tolerance Bolts [ch07_p044.txt]
+    7-45  Internal Wrenching Bolts (NAS144 through NAS158 and NAS172 through NAS176) [ch07_p045.txt]
+    7-46  Internal Wrenching Bolts (MS20004 through MS20024) and Six Hole, [ch07_p046.txt]
+    7-47  Twelve Point, External Wrenching Bolts, (NAS624 through NAS644) [ch07_p047.txt]
+    7-48  Close-Tolerance Shear Bolts (NAS434) [ch07_p048.txt]
+    7-49  NAS6200 Series Bolts [ch07_p049.txt]
+    7-50  Clevis Bolts (AN21 through AN36) [ch07_p050.txt]
+    7-51  Eyebolts (AN42 through AN49) [ch07_p051.txt]
+
+  SECTION 4: NUTS
+    7-63  General [ch07_p063.txt]
+    7-64  Self-Locking Nuts [ch07_p064.txt]
+    7-65  Nut Identification - Finishes [ch07_p065.txt]
+    7-66  Castle Nut (AN310) [ch07_p066.txt]
+    7-67  Castellated Shear Nut (AN320) [ch07_p067.txt]
+    7-68  Plain Nut (AN315 and AN335) [ch07_p068.txt]
+    7-69  Light Hex Nuts (AN340 and AN345) [ch07_p069.txt]
+    7-70  Checknut (AN316) [ch07_p070.txt]
+    7-71  Wingnuts (AN350) [ch07_p071.txt]
+    7-72  Sheet Spring Nuts (AN365) [ch07_p072.txt]
+
+  SECTION 5: WASHERS
+    7-85  General [ch07_p085.txt]
+    7-86  Plain Washers (AN960 and AN970) [ch07_p086.txt]
+    7-87  Lockwashers (AN935 and AN936) [ch07_p087.txt]
+    7-88  Ball Socket and Seat Washers (AN950 and AN955) [ch07_p088.txt]
+    7-89  Taper Pin Washers (AN975) [ch07_p089.txt]
+
+  SECTION 6: PINS
+    7-101  Taper Pins [ch07_p101.txt]
+    7-102  Flathead Pins (AN392 through AN406) [ch07_p102.txt]
+    7-103  Cotter Pins (AN380) [ch07_p103.txt]
+    7-104  Spring Pins [ch07_p104.txt]
+    7-105  Quick-Release Pins [ch07_p105.txt]
+
+  SECTION 7: SAFETYING
+    7-122  General [ch07_p122.txt]
+    7-123  Safety Wire [ch07_p123.txt]
+    7-124  Safety-Wiring Procedures [ch07_p124.txt]
+    7-125  Twisting With Special Tools [ch07_p125.txt]
+    7-126  Securing Oil Caps, Drain Cocks, and Valves [ch07_p126.txt]
+    7-127  Securing With Cotter Pins [ch07_p127.txt]
+
+  SECTION 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+    7-140  General [ch07_p140.txt]
+    7-141  Cable Definitions [ch07_p141.txt]
+    7-142  Flexible Cables [ch07_p142.txt]
+    7-143  Nylon-Coated Cables [ch07_p143.txt]
+    7-144  Nonflexible Cables [ch07_p144.txt]
+    7-145  Cable Specifications [ch07_p145.txt]
+    7-146  Cable Proof Loads [ch07_p146.txt]
+    7-147  Replacement of Cables [ch07_p147.txt]
+    7-148  Mechanically-Fabricated Cable Assemblies [ch07_p148.txt]
+    7-149  Cable System Inspection [ch07_p149.txt]
+    7-150  Corrosion and Rust Prevention [ch07_p150.txt]
+    7-151  Wire Splices [ch07_p151.txt]
+    7-152  Cable Maintenance [ch07_p152.txt]
+    7-153  Cable Tension Adjustment [ch07_p153.txt]
+
+  SECTION 9: TURNBUCKLES
+    7-165  General [ch07_p165.txt]
+    7-166  Turnbuckle Installation [ch07_p166.txt]
+    7-167  Witness Hole [ch07_p167.txt]
+
+  SECTION 10: SAFETY METHODS FOR TURNBUCKLES
+    7-179  General [ch07_p179.txt]
+    7-180  Double-Wrap Method.. [ch07_p180.txt]
+    7-181  Single-Wrap Method. [ch07_p181.txt]
+    7-182  Safety-Wire Secured Turnbuckles [ch07_p182.txt]
+    7-183  Special Locking Devices.. [ch07_p183.txt]
+    7-184  Assembling and Securing Clip-Locking Turnbuckles [ch07_p184.txt]
+
+  SECTION 11: HARDWARE IDENTIFICATION TABLES
+
+
+CHAPTER 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS
+
+  SECTION 1: ENGINES
+    8-1  General [ch08_p001.txt]
+    8-2  Special Inspection [ch08_p002.txt]
+    8-3  Crankshaft Inspection and Repair Requirements [ch08_p003.txt]
+    8-4  Replacement Parts in Certificated Engines [ch08_p004.txt]
+    8-5  Oil System Lines Inspection [ch08_p005.txt]
+    8-6  Oil Filter Inspection [ch08_p006.txt]
+    8-7  Cylinder Hold-Down Nuts and Cap Screws [ch08_p007.txt]
+    8-8  Reuse of Safetying Devices [ch08_p008.txt]
+    8-9  Self-Locking Nuts for Aircraft Engines and Accessories [ch08_p009.txt]
+    8-10  Metallizing [ch08_p010.txt]
+    8-11  Plating [ch08_p011.txt]
+    8-12  Corrosion [ch08_p012.txt]
+    8-13  Engine Run-In [ch08_p013.txt]
+    8-14  Compression Testing of Aircraft Engine Cylinders [ch08_p014.txt]
+    8-15  Spark Plugs [ch08_p015.txt]
+    8-16  Operational Problems [ch08_p016.txt]
+    8-17  Spark Plug Pre-Reconditioning Inspection [ch08_p017.txt]
+    8-18  Ignition Harnesses Inspection [ch08_p018.txt]
+    8-19  Magneto Inspection [ch08_p019.txt]
+    8-20  Magneto-to-Engine Timing [ch08_p020.txt]
+
+  SECTION 2: FUEL SYSTEMS
+    8-30  General [ch08_p030.txt]
+    8-31  Fuel Lines and Fittings [ch08_p031.txt]
+    8-32  Fuel Tanks and Cells [ch08_p032.txt]
+    8-33  Fuel Tank Caps, Vents, and Overflow Lines [ch08_p033.txt]
+    8-34  Fuel Cross-Feed, Firewall Shutoff, and Tank Selector Valves [ch08_p034.txt]
+    8-35  Fuel Pumps [ch08_p035.txt]
+    8-36  Fuel Filters, Strainers, and Drains [ch08_p036.txt]
+    8-37  Indicator Systems [ch08_p037.txt]
+    8-38  Fuel System Precautions [ch08_p038.txt]
+
+  SECTION 3: EXHAUST SYSTEMS
+    8-45  General [ch08_p045.txt]
+    8-46  Muffler/Heat Exchanger Failures [ch08_p046.txt]
+    8-47  Manifold/Stack Failures [ch08_p047.txt]
+    8-48  Internal Muffler Failures [ch08_p048.txt]
+    8-49  Inspection [ch08_p049.txt]
+    8-50  Repairs [ch08_p050.txt]
+    8-51  Turbo-Supercharger [ch08_p051.txt]
+    8-52  Augmentor Systems [ch08_p052.txt]
+
+  SECTION 4: REPAIR OF METAL PROPELLERS
+    8-71  General [ch08_p071.txt]
+    8-72  Steel Blades [ch08_p072.txt]
+    8-73  Aluminum Propeller Repairs [ch08_p073.txt]
+    8-74  Repair Limits [ch08_p074.txt]
+    8-75  Steel Hubs and Hub Parts [ch08_p075.txt]
+    8-76  Propeller Hub and Flange Repair [ch08_p076.txt]
+    8-77  Control Systems [ch08_p077.txt]
+    8-78  Deicing Systems [ch08_p078.txt]
+
+  SECTION 5: INSPECTION OF PROPELLERS
+    8-91  General [ch08_p091.txt]
+    8-92  Wood or Composition Propellers and Blades [ch08_p092.txt]
+    8-93  Metal Propellers and Blades [ch08_p093.txt]
+    8-94  Propeller Hub [ch08_p094.txt]
+    8-95  Tachometer Inspection [ch08_p095.txt]
+
+  SECTION 6: PROPELLER TRACKING AND VIBRATION
+    8-107  General [ch08_p107.txt]
+    8-108  Propeller Tracking Check [ch08_p108.txt]
+    8-109  Vibration [ch08_p109.txt]
+
+
+CHAPTER 9: AIRCRAFT SYSTEMS AND COMPONENTS
+
+  SECTION 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+    9-1  General [ch09_p001.txt]
+    9-2  General Inspection [ch09_p002.txt]
+    9-3  Cleaning and Lubricating [ch09_p003.txt]
+    9-4  Fixed-Gear Inspection [ch09_p004.txt]
+    9-5  Inspection of Retractable Landing Gear [ch09_p005.txt]
+    9-6  Emergency Systems [ch09_p006.txt]
+    9-7  Landing Gear Components [ch09_p007.txt]
+    9-8  Floats and Skis [ch09_p008.txt]
+    9-9  Inspection and Repair of Floats and Skis [ch09_p009.txt]
+    9-10  Types of Landing Gear Problems [ch09_p010.txt]
+    9-11  Special Inspections [ch09_p011.txt]
+    9-12  Retraction Tests [ch09_p012.txt]
+    9-13  Tire and Tube Maintenance [ch09_p013.txt]
+    9-14  Tire Inspection and Repair [ch09_p014.txt]
+    9-15  Inflation of Tires [ch09_p015.txt]
+    9-16  Personal Safety [ch09_p016.txt]
+    9-17  Disassemble the Wheel [ch09_p017.txt]
+    9-18  Reassembling the Wheel [ch09_p018.txt]
+    9-19  Slippage [ch09_p019.txt]
+    9-20  Wheel Inspection [ch09_p020.txt]
+    9-21  Wheel Installation.....................................................................................................................................9-12a [ch09_p021.txt]
+
+  SECTION 2: HYDRAULIC SYSTEMS
+    9-25  General [ch09_p025.txt]
+    9-26  Purposes of Hydraulic Systems [ch09_p026.txt]
+    9-27  Types of Hydraulic Fluid [ch09_p027.txt]
+    9-28  Handling Hydraulic Fluids [ch09_p028.txt]
+    9-29  Hydraulic System Maintenance Practices [ch09_p029.txt]
+    9-30  Hydraulic Lines and Fittings [ch09_p030.txt]
+
+  SECTION 3: EMERGENCY EQUIPMENT
+    9-37  Life Rafts [ch09_p037.txt]
+    9-38  Life Raft Inspections [ch09_p038.txt]
+    9-39  Survival Kit Inspection [ch09_p039.txt]
+    9-40  Special Inspections [ch09_p040.txt]
+    9-41  Inspection Record [ch09_p041.txt]
+    9-42  Raft Repairs [ch09_p042.txt]
+    9-43  Life Preservers [ch09_p043.txt]
+    9-44  Life Preserver Inspection [ch09_p044.txt]
+    9-45  Repair of Life Preservers [ch09_p045.txt]
+    9-46  Miscellaneous Equipment [ch09_p046.txt]
+    9-47  Oxygen Systems [ch09_p047.txt]
+    9-48  Inspection [ch09_p048.txt]
+    9-49  Maintenance [ch09_p049.txt]
+    9-50  Functional Testing After Repair [ch09_p050.txt]
+    9-51  Service Requirements --Oxygen Cylinders [ch09_p051.txt]
+
+  SECTION 4: CABIN INTERIOR
+    9-60  General [ch09_p060.txt]
+    9-61  Car-3 Aircraft Interior [ch09_p061.txt]
+    9-62  Part 23 Aircraft Interior [ch09_p062.txt]
+    9-63  Source of Information [ch09_p063.txt]
+    9-64  Upholstery and/or Belts [ch09_p064.txt]
+
+
+CHAPTER 10: WEIGHT AND BALANCE
+
+  SECTION 1: TERMINOLOGY
+    10-1  General [ch10_p001.txt]
+    10-2  Terminology [ch10_p002.txt]
+
+  SECTION 2: WEIGHING PROCEDURES
+    10-14  General [ch10_p014.txt]
+    10-15  Procedures [ch10_p015.txt]
+    10-16  Weight and Balance Computations [ch10_p016.txt]
+    10-17  Weight and Balance Extreme Conditions
+    10-18  Loading Conditions and/or Placards [ch10_p018.txt]
+    10-19  Equipment List [ch10_p019.txt]
+    10-20  Equipment Change [ch10_p020.txt]
+    10-21  Sample Weight and Balance Report [ch10_p021.txt]
+    10-22  Installation of Ballast [ch10_p022.txt]
+    10-23  Loading Schedule [ch10_p023.txt]
+
+
+CHAPTER 11: AIRCRAFT ELECTRICAL SYSTEMS
+
+  SECTION 1: INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+    11-1  General [ch11_p001.txt]
+    11-2  Inspection and Operation Checks [ch11_p002.txt]
+    11-3  Functional Check of Check of Stand-By or Emergency Equipment [ch11_p003.txt]
+    11-4  Cleaning and Preservation [ch11_p004.txt]
+    11-5  Battery Electrolyte Corrosion [ch11_p005.txt]
+    11-6  Adjustment and Repair [ch11_p006.txt]
+    11-7  Insulation of Electrical Equipment [ch11_p007.txt]
+    11-8  Bus Bars [ch11_p008.txt]
+
+  SECTION 2: STORAGE BATTERIES
+    11-15  General [ch11_p015.txt]
+    11-16  Battery Charging [ch11_p016.txt]
+    11-17  Battery Freezing [ch11_p017.txt]
+    11-18  Temperature Correction [ch11_p018.txt]
+    11-19  Battery Maintenance [ch11_p019.txt]
+    11-20  Electrolyte Spillage [ch11_p020.txt]
+    11-21  Noxious Fumes [ch11_p021.txt]
+    11-22  Installation Practices [ch11_p022.txt]
+
+  SECTION 3: INSPECTION OF EQUIPMENT INSTALLATION
+    11-30  General [ch11_p030.txt]
+    11-31  Installation Clearance Provisions [ch11_p031.txt]
+    11-32  Wires, Wire Bundles, and Circuit Protective Devices [ch11_p032.txt]
+    11-33  Alternator Diodes [ch11_p033.txt]
+    11-34  Static Electrical Power Converters [ch11_p034.txt]
+    11-35  Acceptable Means of Controlling or Monitoring the Electrical Load [ch11_p035.txt]
+    11-36  Electrical Load Determination [ch11_p036.txt]
+    11-37  Junction Box Construction [ch11_p037.txt]
+
+  SECTION 4: INSPECTION OF CIRCUIT-PROTECTION DEVICES
+    11-47  General [ch11_p047.txt]
+    11-48  Determination of Circuit Breaker Ratings [ch11_p048.txt]
+    11-49  DC Circuit Protector Chart [ch11_p049.txt]
+    11-50  Resettable Circuit Protection Devices [ch11_p050.txt]
+    11-51  Circuit Breaker Usage [ch11_p051.txt]
+    11-52  Circuit Breaker Maintenance [ch11_p052.txt]
+    11-53  Switches [ch11_p053.txt]
+    11-54  Relays
+    11-55  Load Considerations
+    11-56  Operating Conditions for Switches and Relays
+
+  SECTION 5: ELECTRICAL WIRE RATING
+    11-66  General [ch11_p066.txt]
+    11-67  Methods for Determining Current Carrying Capacity of Wires [ch11_p067.txt]
+    11-68  Instructions for Use of Electrical Wire Chart [ch11_p068.txt]
+    11-69  Computing Current Carrying Capacity [ch11_p069.txt]
+
+  SECTION 6: AIRCRAFT ELECTRICAL WIRE SELECTION
+    11-76  General [ch11_p076.txt]
+    11-77  Aircraft Wire Materials [ch11_p077.txt]
+    11-78  Substitutions [ch11_p078.txt]
+
+  SECTION 7: TABLE OF ACCEPTABLE WIRES
+    11-85  Aircraft Wire Table [ch11_p085.txt]
+    11-86  Open Airframe Interconnecting Wire [ch11_p086.txt]
+    11-87  Protected Wire [ch11_p087.txt]
+    11-88  Severe Wind and Moisture Problems (SWAMP) [ch11_p088.txt]
+    11-89  Shielded Wire [ch11_p089.txt]
+
+  SECTION 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+    11-96  General [ch11_p096.txt]
+    11-97  Wiring Replacement [ch11_p097.txt]
+    11-98  Terminals and Terminal Blocks [ch11_p098.txt]
+    11-99  Fuses and Fuse Holders [ch11_p099.txt]
+    11-100  Connectors [ch11_p100.txt]
+    11-101  Junction Boxes, Panels, Shields, and Microswitch Housings [ch11_p101.txt]
+    11-102  Conduit-Rigid Metallic, Flexible Metallic and Rigid Nonmetallic [ch11_p102.txt]
+    11-103  Junctions [ch11_p103.txt]
+    11-104  Circuit Breakers [ch11_p104.txt]
+    11-105  System Separation [ch11_p105.txt]
+    11-106  Electromagnetic Interference (EMI) [ch11_p106.txt]
+    11-107  Interference Tests [ch11_p107.txt]
+    11-108  Identification Stencils and Placards On Electrical Equipment [ch11_p108.txt]
+
+  SECTION 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+    11-115  Maintenance and Operations [ch11_p115.txt]
+    11-116  Group and Bundle Ties [ch11_p116.txt]
+    11-117  Minimum Wire Bend Radii [ch11_p117.txt]
+    11-118  Slack [ch11_p118.txt]
+    11-119  Power Feeders [ch11_p119.txt]
+    11-120  RF Cable [ch11_p120.txt]
+    11-121  Precautions [ch11_p121.txt]
+    11-122  Moisture Protection, Wheel Wells, and Landing Gear Areas [ch11_p122.txt]
+    11-123  Protection Against Personnel and Cargo [ch11_p123.txt]
+    11-124  Heat Precautions [ch11_p124.txt]
+    11-125  Movable Controls Wiring Precautions [ch11_p125.txt]
+    11-126  Flammable Fluids and Gases [ch11_p126.txt]
+
+  SECTION 10: SERVICE LOOP HARNESSES (PLASTIC TIE STRIPS)
+    11-135  General [ch11_p135.txt]
+    11-136  Support [ch11_p136.txt]
+    11-137  Anti-Chafing Material [ch11_p137.txt]
+    11-138  Strain Relief [ch11_p138.txt]
+    11-139  Service Loop [ch11_p139.txt]
+
+  SECTION 11: CLAMPING
+    11-146  General [ch11_p146.txt]
+    11-147  Wire and Cable Clamps Inspection [ch11_p147.txt]
+
+  SECTION 12: WIRE INSULATION AND LACING STRING TIE
+    11-155  General [ch11_p155.txt]
+    11-156  Insulation Materials [ch11_p156.txt]
+    11-157  Stripping Insulation [ch11_p157.txt]
+    11-158  Lacing and Ties [ch11_p158.txt]
+    11-159  Insulation Tape [ch11_p159.txt]
+
+  SECTION 13: SPLICING.
+    11-167  General [ch11_p167.txt]
+
+  SECTION 14: TERMINAL REPAIRS
+    11-174  General [ch11_p174.txt]
+    11-175  Attachment of Terminals to Studs [ch11_p175.txt]
+    11-176  Studs and Insulators [ch11_p176.txt]
+    11-177  Wire Terminals and Binding Posts [ch11_p177.txt]
+    11-178  Crimp On Terminal Lugs and Splices [ch11_p178.txt]
+    11-179  Lock Washers for Terminals On Equipment [ch11_p179.txt]
+
+  SECTION 15: GROUNDING AND BONDING
+    11-185  General [ch11_p185.txt]
+    11-186  Grounding [ch11_p186.txt]
+    11-187  Bonding [ch11_p187.txt]
+    11-188  Bonding Inspection [ch11_p188.txt]
+    11-189  Bonding Jumper Installations [ch11_p189.txt]
+    11-190  Creepage Distance [ch11_p190.txt]
+    11-191  Fuel Systems [ch11_p191.txt]
+    11-192  Electric Shock Prevention Bonding [ch11_p192.txt]
+    11-193  Lightning Protection Bonding [ch11_p193.txt]
+    11-194  Lightning Protection for Antennas and Air Data Probes [ch11_p194.txt]
+    11-195  Static-Discharge Devices [ch11_p195.txt]
+    11-196  Cleaning [ch11_p196.txt]
+    11-197  Hardware Assembly [ch11_p197.txt]
+
+  SECTION 16: WIRE MARKING
+    11-205  General [ch11_p205.txt]
+    11-206  Wire Identification [ch11_p206.txt]
+    11-207  Identification and Information Related to the Wire and Wiring Diagrams [ch11_p207.txt]
+    11-208  Placement of Identification Markings [ch11_p208.txt]
+    11-209  Types of Wire Markings [ch11_p209.txt]
+    11-210  Hot Stamp Marking [ch11_p210.txt]
+    11-211  Dot Matrix Marking [ch11_p211.txt]
+    11-212  Ink Jet Marking [ch11_p212.txt]
+    11-213  Laser Marking [ch11_p213.txt]
+    11-214  Identification Sleeves [ch11_p214.txt]
+    11-215  Identification Tape [ch11_p215.txt]
+    11-216  Operating Conditions [ch11_p216.txt]
+    11-217  Installation of Printed Sleeves [ch11_p217.txt]
+    11-218  Identification of Wire Bundles and Harnesses [ch11_p218.txt]
+    11-219  Terminal Marking Sleeve and Tags [ch11_p219.txt]
+    11-220  Sleeves and Cable Markers Selection [ch11_p220.txt]
+    11-221  Temporary Wire and Cable Marking Procedure [ch11_p221.txt]
+    11-222  Marker Sleeve Installation After Printing [ch11_p222.txt]
+
+  SECTION 17: CONNECTORS
+    11-230  General [ch11_p230.txt]
+    11-231  Selection [ch11_p231.txt]
+    11-232  Types of Connectors [ch11_p232.txt]
+    11-233  Voltage and Current Rating....................................................................................................................11-91a [ch11_p233.txt]
+    11-234  Spare Contacts (Future Wiring) [ch11_p234.txt]
+    11-235  Installation [ch11_p235.txt]
+    11-236  Feed-Through Bulkhead Wire Protection [ch11_p236.txt]
+    11-237  Special Purpose Connector [ch11_p237.txt]
+    11-238  Potting Compounds [ch11_p238.txt]
+    11-239  Potting Connectors [ch11_p239.txt]
+    11-240  Through Bolts [ch11_p240.txt]
+
+  SECTION 18: CONDUITS
+    11-248  General [ch11_p248.txt]
+    11-249  Size of Conduit [ch11_p249.txt]
+    11-250  Conduit Fittings [ch11_p250.txt]
+    11-251  Conduit Installation [ch11_p251.txt]
+    11-252  Rigid Conduit [ch11_p252.txt]
+    11-253  Flexible Conduit [ch11_p253.txt]
+
+  SECTION 19: PROTECTION OF UNUSED CONNECTORS
+    11-260  General [ch11_p260.txt]
+    11-261  Quick Reference Chart [ch11_p261.txt]
+    11-262  Unpressurized Area Connectors [ch11_p262.txt]
+    11-263  Pressurized Areas [ch11_p263.txt]
+
+  SECTION 20: ELECTRICAL AND ELECTRONIC SYMBOLS
+    11-271  General [ch11_p271.txt]
+    11-272  Symbols [ch11_p272.txt]
+
+
+CHAPTER 12: AIRCRAFT AVIONICS SYSTEMS
+
+  SECTION 1: AVIONICS EQUIPMENT MAINTENANCE
+    12-1  General [ch12_p001.txt]
+    12-2  Handling of Components [ch12_p002.txt]
+
+  SECTION 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+    12-8  General [ch12_p008.txt]
+    12-9  Inspection of Avionics System [ch12_p009.txt]
+    12-10  Communication Systems [ch12_p010.txt]
+    12-11  VHF Omni-Directional Range (VOR) [ch12_p011.txt]
+    12-12  Distance Measuring Equipment (DME) [ch12_p012.txt]
+    12-13  Automatic Direction Finder (ADF) [ch12_p013.txt]
+    12-14  Instrument Landing Systems (ILS) [ch12_p014.txt]
+    12-15  Marker Beacon [ch12_p015.txt]
+    12-16  Long Range Navigation (LORAN) [ch12_p016.txt]
+    12-17  Global Positioning System (GPS) [ch12_p017.txt]
+    12-18  Autopilot Systems [ch12_p018.txt]
+    12-19  Altimeters [ch12_p019.txt]
+    12-20  Transponders [ch12_p020.txt]
+    12-21  Emergency Locator Transmitters (ELT) [ch12_p021.txt]
+    12-22  Inspection of ELT [ch12_p022.txt]
+    12-23  Flight Data Recorder [ch12_p023.txt]
+    12-24  Cockpit Voice Recorders (CVR) [ch12_p024.txt]
+    12-25  Weather Radar [ch12_p025.txt]
+    12-26  Radome Inspection. [ch12_p026.txt]
+    12-27  Data Bus [ch12_p027.txt]
+
+  SECTION 3: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT
+    12-37  Compass Check Swing [ch12_p037.txt]
+    12-38  Pneumatic Gyros [ch12_p038.txt]
+
+  SECTION 4: PITOT/STATIC SYSTEM
+    12-51  General [ch12_p051.txt]
+    12-52  System Components [ch12_p052.txt]
+    12-53  Pitot/Static Tubes and Lines [ch12_p053.txt]
+    12-54  Static Ports [ch12_p054.txt]
+    12-55  Heater Elements [ch12_p055.txt]
+    12-56  System Inspection [ch12_p056.txt]
+    12-57  System Leak Test [ch12_p057.txt]
+    12-58  Static System Test [ch12_p058.txt]
+    12-59  Test Pitot System [ch12_p059.txt]
+    12-60  Maintenance Precautions [ch12_p060.txt]
+    12-61  Replacing Lines [ch12_p061.txt]
+    12-62  Relocation of Pitot Tube [ch12_p062.txt]
+    12-63  Troubleshooting the Pitot/Static Pressure System [ch12_p063.txt]
+
+  SECTION 5: AVIONICS TEST EQUIPMENT
+    12-70  General [ch12_p070.txt]
+    12-71  Test Equipment Calibration Standards [ch12_p071.txt]
+    12-72  Test Equipment Calibration [ch12_p072.txt]
+
+
+CHAPTER 13: HUMAN FACTORS
+
+  13-1  Human Factors Influence on Mechanic's Performance [ch13_p001.txt]
+  13-2  The FAA Aviation Safety Program [ch13_p002.txt]
+
+
+APPENDICES
+
+  Appendix 1: Glossary [appendix_1_glossary.txt]
+  Appendix 2: Acronyms and Abbreviations [appendix_2_acronyms.txt]
+  Appendix 3: Metric-Based Prefixes and Powers of 10 [appendix_3_metric.txt]

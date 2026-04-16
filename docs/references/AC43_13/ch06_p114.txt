@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 7: BASIC CORROSION REMOVAL TECHNIQUES
+
+6-114. PREPARATIONS FOR REWORK.
+All corrosion products should be removed
+completely when corroded structures are reworked. Before starting rework of corroded
+areas, carry out the following:
+a. Document corrosion damage.
+b. Position the aircraft in a wash rack or
+provide washing apparatus for rapid rinsing of
+all surfaces.
+c. Connect a static ground line from the
+aircraft to a grounding point.
+d. Prepare the aircraft for safe ground
+maintenance.
+REMOVAL TECHNIQUES
+(1) Remove battery(s), liquid oxygen
+generator container (if installed), and external
+hydraulic and electric power.
+(2) Install all applicable safety pins,
+flags, and jury struts.
+e. Protect the pitot-static ports, louvers,
+airscoops, engine opening, wheels, tires, magnesium skin panels, and airplane interior from
+moisture and chemical brightening agents.
+f. Protect the surfaces adjacent to rework
+areas from chemical paint strippers, corrosion
+removal agents, and surface treatment materials.

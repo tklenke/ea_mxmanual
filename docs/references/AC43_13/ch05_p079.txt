@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-79. USES OF RADIOGRAPHY. Radiography is used to detect the features of a
+component or assembly that exhibit a difference in thickness or density as compared to
+surrounding material. Large differences are
+more easily detected than small ones. In general, radiography can detect only those features
+that have an appreciable thickness in a direction along the axis of the radiation beam.
+Therefore, the ability of radiography to detect
+planar discontinuities, such as cracks, depends
+on proper orientation of the test piece during
+inspection. Discontinuities which have
+measurable thickness in all directions, such as
+voids and inclusions, can be detected as long
+as they are not too small in relation to section
+thickness. In general, features that exhibit a
+2 percent or more difference in radiation adsorption compared to the surrounding material
+can be detected.

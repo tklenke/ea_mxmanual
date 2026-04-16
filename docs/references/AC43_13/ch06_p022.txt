@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-22. FRETTING CORROSION. Fretting
+corrosion,(also known as wear corrosion or
+friction oxidation) can occur at the interface of
+two highly-loaded surfaces which are not supposed to move against each other. However,
+vibration may cause the surfaces to rub together resulting in an abrasive wear known as
+fretting. (See figure 6-13.) The protective
+film on the metallic surfaces is removed by
+this rubbing action. With continued rubbing,
+metal particles sheared from the surface of the
+metal combine with oxygen to form metal oxide. As these oxides accumulate, they cause
+damage by abrasive action and increased local
+stress. The most common example of fretting
+corrosion is the smoking rivet found on engine
+cowling and wing skins. This is one corrosion
+reaction that is not driven by an electrolyte,
+and in fact, moisture may inhibit the reaction.
+Application of a lubricant or installation of a
+fretting-resistant material between the two surfaces can reduce fretting corrosion.
+[FIG 6-13] Fretting corrosion.
+6-23.6-28.
+[RESERVED.]

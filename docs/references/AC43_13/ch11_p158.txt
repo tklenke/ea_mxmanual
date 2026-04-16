@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 12: WIRE INSULATION AND LACING STRING TIE
+
+11-158. LACING AND TIES. Ties, lacing,
+and straps are used to secure wire groups or
+bundles to provide ease of maintenance, inspection, and installation. Braided lacing tape
+per MIL-T-43435 is suitable for lacing and
+tying wires. In lieu of applying ties, straps
+meeting Specification MS17821 or MS17822
+may be used in areas where the temperature
+�C.
+does not exceed 120 Straps may not be
+used in areas of SWAMP such as wheel wells,
+near wing flaps or wing folds. They may not
+be used in high vibration areas, where failure
+[TABLE 11-13] Allowable nicked or broken strands.
+Maximum allowable nicked and broken strands
+Wire Size Conductor material Number
+24-14 Copper
+12-10 or

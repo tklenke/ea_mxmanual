@@ -1,0 +1,27 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-58. STATIC SYSTEM TESTS must
+comply with the static system tests required by
+14 CFR 91.411 and be performed by an appropriately-rated repair station with the appropriate test equipment.
+If the manufacturer has not issued instructions
+for testing static systems, the following may be
+used:
+a. Connect the test equipment directly
+to the static ports, if practicable. Otherwise,
+connect to a static system drain or tee connection and seal off the static ports. If the test
+equipment is connected to the static system at
+any point other than the static port, it should be
+made at a point where the connection may be
+readily inspected for system integrity. Observe
+maintenance precautions given in paragraph
+12-60 of this section.
+b. Do not blow air through the line toward the instrument panel. This may seriously
+damage the instruments. Be sure to disconnect
+the instrument lines so no pressure can reach
+the instruments.
+c. Apply a vacuum equivalent to 1,000
+feet altitude, (differential pressure of approximately 1.07 inches of mercury or 14.5 inches
+of water) and hold.
+d. After 1 minute, check to see that the
+leak has not exceeded the equivalent of 100
+feet of altitude (decrease in differential pressure of approximately 0.0105 inches of mercury or 1.43 inches of water).

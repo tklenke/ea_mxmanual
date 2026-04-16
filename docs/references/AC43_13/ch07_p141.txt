@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-141. CABLE DEFINITIONS. The following cable components are defined in accordance with Military Specifications
+MIL-W-83420, MIL-C-18375, and
+MIL-W-87161.
+a. Wire Center. The center of all strands
+shall be an individual wire and shall be designated as a wire center.
+b. Strand Center or Core. A strand center is a single, straight strand made of preformed wires, similar to the other strands
+comprising the cable, in arrangement and
+number of wires.
+c. Independent Wire Rope Center
+(IWRC) 7 by 7. A 7 by 7 independent wire
+rope center as specified herein shall consist of
+a cable or wire rope of six strands of seven
+wires each, twisted or laid around a strand
+center or core consisting of seven wires.

@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-99. FUSES AND FUSE HOLDERS.
+Inspect as follows:
+a. Check security of connections to fuse
+holders.
+b. Inspect for the presence of corrosion
+and evidence of overheating on fuses and fuse
+holders. Replace corroded fuses and clean
+fuse holders. If evidence of overheating is
+found, check for correct rating of fuse.
+c. Check mounting security of fuse
+holder.
+d. Inspect for replenishment of spare
+fuses used in flight. Replace with fuses of appropriate current rating only.
+e. Inspect for exposed fuses susceptible
+to shorting. Install cover of nonconducting
+material if required.

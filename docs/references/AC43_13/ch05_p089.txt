@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 7: ULTRASONIC INSPECTION
+
+5-89. GENERAL. Ultrasonic inspection is
+an NDI technique that uses sound energy
+moving through the test specimen to detect
+flaws. The sound energy passing through the
+specimen will be displayed on a Cathode Ray
+Tube (CRT), a Liquid Crystal Display (LCD)
+computer data program, or video/camera medium. Indications of the front and back surface and internal/external conditions will appear as vertical signals on the CRT screen or
+nodes of data in the computer test program.
+There are three types of display patterns; “A”
+scan, “B” scan, and “C” scan. Each scan provides a different picture or view of the specimen being tested. (See figure 5-15.)

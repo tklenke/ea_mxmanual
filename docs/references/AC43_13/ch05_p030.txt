@@ -1,0 +1,21 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 3: EDDY CURRENT INSPECTION
+
+5-30. CORROSION INSPECTION.
+Eddy current inspection is used to detect the
+loss of metal as a result of corrosion. An estimation of material loss due to corrosion can be
+made by comparison with thickness standards.
+Figure 5-8 shows typical structural corrosion
+that may be detected by the use of eddy current
+inspection. Remove all surface corrosion
+before performing the eddy current corrosion
+inspection. The following are typical eddy
+current equipment requirements for corrosion
+inspection.
+a. Use a variable frequency instrument
+with frequency capability from 100 Hz to
+40 kHz.
+b. Use a shielded probe with coil diameter between 0.15 and 0.5 inch and designed to
+operate at the lower frequencies.
+c. A reference standard made from the
+same alloy, heat treatment, and thickness as
+the test structure will be required.

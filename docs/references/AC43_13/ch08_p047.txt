@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 3: EXHAUST SYSTEMS
+
+8-47. MANIFOLD/STACK FAILURES.
+Exhaust manifold and stack failures are also
+usually fatigue-type failures which occur at
+welded or clamped joints; e.g., stack-to-flange,
+stack-to-manifold, muffler connections, or
+crossover pipe connections. Although these
+failures are primarily a fire hazard, they also
+present a CO problem. Exhaust gases can
+[FIG 8-13] Typical muffler wall fatigue failure at exhaust outlet. (A. Complete muffler assembly with heat
+shroud removed; B. Detail view of failure.)
+enter the cabin via defective or inadequate
+seals at firewall openings, wing strut fittings,
+doors, and wing root openings. Manifold/stack failures, which account for approximately 20 percent of all exhaust system
+failures, reach a maximum rate of occurrence
+at about 100 hours’ operating time. Over
+50 percent of the failures occur within
+300 hours.

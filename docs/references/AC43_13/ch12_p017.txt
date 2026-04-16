@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-17. GLOBAL POSITIONING
+SYSTEM (GPS). The GPS is at the forefront
+of present generation navigation systems. This
+space-based navigation system is based on a
+24-satellite system and is highly accurate
+(within 100 meters) for establishing position.
+The system is unaffected by weather and provides a world-wide common grid reference
+system. Database updating and antenna maintenance are of primary concern to the GPS
+user.
+NOTE: Aircraft must be outside of
+hangar for ground test of GPS.

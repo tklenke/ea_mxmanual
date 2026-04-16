@@ -1,0 +1,449 @@
+AC 43.13-1B  Appendix 2: Acronyms and Abbreviations
+
+The acronyms and abbreviations listed are some
+of many that are likely to be encountered by the
+aviation mechanic or technician involved in the
+maintenance of aircraft.
+429  ARINC 429 data bus standard
+629  ARINC 629 data bus standard
+A/D  analog/digital; analog-to -digital
+A/D CONV  analog-to -digital converter
+A/L  autoland
+AC  Advisory Circular
+ac  alternating current
+ACARS  ARINC Communication Addressing and
+Reporting System
+ACO  Aircraft Certification Office
+AD  Airworthiness Directive
+ADC  air-data computer
+ADCP  ATC dual-control panel
+ADEDS  advanced electronic display system
+ADF  automatic direction finder
+ADI  attitude-director indicator; air data
+instrument
+AFC  automatic frequency control
+AFCS  automatic flight control system
+AFDS  autopilot flight director system
+AIM  Aeronautical Information Manual
+AIRCOM  air/ground communications
+AM  amplitude modulation
+AMP or AMPL  amplifier
+AMP  amperes
+AMS  Aerospace Material Specification
+AN  Army/Navy
+AND  Army Navy Design
+ANSI  American National Standards Institute
+ANT  antenna
+AP  autopilot
+APB  auxiliary power breaker
+APCU  auxiliary power control unit
+APU  auxiliary power unit
+ARINC  Aeronautical Radio Incorporated
+ARNC IO  ARINC I/O error
+ARNC STP  ARINC I/O UART data strip error
+ASTM  American Society for Testing Materials
+ATA  Air Transport Association
+ATC  air traffic control
+ATCT  ATC transponder
+ATCTS  ATC transponder system
+AUX  auxiliary
+AVC  automatic volume control
+AWG  American Wire Gauge
+AWS  Air Weather Service
+B/CU  battery/charger unit
+BAT or BATT  battery
+BCD  binary-coded decimal
+BIT  binary digit; built-in test
+BITE  built-in
+test equipment
+BITS  bus
+interconnect transfer switch
+BNR  binary
+numerical reference; binary
+BP  band-pass
+BPCU  bus
+power control unit
+BT  bus
+tie
+BTB  bus
+tie breaker
+BTC  before
+top center
+BUS  electrical
+bus; 429 digital data bus
+C.G.  Center of Gravity
+CAC  caution advisory computer
+CAGE  commercial and government entity code
+CAWS  central aural warning system; caution
+and warning system
+CKT/BKR  circuit
+CB, C/B, or breaker
+CDI  course-deviation
+indicator
+CDU  central
+display unit
+CFC  carbon fiber composite
+CFDIU  centralized fault display interface unit
+CFDS  centralized fault display system
+CH or CHAN  channel
+CHGR  charger
+CKT  circuit
+CLK  clock
+CLR  clear
+CMCS  central maintenance computer system
+CMPTR  computer
+CO  carbon monoxide
+COAX  coaxial
+COP  copper
+CP  control panel
+CRT  cathode-ray tube; circuit
+CSE or CSEU   control system electronics unit
+CSEUP  control system electronics unit panel
+CT  computed tomography
+CT  current transformer
+CTN  caution
+CU  control unit; copper
+CVR  cockpit voice recorder
+CW  continuous wave
+D/A  digital-to-analog
+DAC  digital-to analog converter
+DADC  digital air-data computer
+DBT  dead bus tie
+dc  direct current
+DCDR  decoder
+DDB  digital data bus
+DEMOD  demodulator
+DEMUX  demultiplexer
+DFDR  digital flight data recorder
+DG  directional gyro
+DGTL  digital
+DH  decision height
+SOL  disconnect
+DISC solenoid
+DISC  disconnect
+DISTR  distribution
+DMA  direct
+memory access
+DMB  dead main bus
+DMC  display
+management computer
+DME  distance-measuring
+equipment
+DMEA  distance-measuring
+equipment antenna
+DN  down
+DU  display
+unit
+E/E  or
+E & E electrical/electronic
+E1-1  first
+shelf, number 1 equipment rack
+E2-2  second
+shelf, number 2 equipment rack
+EADF  electronic
+automatic direction finder
+EADI  electronic
+attitude-director indicator
+EAROM  electrically
+alterable read-only memory
+EC  EICAS
+computer
+ECAM  electronic
+centralized aircraft monitoring
+EDSP  EICAS
+display select panel
+EDU  EICAS
+display unit
+EEC  electronic engine control
+EFI  electronic
+flight instrument
+EFIS  electronic
+flight instrument system
+EFISCP  EFIS
+control panel
+EFISCU  EFIS
+comparator unit
+EFIS  symbol
+EFISG generator
+EFIS  remote
+EFISRLS light sensor
+EHSI  electronic
+horizontal-situation indicator
+EHSID  electronic
+horizontal-situation indicator
+display
+EHSV  electrohydraulic
+servo value
+EICAS  engine
+indicating and crew alerting
+system
+ELCU  electrical
+load control unit
+ELEC  electric;
+electronic
+ELECT  electrical
+ELEX  electronics;
+electrical
+ELT  Emergency
+Locator Transmitter
+GEN  emergency
+EMER generator
+emf  electromotive
+force
+EMFI  electromechanical flight instrument
+EMI  Electromagnetic interference
+EP AVAIL  external power available
+EP  external power
+EPC  external power contactor
+EPCS  electronic power control switch
+EPROM  erasable programmable read-only
+memory
+eV—electron volt
+EXCTR  exciter
+EXT PWR  external power
+FAA  Federal Aviation Administration
+FAA-PMA  Federal Aviation Administration Parts
+Manufacturer Approval
+FM  frequency modulation
+FM/CW  frequency modulation continuous wave
+FMC  flight management computer
+FMCD  flight management computer control
+display unit
+FMCS  flight management computer system
+FMS  flight management system
+FOD  foreign object damage
+FREQ  frequency
+FSEU  flap/slat electronic unit
+FW or FWD  forward
+G/S  glide slope
+GAL or GALY  galley
+GCR  generator control relay auxiliary contact
+GCU  generator control unit
+GEB  generator circuit breaker
+GEN  generator
+GLR  galley load relay
+GMAW  gas metal arc welding
+GMT  Greenwich mean time; cordinated
+Universal time
+GND PWR  ground power
+GND RET  ground return
+GND SVCE  ground service
+GND or GRD  ground
+GPCU  ground power control unit
+GPS  global positioning system
+GPSW  gear opposition switch
+GPU  ground power unit
+GPW  ground proximity warning
+GPWS  ground proximity warning system
+GSR  ground service relay
+GSSR  ground service select relay
+GSTR  ground service transfer relay
+GTAW  gas tungsten arc welding
+GWPC  ground proximity warning computer
+H/L  high/low
+HEA  high-frequency radio antenna
+HF (hf)   high frequency (3 to 30 MHz)
+HFCP  high-frequency radio control panel
+HI Z  high impedance
+HZ  hertz
+I.D.  inner diameter
+I/O  input/output
+IAPS  integrated avionics processor system
+IAS  indicated airspeed
+IDG  integrated drive generator
+IF  intermediate frequency
+IFR  instrument flight rules
+IGN  ignition
+IIS  integrated instrument system
+ILS  instrument landing system
+INDL  indicator light
+INST  instrument
+INSTR  instrument
+INTCON  interconnect
+INTEC  interface
+INTER  interrogation
+INTPH  interphone
+INV  inverter
+IR ILS  receiver
+kHz  kilohertz
+KSI  thousands of pounds per square inch
+kV  kilovolts
+kVA  kilovoltamperes
+kVAR  kilovoltampere reactive
+L-Band  radio frequency band (390 to 1550 MHz)
+LCD  liquid-crystal display
+LD  load
+LED  light-emitting diode
+LF (lf)   low frequency (30 to 300 kHz)
+LO Z  low impedance
+LOC  localizer
+LRU  line replaceable unit
+LS  loudspeaker
+LSB  lower sideband
+LSPTM  limit switch position transmitter module
+LT  light
+LTS   lights
+MAC  mean aerodynamic chord
+MAN/ELEC  manual/electric
+MBA  marker-beacon antenna
+MCDP  maintenance control and display panel
+MCDU  multipurpose control and display unit
+MDE  modern digital electronics
+MEC  main equipment center; main engine
+control
+MEG or MEGA  million
+MEK  methylethylketone
+MEM  memory
+METO  Maximum except-take off
+MF  (mf) medium frequency (300 kHz to 3 MHz)
+MHz  megahertz
+MIC  microphone
+MICRO-P  microprocessor
+MIG  metal inert gas
+MILLI  one one-thousandth (0.001)
+MKR BCN  marker beacon
+MS  military standard
+MSDS  Material Safety Data Sheets
+MSEC  (ms) milliseconds
+MSG  message
+MTBF  mean time-between-failure
+MUX  multiplexer
+mV  millivolts
+NAS  National Aerospace Standard
+NAV  navigation
+NC  normally closed; not connected;
+no connection
+NDB  nondirectional beacon
+NDI  Nondestructive Inspection
+NEG  negative
+NSEC   (ns) nanoseconds
+NTSB  National Transportation Safety Board
+NVM  nonvolatile memory
+OAM  original aircraft manufacturer
+OBS  omni bearing selection
+OC  overcurrent
+OEM  original equipment manufacturer
+OF  over-frequency
+OVV or OV  overvoltage
+OVVCO or OVCO  overvoltage cutout
+P-S  parallel to series
+PA  passenger address; power amplifier
+PARA/SER  parallel to serial
+PCU  passenger control unit; power control unit
+PFD  permanent-magnet generator
+PMA  Parts Manufacturer Approval
+POS  positive
+POT  potentiometer; plan of test
+PR  power relay
+PRL  parallel
+PROM  programmable read-only memory
+PROX  proximity
+PSEU  proximity switch electronic unit
+PSI  pounds per square inch
+PWR  power
+PWR SPLY  power supply
+QPL  Qualified Products List
+QTY  quantity
+r-t  receiver-transmitter
+RA  radio altimeter; radio altitude
+RAD  radio
+RAIND radio altimeter indicator
+RAM  random-access memory
+RART  radio altimeter receiver-transmitter
+RAT  ram air turbine
+RCCB  remote-control circuit breaker
+RCL  recall
+RCVR  receiver
+RCVR/XMTR  receiver/transmitter
+RDMI  radio distance magnetic indicator
+RF (rf)   radio frequency
+RFI  radio-frequency interference
+RLS  remote light sensor
+RMI  radio magnetic indicator
+rpm  revolution per minute
+RTV  room temperature vulcanizing
+SAE  Society of Automotive Engineers
+SAT  static air temperature
+SATCOM  satellite communication
+SCR  silicon-controlled rectifier
+SDI  source destination identifier
+SELCAL  selective calling system
+SER DL  serial data link
+SG  symbol generator
+SITA  Société International de
+Telecommunications Aeronautiques
+SMAW  shielded metal arc welding
+SMD  surface mounted device
+SNR  signal-to-noise ratio
+SOL  solenoid
+SOLV  solenoid valve
+SOM  start of message
+SOT  start of transmission
+SPKR  speaker
+SPR  software problem report
+SQL  squelch
+SSB  single sideband
+SSID  Supplemental Structural Inspection
+Documents
+SSM  sign status matrix
+ST  synchro transmitter
+STAT INV  static inverter
+STBY  standby
+STC  Supplemental Type Certificate
+SW  switch
+SYM GEN  symbol generator
+T-R  transformer-rectifier
+TAT  true air temperature
+TBDP  tie bus differential protection
+TC  Type Certificate
+TCAS  traffic alert and collision avoidance
+system
+TCDS  Type Certificate Data Sheets
+TDC  top dead center
+TFR  transfer
+TIG  tungsten inert gas
+TMC  thrust management computer
+TMS  terminal marking sleeve
+TMS  thrust management system
+TMSP  thrust mode select panel
+TRU  transformer-rectifier unit
+TSO  Technical Standard Order
+TXPDR  transponder
+µµµµ  micro
+UBR  utility bus relay
+UF  underfrequency
+UHF  ultrahigh frequency (300 MHz to 3 GHz)
+UNDF  underfrequency
+UNDV  undervoltage
+US  underspeed
+USB (us)  upper sideband
+USEC  microseconds
+UV  undervoltage
+UV  utraviolet
+V ac, Vac, or VAC  volts alternating current
+V dc, Vdc, or VDC   volts direct current
+V  volts; voltage; vertical; valve
+VA  volt-amperes
+VAR  volt-ampere reactive
+VFR  visual flight rules
+VHF (vhf)   very high frequency
+(30 TO 300 MHz)
+VLSI  very large-scale integration
+VOR  VHF omnirange; visual omnirange
+VORTAC  VOR tactical air navigation
+VR  voltage regulator
+VRMS  volts root means square
+W  watts
+WARN  warning
+WCP  weather radar control panel
+WEA  weather
+WEU  warning electronics unit power supply
+WPT  waypoint
+WX (WXR)  weather radar
+XCVR  transceiver
+XDCR  transducer
+XFMR  transformer
+XFR  transfer
+XMIT  transmit
+XMTR  transmitter
+XPDR  transponder

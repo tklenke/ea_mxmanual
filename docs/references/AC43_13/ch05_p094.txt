@@ -1,0 +1,132 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 7: ULTRASONIC INSPECTION
+
+5-94. INSPECTION OF BONDED
+STRUCTURES. Ultrasonic inspection is
+finding increasing application in aircraft
+bonded construction and repair. Detailed techniques for specific bonded structures should be
+obtained from the OEM’s manuals, or FAA requirements. In addition, further information
+on the operation of specific instruments should
+be obtained from the applicable equipment
+manufacturer manuals.
+a. Types of Bonded Structures. Many
+configurations and types of bonded structures
+are in use in aircraft. All of these variations
+complicate the application of ultrasonic inspections. An inspection method that works
+well on one part or one area of the part may
+not be applicable for different parts or areas of
+the same part. Some of the variables in the
+types of bonded structures are as follows.
+(1) Top skin material is made from different materials and thickness.
+(2) Different types and thickness of adhesives are used in bonded structures.
+Note:
+All dimensions in inches followed by
+[FIG 5-18] Example of position fixture and shoe.
+[FIG 5-19] Example of the use if a transducer
+[FIG 5-20] Example of a typical reference
+centimeters in parentheses.
+positioning fixture.
+standard.
+(3) Underlying structures contain differences in; core material, cell size, thickness,
+and height, back skin material and thickness,
+doublers (material and thickness), closure
+member attachments, foam adhesive, steps in
+skins, internal ribs, and laminates (number of
+layers, layer thickness, and layer material).
+(4) The top only or top and bottom skin
+of a bonded structure may be accessible.
+b. Application of Ultrasonic Inspection.
+Application to bonded structures must be examined in detail because of the many inspection methods and structural configurations.
+The advantages and limitations of each inspection method should be considered, and
+reference standards (representative of the
+structure to be inspected) should be ultrasonically inspected to verify proposed techniques.
+c. Internal Configuration. Complete information on the internal configuration of the
+bonded test part must be obtained by the inspector. Drawings should be reviewed, and
+when necessary, radiographs of the test part
+should be taken. Knowledge of details such as
+the location and boundaries of doublers, ribs,
+etc., is required for valid interpretation of ultrasonic inspection results. The boundaries of
+internal details should be marked on the test
+part using a grease pen or other easily removable marking.
+d. Reference Standards. Standards can
+be a duplicate of the test part except for the
+controlled areas of unbond. As an option,
+simple test specimens, which represent the
+varied areas of the test part and contain controlled areas of unbond, can be used. Reference standards must meet the following requirements.
+(1) The reference standard must be
+similar to the test part regarding material, geometry, and thickness. This includes
+containing: closure members, core splices,
+stepped skins, and internal ribs similar to the
+test part if bonded areas over or surrounding
+these details are to be inspected.
+(2) The reference standard must contain
+bonds of good quality except for controlled areas of unbond fabricated as explained below.
+(3) The reference standard must be
+bonded using the adhesive and cure cycle prescribed for the test part.
+e. Types of Defects. Defects can be separated into five general types to represent the
+various areas of bonded sandwich and laminate
+structures as follows:
+(1) Type I. Unbonds or voids in an
+outer skin-to-adhesive interface.
+(2) Type II. Unbonds or voids at the
+adhesive-to-core interface.
+(3) Type III. Voids between layers of a
+laminate.
+(4) Type IV. Voids in foam adhesive or
+unbonds between the adhesive and a closure
+member at core-to-closure member joints.
+(5) Type V. Water in the core.
+f. Fabrication of NDI Reference Standards. Every ultrasonic test unit should have
+sample materials that contain unbonds equal to
+the sizes of the minimum rejectable unbonds
+for the test parts. Information on minimum
+rejectable unbond sizes for test parts should be
+obtained from the OEM’s manuals, FAA requirements, or the cognizant FAA Aircraft
+Certification Office (ACO) engineer. One or
+more of the following techniques can be used
+in fabricating reference defects; however, since
+bonding materials vary, some of the methods
+may not work with certain materials.
+(1) Standards for Types I, II, III, and IV
+unbonds can be prepared by placing discs
+of 0.006 inch thick (maximum) Teflon sheets
+over the adhesive in the areas selected for unbonds. For Type II unbonds, the Teflon is
+placed between the core and adhesive. The
+components of the standard are assembled and
+the assembly is then cured.
+(2) Types I, II, and III standards can
+also be produced by cutting flat-bottomed
+holes of a diameter equal to the diameter of the
+unbonds to be produced. The holes are cut
+from the back sides of bonded specimens, and
+the depths are controlled to produce air gaps at
+the applicable interfaces. When using this
+method, patch plates can be bonded to the rear
+of the reference standard to cover and seal
+each hole.
+(3) Type II standards can be produced
+by locally undercutting (before assembly) the
+surface of the core to the desired size unbond.
+The depth of the undercut should be sufficient
+to prevent adhesive flow causing bonds between the undercut core and the skin.
+(4) Type IV standards can be produced
+by removing the adhesive in selected areas
+prior to assembly.
+(5) Type V standards can be produced
+by drilling small holes in the back of the standard and injecting varying amounts of water
+into the cells with a hypodermic needle. The
+small holes can then be sealed with a small
+amount of water-resistant adhesive.
+g. Inspection Coverage. Examples of
+several different configurations of bonded
+structure along with suggested inspection coverages with standard ultrasonic test instruments are shown in figure 5-21. In many
+cases, access limitations will not permit application of the suggested inspections in all of the
+areas shown. The inspection coverages and
+suggested methods contained in figure 5-21
+and table 5-7 are for reference only. Details of
+the inspection coverage and inspections for a
+particular assembly should be obtained from
+the OEM’s manuals, or other FAA-approved
+requirements.
+h. Inspection Methods. Table 5-8 lists
+the various inspection methods for bonded
+structures along with advantages and disadvantages of each inspection method.

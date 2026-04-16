@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-42. APPLICATIONS. Use magnetic particle inspection on any well-cleaned surface
+that is accessible for close visual examination.
+Typical parts deserving magnetic particle examination are: steel fasteners and pins; critical
+structural elements; linkages; landing gear
+components; splice and attach fittings; and
+actuating mechanisms.
+a. During field repair operations, disassembly is often not necessary, except when the
+parts have critical areas or delicate installed
+components. However, for overhaul operations, a more thorough and critical examination may be obtained with stationary equipment in a shop environment with completely
+disassembled, and thoroughly cleaned and
+stripped parts.
+b. Magnetic rubber examination material is useful for in-field service examinations
+of fastener holes in areas where the accessibility is limited or restricted, where particle suspensions may cause unwanted contamination,
+when a permanent record is desired, and when
+the examination area cannot be observed visually.

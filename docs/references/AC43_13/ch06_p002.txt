@@ -1,0 +1,59 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 1: GENERAL
+
+6-2. FACTORS INFLUENCING CORROSION.
+a. Some factors which influence metal
+corrosion and the rate of corrosion are:
+(1) Type of metal;
+(2) Heat treatment and grain direction;
+(3) Presence of a dissimilar, less corrodible metal;
+(4) Anodic and cathodic surface areas
+(in galvanic corrosion);
+(5) Temperature;
+(6) Presence of electrolytes (hard water,
+salt water, battery fluids, etc.);
+(7) Availability of oxygen;
+(8) Presence of biological organisms;
+(9) Mechanical stress on the corroding
+metal; and,
+(10) Time of exposure to a corrosive
+environment.
+(11) Lead/graphite pencil marks on aircraft surface metals.
+b. Most pure metals are not suitable for
+aircraft construction and are used only in combination with other metals to form alloys.
+Most alloys are made up entirely of small
+crystalline regions, called grains. Corrosion
+can occur on surfaces of those regions which
+are less resistant and also at boundaries between regions, resulting in the formation of
+pits and intergranular corrosion. Metals have a
+wide range of corrosion resistance. The most
+active metals, (those which lose electrons easFIGURE 6-1. Simplified corrosion cell showing conditions which
+[FIG 6-2] Elimination of corrosion by application of an organic
+ily), such as magnesium and aluminum, corrode easily. The most noble metals (those
+which do not lose electrons easily), such as
+gold and silver, do not corrode easily.
+must exist for electrochemical corrosion.
+film to metal surface.
+c. Corrosion is quickened by hightemperature environments that accelerate
+chemical reactions and increase the concentration of water vapor in the air.
+d. Electrolytes (electrically-conducting
+solutions) form on surfaces when condensation, salt spray, rain, or rinse water accumulate.
+Dirt, salt, acidic gases, and engine exhaust
+gases can dissolve on wet surfaces, increasing
+the electrical conductivity of the electrolyte,
+thereby increasing the rate of corrosion.
+e. When some of the electrolyte on a
+metal surface is partially confined, (such as
+between faying surfaces or in a deep crevice)
+the metal around this area corrodes more rapidly. This type of corrosion is called an oxygen
+concentration cell. Corrosion occurs more
+rapidly because the reduced oxygen content of
+the confined electrolyte causes the adjacent
+metal to become anodic to other metal surfaces
+on the same part that are immersed in electrolyte or exposed to air.
+f. Slime, molds, fungi, and other living
+organisms (some microscopic) can grow on
+damp surfaces. Once they are established, the
+area usually remains damp, increasing the possibility of corrosion.
+g. Manufacturing processes such as machining, forming, welding, or heat treatment
+can leave residual stress in aircraft parts and
+can cause cracking in a corrosive environment.

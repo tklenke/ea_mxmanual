@@ -1,0 +1,30 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 1: RIVETS
+
+7-1. GENERAL.
+a. Standard solid-shank rivets and the
+universal head rivets (AN470) are used in aircraft construction in both interior and exterior
+locations. All protruding head rivets may be
+replaced by MS20470 (supersedes AN470)
+rivets. This has been adopted as the standard
+for protruding head rivets in the United States.
+b. Roundhead rivets (AN430) are used in
+the interior of aircraft except where clearance
+is required for adjacent members.
+c. Flathead rivets (AN442) are used in
+the interior of the aircraft where interference of
+adjacent members does not permit the use of
+roundhead rivets.
+d. Brazierhead rivets (AN455 and
+AN456) are used on the exterior surfaces of
+aircraft where flush riveting is not essential.
+e. Countersunk head rivets MS20426
+(supersedes AN426 100-degree) are used on
+the exterior surfaces of aircraft to provide a
+smooth aerodynamic surface, and in other applications where a smooth finish is desired.
+The 100-degree countersunk head has been
+adopted as the standard in the United States.
+Refer to MIL-HD BK5 Metallic Materials and
+Elements for Fight Vehicle Structures, and
+U.S.A.F./Navy T./O. 1-1A-8, Structural Hardware.”
+f. Typical rivet types are shown in table 7-10.
+CONTROL CABLES,

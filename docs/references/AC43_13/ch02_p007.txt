@@ -1,0 +1,110 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-7. FABRIC SEAMS. Seams parallel to
+the line of flight are preferable; however,
+spanwise seams are acceptable.
+a. Sewn Seams.
+(1) Machine-sewn seams should be
+double stitched using any of the styles illustrated in figure 2-1 A, B, C, or D. A machinesewn seam used to close an envelope at a
+wingtip, wing trailing edge, empennage and
+control surface trailing edge, and a fuselage
+longeron may be made with a single stitch
+when the seam will be positioned over a
+structure. (See figure 2-1 E.) The envelope
+size should accommodate fittings or other
+small protrusions with minimum excess for installation. Thick or protruding leading edge
+sewn seams should be avoided on thin airfoils
+with a sharp leading edge radius because they
+may act as a stall strip.
+(2) Hand sew, with plain overthrow or
+baseball stitches at a minimum of four stitches
+per inch, or permanent tacking, to the point
+where uncut fabric or a machine-sewn seam is
+reached. Lock hand sewing at a maximum
+of 10 stitch intervals with a double half hitch,
+and tie off the end stitch with a double half
+hitch. At the point where the hand-sewing or
+permanent tacking is necessary, cut the fabric
+so that it can be doubled under a minimum of
+3/8 inch before sewing or permanent tacking is
+performed. (See figure 2-2.)
+(3) After hand sewing is complete, any
+temporary tacks used to secure the fabric over
+wood structures may be removed.
+(4) Cover a sewn spanwise seam on a
+wing’s leading edge with a minimum 4-inch
+wide pinked-edged surface tape with the tape
+centered on the seam.
+(5) Cover a spanwise-sewn seam at the
+wing trailing edge with pinked-edge surface
+tape that is at least 3 inches wide. For aircraft
+with never-exceed speeds in excess of
+200 mph, cut V notches at least 1 inch in depth
+and 1/4 inch in width in both edges of the surface tape when used to cover spanwise seams
+on trailing edges of control surfaces. Space
+notches at intervals not exceeding 6 inches.
+On tape less than 3 inches wide, the notches
+should be 1/3 the tape width. In the event the
+surface tape begins to separate because of poor
+adhesion or other causes, the tape will tear at a
+notched section, thus preventing progressive
+loosening of the entire length of the tape which
+could seriously affect the controllability of the
+aircraft. A loose tape acts as a trim tab only on
+a movable surface. It becomes a spoiler on a
+fixed surface and has no effect at the trailing
+edge other than drag.
+(6) Make spanwise-sewn seams on the
+wing’s upper or lower surfaces in a manner
+that will minimize any protrusions. Cover the
+seams with finishing tape at least 3 inches
+wide, centering the tape on the seam.
+(7) Sewn seams parallel to the line of
+flight (chordwise) may be located over ribs.
+However, careful attention must be given to
+avoid damage to the seam threads by rib lace
+needles, screws, rivets, or wire clips that are
+used to attach the fabric to the rib. Cover
+chordwise seams with a finishing tape at least
+3 inches wide with the tape centered on the
+seam.
+b. Doped Seams.
+(1) For an overlapped and doped spanwise seam on a wing’s leading edge, overlap
+the fabric at least 4 inches and cover with finishing tape at least 4 inches wide, with the tape
+centered at the outside edge of the overlap
+seam.
+(2) For an overlapped and doped spanwise seam at the trailing edge, lap the fabric at
+least 3 inches and cover with pinked-edge surface tape at least 4 inches wide, with the tape
+centered on the outside edge of the overlap
+seam.
+(3) For an overlapped and doped seam
+on wingtips, wing butts, perimeters of wing
+control surfaces, perimeters of empennage surfaces, and all fuselage areas, overlap the fabric
+2 inches and cover with a finishing tape that is
+at least 3 inches wide, centered on the outside
+edge of the overlap seam.
+(4) For an overlapped and doped seam
+on a wing’s leading edge, on aircraft with a
+velocity never exceed (Vne) speed up to and
+including 150 mph, overlap the fabric 2 inches
+and cover with a finishing tape that is at least
+3 inches wide, with the tape centered on the
+outside edge of the overlap seam.
+[FIG 2-1] Fabric seams.
+TEMPORARY TACKS MAY BE USED TO SECURE
+SEWN SEAMS OVER A WOOD STRUCTURE. PERMANENT
+TO SECURE FABRIC AT WING BUTT STRUCTURES
+SEAM AND SHOULD BE OF THE APPROPRIATE
+OF CORROSION RESISTANT STEEL OR BRASS.
+[FIG 2-2] Typical methods of attaching fabric.
+FABRIC IN POSITION FOR HANDTACKS MAY BE USED
+IN LIEU OF A HAND-SEWN
+LENGTH AND GAUGE, AND MADE
+(5) For an overlapped and doped seam
+on the perimeter of a wing (except a leading
+edge), perimeters of wing control surfaces, perimeters of empennage surfaces, and all areas
+of a fuselage, on aircraft with a Vne speed up
+to and including 150 mph, overlap the fabric
+1 inch and cover with a finishing tape that is at
+least 3 inches wide, centered on the outside
+edge of the overlap seam.

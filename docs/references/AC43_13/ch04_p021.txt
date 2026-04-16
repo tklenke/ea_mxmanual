@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 2: TESTING OF METALS
+
+4-21. INDENTATIONS. The Vickers indenter penetrates about twice as far into the
+work piece as does the Knoop indenter. The
+diagonal of the Vickers indentation is about
+one-third of the total length of the Knoop indentation. The Vickers indenter is less sensitive to minute differences in surface conditions
+than is the Knoop indenter. However, the
+Vickers indentation, because of the shorter diagonal, is more sensitive to errors in measuring
+than is the Knoop indentation. (See figure 4-1.)
+[FIG 4-1] Comparison of indentation made by Knoop
+and Vickers indenters in the same work metal and at the
+same loads.

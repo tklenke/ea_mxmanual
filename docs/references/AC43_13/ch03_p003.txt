@@ -1,0 +1,95 @@
+AC 43.13-1B  Chapter 3: FIBERGLASS AND PLASTICS  Section 1: REPAIR OF LIGHT LOAD LAMINATE STRUCTURES
+
+3-3. REPAIRING HOLES.
+a. Scarf Method. If the damaged area is
+less than 3 inches in diameter, the damage may
+be removed by either sanding with a power
+sander or hand sanding with 180-grit
+sandpaper.
+(1) Scarf back the edges of the hole
+about 50 times the thickness of the face ply.
+Thoroughly clean out all of the sanding residue
+with a cloth wet with an acceptable cleanser.
+(2) Prepare the patches by (see figure 3-4) laying the proper weight fiberglass
+cloth impregnated with resin on a piece of peel
+ply. A weight of resin equal to the weight of
+the patch provides a 50-percent ratio.
+[FIG 3-4] Preparing the fiberglass sandwich.
+(3) Make a sandwich by laying a second
+layer of peel ply over the patch before cutting
+it to the required size and shape. Sandwiching
+will prevent the patch from raveling when cut.
+Brush a good coat of resin over the scarfed
+area. Remove one piece of peel ply from the
+first patch and lay the patch in place. Work all
+of the air out of the resin and remove the top
+peel ply. Cut the next larger patch so it will
+overlap the first patch by at least one-half inch.
+Remove one piece of peel ply from this patch
+and center the patch over the first one. Work
+all of the air out of the resin. Continue laying
+in patches, each overlapping the one below it
+by at least one-half inch, until you have the required number of layers (see figures 3-5
+and 3-6) plus an extra ply to restore original
+strength to the repaired area.
+[FIG 3-5] Scarfed repair to a nonstructural laminated
+fiberglass component.
+[FIG 3-6] Symmetrical layup same as original number of plies, plus one extra ply.
+(4) Cover the entire repair with peel ply
+and carefully work out all of the air bubbles
+from the resin. Apply pressure over the repair
+with tape or sandbags and allow it to cure.
+After the repair has cured, remove the excess
+resin by filing or sanding the surface to the
+contour of the original part. Smooth the surface with fine sandpaper and refinish it to
+match the original part.
+(5) An alternate layup method that
+works equally well is to place the larger patch
+over the scarfed area first, and then each subsequent smaller patch over this. Both types of
+repair are finished in exactly the same way.
+(6) The scarfed joint method (see figure 3-7) is normally used on small punctures
+up to 3 or 4 inches in maximum dimension and
+in facings that are made of thin fabric that is
+difficult to peel.
+b. Step-Joint Method. The scarf method
+of repairing a laminated fiberglass face sheet
+of a honeycomb structure is the easiest method
+to use. In this type of repair, the damage is
+outlined with a compass. If a square or rectangular repair is more appropriate then the damage is outlined using a straight-edge and a
+compass to round out the corners.
+[FIG 3-7] Typical scarf joint repair.
+(1) The configuration of the repair
+should be that which will remove the least
+amount of sound material. Extend the
+cleaned-out area for a distance equal to the
+number of plies to be removed, less 1 inch.
+For example, if you must remove three plies,
+extend the repair for 2 inches beyond the
+cleaned-out area. Each layer should be 1 inch
+beyond the layer below. Use a sharp knife or
+other type of cutter to cut through the top layer,
+being careful not to damage the underneath
+layer. Use several passes with the knife rather
+than one deep cut. (See figure 3-8.)
+(2) Begin with one corner of the patch
+and carefully pry it loose and peel it up until
+all of the layer is removed. Next, mark the exposed layer 1/2 inch inside the opening and
+carefully cut and remove it. Continue until
+you have removed all of the damaged or delaminated layers.
+[FIG 3-8] Carefully cut through each layer of fiberglass cloth and remove it from the damaged area.
+(3) Lightly sand, then scrub the entire
+area with an acceptable cleanser. Prepare the
+patches exactly as you did for the scarf
+method, cutting each layer to exactly the size
+of the material removed. Brush in a coat of
+resin, lay in the patch of the smallest size, and
+carefully work out all of the air bubbles from
+the resin. Now, lay in the next larger size
+patch to lock the first layer of fiberglass cloth
+into place. Repeat the process until the damage area is filled.
+(4) Butt the top layer of cloth to the
+opening in the face ply and cover the entire repair with peel ply. Carefully work all of the air
+bubbles out of the resin and put pressure on the
+repair with either sandbags, or another appropriate method, such as vacuum bagging. (See
+figure 3-9.) After the top repair has hardened,
+repeat the process on the bottom.

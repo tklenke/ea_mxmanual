@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-8. GENERAL. When the operating or
+airworthiness regulations require a system to
+perform its intended function, the use of the
+Technical Standard Order (TSO) equipment or
+the submission of data substantiating the
+equipment performance is strongly recommended. An operation check of avionics is the
+responsibility of the pilot in command. However, it is recommended that after replacement
+of equipment during 100 hour or annual inspections, an operational check of avionics
+equipment be performed. The accomplishments of these checks must be done in accordance with the recommendations and procedures set forth in the aircraft’s flight manual
+instructions published by the avionics equipment manufacturers.

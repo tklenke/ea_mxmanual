@@ -1,0 +1,51 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-107. INTERFERENCE TESTS. Perform an interference test for installed equipment and electrical connections as follow:
+a. The equipment must be installed in accordance with manufacturer’s installation instructions. Visually inspect all the installed
+equipment to determine that industry standard
+workmanship and engineering practices were
+used. Verify that all mechanical and electrical
+connections have been properly made and that
+the equipment has been located and installed in
+accordance with the manufacturer’s recommendations. The wire insulation temperature
+rating should also be considered.
+b. Power input tests must be conducted
+with the equipment powered by the airplane’s
+electrical power generating system, unless otherwise specified.
+c. All associated electrically operated
+equipment and systems on the airplane must
+be on and operating before conducting interference tests, unless otherwise specified.
+d. The effects on interference must be
+evaluated as follows:
+(1) The equipment shall not be the
+source of harmful conducted or radiated interference or adversely affect other equipment or
+systems installed in the airplane.
+(2) With the equipment energized on
+the ground, individually operate other electrically operated equipment and systems on the
+airplane to determine that no significant conducted or radiated interference exists. Evaluate all reasonable combinations of control settings and operating modes. Operate communication and navigation equipment on at least
+one low, high and mid-band frequency. Make
+note of systems or modes of operation that
+should also be evaluated during flight.
+(3) For airplane equipment and systems
+that can be checked only in flight, determine
+that no operationally significant conducted or
+radiated interference exists. Evaluate all reasonable combinations of control settings and
+operating modes. Operate communications
+and navigation equipment on at least one low,
+high and mid-band frequency.
+NOTE: Electromagnetic compatibility problems which develop after installation of this equipment may result
+from such factors as design characteristics of previously installed systems
+or equipment, and the physical installation itself. It is not intended that
+the equipment manufacturer should
+design for all installation environments. The installing facility will be
+responsible for resolving any incompatibility between this equipment and
+previously installed equipment in the
+airplane. The various factors contributing to the incompatibility should
+be considered.
+NOTE: Ground EMI test have consistently been found adequate for follow-on approvals of like or identical
+equipment types, irrespective of the
+airplane model used for the initial approval. Radio frequency transmission
+devices, such as wireless telephones,
+must also be tested with respect to
+their transmission frequencies and
+harmonics.

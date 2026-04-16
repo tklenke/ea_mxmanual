@@ -1,0 +1,42 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 10: FERROUS METALS
+
+6-167. EXAMPLE OF REMOVING
+CORROSION FROM FERROUS METALS. If possible, corroded steel parts should
+be removed from the aircraft. When impractical to remove the part, follow the procedure
+below.
+a. Prepare the area for rework.
+b. Positively identify the metal as steel
+and establish its heat-treated value.
+c. Clean the area and strip paint if required.
+NOTE: Use of acid-based strippers,
+chemical removers, or chemical conversion coatings are not permitted on
+steel parts without engineering
+authorization.
+d. Determine extent of corrosion damage.
+e. Remove residual corrosion by hand
+sanding with mild abrasive mats, cloths, and
+papers, such as fine aluminum oxide grit.
+f. Remove heavy deposits of corrosion
+products by approved mechanical methods for
+that particular form of steel and/or stainless
+steel.
+g. Inspect the area for remaining corrosion. Repeat procedure if any corrosion remains and the structural integrity of the part is
+not in danger, and the part meets the rework
+limits established by the manufacturer or FAA
+authorized DER.
+h. Fair depressions using a blend ratio
+of 20:1. Clean area using 240-grit paper.
+Smooth area with 300-grit paper and give final
+polish with 400-grit paper.
+i. Determine depth of faired depression
+to ensure that rework limits have not been exceeded.
+j. Clean reworked area with dry cleaning
+solvent. Do not use kerosene.
+k. Apply protective finish or specific organic finish as required.
+NOTE: Steel surfaces are highlyreactive immediately following corrosion removal; consequently, primer
+coats should be applied within 1 hour
+after sanding.
+l. Remove masking and protective coverings.
+6-168.6-178.
+[RESERVED.]
+SECTION 11. OTHER METALS AND ALLOYS

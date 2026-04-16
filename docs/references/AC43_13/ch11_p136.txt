@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 10: SERVICE LOOP HARNESSES (PLASTIC TIE STRIPS)
+
+11-136. SUPPORT. Only string ties or
+plastic cable straps in accordance with paragraph 11-158 should be used on service loop
+90°
+harnesses. A or “Y” type spot tie should
+be installed at the harness breakout point on
+the harness bundle. Ties should be installed
+on service loop harnesses at 4 to 6-inch intervals.

@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 18: CONDUITS
+
+11-251. CONDUIT INSTALLATION.
+Conduit problems can be avoided by following these guidelines:
+a. Do not locate conduit where passengers or maintenance personnel might use it as
+a handhold or footstep.
+b. Provide drainholes at the lowest point
+in a conduit run. Drilling burrs should be carefully removed.
+c. Support conduit to prevent chafing
+against structure and to avoid stressing its end
+fittings.

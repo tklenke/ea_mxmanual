@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 3: PRECAUTIONARY MEASURES
+
+4-37. LOAD FACTORS FOR REPAIRS.
+In order to design an effective repair to a sheet
+metal aircraft, the stresses that act on the
+structure must be understood.
+a. Six types of major stresses are known
+and should be considered when making repairs. These are tension, compression, bending, torsion, shear, and bearing
+b. The design of an aircraft repair is
+complicated by the requirement that it be as
+light as possible. If weight were not critical,
+repairs could be made with a large margin of
+safety. But in actual practice, repairs must be
+strong enough to carry all of the loads with the
+required factor of safety, but they must not
+have too much extra strength. A joint that is
+too weak cannot be tolerated, but neither can
+one that is too strong because it can create
+stress risers that may cause cracks in other locations.

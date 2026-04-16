@@ -1,0 +1,40 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-14. INSTRUMENT LANDING
+SYSTEMS (ILS). The ILS consist of several
+components, such as the localizer, glide slope,
+marker beacon, radio altimeter, and DME.
+Localizer and glide slope receivers and marker
+beacons will be discussed in this section.
+a. Localizer receiver operates on one of
+40 ILS channels within the frequency range of
+108.10 to 111.95 MHz (odd tens). These signals provide course guidance to the pilot to the
+runway centerline through the lateral displacement of the VOR/localizer (LOC) deviation indicator. The ground transmitter is
+sighted at the far end of the runway and provides a valid signal from a distance of 18 NM
+from the transmitter. The indication gives a
+full fly left/right deviation of 700 feet at the
+runway threshold. Identification of the transmitter is in International Morse Code and consists of a three letter identifier preceded by the
+Morse Code letter I (two dots). The localizer
+function is usually integral with the VOR system, and when maintenance is performed on
+the VOR unit, the localizer is also included.
+The accuracy of the system can be effectively
+evaluated through normal flight operations if
+evaluated during visual meteorological conditions. Any determination of airworthiness after reinstallation before instrument flight must
+be accomplished with ground test equipment.
+b. The glide slope receiver operates on
+one of 40 channels within the frequency range
+329.15 MHz, to 335.00 MHz. The glide slope
+transmitter is located between 750 feet and
+1250 feet from the approach end of the runway
+and offset 250 to 650 feet. In the absence of
+questionable performance, periodic functional
+flight checks of the glide slope system would
+be an acceptable way to ensure continued system performance. The functional flight test
+must be conducted under visual flight rules
+(VFR) conditions. A failed or misleading
+system must be serviced by an appropriatelyrated repair station. Ground test equipment
+can be used to verify glide slope operation.
+c. Localizer/Glide Slope (LOC/GS) may
+have self test function, otherwise the proper
+ground test equipment must be used. Refer to
+manufacturer’s or aircraft instruction manual.

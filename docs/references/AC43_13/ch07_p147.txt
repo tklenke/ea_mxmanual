@@ -1,0 +1,32 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-147. REPLACEMENT OF CABLES.
+Replace control cables when they become
+worn, distorted, corroded, or otherwise damaged. If spare cables are not available, prepare
+exact duplicates of the damaged cable. Use
+materials of the same size and quality as the
+original. Standard swaged cable terminals develop the full cable strength and may be substituted for the original terminals wherever
+practical. However, if facilities and supplies
+are limited and immediate corrective action is
+necessary, repairs may be made by using cable
+bushings, eye splices, and the proper combination of turnbuckles in place of the original installation. (See figure 7-12(c).)
+a. Location of Splices. Locate splices so
+that no portion of the splice comes closer than
+2 inches to any fair-lead or pulley. Locate
+connections at points where jamming cannot
+occur during any portion of the travel of either
+the loaded cable or the slack cable in the deflected position.
+b. Cutting and Heating. Cut cables to
+length by mechanical means. The use of a
+torch, in any manner, is not permitted. Do not
+subject wires and cables to excessive temperature. Soldering the bonding braid to the
+control cable is not permitted.
+c. Ball-and-Socket Type Terminals. Do
+not use ball-and-socket type terminals or other
+types for general replacement that do not positively prevent cable untwisting, except where
+they were utilized on the original installation
+by the aircraft manufacturer.
+d. Substitution of Cable. Substitution of
+cable for hard or streamlined wires will not be
+acceptable unless specifically approved by a
+representative of the FAA.

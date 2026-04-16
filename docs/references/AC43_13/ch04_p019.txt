@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 2: TESTING OF METALS
+
+4-19. VICKERS HARDNESS TEST. In
+this test, a small pyramidal diamond is pressed
+into the metal being tested. The Vickers Hardness number (HV) is the ratio of the load applied to the surface area of the indention. This
+is done with the following formula.
+=
+2
+HV P / 0.5393d
+a. The indenter is made of diamond, and
+is in the form of a square-based pyramid having an angle of 136 degrees between faces.
+The facets are highly-polished, free from surface imperfections, and the point is sharp. The
+loads applied vary from 1 to 120 kg; the standard loads are 5, 10, 20, 30, 50, 100, and
+120 kg. For most hardness testing, 50 kg is
+maximum.
+b. A Vickers hardness tester should be
+calibrated to meet ASTM standard E10 specifications, acceptable for use over a loading
+range.

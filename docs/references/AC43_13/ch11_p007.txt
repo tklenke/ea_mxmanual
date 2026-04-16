@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 1: INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+
+11-7. INSULATION OF ELECTRICAL
+EQUIPMENT. In some cases, electrical
+equipment is connected into a heavy current
+circuit, perhaps as a control device or relay.
+Such equipment is normally insulated from the
+mounting structure since grounding the frame
+of the equipment may result in a serious
+ground fault in the event of equipment internal
+failure. Stranded 18 or 20 AWG wire should
+be used as a grounding strap to avoid shock
+hazard to equipment and personnel. If the end
+connection is used for shock hazard, the
+ground wire must be large enough to carry the
+highest possible current (0.1 to 0.2 ohms
+max.).

@@ -1,0 +1,39 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 10: SAFETY METHODS FOR TURNBUCKLES
+
+7-180. DOUBLE-WRAP METHOD. Of
+the methods using safety wire for safetying
+turnbuckles, the method described here is preferred, although either of the other methods
+described is satisfactory. The method of double-wrap safetying is shown in figure 7-26(A).
+a. Use two separate lengths of wire. Run
+one end of the wire through the hole in the barrel of the turnbuckle and bend the ends of the
+wire toward opposite ends of the turnbuckle.
+b. Pass the second length of the wire into
+the hole in the barrel and bend the ends along
+the barrel on the side opposite the first. Spiral
+the two wires in opposite directions around the
+barrel to cross each other twice between the
+center hole and the ends.
+c. Then pass the wires at the end of the
+turnbuckle in opposite directions through the
+hole in the turnbuckle eyes or between the
+jaws of the turnbuckle fork, as applicable,
+laying one wire along the barrel and wrapping
+the other at least four times around the shank
+of the turnbuckle and binding the laid wires in
+place before cutting the wrapped wire off.
+d. Wrap the remaining length of safety
+wire at least four turns around the shank and
+cut it off. Repeat the procedure at the opposite
+end of the turnbuckle.
+e. When a swaged terminal is being
+safetied, pass the ends of both wires through
+the hole provided in the terminal for this purpose and wrap both ends around the shank as
+previously described. If the hole is not large
+enough to allow passage of both wires, pass
+the wire through the hole and loop it over the
+free end of the other wire, and then wrap both
+ends around the shank as previously described.
+Another satisfactory double-wrap method is
+similar to the previous method, except that the
+spiraling of the wires is omitted as shown in
+figure 7-26(B).

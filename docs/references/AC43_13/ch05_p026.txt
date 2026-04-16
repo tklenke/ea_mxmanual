@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 3: EDDY CURRENT INSPECTION
+
+5-26. EDDY CURRENT COILS AND
+PROBES. A wide variety of eddy current
+coils and probes is available. Coils and probes
+are not always interchangeable between various types of instruments and, for best results,
+should be matched to a specific instrument and
+frequency range. Special probe holders can be
+fabricated to facilitate eddy current inspection
+of contoured or shaped parts including part
+edges.

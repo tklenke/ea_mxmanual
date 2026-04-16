@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 14: TERMINAL REPAIRS
+
+11-179. LOCK WASHERS FOR TERMINALS ON EQUIPMENT. Where locknuts
+are used to ensure binding and locking of
+electrical terminals, they should be of the all
+metal type. In addition, a spring lock washer
+of suitable thickness may be installed under
+the nut to ensure good contact pressure. A
+plain washer should be used between the
+spring washer and the terminal to prevent
+galling. A plain nut with a spring lock washer
+and a plain washer may be used to provide
+binding and contact pressure.
+11-180.11-184.
+[RESERVED.]
+SECTION 15. GROUNDING AND BONDING

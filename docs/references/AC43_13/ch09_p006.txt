@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-6. EMERGENCY SYSTEMS. Exercise
+emergency landing gear systems periodically
+to ensure proper operation and to prevent inactivity, dirt, and corrosion from rendering the
+system inoperative when needed. Most emergency systems employ either mechanical, pressure-bottle, or free-fall extension capabilities.
+Check for the proper safeties on triggering
+mechanisms, and for the presence of required
+placards, and necessary accessories such as
+cranks, levers, handles, etc. Emergency blowdown bottles should be checked for corrosion
+damage, and then weighed to see if the bottle
+is still retaining the charge.

@@ -1,0 +1,5 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 4: INSPECTION OF CIRCUIT-PROTECTION DEVICES
+
+11-52. CIRCUIT BREAKER MAINTENANCE. Circuit breakers should be periodically cycled with no load to enhance contact
+performance by cleaning contaminants from
+the contact surfaces.

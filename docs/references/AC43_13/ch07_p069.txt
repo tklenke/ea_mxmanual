@@ -1,0 +1,6 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 4: NUTS
+
+7-69. LIGHT HEX NUTS (AN340 AND
+AN345). These nuts are used in nonstructural
+applications requiring light tension. Like the
+AN315 and AN335, they require a locking device to secure them.

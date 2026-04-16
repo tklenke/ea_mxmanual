@@ -1,0 +1,104 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 14: TERMINAL REPAIRS
+
+11-174. GENERAL. Terminals are attached
+to the ends of electrical wires to facilitate connection of the wires to terminal strips or items
+of equipment. The tensile strength of the wireto-terminal joint should be at least equivalent
+to the tensile strength of the wire itself, and its
+resistance negligible relative to the normal resistance of the wire.
+a. Selection of Wire Terminals. The
+following should be considered in the selection
+of wire terminals.
+(1) Current rating.
+(2) Wire size (gauge) and insulation
+diameter.
+(3) Conductor material compatibility.
+(4) Stud size.
+(5) Insulation material compatibility.
+(6) Application environment.
+(7) Solder/solderless.
+Pre-insulated crimp-type ring-tongue terminals
+are preferred. The strength, size, and supporting means of studs and binding posts, as well
+as the wire size, should be considered when
+determining the number of terminals to be attached to any one post. In high-temperature
+applications, the terminal temperature rating
+must be greater than the ambient temperature
+plus current related temperature rise. Use of
+nickel-plated terminals and of uninsulated terminals with high-temperature insulating
+sleeves should be considered. Terminal blocks
+should be provided with adequate electrical
+clearance or insulation strips between mounting hardware and conductive parts.
+b. Terminal Strips. Wires are usually
+joined at terminal strips. A terminal strip fitted with barriers should be used to prevent the
+terminals on adjacent studs from contacting
+each other. Studs should be anchored against
+rotation. When more than four terminals are to
+be connected together, a small metal bus
+should be mounted across two or more adjacent studs. In all cases, the current should be
+carried by the terminal contact surfaces and not
+by the stud itself. Defective studs should be
+replaced with studs of the same size and material since terminal strip studs of the smaller
+sizes may shear due to overtightening the nut.
+The replacement stud should be securely
+mounted in the terminal strip and the terminal
+securing nut should be tight. Terminal strips
+should be mounted in such a manner that loose
+metallic objects cannot fall across the terminals or studs. It is good practice to provide at
+least one spare stud for future circuit expansion or in case a stud is broken. Terminal strips
+that provide connection of radio and electronic
+systems to the aircraft electrical system should
+be inspected for loose connections, metallic
+objects that may have fallen across the terminal strip, dirt and grease accumulation, etc.
+These type conditions can cause arcing which
+may result in a fire, or system failures.
+c. Terminal Lugs. Wire terminal lugs
+should be used to connect wiring to terminal
+block studs or equipment terminal studs. No
+more than four terminal lugs or three terminal
+lugs and a bus bar should be connected to any
+one stud. Total number of terminal lugs per
+stud includes a common bus bar joining adjacent studs. Four terminal lugs plus a common
+bus bar thus are not permitted on one stud.
+Terminal lugs should be selected with a stud
+hole diameter that matches the diameter of the
+stud. However, when the terminal lugs attached to a stud vary in diameter, the greatest
+diameter should be placed on the bottom and
+the smallest diameter on top. Tightening terminal connections should not deform the terminal lugs or the studs. Terminal lugs should
+be so positioned that bending of the terminal
+lug is not required to remove the fastening
+screw or nut, and movement of the terminal
+lugs will tend to tighten the connection.
+d. Copper Terminal Lugs. Solderless
+crimp style, copper wire, terminal lugs should
+be used and conform to MIL-T-7928. Spacers
+or washers should not be used between the
+tongues of terminal lugs.
+e. Aluminum Terminal Lugs. The aluminum terminal lugs conforming to
+MIL-T-7099 (MS-25435, MS-25436,
+MS-25437, and MS-25438) should be crimped
+to aluminum wire only. The tongue of the
+aluminum terminal lugs or the total number of
+tongues of aluminum terminal lugs when
+stacked, should be sandwiched between two
+MS-25440 flat washers when terminated on
+terminal studs. Spacers or washers should not
+be used between the tongues of terminal lugs.
+Special attention should be given to aluminum
+wire and cable installations to guard against
+conditions that would result in excessive voltage drop and high resistance at junctions that
+may ultimately lead to failure of the junction.
+Examples of such conditions are improper installation of terminals and washers, improper
+torsion (“torquing” of nuts), and inadequate
+terminal contact areas.
+f. Class 2 Terminal Lugs. The Class 2
+terminal lugs conforming to MIL-T-7928 may
+be used for installation, provided that in such
+installations, Class 1 terminal lugs are adequate for replacement without rework of installation or terminal lugs. Class 2 terminal
+lugs should be the insulated type, unless the
+°C.
+conductor temperature exceeds 105 In that
+case uninsulated terminal lugs should be used.
+Parts’ lists should indicate the appropriate
+Class 1 terminal lugs to be used for service replacement of any Class 2 terminal lugs installed.
+g. Termination of Shielded Wire. For
+termination of shielded wire refer to
+MIL-DTL-27500.

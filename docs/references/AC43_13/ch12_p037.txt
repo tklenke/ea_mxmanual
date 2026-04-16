@@ -1,0 +1,129 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 3: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT
+
+12-37. COMPASS SWING must be performed whenever any ferrous component of
+the system (i.e. flux valve compensator, or
+Standby Compass) is installed, removed, repaired, or a new compass is installed. The
+magnetic compass can be checked for accuracy
+by using a compass rose located on an airport.
+The compass swing is normally effected by
+placing the aircraft on various magnetic headings and comparing the deviations with those
+on the deviation cards. Refer to CFR14,
+23.1327, 14 CFR 23.1547, and the equipment
+or aircraft manufacturer's manual.
+a. A compass swing must be performed on
+the following occasions:
+(1) When the accuracy of the compass
+is suspected.
+(2) After any cockpit modification or
+major replacement involving ferrous metal.
+(3) Whenever a compass has been subjected to a shock; for example, after a hard
+landing or turbulence.
+(4) After aircraft has passed through a
+severe electrical storm.
+(5) After lighting strike.
+(6) Whenever a change is made to the
+electrical system.
+(7) Whenever a change of cargo is
+likely to affect the compass.
+(8) When an aircraft operation is
+changed to a different geographic location with
+a major change in magnetic deviation. (e.g.,
+from Miami, Florida to Fairbanks, Alaska.)
+CHECKS FOR AVIONICS EQUIPMENT
+(9) After aircraft has been parked on
+one heading for over a year.
+(10) When flux valves are replaced.
+b. Precautions.
+(1) The magnetic compass must be
+checked for accuracy in a location free of steel
+structures, underground pipes or cables, or
+equipment that produces magnetic fields.
+(2) Personnel engaged in the compensation of the compass shall remove all magnetic or ferrous material from their possession.
+(3) Use only nonmagnetic tools when
+adjusting the compass.
+(4) Position the aircraft at least 100
+yards from any metal object.
+(5) All equipment in the aircraft having
+any magnetic effect on the compass must be
+secured in the position occupied in normal
+flight.
+c. Compass Swing Procedures.
+(1) Have the aircraft taxied to the
+(0°)
+NORTH radial on the Compass Rose. Use
+a hairline sight compass (a reverse reading
+compass with a gun sight arrangement
+mounted on top of it) to place the aircraft in
+the general vicinity. With the aircraft facing
+North and the person in the cockpit running
+the engine(s) at 1000 rpm, a mechanic, standing approximately 30 feet in front of the aircraft and facing South, “shoots” or aligns the
+master compass with the aircraft center line.
+Using hand signals, the mechanic signals the
+person in the cockpit to make additional adjustments to align the aircraft with the master
+compass. Once aligned on the heading, the
+person in the cockpit runs the engine(s) to approximately 1,700 rpm to duplicate the aircraft’s magnetic field and then the person reads
+the compass.
+NOTE: (1) For conventional gear aircraft, the mechanic will have to position the magnetic compass in the
+straight and level position or mount
+the tail of the aircraft on a moveable
+dolly to simulate a straight and level
+cruise configuration. (2) Remember
+the hairline sight compass is only intended to be used as a general piece of
+test equipment.
+(2) If the aircraft compass is not in
+alignment with the magnetic North of the
+master compass, correct the error by making
+small adjustments to the North-South brass
+adjustment screw with a nonmetallic screw
+driver (made out of brass stock, or stainless
+steel welding rod). Adjust the N-S compen(0°).
+sator screw until the compass reads North
+Turn the aircraft until it is aligned with the
+East-West, pointing East. Adjust the E-W
+90°.
+compensator screw until it reads Con180°
+tinue by turning the aircraft South and
+adjust the N-S screw to remove one-half of the
+South’s heading error. This will throw the
+North off, but the total North-South should be
+divided equally between the two headings.
+270°,
+Turn the aircraft until it is heading West
+and adjust the E-W screw on the compensator
+to remove one-half of the West error. This
+should divide equally the total E-W error. The
+engine(s) should be running.
+(3) With the aircraft heading West, start
+your calibration card here and record the mag270°
+netic heading of and the compass reading
+with the avionics/electrical systems on then
+off. Turn the aircraft to align with each of the
+lines on the compass rose and record the com
+30°.
+pass reading every There should be not
+10°
+more than a plus or minus difference between any of the compass’ heading and the
+magnetic heading of the aircraft.
+(4) If the compass cannot be adjusted to
+meet the requirements, install another one.
+NOTE: A common error that affects
+the compass’ accuracy is the mounting
+of a compass or instruments on or in
+the instrument panel using steel machine screws/nuts rather than brass
+hardware, magnetized control yoke,
+structural tubing, and improperly
+routed electrical wiring, which can
+cause unreasonable compass error.
+(5) If the aircraft has an electrical system, two complete compass checks should be
+performed, one with minimum electrical
+equipment operating and the other with all
+electrical accessories on (e.g. radios, navigation, radar, and lights). If the compass readings are not identical, the mechanic should
+make up two separate compass correction
+cards, one with all the equipment on and one
+with the equipment off.
+(6) When the compass is satisfactorily
+swung, fill out the calibration card properly
+and put it in the holder in full view for the pilot’s reference.
+d. Standby (wet) Compass. Adjustment
+and compensation of the Standby Compass
+may also be accomplished by using the “compass swing” method.

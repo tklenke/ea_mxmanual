@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-45.
+INTERNAL WRENCHING BOLTS
+(NAS144 THROUGH NAS158 AND NAS172
+THROUGH NAS176). These are highstrength bolts used primarily in tension applications. Use a special heat-treated washer
+(NAS143C) under the head to prevent the
+large radius of the shank from contacting only
+the sharp edge of the hole. Use a special heattreated washer (NAS143) under the nut.

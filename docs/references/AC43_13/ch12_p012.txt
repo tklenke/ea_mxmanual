@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-12. DISTANCE MEASURING EQUIPMENT (DME). The operation of DME consists of paired pulses at a specific spacing, sent
+out from the aircraft (this is what is called interrogation), and are received by the ground
+station, which then responds with paired pulses
+at the specific spacing sent by the aircraft, but
+at a different frequency. The aircraft unit
+measures the time it takes to transmit and then
+receive the signal, which then is translated into
+distance. DME operates on frequencies from
+962 MHz to 1213 MHz. Because of the curvature of earth, this line-of-sight signal is reliable up to 199 nautical mile (NM) at the high
+end of the controlled airspace with an accuracy
+of 1/2 mile or 3 percent of the distance. DME
+inspection/maintenance on the aircraft is most
+commonly limited to a visual check of the installation, and if there have been previously
+reported problems, the antenna must be inspected for proper bonding and the absence of
+corrosion, both on the mounting surface, as
+well as the coax connector. Accuracy can be
+determined by evaluating performance during
+flight operations, as well as with ground test
+equipment. If a discrepancy is reported and
+corrected, it is good practice to make the accuracy determination before instrument flight.
+Tune the DME to a local station, or use the
+proper ground test equipment to check audio
+identification, and DME hold function verify
+correct display operation.

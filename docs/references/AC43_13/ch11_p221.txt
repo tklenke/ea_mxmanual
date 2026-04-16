@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-221. TEMPORARY WIRE AND
+CABLE MARKING PROCEDURE. A
+temporary wire marking procedure follows
+but should be used only with caution and with
+plans for future permanence. (See figure 11-32.)
+[FIG 11-32] Temporary wire identification marker.
+a. With a pen or a typewriter, write
+wire number on good quality white split insulation sleeve.
+b. Trim excess white insulation sleeve,
+leaving just enough for one wrap around wire
+to be marked, with number fully visible.
+c. Position marked white insulation
+sleeve on wire so that shielding, ties, clamps,
+or supporting devices need not be removed to
+read the number.
+d. Obtain clear plastic sleeve that is
+long enough to extend 1/4 inch past white insulation sleeve marker edges and wide enough
+to overlap itself when wrapped around white
+insulation and wire.
+e. Slit clear sleeve lengthwise and place
+around marker and wire.
+f. Secure each end of clear sleeve with
+lacing tape spot tie to prevent loosening of
+sleeve.

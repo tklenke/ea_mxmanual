@@ -1,0 +1,7 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-104. CIRCUIT BREAKERS. Note
+those circuit breakers which have a tendency to
+open circuits frequently, require resetting more
+than normal, or are subject to nuisance tripping. Before considering their replacement,
+investigate the reason.

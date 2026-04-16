@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-20. TRANSPONDERS. There are three
+modes (types) of transponders that can be used
+on various aircraft. Mode A provides a
+(non altitude-reporting) four-digit coded reply;
+Mode C provides a code reply identical to
+Mode A with an altitude-reporting signal; and
+Mode S has the same capabilities as Mode A
+and Mode C and responds to traffic alert and
+collision avoidance system (TCAS)-Equipped
+Aircraft.
+a. Ground ramp equipment must be
+used to demonstrate proper operation. Enough
+codes must be selected so that each switchposition is checked at least once. Low and high
+sensitivity operation must be checked. Identification operation must be checked. Altitude
+reporting mode must be demonstrated. Demonstrate that the transponder system does not
+interfere with other systems aboard the aircraft,
+and that other equipment does not interfere
+with transponder operation. Special consideration must be given to other pulse equipment, such as DME and weather radar.
+b. All transponders must be tested every
+24-calendar months, or during an annual inspection, if requested by the owner. The test
+must be conducted by an authorized avionics
+repair facility.

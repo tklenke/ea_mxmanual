@@ -1,0 +1,177 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 3: INSPECTION
+
+1-29. INSPECTION METHODS. Whenever possible, the aircraft should be kept in a
+dry, well-ventilated hangar, with all inspection
+covers, access panels, etc., removed for as long
+as possible before final inspection. The aircraft should be given a preliminary inspection
+when first removing the inspection covers and
+access panels and inspected with a moisture
+meter at this time. If the moisture content is
+high, the aircraft should be thoroughly dried.
+If the aircraft is dry, this will facilitate later inspection, especially when determining the
+condition of bonded joints.
+a. Likely locations for wood structure
+deterioration should be given special attention.
+Most damage is caused by external influence
+such as moisture, temperature extremes, or
+sunlight. Care should be taken to note all possible entry points for moisture, (i.e., cracks or
+breaks in the finish, fastener holes, inspection/access openings, control system openings,
+drain holes, and the interfaces of metal fittings
+and the wood structure). The mechanic should
+also look for evidence of swelling or warpage
+of the aircraft’s wood structure, which would
+indicate underlying damage or decay. Particular attention should be paid to the wood
+structure immediately beneath the upper surfaces, especially under areas that are finished
+in dark colors, for signs of deteriorating adhesives. Cracks in wood spars are often hidden
+under metal fittings or metal rib flanges and
+leading edge skins. Any time a reinforcement
+plate exists that is not feathered out on its
+ends, a stress riser exists at the ends of the
+plate. A failure of the primary structure can be
+expected to occur at this point.
+b. Tapping the wood structure with a
+light plastic hammer or screwdriver handle
+should produce a sharp solid report. If the
+suspect area sounds hollow and soft, further
+inspection is warranted by the following methods.
+c. Probe the area in question, if accessible, with a sharp metal tool. The wood structure should be solid and firm. If the suspect
+area feels soft and mushy the mechanic should
+assume that the area is rotted. Disassembly of
+the structure is warranted at this point.
+d. Prying the area of a bond joint will reveal any mechanical separation of the joint. If
+the mechanic detects any relative movement
+between two adjacent wood members, a failure
+of the bond is evident. Any loose fittings
+should arouse the mechanic’s suspicion, and
+the fittings should be removed to check for
+elongated bolt holes. Disassembly is warranted for further inspection.
+e. Odor is an important indicator of possible deterioration. During the initial inspection, as the access panels are being removed
+from the structure, the mechanic should be
+aware of any areas that smell musty or moldy.
+These odors are indicative of the presence of
+moisture and associated fungal growth and
+decay.
+f. Visual inspection requires looking at
+the wood structure both externally and internally for visual signs of decay or physical
+damage. Any accumulations of dirt, bird nests,
+or rodent nests are likely places to hold moisture and promote decay.
+(1) The mechanic should remove any
+such accumulations that are found and inspect
+the area for signs of decay. Decay will appear
+as a dark discoloration or gray stains running
+along the grain and often a swelling of the
+wood member if still wet. Fittings will be
+imbedded in the wood instead of flush.
+(2) Highly suspected structurally damaged areas are shown in figure 1-3. A list of
+most likely areas to incur structural damage include the following:
+(a) Check front and rear spars for
+compression cracks adjacent to the plywood
+reinforcing plates, where the lift struts attach,
+and at the rib attach points on either side of the
+strut attach points. Triple-check these areas
+and the spar to fuselage attach points for
+cracks if the wingtip has contacted the ground,
+a hangar wall, etc.
+(b) Check all metal fittings which
+attach to wooden structure for looseness, corrosion, cracks, or warps. Areas of particular
+interest are strut attach fittings, spar butt fittings, aileron and flap hinges, jury strut fittings, compression struts, pulley brackets, and
+any landing gear fittings.
+(c) Check front and rear spars for
+longitudinal cracks at the ends of the plywood
+reinforcement plates where the lift struts attach. Triple-check this area if the wing has encountered any kind of ground strike.
+(d) Check ribs on either side of strut
+attach points for missing or loose rib-to-spar
+attach nails.
+(e) Check ribs on either side of strut
+attach points for cracks where the cap strips
+pass over and under the spars.
+(f) Check for cracked leading edge
+skin and/or failed nose ribs in the area directly
+in front of the jury strut.
+(g) Check the brackets which attach
+the struts to the spars for cracks.
+(h) Check the aileron, flap hinge, and
+hinge brackets for cracks and loose or missing
+rivets.
+(i) Check all exposed end grain
+wood, particularly the spar butts, for cracking
+or checking. Checking, or splitting, of wood
+spar butts is common on aircraft based in arid
+areas.
+[FIG 1-3] Likely areas to incur structural damage.
+(j) Also check for any cracks that indicate a bond line failure or structural failure
+of the wood member. Any evidence of movement of fittings, bushings, or fasteners should
+be cause for concern, and further inspection is
+warranted. Splits in fabric covering the plywood, especially on upper surfaces exposed to
+ultraviolet light and water, dictate that the mechanic remove the fabric around the split so
+the underlying plywood may be inspected for
+physical damage or decay. When removing
+metal fasteners from wood, check for evidence
+of corrosion. Any corrosion present indicates
+the presence of moisture and the strong probability of decay in the adjoining wood
+structure.
+(k) Any wooden member that has
+been overstressed is subject to compression
+failure (e.g., ground loop). Compression
+cracking and failure of the wood spars in certain aircraft are a continuing problem. Compression failures are defined as failure of wood
+fibers on a plane perpendicular to the wood fiber’s longitudinal axis. If undetected, compression failures may result in structural failure
+of the wing during flight. Compression cracks
+have been found emanating from the upper
+surfaces of the wing spars and progressing
+downward.
+(l) The usual locations for cracks
+have been the front spar at both ends of the
+reinforcement plate for the lift strut and the
+front spar rib attach points, both inboard and
+outboard of the spar reinforcement plate; and
+the rear spar lift strut and rib attach points. An
+inspection of both the front and rear spars for
+compression cracks is recommended.
+(m) The two areas where it is possible to identify a compression crack are on the
+face and top surface of the spar. Using a
+borescope through existing inspection holes is
+one method of inspection. An alternate
+method is to cut inspection holes in the skin.
+If inspection holes are cut, they should be
+made on the aft side of the front spar and the
+forward side of the rear spar. This will allow
+the fabric to be peeled away from the spar.
+Longitudinal cracks may also be detected during this inspection. Loose or missing rib nails
+may indicate further damage and should be
+thoroughly investigated. The mechanic may
+shine a light, at a low angle and parallel with
+the grain, in the area of the member
+subjected to the compression load. An area of
+grain waviness would indicate a potential
+compression failure. In all cases the manufacturer’s inspection data should be followed.
+g. Moisture Meters are effective tools for
+detection of excessive moisture content in
+wood members. An instrument such as this
+allows the mechanic to insert a probe into the
+wood member and read its moisture content directly off the meter. A correction chart usually
+accompanies the instrument to correct for temperature and species of wood. Any reading
+over 20 percent indicates the probability of
+fungus growth in the member. Moisture content of the wood should be 8-16 percent, preferably in the 10-12 percent range (this range is
+during inspection). Where plywood skin covers the spar and the spar would be inaccessible
+without removing the skin, the moisture meter
+probe can be inserted through the plywood
+skin and into the spar to check the moisture
+content of the spar. The small holes made by
+the probe are easily sealed.
+h. Destructive testing of sample bonded
+joints whenever a new bond joint is made, a
+sample joint should be made with the adhesive
+from the same batch used on the repair and
+scraps of wood left over from the repair. After
+curing, the sample joint should be destructively tested to ensure proper bonding of the
+two wood pieces. Any failure in the bond line
+indicates a cohesive failure of the adhesive.
+Any failure along the bond line indicates an
+adhesive failure, which is indicative of poor
+bonding. The ideal situation is when wood fibers are observed on both sides of the fracture
+surface. This indicates a failure in the wood,
+and indicates the bond joint is actually stronger
+than the wood.
+1-30.1-35.
+[RESERVED.]
+SECTION 4. REPAIRS

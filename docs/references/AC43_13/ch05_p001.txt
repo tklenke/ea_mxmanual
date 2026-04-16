@@ -1,0 +1,27 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 1: GENERAL
+
+5-1. GENERAL. The field of NDI is too
+varied to be covered in detail in this Advisory
+Circular (AC). This chapter provides a brief
+description of the various Nondestructive
+Testing (NDT) used for inspection of aircraft,
+powerplant, and components in aircraft inspection. The effectiveness of any particular
+method of NDI depends upon the skill, experience, and training of the person(s) performing
+the inspection process. Each process is limited
+in its usefulness by its adaptability to the particular component to be inspected. Consult the
+aircraft or product manufacturer’s manuals for
+specific instructions regarding NDI of their
+products. (Reference AC 43-3, Nondestructive
+Testing in Aircraft, for additional information
+on NDI.
+The product manufacturer or the Federal
+Aviation Administration (FAA) generally
+specifies the particular NDI method and procedure to be used in inspection. These NDI
+requirements will be specified in the manufacturer’s inspection, maintenance, or overhaul
+manual; FAA Airworthiness Directives (AD);
+Supplemental Structural Inspection Documents
+(SSID); or manufacturer’s service bulletins
+(SB). However, in some conditions an alternate NDI method and procedure can be used.
+This includes procedures and data developed
+by FAA certificated repair stations under Title 14 of the Code of Federal Regulations,
+(14 CFR), part 145.

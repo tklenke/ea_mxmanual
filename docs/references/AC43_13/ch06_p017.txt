@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-17. INTERGRANULAR CORROSION.
+Inter-granular corrosion is an attack on the
+grain boundaries of a metal. A highly magnified cross section of any commercial alloy
+shows the granular structure of the metal. It
+consists of quantities of individual grains, and
+each of these tiny grains has a clearly
+[FIG 6-7] Active-passive cell.
+[FIG 6-8] Filiform corrosion.
+defined boundary which chemically differs
+from the metal within the grain. The grain
+boundary and the grain center can react with
+each other as anode and cathode when in contact with an electrolyte. (See figure 6-9.)
+Rapid selective corrosion of the grain boundaries can occur. High-strength aluminum alloys
+such as 2014 and 7075 are more susceptible to
+inter-granular corrosion if they have been improperly heat-treated and then exposed to a
+corrosive environment.

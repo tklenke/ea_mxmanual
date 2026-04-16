@@ -1,0 +1,30 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 2: STORAGE BATTERIES
+
+11-20. ELECTROLYTE SPILLAGE.
+Spillage or leakage of electrolyte may result in
+serious corrosion of the nearby structure or
+control elements as both sulfuric acid and potassium hydroxide are actively corrosive.
+Electrolyte may be spilled during ground
+servicing, leaked when cell case rupture occurs, or sprayed from cell vents due to excessive charging rates. If the battery is not case
+enclosed, properly treat structural parts near
+the battery that may be affected by acid fumes.
+Treat all case and drain surfaces, that have
+been affected by electrolyte, with a solution of
+sodium bicarbonate (for acid electrolyte) or
+boric acid, vinegar, or a 3 percent solution of
+acetic acid (for potassium hydroxide
+electrolyte).
+CAUTION: Serious burns will result
+if the electrolyte comes in contact with
+any part of the body. Use rubber
+gloves, rubber apron, and protective
+goggles when handling electrolyte. If
+sulfuric acid is splashed on the body,
+neutralize with a solution of baking
+soda and water, and shower or flush
+the affected area with water. For the
+eyes, use an eye fountain and flush
+with an abundance of water. If potassium hydroxide contacts the skin, neutralize with 9 percent acetic acid,
+vinegar, or lemon juice and wash with
+water. For the eyes, wash with a weak
+solution of boric acid or a weak solution of vinegar and flush with water.

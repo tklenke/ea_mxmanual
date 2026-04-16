@@ -1,0 +1,48 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 6: AIRCRAFT ELECTRICAL WIRE SELECTION
+
+11-76. GENERAL. Aircraft service imposes severe environmental condition on electrical wire. To ensure satisfactory service, inspect wire annually for abrasions, defective insulation, condition of terminations, and potential corrosion. Grounding connections for
+power, distribution equipment, and electromagnetic shielding must be given particular
+attention to ensure that electrical bonding resistance has not been significantly increased by
+the loosening of connections or corrosion.
+a. Wire Size. Wires must have sufficient
+mechanical strength to allow for service conditions. Do not exceed allowable voltage drop
+levels. Ensure that the wires are protected by
+system circuit protection devices, and that they
+meet circuit current carrying requirements. If
+it is desirable to use wire sizes smaller
+than #20, particular attention should be given
+to the mechanical strength and installation
+handling of these wires, e.g. vibration, flexing,
+and termination. When used in interconnecting airframe application, #24 gauge wire must
+be made of high strength alloy.
+b. Installation Precautions for Small
+Wires. As a general practice, wires smaller
+than size #20 must be provided with additional
+clamps, grouped with at least three other wires,
+and have additional support at terminations,
+such as connector grommets, strain-relief
+clamps, shrinkable sleeving, or telescoping
+bushings. They should not be used in applications where they will be subjected to excessive
+vibration, repeated bending, or frequent disconnection from screw terminations.
+c. Identification. All wire used on aircraft must have its type identification imprinted along its length. It is common practice
+to follow this part number with the five
+digit/letter Commercial and Government Entity (C.A.G.E). code identifying the wire
+manufacturer. Existing installed wire that
+needs replacement can thereby be identified as
+to its performance capabilities, and the inadvertent use of a lower performance and unsuitable replacement wire avoided.
+(1) In addition to the type identification
+imprinted by the original wire manufacturer,
+aircraft wire also contains its unique circuit
+identification coding that is put on at the time
+of harness assembly. The traditional “Hot
+Stamp” method has not been totally satisfactory in recent years when used on modern, ultra-thin-walled installations. Fracture of the
+insulation wall and penetration to the conductor of these materials by the stamping dies
+have occurred. Later in service, when these
+openings have been wetted by various fluids,
+serious arcing and surface tracking have damaged wire bundles.
+(2) Extreme care must be taken during
+circuit identification by a hot stamp machine
+on wire with a 10 mil wall or thinner. Alternative identification methods, such as “Laser
+Printing” and “Ink Jet,” are coming into increasing use by the industry. When such modern equipment is not available, the use of
+stamped identification sleeving should be considered on thin-walled wire, especially when
+insulation wall thickness falls below 10 mils.

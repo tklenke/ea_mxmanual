@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-11. VHF OMNI-DIRECTIONAL
+RANGE (VOR). A VOR operates within the
+108.0 to 111.85 MHz, and 112.0 to 117.95
+MHz frequency bands. The display usually
+consists of a deviation indicator and a
+TO/FROM indicator. The controls consist of a
+frequency selector for selecting the ground
+station and an OBS, which is used for course
+selection. An ON/OFF flag is used to determine adequate field strength and presence of a
+valid signal. There are numerous configurations when integrated into flight directors
+and/or when using a slaved compass system,
+which uses an additional indicator that points
+continually to the selected omni station regardless of OBS selection. In order to determine the accuracy specified in a functional
+check, a ground test set must be used in accordance with the manufacturer’s specifications.
+For the purpose of this inspection/maintenance
+activity, the following operational check can
+be accomplished to determine if the equipment
+has the accuracy required for operation in instrument flight rules (IFR) environment. Verify audio identification, OBS operation, flag
+operation, radio magnetic indicator (RMI) interface, and applicable navigation (NAV)
+switching functions. The operational check is
+also published in the AIM, section 1-1-4. This
+check is required by 14 CFR part 91, section 91.171 before instrument flight operations.

@@ -1,0 +1,33 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 7: ULTRASONIC INSPECTION
+
+5-96. THICKNESS MEASUREMENTS.
+Ultrasonic inspection methods can be used for
+measurement of material thickness in aircraft
+parts and structures.
+a. Applications. Ultrasonic thickness
+measurements are used for many applications,
+such as: checking part thickness when access
+to the back side is not available; checking large
+panels in interior areas where a conventional
+micrometer cannot reach; and in maintenance
+inspections for checking thickness loss due to
+wear and/or corrosion.
+b. Pulse-Echo Method. The most commonly used ultrasonic thickness measurement
+method. The ultrasonic instrument measures
+time between the initial front and back surface
+signals or subsequent multiple back reflection
+signals. Since the velocity for a given material
+is a constant, the time between these signals is
+directly proportional to the thickness. Calibration procedures are used to obtain direct
+readout of test part thickness.
+c. Thickness Measurement Instrument
+Types. Pulse-echo instruments designed exclusively for thickness measurements are generally used in lieu of conventional pulse-echo
+instruments; however, some conventional
+pulse-echo instruments also have direct thickness measurement capabilities. Conventional
+pulse-echo instruments without direct thickness measuring capabilities can also be used
+for measuring thickness by using special procedures.
+d. Thickness Measurement Ranges.
+Dependent upon the instrument used and the
+material under test, material thickness
+from 0.005 inches to 20 inches (or more) can
+be measured with pulse-echo instruments designed specifically for thickness measuring.

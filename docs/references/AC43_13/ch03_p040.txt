@@ -1,0 +1,78 @@
+AC 43.13-1B  Chapter 3: FIBERGLASS AND PLASTICS  Section 4: WINDSHIELDS, ENCLOSURES, AND WINDOWS
+
+3-40. GENERAL. These repairs are applicable to plastic windshields, enclosures, and
+windows in nonpressurized airplanes. For
+pressurized airplanes, replace or repair plastic
+elements in accordance with the manufacturer’s recommendation. When windshields
+and side windows made of acrylic plastics are
+damaged, they are usually replaced unless the
+damage is minor and a repair would not be in
+the line of vision. Repairs usually require a
+great deal of labor. Replacement parts are
+readily available, so replacement is normally
+more economical than repair.
+a. Minor Repairs. There are times, however, when a windshield may be cracked and
+safety is not impaired. In that case, repairs can
+be made by stop-drilling the ends of the crack
+with a # 30 drill (1/8 inch) to prevent the concentration of stresses causing the crack to continue. Drill a series of number 40 holes a
+half-inch from the edge of the crack about a
+half-inch apart, and lace through these holes
+with brass safety wire (see figure 3-24) and
+seal with clear silicone to waterproof.
+b. Temporary Repairs. One way to
+make a temporary repair is to stop-drill the
+ends of the crack, and then drill number
+27 holes every inch or so in the crack. Use
+AN515-6 screws and AN365-632 nuts with
+AN960-6 washers on both sides of the plastic.
+This will hold the crack together and prevent
+further breakage until the windshield can be
+properly repaired or replaced. (See figure 3-24.)
+c. Permanent Repairs. Windshields or
+side windows with small cracks that affect
+only the appearance rather than the airworthiness of a sheet, may be repaired by first
+stop-drilling the ends of the crack with a
+# 30 or a 1/8-inch drill. Then use a hypodermic syringe and needle to fill the crack with
+AND WINDOWS
+polymerizable cement such as PS-30 or
+Weld-On 40, and allow capillary action to fill
+the crack completely. Soak the end of a
+1/8-inch acrylic rod in cement to form a cushion and insert it in the stop-drilled hole. Allow
+the repair to dry for about 30 minutes, and then
+trim the rod off flush with the sheet.
+d. Polishing and Finishing. Scratches
+and repair marks, within certain limitations,
+can be removed from acrylic plastic. No
+sanding that could adversely affect the plastic’s optical properties and distort the pilot’s
+vision should be done on any portion of a
+windshield.
+(1) If there are scratches or repair marks
+in an area that can be sanded, they may be removed by first sanding the area. Use 320- or
+400-grit abrasive paper that is wrapped around
+a felt or rubber pad.
+(2) Use circular rubbing motions, light
+pressure, and a mild liquid soap solution as a
+lubricant. After the sanding is complete, rinse
+the surface thoroughly with running water.
+Then, using a 500-grit paper, continue to sand
+lightly. Keep moving to higher grit paper and
+sand and rinse until all of the sanding or repair
+marks have been removed.
+(3) After using the finest abrasive paper, use rubbing compound and buff in a circular motion to remove all traces of the sanding.
+e. Cleaning. Acrylic windshields and
+windows may be cleaned by washing them
+with mild soap and running water. Rub the
+surface with your bare hands in a stream of
+water. Follow with the same procedure but
+with soap and water. After the soap and dirt
+have been flushed away, dry the surface with a
+soft, clean cloth or tissue and polish it with a
+[FIG 3-24] Temporary repairs to cracked windshields or windows.
+windshield cleaner especially approved for use
+on aircraft transparent plastics. These cleaners
+may be purchased through aircraft supply
+houses.
+f. Waxing. A thin coating of wax will fill
+any minute scratches that may be present and
+will cause rain to form droplets that are easily
+blown away by the wind.

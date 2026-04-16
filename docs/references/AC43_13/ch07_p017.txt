@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 2: SCREWS
+
+7-17. PANHEAD SCREWS (NAS600
+THROUGH NAS606, NAS610 THROUGH
+NAS616, NAS623, AND NAS1402
+THROUGH NAS1406). Flathead screws
+(MS35188 through MS35203), panhead machine screws (MS35024 through MS35219),
+and truss-head screws (AN526) are generalpurpose screws used where head height is not
+important.

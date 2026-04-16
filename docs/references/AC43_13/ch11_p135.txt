@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 10: SERVICE LOOP HARNESSES (PLASTIC TIE STRIPS)
+
+11-135. GENERAL. The primary function
+of a service loop harness is to provide ease of
+maintenance. The components, mounted in
+the instrument panel and on the lower console
+and other equipment that must be moved to
+access electrical connectors, are connected to
+aircraft wiring through service loops. Chafing
+in service loop harnesses is controlled using
+the following techniques.

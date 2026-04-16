@@ -1,0 +1,71 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-22. INSPECTION OF ELT. An inspection of the following must be accomplished by a properly certified person or repair
+station within 12-calendar months after the last
+inspection:
+a. Proper Installation.
+(1) Remove all interconnections to the
+ELT unit and ELT antenna. Visually inspect
+and confirm proper seating of all connector
+pins. Special attention should be given to coaxial center conductor pins, which are prone to
+retracting into the connector housing.
+(2) Remove the ELT from the mount
+and inspect the mounting hardware for proper
+installation and security.
+(3) Reinstall the ELT into its mount and
+verify the proper direction for crash activation.
+Reconnect all cables. They should have some
+slack at each end and should be properly secured to the airplane structure for support and
+protection.
+b. Battery Corrosion. Gain access to the
+ELT battery and inspect. No corrosion should
+be detectable. Verify the ELT battery is approved and check its expiration date.
+c. Operation of the Controls and Crash
+Sensor. Activate the ELT using an applied
+force. Consult the ELT manufacturer’s instructions before activation. The direction for
+mounting and force activation is indicated on
+the ELT. A TSO-C91 ELT can be activated by
+using a quick rap with the palm. A TSO-C91a
+ELT can be activated by using a rapid forward
+(throwing) motion coupled by a rapid reversing action. Verify that the ELT can be activated using a watt meter, the airplane’s VHF
+radio communications receiver tuned to
+121.5 MHz, or other means (see NOTE 1).
+Insure that the “G” switch has been reset if applicable.
+d. For a Sufficient Signal Radiated
+From its Antenna. Activate the ELT using
+the ON or ELT TEST switch. A low-quality
+AM broadcast radio receiver should be used to
+determine if energy is being transmitted from
+the antenna. When the antenna of the AM
+broadcast radio receiver (tuning dial on any
+setting) is held about 6 inches from the activated ELT antenna, the ELT aural tone will be
+heard (see NOTE 2 and 3).
+e. Verify that All Switches are Properly
+Labeled and Positioned.
+f. Record the Inspection. Record the inspection in the aircraft maintenance records
+according to 14 CFR part 43, section 43.9. We
+suggest the following:
+I inspected the Make/Model ______________
+ELT system in this aircraft according to applicable Aircraft and ELT manufacturer’s instructions and applicable FAA guidance and
+found that it meets the requirements of section 91.207(d).
+Signed: ______________________
+Certificate No. ______________________
+Date: ______________________
+NOTE 1: This is not a measured
+check; it only indicates that the
+G-switch is working.
+NOTE 2: This is not a measured
+check; but it does provide confidence
+that the antenna is radiating with sufficient power to aid search and rescue.
+The signal may be weak even if it is
+picked up by an aircraft VHF receiver
+located at a considerable distance
+from the radiating ELT. Therefore,
+this check does not check the integrity
+of the ELT system or provide the same
+level of confidence as does the AM radio check.
+NOTE 3: Because the ELT radiates
+on the emergency frequency, the Federal Communications Commission allows these tests only to be conducted
+within the first five minutes after any
+hour and is limited in three sweeps of
+the transmitter audio modulation.

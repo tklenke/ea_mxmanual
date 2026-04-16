@@ -1,0 +1,22 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-37. GRIP LENGTH. In general, bolt grip
+lengths of a fastener is the thickness of the
+material the fastener is designed to hold when
+two or more parts are being assembled. Bolts
+of slightly greater grip length may be used,
+provided washers are placed under the nut or
+bolthead. The maximum combined height of
+washers that should be used is 1/8 inch. This
+limits the use of washers necessary to compensate for grip, up to the next standard grip size.
+Over the years, some fasteners specifications
+have been changed. For this reason, it is recommended when making repairs to an aircraft,
+whose original hardware is being replaced, that
+you must first measure the bolt before ordering, rather than relying on the parts manual for
+[FIG 7-1] Typical aircraft bolt markings.
+identification. In the case of plate nuts, if
+proper bolt grip length is not available, add
+shims under the plate. All bolt installations
+which involve self-locking or plain nuts should
+have at least one thread of the bolt protruding
+through the nut.

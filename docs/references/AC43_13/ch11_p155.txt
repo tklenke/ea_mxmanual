@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 12: WIRE INSULATION AND LACING STRING TIE
+
+11-155. GENERAL. Insulation of wires
+should be appropriately chosen in accordance
+with the environmental characteristics of wire
+routing areas. Routing of wires with dissimilar
+insulation, within the same bundle, is not recommended, particularly when relative motion
+and abrasion between wires having dissimilar
+insulation can occur. Soft insulating tubing
+(spaghetti) cannot be considered as mechanical
+protection against external abrasion of wire;
+since at best, it provides only a delaying action. Conduit or ducting should be used when
+mechanical protection is needed.

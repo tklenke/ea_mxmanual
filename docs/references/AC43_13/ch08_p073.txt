@@ -1,0 +1,72 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 4: REPAIR OF METAL PROPELLERS
+
+8-73. ALUMINUM PROPELLER REPAIRS. Aluminum-alloy propellers and
+blades with dents, cuts, scars, scratches, nicks,
+leading-edge pitting, etc., may be repaired,
+provided the removal or treatment does not
+materially affect the strength, weight, or performance of the blade. Remove these damages
+or otherwise treat as explained below, unless it
+is contrary to the manufacturer’s instructions
+or recommendations. More than one injury is
+not sufficient cause alone for rejection of a
+blade. A reasonable number of repairs per
+blade may be made and not necessarily result
+in a dangerous condition, unless their location
+with respect to each other is such to form a
+continuous line of repairs that would materially weaken the blade. Suitable sandpaper or
+fine-cut files may be used for removing the
+necessary amount of metal. In each case, the
+area involved will be smoothly finished with
+#00 sandpaper or crocus cloth, and each blade
+from which any appreciable amount of metal
+has been removed will be properly balanced
+before it is used. Etch all repairs. To avoid
+removal of an excessive amount of metal, local
+etching should be accomplished at intervals
+during the process of removing suspected
+scratches. Upon completion of the repair,
+carefully inspect the entire blade by etching or
+anodizing. Remove all effects of the etching
+process with fine emery paper. Blades identified by the manufacturer as being cold-worked
+(shot-blasted or cold-rolled) may require
+peening after repair. Accomplish repair and
+peening operations on this type of blade in accordance with the manufacturer’s instructions.
+However, it is not permissible in any case to
+peen down the edges of any injury wherein the
+operation will lap metal over the injury.
+a. Flaws in Edges. Round out nicks,
+scars, cuts, etc., occurring on the leading edge
+of aluminum-alloy blades as shown in figure 8-24 (view B). Blades that have the leading edges pitted from normal wear in service
+may be reworked by removing sufficient material to eliminate the pitting. In this case, remove the metal by starting a sufficient distance
+from the edge, as shown in figure 8-25, and
+working forward over the edge in such a way
+that the contour will remain substantially the
+same, avoiding abrupt changes in contour.
+Trailing edges of blades may be treated in substantially the same manner. On the thrust and
+camber face of blades, remove the metal
+around any dents, cuts, scars, scratches, nicks,
+and pits to form shallow saucer-shaped depressions as shown in figure 8-24 (view C). Exercise care to remove the deepest point of the
+injury and also remove any raised metal
+around the edges of the injury as shown in figure 8-24 (view A). When repairing blades,
+figures 8-26 and 8-27 show the maximum reduction in width and thickness that is allowable below the minimum dimensions required
+by the blade drawing and blade manufacturing
+specification. Beyond the 90
+[FIG 8-24] Method of repairing surface scratches, nicks, etc.,
+[FIG 8-25] Correct and incorrect method of reworking leading
+on aluminum-alloy propellers.
+edge of aluminum-alloy propellers.
+90 percent blade radius point, the blade width
+and thickness may be modified as per the
+manufacturer’s instructions.
+b. Shortening Blades. Shortening propeller blades is a major repair. When the removal or treatment of defects on the tip necessitates shortening a blade, shorten each blade
+used with it and keep such sets of blades together. (See figure 8-26 for acceptable methods.) Mark the shortened blades to correspond
+with the manufacturer’s system of model designation to indicate propeller diameter. In
+making the repair, it is not permissible to reduce the propeller diameter below the minimum diameter limit shown on the pertinent
+specification or type certificate data sheet.
+c. Straighten Propeller Blades. Never
+straighten a damaged propeller. Even partial
+[FIG 8-26] Method of repairing damaged tip of aluminum-alloy
+straightening of blades to permit shipment to a
+certificated propeller repair facility may result
+in hidden damage not being detected and an
+unairworthy propeller being returned to service.

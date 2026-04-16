@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 2: STORAGE BATTERIES
+
+11-16. BATTERY CHARGING. Operation
+of storage batteries beyond their ambient temperature or charging voltage limits can result in
+excessive cell temperatures leading to electrolyte boiling, rapid deterioration of the cells,
+and battery failure. The relationship between
+maximum charging voltage and the number of
+cells in the battery is also significant. This will
+determine (for a given ambient temperature
+and state of charge) the rate at which energy is
+absorbed as heat within the battery. For leadacid batteries, the voltage per cell must not exceed 2.35 volts. In the case of NiCad batteries,
+the charging voltage limit varies with design
+and construction. Values of
+1.4 and 1.5 volts per cell are generally used. In
+all cases, follow the recommendations of the
+battery manufacturer.

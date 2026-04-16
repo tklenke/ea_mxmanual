@@ -1,0 +1,42 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 18: CONDUITS
+
+11-253. FLEXIBLE CONDUIT. Flexible
+aluminum conduit conforming to Specification MIL-C-6136 is available in two types:
+Type I, Bare Flexible Conduit, and Type II,
+Rubber Covered Flexible Conduit. Flexible
+brass conduit conforming to Specification
+MIL-C-7931 is available and normally used
+instead of flexible aluminum where necessary
+to minimize radio interference. Also available is a plastic flexible tubing. (Reference
+MIL-T-8191A.) Flexible conduit may be used
+where it is impractical to use rigid conduit,
+such as areas that have motion between conduit ends or where complex bends are necessary. The use of transparent adhesive tape is
+recommended when cutting flexible tubing
+with a hacksaw to minimize fraying of the
+braid. The tape should be centered over the
+cutting reference mark with the saw
+cutting through the tape. After cutting the
+flexible conduit, the transparent tape should
+be removed, the frayed braid ends trimmed,
+burrs removed from inside the conduit, and
+coupling nut and ferrule installed. Minimum
+acceptable bending radii for flexible conduit
+are shown in table 11-24.
+[TABLE 11-24] Minimum bending radii for flexible aluminum or brass conduit.
+Nominal I.D. of conduit Minimum bending radius
+(inches) inside (inches)
+3/16 2 1/4
+1/4 2 3/4
+3/8 3 3/4
+1/2 3 3/4
+5/8 3 3/4
+3/4 4 1/4
+1 5 3/4
+1 1/4 8
+1 1/2 8 1/4
+1 3/4 9
+2 9 3/4
+2 1/2 10
+11-254.11-259.
+[RESERVED.]
+SECTION 19. UNUSED CONNECTORS

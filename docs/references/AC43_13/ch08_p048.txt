@@ -1,0 +1,40 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 3: EXHAUST SYSTEMS
+
+8-48. INTERNAL MUFFLER FAILURES. Internal failures (baffles, diffusers,
+etc.) can cause partial or complete engine
+power loss by restricting the flow of the exhaust gases. (See figures 8-17 through 8-20.)
+[FIG 8-14] Typical muffler wall failure. (A. Complete muffler
+Detail view of failure; C. Cross section of failed muffler.)
+As opposed to other failures, erosion and carbonizing caused by the extreme thermal conditions are the primary causes of internal failures. Engine after-firing and combustion of
+unburned fuel within the exhaust system are
+probable contributing factors.
+a. In addition, local hot spot areas
+caused by uneven exhaust gas flow, result in
+burning, bulging, and rupture of the outer muffler wall. (See figure 8-14.) As might be
+assembly with heat shroud removed; B.
+expected, the time required for these failures to
+develop is longer than that for fatigue failures.
+Internal muffler failures account for nearly
+20 percent of the total number of exhaust system failures.
+b. The highest rate of internal muffler
+failures occurs between 500 and 750 hours of
+operating time. Engine power loss and excessive back-pressure caused by exhaust outlet
+blockage may be averted by the installation
+[FIG 8-15] Typical muffler wall fatigue failure. (A.
+Complete muffler assembly with heat shroud partially
+removed; B. Detailed view of failure.)
+[FIG 8-16] Typical fatigue failure of muffler end
+plate at stack inlet.
+[FIG 8-17] Section of a muffler showing typical
+internal baffle failure.
+[FIG 8-18] Loose pieces of a failed internal baffle.
+of an exhaust outlet guard as shown in figures 8-21a and 8-21b. The outlet guard may
+be fabricated from a 3/16-inch stainless steel
+welding rod.
+Form the rod into two “U” shaped segments,
+approximately 3 inches long and weld onto the
+exhaust tail pipe as shown in figure 8-21b so
+that the guard will extend 2 inches inside the
+exhaust muffler outlet port. Installation of an
+exhaust outlet guard does not negate the importance of thorough inspection of the internal
+parts of the muffler or the necessity of replacing defective mufflers.

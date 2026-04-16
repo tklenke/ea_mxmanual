@@ -1,0 +1,1316 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 10: SAFETY METHODS FOR TURNBUCKLES
+
+7-184. ASSEMBLING AND SECURING
+CLIP-LOCKING TURNBUCKLES. (See
+table 7-9 and figure 7-29.) Wire clip-locking
+turnbuckles are assembled and secured in the
+following ways.
+a. Engage threads of turnbuckle barrel
+with threads of cable terminal and turn barrel
+until proper cable tension is reached.
+b. Align slot in barrel with slot in cable
+c. Hold lock clip between thumb and
+forefinger at loop end and insert straight end of
+clip into opening formed by aligned slots.
+d. Bring hook end of lock clip over hole
+in center of turnbuckle barrel and seat hook
+loop into hole.
+gage hook lip in turnbuckle barrel and to complete safety locking of one end of turnbuckle.
+NOTE: Repeat the above steps to
+safety lock the opposite end of turnbuckle. Both lock clips may be inserted in the same turnbuckle barrel
+hole or they may be inserted in opposite holes. However, do not reverse
+wire locking clips
+[FIG 7-27] Securing turnbuckles.
+[FIG 7-28] Clip-type locking device.
+[TABLE 7-9] Locking-clip application.
+NOMINAL THREAD LOCKING TURNBUCKLE
+CABLE UNF-3 CLIP BODY MS21251
+DIA. MS21256
+1/16 No. 6-40 -1 -2S
+3/32 No. 10-32 -3S
+-2 -3L
+1/8 -1 -4S
+1/4-28 -2 -4L
+5/32 -1 -5S
+-2 -5L
+3/16 5/16-24 -1 -6S
+-6L
+7/32 3/8-24 -2 -7L
+1/4 -8L
+9/32 7/16-20 -3 -9L
+5/16 1/2-20 -10L
+[FIG 7-27] Assembling and securing clip-locking turnbuckles
+7-185.7-195.
+[RESERVED.]
+SECTION 11. HARDWARE IDENTIFICATION TABLES
+[TABLE 7-10] TABLE OF RIVETS.
+Rivet Number Description
+100�csk.
+AN427 Rivet, Head
+steel, monel, copper & flush hd., mech.
+AN430 Rivet,
+round head al. Alloy flathead., ti. alloy
+AN441 Rivet, tinners Head,
+steel, ss, monel hd., ti. alloy
+AN456 Rivet, brazier head,
+aluminum alloy 100°
+AN123151-123750 Rivet, universal head &
+100�
+steel, Inconel head, steel
+100�
+NAS 1200 Rivet, solid, flush
+shear head MS20426
+100�
+NAS 1241 Rivet, solid, flush
+head MS20470 head, al. & al. alloy
+NAS 1242 Rivet, solid universal
+head solid univ. head,
+NAS 1398 Rivet, blind, protruding
+head, locked spindle universal head,
+100�
+NAS 1399 Rivet, blind, csk.
+Head, locked spindle oval head
+[TABLE 7-10] (CONTINUED)
+Rivet Number Description
+NAS 1738-1739 Rivet, blind, protruding
+locked spindle, bulbed
+NAS1806-1816 Rivet, hi-shear,
+NAS1906-1916 Rivet, hi-shear,
+100°
+AN124951-125550 Rivet, solid universal
+head & csk. head,
+cres. steel, inconel
+AN125551-1255700 Rivet, solid universal
+100°
+AN426 Rivet, solid, csk.
+head al. alloy
+AN470 Rivet, solid, universal
+MS9319 Rivet,
+AMS 7233
+MS9403 Rivet, solid,
+AMS 5737
+MS16535 Rivet, tubular,
+[TABLE 7-10] (CONTINUED)
+Rivet Number Description
+MS16536 Rivet, tubular,
+100°
+flat csk. head universal head, monel
+MS20426 Rivet, solid, csk.,
+100°
+al. alloy protruding head
+MS20427 Rivet, solid, csk.,
+100° 100°
+flush hd., flush head
+AMS 7233
+MS20470 Rivet, solid,
+universal head, shear head, al. Alloy
+al. alloy
+MS20600 Rivet, blind,
+pull stem,
+protruding head
+MS20601 Rivet, blind, pull stem,
+100°, 100°
+flush head flush head
+MS20602-20603 Rivet, blind,
+explosive
+MS20604-20605 Rivet, blind nonstructural univ.
+100°
+and flush head
+MS20613-20615 Rivet, solid, monel,
+universal hd., steel,
+ss, brass, copper
+NAS452-453 100°
+Rivnut, csk. head
+& flathead
+NAS454-455 Rivet
+blind, al. alloy
+[TABLE 7-10] (CONTINUED)
+Rivet Number Description
+NAS508 Rivet,
+NAS1054 Rivet, hi-shear,
+NAS1055 Rivet, hi-shear,
+NAS1097 100°
+Rivet, solid, flush
+NAS1198 Rivet, solid,
+universal head
+NAS1199 Rivet, solid,
+[TABLE 7-11] TABLE OF SCREWS.
+Screw MS, AN, or Description
+NAS Number
+AN255 Screw,
+external relieved body
+AN500 & 501 Screw,
+machine fillister head
+AN502 & 503 Screw,
+machine, fill. Head,
+drilled, coarse & fine
+AN504 Screw, tapping,
+thread cutting rnd.
+Head, mach. Thread
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+AN505 Screw, machine,
+flathead, round head
+82°
+coarse thread
+AN506 Screw, tapping,
+type F, coarse & fine round head
+AN507 Screw, machine,
+100° 82°
+flathead, flathead,
+AN508 Screw, machine,
+round head hex. & fluted socket
+AN509 Screw machine,
+100°
+structural flat fill. head,
+AN510 Screw, machine,
+flathead, flat fill. head, steel,
+82°
+fine thread .190-.375
+AN515 & AN520 Screw, machine,
+round head flat fill. head,
+AN525 Screw,
+washer head oval fill. head, steel
+AN526 Screw,
+machine buttonhead plain
+AN530 Screw-tapping,
+thread cutting, rnd. hd. slotted
+AN531 Screw, tapping,
+thread forming or cut- machine slotted hex.
+82° hd.
+ting, flathead.
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+AN535 Drive screw,
+AN545 Screw, wood,
+AN550 Screw, wood,
+AN565 Setscrew,
+AN115401-115600 Screws,
+steel, .190-.375
+AN115601-115800 Drilled shank Screw
+AN115801-116150 Screw,
+steel. .190-.375
+AN116901-117080 Screw,
+MS9016 Bushing Screw,
+MS9017 Bushing Screw,
+MS9122-9123 Screw,
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+MS9177-9178 Screw,
+dbl. hex. head, cres. RH austenitic corr. res.
+MS9183-9186 Screw, machine, steel,
+drilled 12 pt. hd., head, copper silicone
+cad. plate
+MS9187-9188 Screw,
+drilled dbl. hex. head, head hex., corr. resistcres. ing steel UNC-3A
+MS9189-9192 Screw, machine, steel,
+12 pt. hd., black oxide head, hex., corr. reMS9206-9214 Screw,
+dbl. hex. ext. washer head, hex., alloy steed
+head, diffused nickel cad. UNC-3A
+cad. plate
+MS9215-9223 Screw, dbl. hex. ext.
+washer head, diffused head, hex., alloy steel,
+nickel cad. plate, drilled cad. UNF-3A
+MS9281-9291 Screw, machine, hex.
+hd., AMS 6322 cup, flat, cone pts.,
+black oxide steel & stainless
+MS9292-9302 Screw, machine,
+hex. hd., AMS 6322 head, plastic, nylon
+blk. oxide, drilled
+MS9316-9317 Screw, machine, steel
+slotted hex. head head, plastic, nylon
+MS9438-9439 Screw, mach. steel
+AMS 6304 diffused head, cross recessed
+nickel cad. hex. hd.,
+one hole
+MS9631-9639 Screw, mach., hex. hd.
+one hole, full shank, clk. flathead.,
+titanium AMS 4967
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+MS16198 Screw, wood, slotted
+steel
+MS16199 Screw, wood, slot flatMS16995 Screw, cap, socket
+MS16996 Screw, cap, socket
+sisting steel UNF-3A
+MS16997 Screw, cap, socket
+MS16998 Screw, cap, socket
+MS18063-18068 Setscrew, self-locking,
+MS18211 Screw, machine, flatMS18212 Screw, machine, panMS21090 Screw, self-lock, panMS21207 Screw, tapping,
+100°
+steel, cres. steel
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+MS21262 Screw, self-lock,
+int. wrenching flat, drilled
+MS21277-21285 Screw, machine, double hex., ext. washer 100°
+head cross recess
+MS21286-21294 Screw, machine, double hex., ext. washer csk. flathead.,
+head
+MS21295 Screw, self-lock,
+int. wrenching panhead, structural,
+MS21318 Screw, drive,
+round head, flathead., cross reType U
+MS21342 Setscrew,
+fluted socket, head, cross recessed,
+cup and flat point steel, brass, alum.
+MS24615-24618 Screw, tapping, phillips
+82°
+recessed, pan & head, slotted, SS steel,
+flathead Type A
+MS24619-24622 Screw, tapping, phillips
+82° head., slotted, steel
+recessed, pan &
+flathead Type B
+MS24623-24626 Screw, tapping, cross
+82°
+recessed pan & fillister head, slotted,
+flathead, Type BF or
+BT
+MS24627-24630 Screw, tapping, thread
+cutting cross recessed cross recessed
+82°
+pan & flathead,
+Type F
+MS24667 & 24671 Screw, cap socket hd.,
+flat, csk. round hd., slotted
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+MS24673-24678 Screw, cap socket hd.,
+MS24693 Screw, machine,
+flat csk. head,
+MS24694 Screw, machine,
+100°
+cross recess, structural
+MS27039 Screw, machine,
+cross recessed
+82°
+MS35190-35203 Screw, machine
+cessed, steel, brass,
+alum.
+MS35206-35219 Screw, machine, panMS35223-35234 Screw, machine, pansteel
+MS35239-35243 Screw, machine, flatMS35265-35278 Screw, machine, drilled
+SS steel, brass, alum.
+MS35492-35493 Screw, wood, flathead,
+MS35494-35495 Screw. wood, flat &
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+MS35914 Insert, screw, thread,
+self-tapping lips recessed
+MS51017-51047 Setscrew, hex. socket
+SS & steel half dog, 100°,
+cone, flat, cup pt. 82°,
+MS51861 Screw, tapping, type
+AB, panhead, cross re- hd., steel
+cessed
+MS51862 Screw, tapping, type
+AB, flathead., cross recessed threaded, al. steel
+MS51957-51958 Screw, machine, panhead, cross recessed close tol. 160,000 psi
+MS51959-51960 Screw, machine, flathead, cross recessed
+MS51963-51966 Setscrew, hex. socket,
+cup & flat point structural, hi-temp
+MS51973-51974 Setscrew, hex. socket,
+cone point craft, panhead phillips
+MS51975 Screw, shoulder,
+socket head cap, plain & selfMS51976-51977 Setscrew, hex. socket,
+half dog point short, 160,000 psi
+MS51981-51982 Setscrew, hex. socket,
+oval point sembled
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+NAS220-237 Screw, brazier hd. philNAS384-385 Screw, oval head, phillips recessed
+steel
+NAS387-388 Screw, machine, oval
+100°, 82°,
+100°
+NAS514 Screw, machine,
+flathead., fully
+100°
+NAS517 Screw, flathead,
+100°
+NAS548 Screw, flathead,
+type B tapping
+100°
+NAS560 Screw, machine,
+NAS600-606 Screw, machine, airrecessed, full thr., steel
+NAS608-609 Screw, hex. socket
+locking, drilled head
+NAS623 Screw, panhead. thr.
+NAS720 Screw, panhead, asTABLE 7-11. (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+NAS1081 Setscrew, hex. socket,
+self-locking self-locking,
+NAS1096 Screw, hex. head, recess, full thr.
+NAS1100 Screw, machine,
+panhead, full thread, self-locking, full thread
+torq.-set
+NAS1101 Screw, machine,
+flat fill hd. full thread full thread, self-locking
+100°
+NAS1102 Screw, machine,
+flathead. full thr. torq.- hi-torque, full thread
+set
+NAS1121-1128 Screw, machine, flat fill
+hd., short thread, hi-torque, short thread
+torq.-set
+NAS1131-1138 Screw, machine,
+pan hd., short thread, hi-torque, short thread
+torq.-set
+NAS1141-1148 Screw, machine,
+panhead. modified,
+short thread torq.-set
+NAS1151-1158 Screw, machine,
+100°
+flathead., hi-torque, short thread
+sort thread, torq.-set
+NAS1161-1168 Screw, machine,
+100°
+flathead.,
+shear, torq.-set
+NAS1171-1178 Screw, panhead.,
+shear, self-lock., brazier head
+torq.-set
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+NAS1181-1188 Screw, flat fill hd.,
+torq.-set
+100°
+NAS1189 Screw, flat hd.,
+full thread, self-locking
+NAS1190 Screw, panhead.,
+NAS1191 Screw, flat fill. hd.,
+NAS1216 Screw, panhead
+NAS1217 Screw, panhead,
+NAS1218 Screw, panhead,
+NAS1219 100°
+Screw, csk. hd.,
+hi-torque, full thread
+100°
+NAS1220 Screw, csk. hd.,
+NAS1221 100°
+Screw, clk. hd.,
+hi-torque, long thread
+NAS1298 Screw, shoulder,
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+NAS1299 Screw, shoulder,
+100° tri-wing recess,
+flathead
+NAS1300 Thumbscrew,
+drilled/undrilled tri-wing recess,
+NAS1301 Screw, panhead, assembled washers phil- tri-wing recess,
+lips recess short thr., cres.
+NAS1351-1352 Socket Capscrew,
+hex. head, tri-wing recess,
+drilled/undrilled full thr., alloy stl.
+82°
+NAS1393 Screw, flathead,
+torq-set tri-wing recess, full thr.,
+NAS1402-1406 Screw, panhead, phillips recess wing recess, full thr.,
+NAS1579 Screw, panhead.,
+1200°
+full thread, F tri-wing recess, full thr.,
+NAS1603-1610 Screw, flush head,
+.0312 O.S.
+NAS1620-1628 Screw, machine,
+100°
+flat short thread, tri-wing recess, full thr.,
+torq-set titanium
+NAS1630-1634 Screw, machine,
+panhead., short thread, tri-wing recess, full thr.,
+torq.-set alloy stl.
+NAS1635 Screw, panhead cross
+recessed, full thread tri-wing recess, full thr.,
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+NAS5000-5006 Screw, panhead,
+short thr., alloy stl.
+NAS5100-5106 Screw, panhead,
+short thr., cres.
+NAS5200-5206 Screw, panhead,
+NAS5300-5306 Screw, fillister head,
+NAS5400-5406 Screw, fillister hd.,
+cres.
+NAS5500-5506 Screw, fillister hd., trititanium
+100°
+NAS5600-5606 Screw, head,
+alloy stl.
+100°
+NAS5700-5706 Screw, head,
+tri-wing recess, full thr.,
+cres.
+100°
+NAS5800-5806 Screw, head,
+NAS5900-5903 Screw, hex. Head,
+NAS6000-6003 Screw, hex. Head,
+cres.
+[TABLE 7-11] (CONTINUED)
+Screw MS, AN, or Description
+NAS Number
+NAS6100-6103 Screw, hex head,
+tri-wing recess, full thr.,
+titanium
+100°
+NAS6500-6506 Screw, oval hd.,
+tri-wing recess, full thr.,
+cres.
+NAS6900-6904 Screw, panhead,
+tri-wing recess, full thr.,
+cres.
+[TABLE 7-12] TABLE OF BOLTS.
+Bolt Number Description
+AN3-20 Bolt, machine
+AN21-36 Bolt, clevis
+AN42-49 Bolt, eye
+AN73-81 Bolt, machine, drilled
+AN173-186 Bolt, aircraft
+Close tolerance
+AN774 Bolt, flared tube
+AN775 Bolt, universal fitting
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+AN148551-149350 Bolt, socket head,
+6-hole drilled, .190-.625
+AN101001-101900 Bolt, hex, steel, head
+AN101901-102800 Bolt, hex.,
+drilled shank, steel
+AN102801-103700 Bolt. Drilled hex. Head,
+(one hole), steel
+AN103701-104600 Bolt, drilled hex. Head,
+steel, (six holes)
+AN104601-105500 Bolt, hex. Head, corrosion-resistant steel
+AN105501-106400 Bolt, hex. Head,
+drilled shank,
+corrosion-resistant
+steel
+AN106401-107300 Bolt, hex., drilled head,
+(one holes),
+corrosion-resistant
+steel
+AN107301-108200 Bolt, hex., drilled head,
+(six holes),
+corrosion-resistant
+steel
+MS9033-9039 Bolt, machine 12pt.
+Head, 130,000 psi min.
+T.S.
+MS9060-9066 Bolt, machine 12pt.
+Double hex. 130,000
+psi min. T.S. ext.
+washer head, drilled
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+MS9088-9094 Bolt, machine, steel,
+drilled 12 pt. head 1 hole, full shank
+MS9110-9113 Bolt, machine, double
+hex., ext. washer head, AMS 6322 cad.
+close tolerance 1 hole hex. hd.
+MS9146-9152 Bolt, steel, 12 pt. hd.
+black oxide 125,000 psi AMS 6322 cad.
+min. T.S. 1 hole hex. hd.
+MS9157-9163 Bolt, steel, 12pt. hd.
+black oxide 125,000 psi ext. wash. hd., PD
+min. T.S. shank, AMS 5731
+MS9169-9175 Bolt, steel, 12 pt. drilled
+hd., black oxide ext. wash. hd. drilled,
+125,000 psi min. T.S. AMS 5731
+MS9224 Bolt, 12 pt. head, heat
+resistant ext. wash. hd., drilled,
+MS9397-9402 Bolt, tee head,
+AMS 6322, 6 holes full shank,
+chamfered cad. pl. AMS 5731
+MS9432-9437 Bolt, tee head
+AMS 5735 chamfered hole, PD shank, titaMS9440-9448 Bolt, mach. steel.
+AMS 6304 diffused hole, full shank titanium
+nickel cad. hex. hd., AMS 4967
+3 holes
+MS9449-9459 Bolt, mach. steel,
+AMS 6304 diffused full shank, titanium
+nickel cad., hex. head AMS 4967
+MS9487-9497 Bolt, mach. hex. hd. full
+shank, AMS 5731 ext. wash. hd., cup
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+MS9498-9508 Bolt, mach. hex. hd.,
+MS9516-9526 Bolt, mach., steel
+MS9527-9537 Bolt, mach., steel
+MS9554-9562 Bolt, mach., dbl. hex.
+MS9563-9571 Bolt, mach., dbl. hex.
+MS9572-9580 Bolt, mach., dbl. hex.
+PD shank AMS 5731
+silver plated
+MS9583-9591 Bolt, mach., hex. hd.
+MS9622-9630 Bolt, mach., hex. hd. 1
+nium AMS 4967
+MS9641-9648 Bolt, mach., hex. hd., 1
+MS9649-9652 Bolt, mach., hex. hd.
+MS9676-9679 Bolt, mach., dbl. hex.
+washer locked, cres.
+AMS 5731
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+MS9680-9683 Bolt, mach., dbl. hex.
+ext. wash. hd., cup 1 hole, full shank,
+washer locked, steel AMS 5643
+AMS 6322 cad.
+MS9685-9693 Bolt, mach., hex. hd. 1
+hole, PD shank, steel 1 hole, PD shank,
+AMS 6304 diffused AMS 5643
+nickel cad.
+MS9694-9702 Bolt mach. dbl. hex.
+ext. wash. hd. AMS Ext. wash. Hd.,
+5708 AMS 5616
+MS9703-9711 Bolt, mach., dbl. hex.
+ext. wash. hd., drilled, Ext. wash. Hd.,
+AMS 5708 AMS 5616 drilled
+MS9712-9720 Bolt, mach. dbl. hex.
+ext. wash. hd. drilled, Ext. wash. Hd.,
+AMS 5708 silver plate PD shank, steel
+MS9730-9738 Bolt, mach., dbl. hex.
+ext. wash. hd. Ext. wash hd. PD
+PD shank, shank, steel AMS 6322
+cres. AMS 5643 cad. Drilled
+MS9739-9747 Bolt, mach. dbl. hex.
+est. wash, hd. drilled, Ext. wash. Hd.,
+PD shank, full shank,
+cres. AMS 5643 steel AMS 6322 cad.
+MS9748-9756 Bolt, mach. dbl. hex.
+ext. wash. hd. PD Ext. wash. Hd., drilled,
+shank, titanium full shank, steel
+AMS 4967 AMS 6322 cad.
+MS9757-9765 Bolt, mach., dbl. hex.
+ext. wash. hd., PD 160 KSI
+shank, drilled, titanium
+AMS 4967
+MS9781-9791 Bolt, hex. hd., mach.
+full shank, AMS 5643 hex. Head, 1200
+MS9792-9802 Bolt, mach., hex. hd.
+1 hole, full shank, aircraft, drilled hd.,
+AMS 5643 fine & coarse thr.
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+MS9803-9813 Bolt, mach., hex. Hd.
+MS9814-9824 Bolt, mach., hex. Hd.
+MS9883-9891 Bolt, mach., dbl. Hex.
+MS9892-9900 Bolt mach., dbl. Hex.
+MS9912-9920 Bolt, mach., dbl. Hex.
+AMS 6322 cad.
+MS9921-9929 Bolt, mach., dbl. Hex.
+MS9930-9938 Bolt, mach., dbl. Hex.
+MS9939-9946 Bolt, mach., dbl. Hex.
+MS20004-20024 Bolt, int. wrench,
+MS20033-20046 Bolt, machine,
+°F
+MS20073-20074 Bolt, machine,
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+100°
+MS21091-21093 Bolt, self-lock.,
+flush head, cross re- fully identified head
+cessed
+MS21094-21095 Bolt, self-lock., hex.
+head hi-torque, close tol.
+MS21096-21097 Bolt, self-lock., panhead, crass recessed ternal wrench,
+MS21098-21099 Bolt, self-lock., 12 pt.
+ext. wrenching close tolerance, ti. alloy
+MS21250 Bolt,
+12 pt., ext. wrenching
+NAS144-158 Bolt, internal wrenching, steel, tolerance, ti. alloy
+1/4-28 thru 1-1/8-12
+100°,
+NAS333-340 Bolt,
+close tolerance,
+hi-strength
+NAS428 Bolt, adjusting,
+crowned hex. hd. Shoulder nut
+NAS464 Bolt, shear,
+close tolerance
+NAS501 Bolt, hex. head,
+drilled & undrilled hex. head
+NAS551 Bolt, universal fitting
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+NAS563-572 Bolt, full thread,
+NAS583-590 100°
+Bolt, head,
+160,000 psi
+NAS624-644 Bolt, twelve point ex180000 psi
+NAS653-658 Bolt, hex. head,
+NAS663-668 Bolt, full thread,
+fully identified head
+NAS673-678 Bolt, hex. head, close
+NAS1003-1020 Bolt, machine,
+hex. head
+NAS1053 Eye Bolt Assembly,
+100°
+NAS1083 Bolt, flathead, titanium alloy
+NAS1103-1120 Bolt, machine,
+100°
+NAS1202-1210 Bolt, phil. recessed,
+close tolerance,
+16,000 psi
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+NAS1223-1235 Bolt, self-locking,
+°F
+hex. head 250 pull type, al. Alloy
+NAS1236 Bolt, universal,
+Tube-end, flareless 1200
+100°
+NAS1243-1250 Bolt, head,
+hi-torq. 1600 psi 1200
+NAS1253-1260 100°
+Bolt, head, flush
+hd., .0312 O.S. 100 flush head,
+hi-torque 1200
+NAS1261-1270 Bolt, hex. head,
+short thread
+NAS1271-1280 Bolt, 12 point hd., external wrenching 1200
+NAS1297 Bolt, shoulder,
+hex. head
+NAS1303-1320 Bolt, hex. head, close
+tolerance, 160,000 psi head, ti. Alloy
+NAS1414-1422 Lock bolt,
+100°
+shear head, ti. Alloy
+all. steel
+NAS1424-1432 Lock bolt,
+shear protruding head, protruding head, ti. Alsteel loy
+100°
+NAS1503-1510 Bolt, flush head,
+hi-torq. head, ti. Alloy
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+100°
+NAS1516-1522 Lock Bolt, head,
+NAS1578 Bolt, shear panhead,
+°F
+NAS1580 Bolt, tension, flush hd.,
+°F
+NAS1581 Bolt, shear reduced
+°F
+°F
+°F,
+NAS1586 Bolt-tension, 1200
+12 point,
+external wrenching
+NAS1588 Bolt, tension, flush hd.,
+°F
+100°
+NAS1703-1710 Bolt, head,
+.0156 O.S. shank,
+NAS2005-2012 Bolt lock, protruding
+100°
+NAS2105-2112 Bolt, lock, head,
+NAS2206-2210 Bolt, lock, stump type,
+NAS2306-2310 Bolt, lock, stump type,
+100°
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+NAS2406-2412 Bolt, lock, shear protruding head, ti. alloy recess, long thr., cres.
+NAS2506-2512 100°head,
+Bolt, lock, Bolt, head,
+ti. alloy tri-wing recess,
+NAS2606-2612 Bolt, lock,
+shear protruding head, tri-wing recess,
+ti. alloy
+NAS2706-2712 Bolt, lock,
+100°
+shear head, tri-wing recess,
+ti. alloy short thr., cres.
+100° 100°
+NAS2803-2810 Bolt, lock, hd.,
+torq-set 180,000 psi tri-wing recess,
+NAS2903-2920 Bolt, hex. head, .
+0156 O.S. shank, tri-wing recess,
+160,000 psi short thr., alloy stl.
+NAS3003-3020 Bolt, hex. head, .
+0312 O.S. shank,
+160,000 psi
+NAS3103-3110 Bolt, U type
+NAS3203-3210 Bolt, hook
+NAS3303-3305 Bolt, U strap type
+100°
+NAS4104-4116 Bolt, head,
+tri-wing recess,
+long thr., alloy stl.
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+100°head,
+NAS4204-4216 Bolt, tri-wing
+NAS4304-4316 100°
+long thr., titanium
+100°
+NAS4400-4416 Bolt, head,
+short thr., alloy stl.
+NAS4500-4516 100°
+Bolt, head,
+NAS4600-4616 Bolt, head,
+short thr., titanium
+NAS4703-4716 100°
+Bolt, reduced,
+100°
+NAS4803-4816 Bolt, reduced,
+tri-wing recess,
+short thr., cres.
+NAS4903-4916 100°
+Bolt, reduced,
+tri-wing recess,
+short thr., titanium
+NAS6203-6220 Bolt, hex. head,
+short thread, alloy steel
+NAS6303-6320 Bolt, hex. head,
+short thread, cres.
+NAS6403-6420 Bolt, hex. head,
+short thread, titanium
+[TABLE 7-12] (CONTINUED)
+Bolt Number Description
+NAS6604-6620 Bolt, hex head,
+long thread, alloy steel fine thread
+NAS6704-6720 Bolt, hex. head,
+long thread, cres.
+[TABLE 7-13] TABLE OF NUTS.
+Nut Part Number Description
+AN256 Nut, self-lock
+right angle plate
+AN310 Nuts, castellated
+AN315 Nut, plain
+AN316 Nut, check
+AN320 Nut, castle shear
+AN335 Nut, plain, hex,
+nonstructural
+AN340 Nut, plain, hex.,
+n-s, course thread
+AN341 Nut, plain, hex.
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+AN345 Nut, plain, hex., n-s,
+AN350 Nut, plain, wing
+AN355 Nut, engine, slotted
+AN356 Nut, stamped
+AN360 Nut, plain, engine
+AN361 Self-locking nut plate,
+100°,
+countersunk
+°F.
+550
+AN362 Nut, plate, self-locking,
+550°F.
+noncounters.,
+AN363 Nut, self-locking,
+°F.
+550
+AN364 Nut, self-locking,
+°F.
+thin, 250
+AN365 250°F.
+Nut, self-locking
+AN366 Nut, plate,
+250°F.
+noncounters.,
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+AN373 Countersunk nut,
+100°, 250°F.
+plate
+AN805 Nut, union
+AN817 Nut, coupling
+AN818 Nut, coupling
+AN924 Nut, flared tube
+AN3054 Nut, coupling,
+elec. conduit Check, A-286
+AN3066 Nut, plain, hex.
+conduit coupling Shear hd., A-286
+AN6289 Nut, flared tube
+universal fitting connection, cres.
+AN121501-121550 Nut, plain or cres.
+steel Cup washer locked,
+AN121551-121600 Nut, castel., hex.
+MS9099-9100 Nut, hex.,
+boss connection, drilled, AMS 6322,
+aluminum & cres. cad. Plate
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+MS9197-9199 Nut, tube coupling
+MS9200-9201 Nut, plain, hex.,
+boss connection
+MS9356-9357 Nut, plain hex.,
+A-286
+MS9358-9359 Nut, castellated hex.,
+A-286
+MS9360 Nut, plain hex.
+Drilled, A-286
+MS9361-9362 Nut, plain hex.
+MS9363-9364 Nut, slotted hex.
+MS9553 Nut, hex. Boss
+MS9766-9767 Nut, dbl. Hex.
+AMS 5737 cres. And
+AMS 6322 cad.
+MS9881 Nut, plain, hex.
+AMS 6322,
+cad. Plate
+MS9882 Nut, plain, hex.,
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+MS9951 Nut, spanner, end
+slots, two lug, low ht.
+cup washer locked,
+AMS 6322
+MS16203 Nut, plain, hex.
+Nonmagnetic plate, two lug,
+MS17825-17826 Nut, self-locking,
+castle, hex. Regular plate, one lug,
+and thin low ht.
+MS17828 Nut, self-locking,
+250°,
+nylon insert, plate, one lug,
+regular ht., monel csk.
+MS17829-17830 Nut, self-locking,
+250°,
+nylon insert, plate, corner, low ht.
+regular ht., cres. Steel,
+steel
+MS19067-19068 Nut, plain,
+round, retaining plate, corner,
+MS20341 Nut, electrical,
+plain, hex. plate, two lug,
+MS20364 Nut, self-locking,
+°F,
+250 thin plate, floating low ht.,
+MS20365 Nut, self-locking,
+250° plate, two lug,
+F, regular
+MS20501 Nut, plate,
+self-locking, plate, one lug, low ht.,
+two lug reduced rivet spacing
+MS21025 Nut,
+castellated bearing, plate, corner,
+retaining reduced rivet spacing
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+MS21047-21048 Nut, self-locking, plate,
+MS21049-21050 Nut, self-locking,
+100°
+csk., low ht.
+MS21051-21052 Nut, self-locking,
+MS21053-21054 Nut, self-locking,
+100°
+MS21055-21056 Nut, self-locking,
+MS21057-21058 Nut, self-locking,
+100°
+csk.
+MS21059-21060 Nut, self-locking,
+floating, low ht.
+MS21061-21062 Nut, self-locking,
+one lug
+MS21069-21070 Nut, self-locking,
+low ht., reduced rivet
+spacing
+MS21071-21072 Nut, self-locking,
+MS21073-21074 Nut, self-locking,
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+MS21078 Nut, self-locking,
+plate, two lug, flathead., open
+nylon insert and closed end
+MS21080 Nut, self-locking,
+plate, one lug,
+nylon insert
+MS21081 Nut, self-locking,
+plate, corner, plain, round
+nylon insert
+MS21083 Nut, self-locking,
+hex., nylon insert plain & drilled
+MS21340 Nut, plain, hex.,
+electrical, thin,
+wire holes
+MS21917 Nut, sleeve coupling,
+flareless
+MS21921 Nut, sleeve coupling,
+flareless
+MS24679-24680 Nut, plain cap,
+low & high crown
+MS25082 Nut, plain, thin,
+hex., electrical 12 point captive washer
+MS27040 Nut, plain square
+MS27128 Nut, plain, welding
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+MS27130-27131 Nut, blind, rivet,
+MS27151 Nut, stamped
+MS27955 Nut, spanner,
+MS35425-35426 Nut, wing,
+MS35649-35650 Nut, plain hex.
+MS35690-35691 Nut, plain hex.
+MS35692 Nut, slotted hex.
+MS51967-51972 Nut, plain, hex.
+MS90415 Nut, self-locking,
+MS172236-172270 Nut, spanner,
+bearing, retaining
+MS172321-172370 Nut, spanner
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+NAS395-396 Nut, U type
+NAS443 Nut, self-locking,
+int. wrenching small pattern
+NAS444-445 Nut, double lug,
+anchor type, offset self-locking,
+NAS446 Nut, flat type
+NAS447-448 Nut, plate,
+self-locking
+NAS449 Nut, anchor type
+NAS450 Nut, plate,
+self-locking self-locking,
+NAS463 Shim,
+plain anchor nut self-locking,
+NAS487 Nut,
+instrument mount one lug, miniature
+NAS500 Shim, anchor nut,
+csk. self-locking,
+NAS509 Nut, drilled
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+NAS577-578 Nut, self-locking
+floating barrel retainer
+NAS671 Nut, plain hex.,
+NAS680-681 Nut, plate,
+two lug
+NAS682-683 Nut, plate,
+self-locking,
+one lug
+NAS684-685 Nut, plate, corner,
+self-locking
+NAS686 Nut, plate,
+self-locking,
+two lug, floating
+NAS687 Nut, plate,
+one lug
+NAS688-695 Nut Assembly,
+gang channel
+NAS696 Nut, plate self-locking,
+NAS697 Nut, plate,
+two lug,
+miniature
+NAS698 Nut, plate, corner,
+self-locking,
+miniature
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+NAS1021-1022 Self-locking Nut,
+hex., regular and
+low ht.
+NAS1023-1024 Nut, plate,
+self-locking, self-locking, nut and
+two lug washer shear pin
+NAS1025-1026 Nut, plate,
+self-locking, self-locking,
+one lug low height
+NAS1027-1028 Nut, plate, corner,
+self-locking flathead,
+NAS1029-1030 Nut, plate,
+self-locking, csk. Head,
+one lug, two lug internal thread
+NAS1031 Nut, plate,
+self-locking, self-locking,
+two lug, floating regular height,
+NAS1032 Nut, plate,
+self-locking,
+one lug, floating
+NAS1033 Nut, plate, right angle,
+floating, self-locking drilled jamnut
+NAS1034-1041 Nut Assembly,
+self-locking, self-locking,
+gang channel two lug,
+NAS1067 Nut, plate, self-locking,
+one lug, miniature two lug, cap floating,
+NAS1068 Nut, plate, floating,
+self-locking, self-locking gang
+two lug, miniature channel
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+NAS1098 Nut, tube fitting
+NAS1287-1288 Nut, hexagonal,
+NAS1291 Nut, hexagonal,
+NAS1329 Nut, blind rivet,
+internal thread
+NAS1330 Nut, blind rivet,
+NAS1408-1409 Nut, hexagonal,
+coarse and fine thr.
+NAS1410 Nut, tube fitting
+NAS1423 Nut, plain, thin hex.,
+NAS1473 Nut, plate,
+cap floating
+NAS1474 Nut, plate, self-locking,
+reduced rivet spacing
+NAS1512-1513 Nut, plate,
+[TABLE 7-13] (CONTINUED)
+Nut Part Number Description
+NAS8679 Nut, self-locking,
+low height Bearing retaining
+°F, °F
+550 800
+[TABLE 7-14] TABLE OF WASHERS.
+Washer Number Description
+AN935 Washer, lock,
+spring
+AN936 Washer,
+tooth lock
+AN950 and 955 Washer,
+ball socket,
+ball seat
+AN960 Washer, flat
+AN961 Washer,
+flat electrical
+(Brass, silver or
+tin-plated)
+AN970 Washer,
+flat, wood
+AN975 Washer, flat
+AN8013 Washer, insulator
+AN122576-122600 Washer,
+plain steel
+[TABLE 7-14] (CONTINUED)
+Washer Number Description
+MS9081 Washer, key dbl.
+MS9274 Washer, key, dbl.
+Bearing ret. Cres.
+MS9276 Washer, key, cres.
+AMS 5510
+180°
+locking
+MS9320-9321 Washer, flat
+AMS 6350 and
+5510
+MS9482 Washer, flat,
+steel AMS 6437
+or AMS 6485
+diffused nickel cad.
+Csk.
+MS9549 Washer, flat,
+AMS 5510
+MS9581 Washer, key, cres.
+90°
+AMS 5510 locking
+MS9582 Washer, key,
+cres. AMS 5510
+270°
+locking
+MS9684 Washer, cup, lock
+cres. AMS 5510
+MS9768 Washer, flat,
+cres. AMS 5525
+and AMS 5737 csk.
+MS9880 Washer, cup,
+lock cres.
+AMS 5510
+[TABLE 7-14] (CONTINUED)
+Washer Number Description
+MS9952 Washer, cup, lock,
+spanner nut, cres. packing backup
+AMS 5646
+MS15795 Washer, flat,
+metal flat internal tooth,
+MS17811 Washer,
+thrust, steel flat and csk.,
+MS19069-19070 Washer, key,
+retaining med., light, heavy
+MS20002 Washer, plain,
+csk., hi-strength 100°
+MS21258 Washer, key,
+retaining, steel lock spring
+MS25081 Washer, key
+MS27051 Washer, slotted
+MS27111 Washer, finishing,
+countersunk
+MS27129 Washer, finishing,
+80°, 82°
+csk., csk. and plain
+MS27183 Washer, flat,
+round
+[TABLE 7-14] (CONTINUED)
+Washer Number Description
+MS28777 Washer, hydraulic,
+MS35333-35334 Washer, lock,
+light and heavy
+MS35335-35336 Washer, lock,
+external tooth
+MS35337-35340 Washer, lock,
+MS35790 Washer, lock,
+csk.,
+ext. tooth
+MS122026-122075 Washer,
+MS172201-172235 Washer, key, single
+bearing, retaining
+MS172271-172320 Washer, key, single
+NAS70 Washer, plain
+NAS143 Washer,
+NAS390-391 Washer, finishing
+[TABLE 7-14] (CONTINUED)
+Washer Number Description
+NAS460 Washer, tab type
+NAS513 Washer, rod end
+locking, steel
+NAS549 Washer, flat,
+resin fiber key dual tab
+NAS620 Washer, flat,
+reduced O.D. nonmagnetic
+NAS1061 Washer,
+hi-temp,
+lock, spring
+NAS1099 Washer,
+1/2°
+bevel 9
+NAS1169 Washer,
+100°
+dimpled
+NAS1197 Washer, flat,
+5052 aluminum
+NAS1252 Washer, flat
+NAS1401 Washer, radius, al.
+Alloy, steel,
+cres. Steel
+NAS1515 Washer,
+plastic and rubber
+[TABLE 7-14] (CONTINUED)
+Washer Number Description
+NAS1587 °F,
+Washer, 1200
+plain and csk.
+NAS1598 Washer, sealing
+NAS1636 Washer,
+NAS1640 Washer, lock, spring,
+[TABLE 7-15] TABLE OF PINS.
+Pin Number Description
+AN253 Pin, hinge
+AN380 & 381 Pin, cotter
+AN385 Pin,
+plain taper
+AN386 Threaded taper pin
+AN392-406 Pin, flathead
+AN415 Pin, lock
+[TABLE 7-15] (CONTINUED)
+Pin Number Description
+AN416 Pin,
+retaining safety hd. AMS 5735
+AN122676-122775 Pin, dowel steel
+AN121601-121925 Pin, flathead clevis
+.125 -.500 drilled shank headed, AMS 5616
+AN150201-150400 Pin, lock,
+steel, brass headless .0002
+MS9047 Pin, spring, steel,
+phoshated finish .001 over nominal size
+MS9048 Pin, spring, steel, cadmium plate tubular, slotted
+MS9105 Pin, lock
+MS9164 Pin, straight, steel,
+headless, oversize
+MS9245 Pin, cotter,
+cres. AMS 7211 headed, drilled
+MS9389 Pin, straight, headless,
+lock, AMS 5735
+MS9390 Pin, straight, headless,
+cres. AMS 5735, headless,
+dowel std. & O.S. tapered groove
+[TABLE 7-15] (CONTINUED)
+Pin Number Description
+MS9462-9468 Pin, straight
+MS9486 Pin, straight, headless,
+lock, AMS 5132
+MS9842-9848 Pin, straight,
+MS16555 Pin, straight,
+over nominal size
+MS16556 Pin, straight, headless
+MS16562 Pin, spring,
+MS17984-17990 Pin,
+quick release,
+positive lock
+MS20253 Pin, hinge
+MS20392 Pin, straight,
+MS24665 Pin, cotter
+MS35671-35679 Pin, grooved,
+[TABLE 7-15] (CONTINUED)
+Pin Number Description
+MS35810 Pin, clevis,
+headed
+MS39086 Pin, spring,
+tubular coiled positive locking,
+MS51923 Pin, spring,
+tubular coiled coiled
+MS51987 Pin,
+tubular coiled shear head,
+MS171401-171900 Pin, spring,
+SS, steel
+NAS427 Pin, pulley guard,
+steel, al. Alloy head, pull type,
+NAS561 Pin, spring slotted
+and coiled, protruding head,
+heavy duty pull type, steel
+NAS574 Pin,
+rear mounting head,
+NAS607 Pin, headless,
+dowel, steel 100°
+NAS1292-1296 Pin, shear thread
+100°
+flush head protruding head,
+NAS1322 Pin, shear thread,
+protruding head protruding head,
+[TABLE 7-15] (CONTINUED)
+Pin Number Description
+NAS1332-1346 Pin, quick release
+NAS1353-1366 Pin, quick release,
+double acting
+NAS1407 Pin, spring,
+NAS1436-1442 Pin, swage lock,
+100°
+pull type, steel
+NAS1446-1452 Pin, swage lock,
+protruding head,
+pull type, steel
+NAS1456-1462 Pin, swage lock,
+100°
+steel
+NAS1465-1472 Pin, swage lock,
+NAS1475-1482 Pin, swage lock,
+100°
+pull type, steel
+NAS1486-1492 Pin, swage lock,
+head,
+stump type, steel
+NAS1496-1502 Pin, swage lock,
+stump type, steel
+NAS1525-1532 Pin, swage lock,
+al. alloy
+[TABLE 7-15] (CONTINUED)
+Pin Number Description
+NAS1535-1542 Pin, swage lock,
+100°
+hd., tension,
+pull type, alum.
+NAS1546-1552 Pin, swage lock,
+100°
+hd., tension,
+stump type, alum.
+100°
+NAS1583 Pin, csk. hd.,
+hi-shear rivet,
+°F
+1200
+NAS1584 Pin, flathead,
+hi-shear rivet,
+°F
+1200
+7-196.7-206.
+[RESERVED.]
+CHAPTER 8. ENGINES, FUEL,
+SECTION 1. ENGINES

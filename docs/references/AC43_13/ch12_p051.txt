@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 4: PITOT/STATIC SYSTEM
+
+12-51. GENERAL. In order for the pitotstatic instruments to work properly, they must
+be connected into a system that senses the impact air pressure with minimum distortion and
+picks up undisturbed static air pressure.
+Pitot pressure is ram air pressure picked up by
+a small open-ended tube about a ¼-inch in diameter that sticks directly into the air stream
+that produces a pressure proportional to the
+speed of the air movement. Static pressure is
+the pressure of the still air used to measure the
+altitude and serves as a reference in the measurement of airspeed.
+Airspeed requires pitot, altimeter, rate of
+climb, and transponder-required static.

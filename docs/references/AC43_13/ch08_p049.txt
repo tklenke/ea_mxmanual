@@ -1,0 +1,46 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 3: EXHAUST SYSTEMS
+
+8-49. INSPECTION. Inspect exhaust systems frequently to ascertain complete system
+integrity.
+CAUTION: Marking of exhaust system parts. Never use lead pencils,
+carbon based pencils, etc., to mark
+exhaust system parts. Carbon deposited by those tools will cause cracks
+from heat concentration and carbonization of the metal. If exhaust system
+parts must be marked, use chalk,
+Prussian blue, India ink, or a grease
+pencil that is carbon-free.
+a. Before any cleaning operation, remove the cowling as required to expose the
+complete exhaust system. Examine cowling
+and nacelle areas adjacent to exhaust system
+components for telltale signs of exhaust gas
+soot indicating possible leakage points. Check
+to make sure no portion of the exhaust system
+is being chafed by cowling, engine control cables, or other components. The exhaust system often operates at red-hot temperatures of
+°F
+1,000 or more; therefore, parts such as ignition leads, hoses, fuel lines, and flexible air
+ducts, should be protected from radiation and
+convection heating by heat shields or adequate
+clearance.
+b. Remove or loosen all exhaust shields,
+carburetor and cabin heater muffs, shrouds,
+heat blankets, etc., required to permit inspection of the complete system.
+c. Perform necessary cleaning operations and inspect all external surfaces of the
+exhaust system for cracks, dents, and missing
+parts. Pay particular attention to welds,
+clamps, supports and support attachment lugs,
+bracing, slip joints, stack flanges, gaskets,
+flexible couplings, and etc. (See figures 8-22
+and 8-23.) Examine the heel of each bend, areas adjacent to welds, any dented areas, and
+low spots in the system for thinning and pitting
+due to internal erosion by combustion products
+or accumulated moisture. An ice pick (or
+similar pointed instrument) is useful in probing
+suspected areas. Disassemble the system as
+necessary to inspect internal baffles or diffusers.
+d. Should a component be inaccessible
+for a thorough visual inspection or hidden by
+non-removable parts, remove the component
+and check for possible leaks by plugging its
+openings, applying approximately 2 psi internal pressure, and submerging it in water. Any
+leaks will cause bubbles that can be readily
+detected. Dry thoroughly before reinstallation.

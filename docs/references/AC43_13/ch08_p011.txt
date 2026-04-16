@@ -1,0 +1,85 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-11. PLATING. Before restoring the plating on any engine part in accordance with the
+manufacturer’s instructions, the part should be
+visually inspected and have an NDI performed
+before any cylinder reconditioning. In general,
+chromium plating would not be applied to
+highly-stressed engine parts. Certain applications of this nature have been found to be satisfactory; however, engineering evaluation of the
+details for the processes used should be obtained.
+a. Dense chromium plating of the crankpin and main journals of some small engine
+crankshafts has been found satisfactory, except
+where the crankshaft is already marginal in
+strength. Plating to restore worn, low-stress
+engine parts, such as accessory drive shafts
+and splines, propeller shaft ends, and seating
+surfaces of roller and ball-type bearing races is
+acceptable but requires compliance with
+FAA-approved data.
+b. Porous chromium-plated walls of
+cylinder barrels have been found to be satisfactory for practically all types of engines.
+Dense or smooth chromium plating, without
+roughened surfaces on the other hand, has not
+been found to be satisfactory.
+(1) Cylinder barrel pre-grinding and
+chromium plating techniques used by the
+military are considered acceptable for all engines, and military-approved facilities engaged
+in doing this work in accordance with military
+specifications are eligible for approval by the
+FAA.
+(2) Chromium-plated cylinder barrels
+have been required for some time to be identified in such a manner that the markings are
+visible with the cylinder installed. Militaryprocessed cylinders are banded with orange
+enamel above the mounting flange. It has been
+the practice to etch on either the flange edge or
+on the barrel skirt the processor’s initials and
+the cylinder oversize. Most plating facilities
+use the orange band as well as the permanent
+identification marks.
+(3) A list of engine and maximum permissible cylinder barrel oversize are referenced
+in table 8-1.
+[TABLE 8-1] Current engine and maximum permissible
+cylinder barrel oversize.
+Max. Protection.)
+Engine manufacturer Engine series oversize
+(in.)
+Air Cooled Motors No oversize for
+(Franklin) sleeved cylinders.
+Solid cylinders........... 0.017
+Continental Motors R-670, W-670, 0.010 to
+R9A.... 0.020
+0.005 Observe the manufacturer’s recommendations
+GTSIO-520, 550........ 0.015
+All others....................
+Jacobs All.............................. 0.015
+Kinner All.............................. 0.015
+Pigman, LeBlond, All.............................. 0.025
+Rearwin, Ken
+Royce
+Lycoming All.............................. 0.010 to
+0.020
+Menasco All.............................. 0.010
+Pratt & Whitney R-2800B, C, CA, CB.. 0.025
+*R-959 and R-1830.... 0.030
+All others.................... 0.020
+Ranger 6-410 early cyls. 0.010
+6-390
+6-410 late cyls. 6-440 0.120
+(L-440) series..
+Warner All.............................. 0.015
+Wright All.............................. 0.020
+*(The above oversize limits correspond to the
+manufacturer’s requirements, except for P&W R-985
+and R-1830 series engines.)
+NOTE: ( Check for latest manufacturer specifications.)
+(4) Cylinder barrels which have been
+plated by an agency whose process is approved
+by the FAA and which have not been worked
+beyond maximum permissible limits, will be
+considered acceptable for installation on certificated engines. It will be the responsibility of
+the owner or the repairing agency to provide
+this proof. In some cases, it may be necessary
+to remove cylinders to determine the amount
+of oversize since this information may be
+etched on the mating surface of the cylinder
+base flange.

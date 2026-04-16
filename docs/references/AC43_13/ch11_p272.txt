@@ -1,0 +1,150 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 20: ELECTRICAL AND ELECTRONIC SYMBOLS
+
+11-272. SYMBOLS. Only those symbols
+associated with aircraft electrical and electronic wiring have been listed in general. Refer to ANSI-Y32.2-1975 for more specific
+detail on each symbol.
+Adjustability Variability
+Radiation Indicators
+Physical State Recognition
+Test-Point Recognition
+Polarity Markings
+Direction of Flow of Power, Signal, or
+Information
+Kind of Current
+Envelope Enclosure
+Shield Shielding
+Special Connector or Cable Indicator
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Resistor
+Capacitor
+Antenna
+Battery
+Thermal Element Thermomechanical
+Transducer
+Thermocouple
+Spark Gap Ignitor Gap
+Continuous Loop Fire Detector (Temperature Sensor)
+Ignitor Plug
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Transmission Patch
+Conductor
+Cable
+Wiring
+Distribution Lines
+Transmission Lines
+Alternative or Conditioned Wiring
+Associated or Future
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Intentional Isolation of Direct-Current
+Path in Coaxial or
+Waveguide Applications
+Waveguide
+Strip-Type Transmission Line
+Termination
+Circuit Return
+Pressure-Tight Bulkhead Cable
+Gland
+Cable Sealing End
+Switching Function
+Electrical Contact
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Basic Contact Assemblies
+Magnetic Blowout Coil
+Operating Coil
+Relay Coil
+Switch
+Pushbutton, Momentary, or SpringReturn
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Two-Circuit, Maintained, or Not SpringReturn
+Nonlocking Switching, Momentary, or
+Spring-Return
+Locking Switch
+Combination Locking and Nonlocking
+Switch
+Key-Type Switch
+Lever Switch
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Selector or Multiposition Switch
+Safety Interlock
+Limit Switch
+Sensitive Switch
+Switches with Time-Delay Feature
+Flow-Actuated Switch
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Liquid-Level Actuated Switch
+Pressure- or Vacuum-Actuated Switch
+Temperature-Actuated Switch
+Thermostat
+Flasher
+Self-Interrupting Switch
+Foot-Operated Switch
+Foot Switch
+Switch Operated by Shaft Rotation and
+Responsive to Speed or Direction
+Switches with Specific Features
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Governor
+Speed Regulator
+Relay
+Inertia Switch
+Mercur Switch
+Terminals
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Cable Termination
+Connector
+Disconnecting Device
+Connectors of the Type Commonly
+Used for Power-Supply Purposes
+Test Blocks
+Coaxial Connector
+Waveguide Flanges
+Waveguide Junction
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Fuse
+Lightning Arrester
+Arrester
+Gap
+Circuit Breaker
+Protective Relay
+Audible-Signaling Device
+Microphone
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Handset
+Operator’s Set
+Lamp
+Visual-Signaling Device
+Mechanical Connection
+Mechanical Interlock
+Mechanical Motion
+Clutch Brake
+[TABLE 11-27] Electronic/Electrical Symbols (continued).
+Symbol Meaning
+Manual Control
+Gyro
+Gyroscope
+Gyrocompass
+Position Indicator
+Fire Extinguisher Actuator Head
+Position Transmitter
+Radio Station
+Space Station
+11-273.11-283.
+[RESERVED.]
+Integrated Circuit
+Amplifiers
+Logic Gates
+Diode
+Transistor Symbols
+CHAPTER 12. AIRCRAFT AVIONICS SYSTEMS
+SECTION 1. AVIONICS EQUIPMENT MAINTENANCE

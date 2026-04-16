@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-240. THROUGH BOLTS. Through
+bolts are sometimes used to make feeder connections through bulkheads, fuselage skin, or
+firewalls. Mounting plates for through bolts
+must be a material that provides the necessary
+fire barrier, insulation, and thermal properties
+for the application. Sufficient cross section
+should be provided to ensure adequate conductivity against overheating. Secure through
+bolts mechanically and independently of the
+terminal mounting nuts, taking particular care
+to avoid dissimilar metals among the terminal
+hardware. During inspection, pay particular
+attention to the condition of the insulator plate
+or spacer and the insulating boot that covers
+the completed terminal assembly.
+
+SECTION 18. CONDUITS

@@ -1,0 +1,55 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 3: INSPECTION OF EQUIPMENT INSTALLATION
+
+11-35. ACCEPTABLE MEANS OF
+CONTROLLING OR MONITORING THE
+ELECTRICAL LOAD.
+a. Output Rating. The generator or alternator output ratings and limits prescribed by
+the manufacturer must be checked against the
+electrical loads that can be imposed on the affected generator or alternator by installed
+equipment. When electrical load calculations
+show that the total continuous electrical load
+can exceed 80 percent output load limits of the
+generator or alternator, and where special placards or monitoring devices are not installed,
+the electrical load must be reduced or the generating capacity of the charging system must
+be increased. (This is strictly a “rule of thumb”
+method and should not be confused with an
+electrical load analysis, which is a complete
+and accurate analysis, which is a complete and
+accurate of the composite aircraft power
+sources and all electrical loads) When a storage battery is part of the electrical power system, the battery will be continuously charged
+in flight.
+b. The use of placards is recommended
+to inform the pilot and/or crew members of the
+combination(s) of loads that may be connected
+to each power source. Warning lights can be
+installed that will be triggered if the battery
+bus voltage drops below 13 volts on a 14-volt
+system or 26 volts on a 28-volt system.
+c. For installations where the ammeter is
+in the battery lead, and the regulator system
+limits the maximum current that the generator
+or alternator can deliver, a voltmeter can be installed on the system bus. As long as the ammeter never reads “discharge” (except for short
+intermittent loads such as operating the gear
+and flaps) and the voltmeter remains at “system voltage,” the generator or alternator will
+not be overloaded.
+d. In installations where the ammeter is
+in the generator or alternator lead and the
+regulator system does not limit the maximum
+current that the generator or alternator can deliver, the ammeter can be redlined at
+100 percent of the generator or alternator rating. If the ammeter reading is never allowed
+to exceed the red line, except for short intermittent loads, the generator or alternator will
+not be overloaded.
+e. Where the use of placards or monitoring devices is not practical or desired, and
+where assurance is needed that the battery will
+be charged in flight, the total continuous connected electrical load should be held to approximately 80 percent of the total generator
+output capacity. When more than one generator is used in parallel, the total rated output is
+the combined output of the installed generators.
+f. When two or more generators and alternators are operated in parallel and the total
+connected system load can exceed the rated
+output of a single generator, a method should
+be provided for quickly coping with a sudden
+overload that can be caused by generator or
+engine failure. A quick load reduction system
+or procedure should be identified whereby the
+total load can be reduced by the pilot to a
+quantity within the rated capacity of the remaining operable generator or generators.

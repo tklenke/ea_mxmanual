@@ -1,0 +1,149 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-220. SLEEVES AND CABLE
+MARKERS SELECTION. Sleeves and cable markers must be selected by cable size and
+operating conditions. (See tables 11-18
+through 11-21).
+a. Markers are printed using a typewriter
+with a modified roller. Blank markers on a
+bandolier are fed into the typewriter, where
+they are marked in any desired combination of
+characters. The typed markers, still on bandoliers, are heated in an infrared heating tool
+that processes the markers for permanency.
+The typed and heat-treated markers remain on
+the bandolier until ready for installation.
+b. Markers are normally installed using
+the following procedure:
+[FIG 11-28] Cable markers.
+(1) Select the smallest tie-down strap
+that will accommodate the outside diameter of
+the cable. (See table 11-22.)
+[TABLE 11-18] Selection table for standard sleeves.
+Wire or Cable Markable Installed Installed
+Diameter Range. Length * Sleeve Wall
+(inches) Length Thickness
+Min Max (inches) (nom) (max inches)
+(inches)
+0.050 0.080 18 1.5 0.026
+0.075 0.110 18 1.5 0.026
+0.100 0.150 18 1.5 0.028
+0.135 0.215 18 1.5 0.028
+0.200 0.300 18 1.5 0.028
+0.135 0.300 18 1.5 0.028
+0.260 0.450 18 1.5 0.028
+* Based on 12 characters per inch
+(2) Cut the marking plate from the
+bandolier. (See figure 11-28.)
+(3) Thread the tie-down straps through
+holes in marking plate and around cable.
+Thread tip of tie-down strap through slot in
+head. (See figure 11-29.) Pull tip until strap
+is snug around cable.
+[FIG 11-29] Tie-down strap installation.
+As-supplied
+Inside
+Diameter
+(min inches)
+0.093
+0.125
+0.187
+0.250
+0.375
+0.375
+0.475
+[TABLE 11-19] Selection table for thin-wall sleeves.
+Wire or Cable Markable Installed Installed
+Diameter Range Length * Sleeve Thickness
+(inches) (inches) Length (nom) (max
+Min. Max. (inches)
+0.035 0.080 22 1.75 0.020
+0.075 0.110 22 1.75 0.020
+0.100 0.150 21 1.75 0.021
+1.75 0.021 0.250
+0.135 0.225 21
+* Based on 12 characters per inch
+[TABLE 11-20] Selection table for high-temperature sleeves.
+Wire or Cable Markable Installed Installed
+Diameter Range Length * Sleeve Wall
+(inches) Length Thickness
+Min. Max. (inches) (nom) (max inches)
+(inches)
+0.035 0.080 18 1.5 0.019
+0.075 0.110 18 1.5 0.016
+0.100 0.150 18 1.5 0.018
+0.135 0.215 18 1.5 0.018
+0.200 0.300 18 1.5 0.018
+0.260 0.450 18 1.5 0.018
+* Based on 12 characters per inch
+[TABLE 11-21] Selection table for cable markers.
+Cable Diameter Type of Cable Marker Number of
+Range Attachment
+(inches) Holes
+0.25-0.50 Standard, 135 °C 4
+0.25-0.50 High Temperature, 4
+200 °C
+0.25-0.50 Nuclear, 135 °C 4
+0.50-up Standard, 135 °C 4
+0.50-up Standard, 135 °C 6
+0.50-up High Temperature, 4
+200 °C
+0.50-up High Temperature, 6
+200 °C
+0.50-up Nuclear, 135 °C 4
+0.50-up Nuclear, 135 °C 6
+[TABLE 11-22] Plastic tie-down straps (MS3367, Type I, Class
+Cable Diameter Tie-down Strap Strap
+(inches) MS3367Min Max
+1/16 5/8 4-9
+1/16 1¼ 5-9 Intermediate
+1/16 4 2-9
+3/16 8 6-9
+* The specified tool tension settings are for typical cable application.
+for special applications.
+Wall As-supplied
+Inside
+inches) Diameter
+(min inches)
+0.093
+0.125
+0.187
+As-supplied
+Inside
+Diameter (min
+inches)
+0.093
+0.125
+0.187
+0.250
+0.375
+0.475
+Number Marker
+of Lines Thickness
+of Type (nom)
+(inches)
+2 0.025
+2 0.020
+2 0.025
+3 0.025
+3 0.025
+3 0.020
+3 0.020
+3 0.025
+3 0.025
+1).
+Identification * Installation Tool Tension Setting
+Miniature (MIN) MS90387-1 2
+(INT) MS90387-1 4
+Standard (STD) MS90387-1 6
+Heavy (HVY) MS90387-2 6
+Settings less than or greater than those specified may be required
+(4) Select the applicable installation
+tool and move the tension setting to the correct position. (See figure 11-30.)
+(5) Slide tip of strap into opening in
+the installation tool nose piece. (See figure 11-30.)
+(6) Keeping tool against head of tiedown strap, ensure gripper engages tie-down
+strap, and squeeze trigger of installation tool
+until strap installation is completed as shown
+in figure 11-31.
+[FIG 11-30] Tie-down strap installation tool.
+[FIG 11-31] Completed installation.

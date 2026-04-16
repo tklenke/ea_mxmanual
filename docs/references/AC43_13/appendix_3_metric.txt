@@ -1,0 +1,31 @@
+AC 43.13-1B  Appendix 3: Metric-Based Prefixes and Powers of 10
+
+Atto (a) = quintillionth
+Femto (f) = quadrillionth
+Pico (p), or µµ = trillionth
+Nano (n), or mµ = billionth
+Micro (µ) = millionth
+Milli (m) = thousandth
+Centi (c) = hundredth
+Deci (d) = tenth of
+unity = 100 = 1
+Deka (da) = ten times
+Hecto (h) = hundred
+Kilo (k) = thousand
+Mega (M) = million times
+Giga (G), or kM = billion times
+Tera (T) = trillion times
+of = 10-18 times
+of = 10-15 times
+of = 10-12 times
+of = 10-9 times
+of = 10-6 times
+of = 10-3 times`
+of = 10-2 times
+= 10-1 times
+= 10 times
+times = 102 times
+times = 103 times
+= 106 times
+= 109 times
+= 1012 times

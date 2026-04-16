@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 2: TESTING OF METALS
+
+4-17. ROCKWELL HARDNESS TEST.
+The Rockwell hardness test is the most common method for determining hardness of ferrous and many nonferrous metals. (See table 4-5.) It differs from Brinell hardness testing in that the hardness is determined by the
+depth of indentation made by a constant load
+impressing on an indenter. In this test, a standard minor load is applied to set a hardened
+steel ball or a diamond cone in the surface of
+the metal, followed by the application of a
+standard major load. The hardness is measured by depth of penetration. Rockwell superficial hardness tests are made using light minor
+and major loads and a more sensitive system
+for measuring depth of indentation. It is useful
+for thin sections, very small parts, etc. Calibration of Rockwell hardness testers is done in
+accordance with American Society of Testing
+Materials (ASTM E-18) specifications.
+4-17.) The condition causing cracks to develop at a particular point is stress concentration at that point in conjunction with repetition
+of stress, such as produced by vibration of the
+structure. The stress concentration may be due
+to the design or to defects such as nicks,
+scratches, tool marks, and initial stresses or
+cracks from forming or heat-treating operations. It should be noted, that an increase in
+sheet thickness alone is usually beneficial but
+does not necessarily remedy the conditions
+leading to cracking.

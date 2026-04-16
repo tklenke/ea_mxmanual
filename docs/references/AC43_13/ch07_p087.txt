@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 5: WASHERS
+
+7-87. LOCKWASHERS (AN935 AND
+AN936). Lock washers may be used with machine screws or bolts whenever the selflocking or castellated type nut is not applicable. Do not use lock washers where frequent
+removal is required, in areas subject to corrosion, or in areas exposed to airflow. Use a
+plain washer between the lock washer and
+material to prevent gouging the surface of the
+metal.
+CAUTION: Lock washers are not to
+be used on primary structures, secondary structures, or accessories where
+failure might result in damage or danger to aircraft or personnel.

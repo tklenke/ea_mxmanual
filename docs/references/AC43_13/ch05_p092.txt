@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 7: ULTRASONIC INSPECTION
+
+5-92. FLAW DETECTION. Ultrasonic inspection can easily detect flaws that produce
+reflective interfaces. Ultrasonic inspection is
+used to detect surface and subsurface discontinuities, such as: cracks, shrinkage cavities,
+bursts, flakes, pores, delaminations, and porosity. It is also used to measure material
+thickness and to inspect bonded structure for
+bonding voids. Ultrasonic inspection can be
+performed on raw material, billets, finished,
+and semi-finished materials, welds, and inservice assembled or disassembled parts. Inclusions and other nonhomogeneous areas can
+also be detected if they cause partial reflection
+or scattering of the ultrasonic sound waves or
+produce some other detectable effect on the
+ultrasonic sound waves. Ultrasonic inspection
+is one of the more widely-used methods of
+NDI.

@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-213. LASER MARKING. Of the variety
+of laser marking machines, UV lasers are
+proving to be the best. This method marks
+into the surface of the wire’s insulation without
+degradation to its performance. One common
+type of UV laser is referred to as an excimer
+laser marker. UV laser produces the most durable marks because it marks into the insulation instead of on the surface. However, excimer laser will only mark insulation that contain appropriate percentages of titanium dioxide (TiO ). The wire can be marked on the fly.
+2
+UV can mark from 0.030 to 0.25-inch outside
+diameter. The UV laser makes only gray
+marks and they appear more legible on white
+or pastel-colored insulation.

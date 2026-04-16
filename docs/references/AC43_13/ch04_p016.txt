@@ -1,0 +1,29 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 2: TESTING OF METALS
+
+4-16. HARDNESS TESTING. If the material type is known, a hardness test is a simple
+way to verify that the part has been properly
+heat-treated. Hardness testers such as Rockwell, Brinell, and Vickers can be useful to
+check metals for loss of strength due to exposure to fire or abusive heating. Also, understrength bolts can be found and removed from
+the replacement part inventory by checking the
+hardness of the bolt across the hex flats. Although hardness tests are generally considered
+nondestructive, hardness testing does leave a
+small pit in the surface; therefore, hardness
+tests should not be used on sealing surfaces,
+fatigue critical parts, load bearing areas, etc.,
+that will be returned to service. These hardness tests provide a convenient means for determining, within reasonable limits, the tensile
+strength of steel. It has several limitations in
+that it is not suitable for very soft or very hard
+steels. Hardness testing of aluminum alloys
+should be limited to distinguishing between
+annealed and heat-treated material of the same
+aluminum alloy. In hardness testing, the thickness and the edge distance of the specimen
+being tested are two factors that must be considered to avoid distortion of the metal. Several readings should be taken and the results
+averaged. In general, the higher the tensile
+strength, the greater its hardness. Common
+methods of hardness testing are outlined in the
+following paragraphs. These tests are suitable
+for determining the tensile properties resulting
+from the heat treatment of steel. Care should
+be taken to have case-hardened, corroded, pitted, decarburized, or otherwise nonuniform
+surfaces removed to a sufficient depth. Exercise caution not to cold-work, and consequently harden, the steel during removal of the
+surface.

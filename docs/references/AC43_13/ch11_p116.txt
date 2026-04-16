@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-116. GROUP AND BUNDLE TIES. A
+wire bundle consists of a quantity of wires
+fastened or secured together and all traveling
+in the same direction. Wire bundles may consist of two or more groups of wires. It is often
+advantageous to have a number of wire groups
+individually tied within the wire bundle for
+ease of identification at a later date. (See figure 11-7.) Comb the wire groups and bundles
+so that the wires will lie parallel to each other
+and minimize the possibility of insulation
+abrasion. A combing tool, similar to that
+shown in figure 11-8, may be made from any
+suitable insulating material, taking care to
+PROTECTION AND INSPECTION
+[FIG 11-7] Group and bundle ties.
+[FIG 11-8] Comb for straightening wires in bundles.
+ensure all edges are rounded to protect the wire
+insulation.

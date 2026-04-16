@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-79. MICROFISSURES Cracks in parts
+and materials can vary from tiny microfissures,
+that are visible only with magnification, to
+those easily identified by unaided eyes. Microfissures are the worst type of defect for two
+reasons; they are often hard to detect, and they
+produce the worst form of notch effect/stress
+concentration. Once they form, they propagate
+with repeated applications of stress and lead to
+early failures. Every possible means should be
+used to detect the presence of cracks, and ensure their complete removal before welding
+operations proceed. (See figure 4-26.)

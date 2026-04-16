@@ -1,0 +1,47 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-50. GENERAL. The airframe of a fixedwing aircraft is generally considered to consist
+of five principal units; the fuselage, wings,
+stabilizers, flight control surfaces, and landing
+gear.
+a. Aircraft principal structural elements
+(PSE) and joints are designed to carry loads by
+distributing them as stresses. The elements
+and joints as originally fabricated are strong
+enough to resist these stresses, and must remain so after any repairs. Long, thin elements
+are called members. Some examples of members are the metal tubes that form engine
+mount and fuselage trusses and frames, beams
+used as wing spars, and longerons and stringers of metal-skinned fuselages and wings.
+Longerons and stringers are designed to carry
+principally axial loads, but are sometimes required to carry side loads and bending moments, as when they frame cutouts in
+metal-skinned structures. Truss members are
+designed to carry axial (tension and compression) loads applied to their ends only. Frame
+members are designed to carry side loads and
+bending moments in addition to axial loads.
+Beam members are designed to carry side
+loads and bending moments that are usually
+large compared to their axial loads. Beams
+that must resist large axial loads, particularly
+compression loads, in combination with side
+loads and bending moments are called
+beam-columns. Other structural elements such
+as metal skins, plates, shells, wing ribs, bulkheads, ring frames, intercostal members, gussets, and other reinforcements, and fittings are
+designed to resist complex stresses, sometimes
+in three dimensions.
+b. Any repair made on an aircraft structure must allow all of the stresses to enter,
+sustain these stresses, and then allow them to
+return into the structure. The repair must be
+equal to the original structure, but not stronger
+or stiffer, which will cause stress concentrations or alter the resonant frequency of the
+structure.
+c. All-metal aircraft are made of very
+thin sheet metal, and it is possible to restore
+the strength of the skin without restoring its rigidity. All repairs should be made using the
+same type and thickness of material that was
+used in the original structure. If the original
+skin had corrugations or flanges for rigidity,
+these must be preserved and strengthened. If a
+flange or corrugation is dented or cracked, the
+material loses much of its rigidity; and it must
+be repaired in such a way that will restore its
+rigidity, stiffness, and strength.

@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 6: RADIOGRAPHY (X-RAY) INSPECTION
+
+5-78. COMPUTED TOMOGRAPHY
+(CT). CT is another important radiological
+technique with enhanced flaw detection and
+location capabilities. Unlike film and realtime radiography, CT involves the generation
+of cross-sectional views instead of a planar
+[FIG 5-14] Radiography.
+projection. The CT image is comparable to
+that obtained by making a radiograph of a
+physically sectioned thin planar slab from an
+object. This cross-sectional image is not obscured by overlying and underlying structures
+and is highly sensitive to small differences in
+relative density. Computed tomography images are also easier to interpret than radiographs.

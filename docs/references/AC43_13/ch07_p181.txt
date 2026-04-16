@@ -1,0 +1,31 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 10: SAFETY METHODS FOR TURNBUCKLES
+
+7-181. SINGLE-WRAP METHOD. The
+single-wrap methods described in the following paragraphs and as illustrated in figure 726(C) and (D) are acceptable, but are not the
+equal of the double-wrap methods.
+a. Pass a single length of wire through
+the cable eye or fork, or through the hole in the
+swaged terminal at either end of the turnbuckle
+assembly. Spiral each of the wire ends in opposite directions around the first half of the
+turnbuckle barrel, so as to cross each other
+twice. Thread both wire ends through the hole
+in the middle of the barrel so that the third
+crossing of wire ends is in the hole, again, spiral the two wire ends in opposite directions
+around the remaining half of the turnbuckle,
+crossing them twice. Then, pass one wire end
+through the cable eye or fork, or through the
+hole in the swaged terminals, in the manner
+previously described. Wrap both wire ends
+around the shank for at least four turns each,
+cutting off excess wire. This method is shown
+in figure 7-26(C).
+[FIG 7-26] Safetying turnbuckles.
+b. For the method shown in figure
+7-26D, pass one length of wire through the
+center hole of the turnbuckle and bend the wire
+ends toward opposite ends of the turnbuckle.
+Then pass each wire end through the cable eye
+or fork, or through the hole in the swaged terminal, and wrap each wire around the shank
+for at least four turns, cutting off excess wire.
+After safetying, no more than three threads of
+the turnbuckle threaded terminal should be exposed.

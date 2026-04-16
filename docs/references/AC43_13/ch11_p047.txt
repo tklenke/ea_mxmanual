@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 4: INSPECTION OF CIRCUIT-PROTECTION DEVICES
+
+11-47. GENERAL. All electrical wires
+must be provided with some means of circuit
+protection. Electrical wire should be protected
+with circuit breakers or fuses located as close
+as possible to the electrical power source bus.
+Normally, the manufacturer of electrical
+equipment will specify the fuse or breaker to
+be used when installing the respective equipment, or SAE publication, ARP 1199, may be
+referred to for recommended practices.

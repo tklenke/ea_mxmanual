@@ -1,0 +1,57 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 11: CLAMPING
+
+11-146. GENERAL. Wires and wire bundles must be supported by using clamps meeting Specification MS-21919, or plastic cable
+straps in accessible areas if correctly applied
+within the restrictions of paragraph 11-158.
+Clamps and other primary support devices
+must be constructed of materials that are compatible with their installation and environment,
+in terms of temperature, fluid resistance, exposure to ultraviolet (UV) light, and wire bundle
+mechanical loads. They should be spaced at
+intervals not exceeding 24 inches. Clamps on
+wire bundles should be selected so that they
+have a snug fit without pinching wires, as
+shown in figure 11-11 through figure 11-13.
+CAUTION: The use of metal clamps
+on coaxial RF cables may cause problems if clamp fit is such that RF cable’s original cross-section is distorted.
+a. Clamps on wire bundles should not
+allow the bundle to move through the clamp
+when a slight axial pull is applied. Clamps on
+RF cables must fit without crushing and must
+be snug enough to prevent the cable from
+moving freely through the clamp, but may allow the cable to slide through the clamp when
+a light axial pull is applied. The cable or wire
+bundle may be wrapped with one or more turns
+of electrical tape when required to achieve this
+fit. Plastic clamps or cable ties must not be
+used where their failure could result in interference with movable controls, wire bundle
+contact with movable equipment, or chafing
+damage to essential or unprotected wiring.
+They must not be used on vertical runs where
+inadvertent slack migration could result in
+chafing or other damage. Clamps must be installed with their attachment hardware positioned above them, wherever practicable, so
+that they are unlikely to rotate as the result of
+wire bundle weight or wire bundle chafing.
+(See figure 11-11.).
+b. Clamps lined with nonmetallic material should be used to support the wire bundle
+along the run. Tying may be used between
+clamps, but should not be considered as a substitute for adequate clamping. Adhesive tapes
+are subject to age deterioration and, therefore,
+are not acceptable as a clamping means.
+c. The back of the clamp, whenever
+practical, should be rested against a structural
+member. Stand-offs should be used to maintain clearance between the wires and the
+structure. Clamps must be installed in such a
+manner that the electrical wires do not come in
+contact with other parts of the aircraft when
+subjected to vibration. Sufficient slack should
+be left between the last clamp and the electrical equipment to prevent strain at the terminal
+and to minimize adverse effects on shockmounted equipment. Where wires or wire
+bundles pass through bulkheads or other
+structural members, a grommet or suitable
+clamp should be provided to prevent abrasion.
+d. When wire bundle is clamped into
+position, if there is less than 3/8-inch clearance
+between the bulkhead cutout and the wire bundle, a suitable grommet should be installed as
+indicated in figure 11-14. The grommet may
+be cut at a 45 degree angle to facilitate installation, provided it is cemented in place and the
+slot is located at the top of the cutout.

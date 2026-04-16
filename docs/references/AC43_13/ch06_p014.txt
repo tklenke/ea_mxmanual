@@ -1,0 +1,35 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-14. CONCENTRATION CELL CORROSION. Concentration cell corrosion, (also
+known as Crevice Corrosion) is corrosion of
+metals in a metal-to-metal joint, corrosion at
+the edge of a joint even though the joined metals are identical, or corrosion of a spot on the
+metal surface covered by a foreign material.
+Metal ion concentration cells and oxygen concentration cells are the two general types of
+concentration cell corrosion. (See figure 6-6.)
+a. Metal Ion Concentration Cells. The
+solution may consist of water and ions of the
+metal which is in contact with water. A high
+concentration of the metal ions will normally
+exist under faying surfaces where the solution
+is stagnant, and a low concentration of metal
+ions will exist adjacent to the crevice which is
+created by the faying surface. An electrical
+potential will exist between the two points; the
+area of the metal in contact with the low concentration of metal ions will be anodic and
+corrode, and the area in contact with the high
+metal ion concentration will be cathodic and
+not show signs of corrosion.
+b. Oxygen Concentration Cells. The
+solution in contact with the metal surface will
+normally contain dissolved oxygen. An oxygen cell can develop at any point where the
+oxygen in the air is not allowed to diffuse into
+the solution, thereby creating a difference in
+oxygen concentration between two points.
+Typical locations of oxygen concentration
+[FIG 6-6] Concentration cell corrosion.
+cells are under gaskets, wood, rubber, and
+other materials in contact with the metal surface. Corrosion will occur at the area of low
+oxygen concentration (anode). Alloys such as
+stainless steel are particularly susceptible to
+this type of crevice corrosion.

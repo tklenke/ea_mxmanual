@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-41. STANDARD AIRCRAFT HEX
+HEAD BOLTS (AN3 THROUGH AN20).
+These are all-purpose structural bolts used for
+general applications that require tension or
+shear loads. Steel bolts smaller than
+No. 10-32, and aluminum alloy bolts smaller
+than 1/4 inch diameter, should not be used in
+primary structures. Do not use aluminum bolts
+or nuts in applications requiring frequent removal for inspection or maintenance.

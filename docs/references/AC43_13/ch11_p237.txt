@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-237. SPECIAL PURPOSE CONNECTOR. Many special-purpose connectors have
+been designed for use in aircraft applications,
+such as: subminiature connector, rectangular
+shell connector, connectors with short body
+shells, or connector of split-shell construction
+used in applications where potting is required.
+Make every attempt to identify the connector
+part number from the maintenance manual or
+actual part, and the manufacturer’s instruction
+used for servicing.

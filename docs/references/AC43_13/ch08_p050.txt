@@ -1,0 +1,27 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 3: EXHAUST SYSTEMS
+
+8-50. REPAIRS. It is generally recommended that exhaust stacks, mufflers, tailpipes, and etc., be replaced with new or reconditioned components rather than repaired.
+Welded repairs to exhaust systems are complicated by the difficulty of accurately identifying
+the base metal so that the proper repair materials can be selected. Changes in composition
+and grain structure of the original base metal
+further complicates the repair. However, when
+welded repairs are necessary, follow the general procedures outlined in Chapter 4; Metal
+Structure, Welding, and Brazing; of this AC.
+Retain the original contours and make sure that
+[FIG 8-19] Failed internal baffle partially obstructing
+the muffler outlet.
+[FIG 8-20] Failed internal baffle completely obstructing the muffler outlet.
+the completed repair has not warped or otherwise affected the alignment of the exhaust
+system. Repairs or sloppy weld beads, which
+protrude internally, are not acceptable since
+they cause local hotspots and may restrict exhaust gas flow. All repairs must meet the
+manufacturer’s specifications. When repairing
+or replacing exhaust system components, be
+sure that the proper hardware and clamps are
+used. Do not substitute steel or lowFIGURE 8-21a. Example of exhaust outlet guard.
+FIGURE 8-21b. Example of exhaust outlet guard
+installed.
+temperature self-locking nuts for brass or special high-temperature locknuts used by the
+manufacturer. Never reuse old gaskets or old
+star lock washers. When disassembly is necessary replace gaskets with new ones of the same
+type provided by the manufacturer.

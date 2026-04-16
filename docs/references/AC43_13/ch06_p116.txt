@@ -1,0 +1,38 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 7: BASIC CORROSION REMOVAL TECHNIQUES
+
+6-116. CORROSION REMOVAL BY
+BLASTING. Abrasive blasting is a process
+for cleaning or finishing ferrous metals by directing a stream of abrasive particles against
+the surface of the parts. Abrasive blasting is
+used for the removal of rust and corrosion and
+for cleaning prior to painting or plating. The
+following standard blast-cleaning practices
+should be adopted.
+ABRASIVE ALUMINUM STAINLESS PUMICE 350 ABRASIVE
+FABRIC OR STEEL MESH OR WHEEL
+PAD FINER
+FINE TO X X X X
+ULTRA FINE
+GRIT VERY FINE
+X X X
+FINER AND
+ULTRA FINE
+X X
+GRIT VERY FINE
+X X
+FINER AND
+ULTRA FINE
+X
+VERY FINE
+X X X
+AND
+a. The part to be blast-cleaned should be
+removed from the aircraft, if possible. Otherwise, areas adjacent to the part should be
+masked or protected from abrasive impingement and system (hydraulic, oil, fuel, etc.)
+contamination.
+b. Parts should be dry and clean of oil,
+grease, or dirt, prior to blast cleaning.
+c. Close-tolerance surfaces, such as
+bushings and bearing shafts, should be
+masked.
+d. Blast-clean only enough to remove corrosion coating. Proceed immediately with surface treatments as required.

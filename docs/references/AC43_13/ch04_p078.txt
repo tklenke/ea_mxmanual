@@ -1,0 +1,41 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-78. INSPECTION OF A COMPLETED
+WELD. Visually inspect the completed weld
+for the following:
+(a) The weld has a smooth seam and uniform
+thickness. Visual inspection shall be made of
+the completed weld to check for undercut
+and/or smooth blending of the weld contour
+into the base metal.
+(b) The weld is tapered smoothly into the
+base metal.
+(c) No oxide has formed on the base metal
+more than 1/2 inch from the weld.
+(d) There are no signs of blowholes, porosity, or projecting globules. Many military
+specifications, as well as American Society of
+Testing Materials (ASTM) codes, specify acceptable limits of porosity and other types of
+defects that are acceptable.
+(e) The base metal shows no signs of pitting,
+burning, cracking, or distortion.
+(f) The depth of penetration insures fusion of
+base metal and filler rod.
+(g) The welding scale is removed. The
+welding scale can be removed using a wire
+brush or by sandblasting. Remove any
+roll over, cold lab, or unfued weld metal.
+Check underside of welded joint for defects.
+[TABLE 4-12] Current and polarity selection for inert gas welding.
+MATERIAL Frequency STRAIGHT
+Magnesium up to ¹/8 in. thick..................................................
+³/16 1 N.R.
+Magnesium above in. thick...............................................
+Magnesium Castings................................................................
+Aluminum up to ³/32 in. thick..................................................
+³/32
+Aluminum over in. thick ...................................................
+Aluminum Castings .................................................................
+Stainless Steel ..........................................................................
+Low Carbon Steel, 0.015 to 0.030 in. .....................................
+Low Carbon Steel, 0.030 to 0.125 in. .....................................
+1 Recommended N.R. Not Recommended

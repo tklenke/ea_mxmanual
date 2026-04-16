@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 10: WEIGHT AND BALANCE  Section 1: TERMINOLOGY
+
+10-1. GENERAL. The removal or addition
+of equipment results in changes to the center of
+gravity (c.g.). The empty weight of the aircraft, and the permissible useful load are affected accordingly. Investigate the effects of
+these changes, since the aircraft flight characteristics may be adversely affected. Information on which to base the record of weight and
+balance changes to the aircraft may be obtained from the pertinent Aircraft Specifications, Type Certificate Data Sheet (TCDS),
+prescribed aircraft operating limitations, aircraft flight manual, aircraft weight and balance
+report, and maintenance manual. Removal of
+standard parts with negligible weight or addition of minor items of equipment such as nuts,
+bolts, rivets, washers, and similar standard
+parts of negligible weight on fixed-wing aircraft do not require a weight and balance
+check. Rotorcraft are, in general, more critical
+with respect to control with changes in the c.g.
+position. Refer to the procedures and instructions in that particular model’s maintenance or
+flight manual.

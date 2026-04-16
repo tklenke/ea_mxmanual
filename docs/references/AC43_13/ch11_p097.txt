@@ -1,0 +1,49 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-97. WIRING REPLACEMENT. Wiring must be replaced with equivalent wire (see
+paragraph 11-78) when found to have any of
+the following defects:
+a. Wiring that has been subjected to
+chafing or fraying, that has been severely damaged, or that primary insulation is suspected of
+being penetrated.
+b. Wiring on which the outer insulation is
+brittle to the point that slight flexing causes it
+to crack.
+c. Wiring having weather-cracked outer
+insulation.
+d. Wiring that is known to have been exposed to electrolyte or on which the insulation
+appears to be, or is suspected of being, in an
+initial stage of deterioration due to the effects
+of electrolyte.
+e. Check wiring that shows evidence of
+overheating (even if only to a minor degree)
+for the cause of the overheating.
+f. Wiring on which the insulation has become saturated with engine oil, hydraulic fluid,
+or another lubricant.
+g. Wiring that bears evidence of having
+been crushed or severely kinked.
+h. Shielded wiring on which the metallic
+shield is frayed and/or corroded. Cleaning
+agents or preservatives should not be used to
+minimize the effects of corrosion or deterioration of wire shields.
+i. Wiring showing evidence of breaks,
+cracks, dirt, or moisture in the plastic sleeves
+placed over wire splices or terminal lugs.
+j. Sections of wire in which splices occur
+at less than 10-foot intervals, unless specifically authorized, due to parallel connections,
+locations, or inaccessibility.
+k. When replacing wiring or coaxial cables, identify them properly at both equipment
+and power source ends.
+l. Wire substitution-In the repair and
+modification of existing aircraft, when a replacement wire is required, the maintenance
+manual for that aircraft should first be reviewed to determine if the original aircraft
+manufacturer (OAM) has approved any substitution. If not, then the OAM should be
+contacted for an acceptable replacement.
+m. Testing of the electrical and chemical integrity of the insulation of sample wires
+taken from areas of the aircraft that have experienced wiring problems in the past, can be
+used to supplement visual examination of the
+wire. The test for chemical integrity should be
+specific for the degradation mode of the insulation. If the samples fail either the electrical
+or chemical integrity tests, then the wiring in
+the area surrounding the sampling area is a
+candidate for replacement.

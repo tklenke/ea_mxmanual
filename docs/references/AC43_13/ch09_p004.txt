@@ -1,0 +1,106 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-4. FIXED-GEAR INSPECTION. Fixed
+landing gear should be examined regularly for
+wear, deterioration, corrosion, alignment, and
+other factors that may cause failure or unsatisfactory operation. During a 100-hour or annual inspection of the fixed gear, the aircraft
+should be jacked up to relieve the aircraft
+weight. The gear struts and wheels should be
+checked for abnormal play and corrected.
+a. Old aircraft landing gear that employs a rubber shock (bungee) cord for shock
+absorption must be inspected for age, fraying
+of the braided sheath, narrowing (necking) of
+the cord, and wear at points of contact with the
+structure and stretch. If the age of the shock
+cord is near 5 years or more, it is advisable to
+replace it with a new cord. A cord that shows
+other defects should be replaced, regardless of
+age.
+b. The cord is color-coded to indicate
+when it was manufactured and to determine
+the life of the shock cord. According to
+MIL-C-5651A, the color code for the year of
+manufacture is repeated in cycles of 5 years.
+Table 9-1 shows the color of the code thread
+for each year and quarter year.
+[TABLE 9-1] Bungee cord color codes.
+YEARS ENDING COLOR QUARTER COLOR
+WITH
+0 or 5 Black 1st Red
+1 or 6 Green 2nd Blue
+2 or 7 Red 3rd Green
+3 or 8 Blue 4th Yellow
+4 or 9 Yellow 1st Red
+c. The color coding is composed of
+threads interwoven in the cotton sheath that
+holds the strands of rubber cord together. Two
+spiral threads are used for the year coding and
+one thread is used for the quarter of the year
+sheath, e.g. yellow and blue would indicate
+that the cord was manufactured in 1994 during
+April, May, or June.
+d. Shock struts of the spring-oleo type
+should be examined for leakage, smoothness
+of operation, looseness between the moving
+parts, and play at the attaching points. The
+extension of the struts should be checked to
+make sure that the springs are not worn or broken. The piston section of the strut should be
+free of nicks, cuts, and rust.
+e. Air-oil struts should undergo an inspection similar to that recommended for
+spring-oleo struts. In addition, the extension
+of the strut should be checked to see that it
+conforms to the distance specified by the
+“bottoms”—
+manufacturer. If an air-oil strut
+that is, it is collapsed—the gas charge and
+hydraulic fluid has been lost from the air
+chamber. This is probably due to a loose or
+defective air valve or to defective O-ring seals.
+CAUTION: Before an air-oil strut is
+removed or disassembled, the air
+valve should be opened to make sure
+that all air pressure is removed. Severe injury and/or damage can occur
+as the result of disassembling a strut
+when even a small amount of air pressure is still in the air chamber.
+f. The method for checking the fluid
+level of an air-oil strut is given in the manufacturer’s maintenance manual. An alternate
+means of servicing an oil strut is to jack up the
+aircraft, remove the strut’s valve cap, release
+the air charge in the strut by depressing the
+valve core, remove the strut’s valve core, attach a clean two-foot rubber or plastic hose to
+the threaded portion that houses the valve core,
+and secure with a hose clamp. Put the other
+end of the hose into a clean two quart container filled with the correct hydraulic fluid for
+the strut. Cover the container with a clean rag
+to prevent spillage. Now, slowly raise the
+gear/strut assembly either manually or with
+another jack under the strut. This will drive
+the remaining air out of the strut into the container of hydraulic fluid. Once the gear is fully
+retracted, slowly lower the gear. The hydraulic
+fluid in the can will be sucked into the strut.
+Repeat this procedure until you cannot hear
+any more air bubbles in the container when the
+wheel strut is fully retracted. With the strut
+fully retracted, remove the hose, insert the
+valve core, lower the gear, and service the strut
+with nitrogen to get the proper strut extension.
+g. The entire structure of the landing
+gear should be closely examined for cracks,
+nicks, cuts, corrosion damage, or any other
+condition that can cause stress concentrations
+and eventual failure. The exposed lower end
+of the air-oleo piston is especially susceptible
+to damage and corrosion, which can lead to
+seal damage, because the strut is compressed
+and the piston moves past the strut lower seal,
+causing the seal to leak fluid and air. Small
+nicks or cuts can be filed and burnished to a
+smooth contour, eliminating the point of stress
+concentration. If a crack is found in a landinggear member, the part must be replaced.
+h. All bolts and fittings should be
+checked for security and condition. Bolts in
+the torque links and shimmy damper tend to
+wear and become loose due to the operational
+loads placed on them. The nose-wheel
+shimmy damper should be checked for proper
+operation and any evidence of leaking. All required servicing should be performed in accordance with the aircraft service manual.

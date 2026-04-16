@@ -1,0 +1,193 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-88. BRAZING. Brazing refers to a group
+of metal-joining processes in which the bonding material is a nonferrous metal or alloy with
+a melting point higher than 425 C (800 F), but
+lower than that of the metals being joined.
+Brazing includes silver brazing (erroneously
+called silver soldering or hard soldering), copper brazing, and aluminum brazing.
+NOTE: Never weld over a previously
+brazed joint.
+a. Brazing requires less heat than welding
+and can be used to join metals that are damaged by high heat. However, because the
+strength of brazed joints is not as great as
+welded joints, brazing is not used for structural
+repairs on aircraft. In deciding whether brazing of a joint is justified, it should be remembered that a metal, which will be subjected to a
+sustained high temperature in use, should not
+be brazed.
+b. A brazing flux is necessary to obtain a
+good union between the clean base metal and
+the filler metal. There are a number of readily
+available manufactured fluxes conforming to
+AWS and AMT specifications.
+c. The base metal should be preheated
+slowly with a mild flame. When it reaches a
+dull-red heat (in the case of steel), the rod
+should be heated to a dark (or purple) color
+and dipped into the flux. Since enough flux
+adheres to the rod, it is not necessary to spread
+it over the surface of the metal.
+d. A neutral flame is used in most brazing
+applications. However, a slightly oxidizing
+flame should be used when copper-zinc, copper-zinc-silicon, or copper-zinc-nickel-silicon
+filler alloys are used. When brazing aluminum
+and its alloys, a neutral flame is preferred, but
+if difficulties are encountered, a slightly reduced flame is preferred to an oxidizing flame.
+e. The filler rod can now be brought near
+the tip of the torch, causing the molten bronze
+to flow over a small area of the seam. The
+base metal must be at the flowing temperature
+of the filler metal before it will flow into the
+joint. The brazing metal melts when applied to
+the steel and runs into the joint by capillary attraction. In braze welding, the rod should
+continue to be added, as the brazing progresses, with a rhythmic dipping action; so that
+the bead will be built to a uniform width and
+height. The job should be completed rapidly
+and with as few passes of the rod and torch as
+possible.
+f. When the job is finished, the metal
+should be allowed to cool slowly. After cooling, remove the flux from the parts by immersing them for 30 minutes in a lye solution.
+(1) Copper brazing of steel is normally done
+in a special furnace having a controlled atmosphere, and at a temperature so high that field
+repairs are seldom feasible. If copper brazing
+is attempted without a controlled atmosphere,
+the copper will probably not completely wet
+and fill the joint. Therefore, copper brazing in
+any conditions other than appropriately controlled conditions is not recommended.
+(a) The allowable shear strength for copper
+brazing of steel alloys should be 15 thousand
+pounds per square inch (kpsi), for all conditions of heat treatment.
+(b) The effect of the brazing process on the
+strength of the parent or base metal of steel
+alloys should be considered in the structural
+design. Where copper furnace brazing is employed, the calculated allowable strength of
+the base metal, which is subjected to the temperatures of the brazing process, should be in
+accordance with table 4-14.
+[TABLE 4-14] Calculated allowable strength of base
+metal.
+Material Allowable Strength
+Heat-treated material (in­ Mechanical properties of
+cluding normalized) used normalized material
+in “as-brazed”
+condition
+Heat-treated material (in­ Mechanical properties
+cluding normalized) corresponding to heat
+reheat-treated during or treatment performed
+after brazing
+(2) Alloys commonly referred to as silver
+°C °F),
+solders melt above 425 (800 and when
+using them the process should be called silver
+brazing.
+(a) The principal use of silver brazing in aircraft work is in the fabrication of high-pressure
+oxygen lines and other parts which must withstand vibration and high temperatures. Silver
+brazing is used extensively to join copper (and
+its alloys), nickel, silver, various combinations
+of these metals, and thin steel parts. Silver
+brazing produces joints of higher strength than
+those produced by other brazing processes.
+(b) It is necessary to use flux in all silverbrazing operations, because of the necessity for
+having the base metal chemically clean, (without the slightest film of oxide to prevent the
+silver-brazing alloy from coming into intimate
+contact with the base metal).
+(c) The joint must be physically and chemically clean, which means it must be free of all
+dirt, grease, oil, and paint. After removing the
+dirt, grease, and paint, any oxide should be
+removed by grinding or filing the piece until
+bright metal can be seen. During the soldering
+operation, the flux continues the
+process of keeping oxide away from the metal
+and aids the flow of solder.
+(d) In figure 4-32, three types of joints for
+silver brazing are shown; flanged butt, lap, and
+edge joints. If a lap joint is used, the amount
+of lap should be determined according to the
+strength needed in the joint. For strength equal
+to that of the base metal in the heated zone, the
+amount of lap should be four to six times the
+metal thickness.
+[FIG 4-32] Silver brazing joints.
+(e) The oxyacetylene flame for silver brazing
+should be neutral, but may have a slight excess
+of acetylene. It must be soft, not harsh. During both preheating and application of the solder, the tip of the inner cone of the flame
+should be held about 1/2 inch from the work.
+The flame should be kept moving so that the
+metal will not become overheated.
+(f) When both parts of the base metal are at
+the right temperature (indicated by the flow of
+flux), brazing alloy can be applied to the surface of the under or inner part at the edge of
+the seam. It is necessary to simultaneously direct the flame over the seam, and keep moving
+it so that the base metal remains at an even
+temperature.
+(3) The torch can be shut off simply by
+closing the acetylene off first and allowing the
+gas remaining in the torch tip to burn out.
+Then turn off the oxygen valve. If the torch is
+not to be used again for a long period, the
+pressure should be turned off at the cylinder.
+The hose lines should then be relieved of pressure by opening the torch needle valves and
+the working pressure regulator, one at a time,
+allowing the gas to escape. Again, it is a good
+practice to relieve the oxygen pressure and
+then the acetylene pressure. The hose should
+then be coiled or hung carefully to prevent
+damage or kinking.
+(4) Soft soldering is used chiefly for copper,
+brass, and coated iron in combination with
+mechanical seams; that is, seams that are riveted, bolted, or folded. It is also used where a
+leak-proof joint is desired, and sometimes for
+fitting joints to promote rigidity and prevent
+corrosion. Soft soldering is generally performed only in very minor repair jobs. This
+process is used to join electrical connections
+because it forms a strong union with low electrical resistance.
+(a) Soft solder gradually yields under a
+steadily applied load and should not be used
+unless the transmitted loads are very low. It
+should never be used as a means of joining
+structural members.
+(b) A soldering iron is the tool used in soldering. Its purpose is to act as a source of heat
+for the soldering operation. The bit, or working face, is made from copper since this metal
+will readily absorb heat and transmit it to the
+work. Figure 4-33 shows a wedge-shaped bit.
+[FIG 4-33] Electric soldering iron.
+(c) To tin the soldering iron, it is first heated
+to a bright red, and then the point is cleaned
+(by filing) until it is smooth and bright. No
+dirt or pits should remain on its surface. After
+the soldering iron has been mechanically
+cleaned, it should be reheated sufficiently to
+melt solder and chemically cleaned by rubbing
+it firmly on a block of sal ammoniac (ammonium chloride). Rosin flux paste may also be
+used. Solder is then applied to the point and
+wiped with a clean cloth.
+(d) A properly tinned copper iron has a thin
+unbroken film of solder over the entire surface
+of its point.
+(e) Soft solders are chiefly alloys of tin and
+lead. The percentages of tin and lead vary
+considerably in various solder, with a corresponding change in their melting points, rang°C °F).
+ing from 145-311 (293-592
+Half-and-half (50/50) solder is a general purpose solder and is most frequently used. It
+contains equal proportions of tin and lead, and
+°C °F).
+it melts at approximately 182 (360
+(f) The application of the melted solder requires somewhat more care than is apparent.
+The parts to be soldered should be locked together or held mechanically or manually while
+tacking. To tack the seam, the hot copper iron
+is touched to a bar of solder, then the drops of
+solder adhering to the copper iron are used to
+tack the seam at a number of points. The film
+of solder between the surfaces of a joint must
+be kept thin to make the strongest joint.
+(g) A hot, well-tinned soldering copper iron
+should be held so that its point lies flat on the
+metal (at the seam), while the back of the copper iron extends over the seam proper at a
+45-degree angle, and a bar of solder is touched
+to the point. As the solder
+melts, the copper iron is drawn slowly along
+the seam. As much solder as necessary is
+added without raising the soldering copper iron
+from the job. The melted solder should run
+between the surfaces of the two sheets and
+cover the full width of the seam. Work should
+progress along the seam only as fast as the solder will flow into the joint.

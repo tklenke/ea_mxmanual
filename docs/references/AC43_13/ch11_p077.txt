@@ -1,0 +1,60 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 6: AIRCRAFT ELECTRICAL WIRE SELECTION
+
+11-77. AIRCRAFT WIRE MATERIALS.
+Only wire, specifically designed for airborne
+use, must be installed in aircraft.
+a. Authentic Aircraft Wire. Most aircraft wire designs are to specifications that require manufacturers to pass rigorous testing of
+wires before being added to a Qualified Products List (QPL) and being permitted to produce
+the wire. Aircraft manufacturers who maintain
+their own wire specifications invariably exercise close control on their approved
+sources. Such military or original equipment
+manufacturer (OEM) wire used on aircraft
+should only have originated from these defined
+wire mills. Aircraft wire from other unauthorized firms, and fraudulently marked with
+the specified identification, must be regarded
+as “unapproved wire,” and usually will be of
+inferior quality with little or no process control
+testing. Efforts must be taken to ensure obtaining authentic, fully tested aircraft wire.
+b. Plating. Bare copper develops a surface oxide coating at a rate dependent on temperature. This oxide film is a poor conductor
+of electricity and inhibits determination of
+wire. Therefore, all aircraft wiring has a coating of tin, silver, or nickel, that have far slower
+oxidation rates.
+(1) Tin coated copper is a very common
+plating material. Its ability to be successfully
+soldered without highly active fluxes diminishes rapidly with time after manufacture. It
+can be used up to the limiting temperature of
+150 °C.
+(2) Silver-coated wire is used where
+temperatures do not exceed 200 °C (392 °F).
+(3) Nickel coated wire retains its properties beyond 260 °C, but most aircraft wire
+using such coated strands have insulation systems that cannot exceed that temperature on
+long-term exposure. Soldered terminations of
+nickel-plated conductor require the use of different solder sleeves or flux than those used
+with tin or silver-plated conductor.
+c. Conductor Stranding. Because of
+flight vibration and flexing, conductor round
+wire should be stranded to minimize fatigue
+breakage.
+d. Wire Construction Versus Application. The most important consideration in the
+selection of aircraft wire is properly matching
+the wire’s construction to the application environment. Wire construction that is suitable for
+the most severe environmental condition to be
+encountered should be selected. Wires are
+typically categorized as being suitable for either “open wiring” or “protected wiring” applications. MIL-W-5088L, replaced by
+AS50881A, wiring aerospace vehicle, Appendix A table A-I lists wires considered to have
+sufficient abrasion and cut-through resistance
+to be suitable for open-harness construction.
+MIL-W-5088L, replaced by AS50881A, wiring
+aerospace vehicle, Appendix A table A-II lists
+wires for protected applications. These wires
+are not recommended for aircraft interconnection wiring unless the subject harness is covered throughout its length by a protective
+jacket. The wire temperature rating is typically
+a measure of the insulation’s ability to withstand the combination of ambient temperature
+and current related conductor temperature rise.
+e. Insulation. There are many insulation
+materials and combinations used on aircraft
+electrical wire. Characteristics should be chosen based on environment; such as abrasion resistance, arc resistance, corrosion resistance,
+cut-through strength, dielectric strength, flame
+resistant, mechanical strength, smoke emission, fluid resistance, and heat distortion. An
+explanation of many of the abbreviations is
+identified in the glossary.

@@ -1,0 +1,149 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-149. CABLE SYSTEM INSPECTION.
+Aircraft cable systems are subject to a variety
+of environmental conditions and deterioration.
+Wire or strand breakage is easy to visually recognize. Other kinds of deterioration such as
+wear, corrosion, and/or distortion are not easily
+seen; therefore, control cables should be removed periodically for a more detailed inspection.
+a. At each annual or 100 hour inspection, all control cables must be inspected for
+broken wires strands. Any cable assembly that
+has one broken wire strand located in a critical
+fatigue area must be replaced.
+b. A critical fatigue area is defined as the
+working length of a cable where the cable runs
+over, under, or around a pulley, sleeve, or
+through a fair-lead; or any section where the
+cable is flexed, rubbed, or worked in any manner; or any point within 1 foot of a swaged-on
+fitting.
+c. A swaged-on fitting can be an eye,
+fork, ball, ball and shank, ball and double
+shank, threaded stud, threaded stud and turnbuckle, compression sleeve, or any hardware
+used as a termination or end fitting on the cable. These fittings may be attached by various
+swaging methods such as rotary swaging, roll
+swaging, hydraulic pressing, and hand swaging
+tools. (See MIL-T-781.) The pressures exerted on the fittings during the swaging process sometimes pinch the small wires in the cable. This can cause premature failure of the
+pinched wires, resulting in broken wires.
+d. Close inspection in these critical fatigue areas, must be made by passing a cloth
+over the area to snag on broken wires. This
+will clean the cable for a visual inspection, and
+detect broken wires if the cloth snags on the
+cable. Also, a very careful visual inspection
+must be made since a broken wire will not always protrude or stick out, but may lie in the
+strand and remain in the position of the helix
+as it was manufactured. Broken wires of this
+type may show up as a hairline crack in the
+wire. If a broken wire of this type is suspected, further inspection with a magnifying
+glass of 7 power or greater, is recommended.
+Figure 7-16 shows a cable with broken wires
+that was not detected by wiping, but was found
+during a visual inspection. The damage became readily apparent when the cable was removed and bent as shown in figure 7-16.
+[FIG 7-16] Cable inspection technique.
+e. Kinking of wire cable can be avoided
+if properly handled and installed. Kinking is
+caused by the cable taking a spiral shape as the
+result of unnatural twist. One of the most
+common causes for this twist is improper unreeling and uncoiling. In a kinked cable,
+strands and wires are out of position, which
+creates unequal tension and brings excessive
+wear at this part of the cable. Even though the
+kink may be straightened so that the damage
+appears to be slight, the relative adjustment
+between the strands has been disturbed so that
+the cable cannot give maximum service and
+should be replaced. Inspect cables for a
+popped core or loose strands. Replace any cable that has a popped core or loose strands regardless of wear or broken wires.
+f. Nylon-jacketed cable with any cracks
+or necking down in the diameter of the jacket
+shall be replaced. Usable cable life is over
+when these conditions begin to appear in the
+nylon jacket.
+g. External wear patterns will extend
+along the cable equal to the distance the cable
+moves at that location and may occur on one
+side of the cable or on its entire circumference.
+Replace flexible and nonflexible cables when
+the individual wires in each strand appear to
+blend together (outer wires worn 40 to 50 percent) as depicted in figure 7-17. Actual instances of cable wear beyond the recommended replacement point are shown in figure 7-18.
+[FIG 7-17] Cable wear patterns.
+h. As wear is taking place on the exterior
+surface of a cable, the same condition is taking
+place internally, particularly in the sections of
+the cable which pass over pulleys and quadrants. This condition (shown in figure 7-19) is
+not easily detected unless the strands of the cable are separated. This type of wear is a result
+of the relative motion between inner wire surfaces. Under certain conditions, the rate of this
+type of wear can be greater than that occurring
+on the surface.
+[FIG 7-18] Worn cable (replacement necessary).
+i. Areas especially conducive to cable
+corrosion are battery compartments, lavatories,
+wheel wells, etc.; where a concentration of
+corrosive fumes, vapors, and liquids can accumulate. Carefully examine any cable for
+corrosion, when it has a broken wire in a section that is not in contact with a wearproducing airframe component, such as a pulley, fair-lead, etc. If the surface of the cable is
+corroded, relieve cable tension and carefully
+force the cable open by reverse twisting and
+visually inspect the interior. Corrosion on the
+interior strands of the cable constitutes failure,
+and the cable must be replaced. If no internal
+corrosion is detected, remove loose external
+rust and corrosion with a clean, dry, coarseweave rag, or fiber brush. Do not use metallic
+[FIG 7-19] Internal end view of cable wear.
+wool or solvents to clean installed cables. Use
+of metallic wool will embed dissimilar metal
+particles in the cables and create further corrosion problems. Solvents will remove internal
+cable lubricant allowing cable strands to
+abrade and further corrode. After thorough
+cleaning, sparingly apply specification
+MIL-C-16173, grade 4, corrosion-preventive
+compound to cable. Do not apply the material
+so thick that it will interfere with the operation
+of cables at fair-leads, pulleys, or grooved
+bellcrank areas.
+j. Examine cable runs for incorrect routing, fraying, twisting, or wear at fair-leads,
+pulleys, antiabrasion strips, and guards. Look
+for interference with adjacent structure,
+equipment, wiring, plumbing, and other controls. Inspect cable systems for binding, full
+travel, and security of attaching hardware.
+Check for slack in the cable system by attempting to move the control column and/or
+pedals while the gust locks are installed on the
+control surfaces. With the gust locks removed,
+actuate the controls and check for friction or
+hard movement. These are indications that excessive cable tension exists.
+NOTE: If the control movement is stiff
+after maintenance is performed on control surfaces, check for parallel cables
+twisted around each other, or cables
+connected in reverse.
+k. Check swaged terminal reference
+marks for an indication of cable slippage
+within the fitting. Inspect the fitting assembly
+for distortion and/or broken strands at the terminal. Ensure that all bearings and swivel fittings (bolted or pinned) pivot freely to prevent
+binding and subsequent failure. Check turnbuckles for proper thread exposure and broken
+or missing safety wires/clips.
+l. Inspect pulleys for roughness, sharp
+edges, and presence of foreign material embedded in the grooves. Examine pulley bearings to ensure proper lubrication, smooth rotation; and freedom from flat spots, dirt, and
+paint spray. During the inspection, rotate the
+pulleys, which only turn through a small arc, to
+provide a new bearing surface for the cable.
+Maintain pulley alignment to prevent the cable
+from riding on the flanges and chafing against
+guards, covers, or adjacent structure. Check
+all pulley brackets and guards for damage,
+alignment, and security.
+m. Various cable system malfunctions
+may be detected by analyzing pulley conditions. These include such discrepancies as too
+much tension, misalignment, pulley bearing
+problems, and size mismatches between cables
+and pulleys. Examples of these condition are
+shown in figure 7-20.
+[FIG 7-20] Pulley wear patterns.
+n. Inspect fair-leads for wear, breakage,
+alignment, cleanliness, and security. Examine
+cable routing at fair-leads to ensure that defec3°€maximum.
+tion angles are no greater than
+Determine that all guides and anti-abrasion
+strips are secure and in good condition.
+o. Examine pressure seals for wear and/or
+material deterioration. Seal guards should be
+positioned to prevent jamming of a pulley in
+case pressure seal fails and pieces slide along
+the cable.

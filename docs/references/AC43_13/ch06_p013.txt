@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 2: TYPES OF CORROSION
+
+6-13. PITTING CORROSION. Pitting
+corrosion is one of the most destructive and
+intense forms of corrosion. It can occur in any
+metal but is most common on metals that form
+protective oxide films, such as aluminum and
+magnesium alloys. It is first noticeable as a
+white or gray powdery deposit, similar to dust,
+which blotches the surface. When the deposit
+is cleaned away, tiny holes or pits can be seen
+in the surface. (See figures 6-5(a) and 6-5(b).)
+These small surface openings may penetrate
+deeply into structural members and cause
+damage completely out of proportion to its surface appearance.
+FIGURE 6-5(a). Pitting corrosion (external view).
+FIGURE 6-5(b). Pitting corrosion (magnified cross section).

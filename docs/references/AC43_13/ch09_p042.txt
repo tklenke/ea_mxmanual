@@ -1,0 +1,156 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 3: EMERGENCY EQUIPMENT
+
+9-42. RAFT REPAIRS.
+a. Repairs. The service life for flotation
+equipment will be determined by condition
+rather than age. Equipment passing tests and
+inspections may remain in service indefinitely
+since the inflation tests and material inspections will identify and condemn equipment
+having more than minor installation defects.
+However, the service life for life rafts operating under normal usage and environmental
+conditions is anticipated by the manufacturers
+to be 8 to 10 years, and it is appropriate to base
+life raft’s parts replacement programs upon this
+estimate. It is not considered advisable or economical to perform major repairs on life rafts.
+b. Life Rafts. Life rafts with any of the
+following conditions should be condemned
+rather than repaired:
+(1) Life rafts over 3-1/2 years of age
+and requiring major repair or more than two
+minor repairs.
+(2) A rip or tear across an air retaining
+seam.
+(3) Rafts on which oil, grease, or any
+other foreign substance has caused a deterioration of the rubberized fabric.
+(4) Rafts on which a heavy mildew
+condition has caused deterioration of the rubberized fabric.
+(5) Rafts on which porous flotation
+tubes allow diffusion of air. A porous area is
+located by a soap test on the inflated raft.
+Higher diffusion is indicated by the excessive
+loss of pressure after a soap test has failed to
+locate a specific area of injury on the raft.
+(6) Rafts requiring internal repair or
+opening of air retaining seams for repair.
+(7) Rafts with an excessive number of
+injuries that would not, in the judgment of
+competent inspectors, justify repair.
+c. Patches. Holes or abrasions which are
+2 inches or less, in diameter (in air retaining
+chambers) will be repaired by the application
+of an outside patch. Holes exceeding 2 inches
+in length or diameter, will require an inside
+patch as well as an outside patch. Inside and
+outside patches should be round or rectangular
+and manufactured of fabric (specification
+MIL-C-6819). Cement should conform to
+Class 1 of specification MIL-C-5539. Patch as
+follows:
+(1) Outside patches.
+(a) With a rubber solvent thoroughly
+clean the area to be patched.
+(b) From the material referenced,
+fabricate a patch as shown in figure 9-13.
+(c) When two fabric surfaces are to
+be bonded, apply two coats of extra light cement, two coats of light cement, and three
+coats of heavy cement to each surface. Rubbercoated tape and seam crossover patches with
+protective backing do not require cement. Each
+coat of cement should be thoroughly dry to the
+touch before the next coat is applied. Start the
+bonding of fabric surfaces while the last coat
+of cement is slightly tacky. To ensure proper
+adhesion when bonding two cemented surfaces, the areas to be bonded should remain
+tacky during application. This is accomplished
+by brushing the cemented area with a cloth
+moistened with solvent.
+NOTE: If difficulty in the drying of
+heavy cement is encountered due to
+atmospheric conditions, six additional
+coats of light cement may be substituted for the three coats of heavy cement.
+(d) After applying the patch, thoroughly roll it with a hand roller, rolling from
+the center to the outer edge, to ensure that all
+air pockets are removed and a firm bond is secured.
+(e) Thoroughly dust with talc. Allow
+to cure for 60 hours before performing leak
+tests and storing.
+(2) Inside Patches.
+(a) Cut a rectangular patch as shown
+in figure 9-13, allowing at least 1-1/2 inches to
+extend beyond the edge of the injury in all directions.
+(b) Mark the center line on the side
+of the patch that is to be attached to the raft.
+Mark cross lines on each end of the patch
+1-1/2 inches from the ends. When the patch is
+applied to the injury on the inside, the longitudinal edges of the injury will coincide with the
+center line, and cross lines on the ends of the
+patch will coincide with the ends of the injury.
+(c) To ensure that the inside surface
+of the raft is properly powdered in the area of
+repair, pass a small handful of talc through the
+opening in the raft and place it approximately
+12 inches from the injury. This should be accomplished before the inside area is cemented,
+exercising care to prevent distribution of the
+talc prior to completion of the repair.
+[FIG 9-13] Repair dimensions.
+(d) Using cleaning solvent, cleanse
+an area on the inside surface of the fabric
+slightly larger than the patch to be applied. Ensure that the repaired area is thoroughly dry,
+both inside and outside; apply two coats of
+extra light cement, two coats of light cement,
+and three coats of heavy cement (or six additional coats of light cement in lieu of the heavy
+cement) to the cleansed area, allowing each
+coat to dry thoroughly before applying successive coats.
+NOTE: Since it is impossible for the
+repairman to visually observe the cementing that is being accomplished on
+the inside of the raft, exercise care to
+ensure that each coat of cement completely covers the area to be repaired.
+(e) The inside patch should be cemented simultaneously with the application of
+cement to the inside of the raft. Apply the
+same number of coats as directed in paragraph 9 42b(2)(d) to the side of the patch that
+is applied to the injured fabric of the raft. Ensure that each coat is thoroughly dry before
+applying the next coat.
+(f) To aid in adhesion, prior to applying the patch, the inside area to be repaired
+and cemented surface of the patch should be
+cleaned with a cloth moistened with rubber
+solvent. The cement will then become tacky.
+(g) Apply the patch. Fold the patch
+lengthwise in the shape of the letter “U” and
+insert the patch between the torn edges of the
+injury on the life rafts. Position the patch so
+that the fabric at the end of the tear will coincide with a cross line and the center line on the
+patch follows one edge of the torn fabric. Attach one edge of the torn fabric along the center line on the patch.
+(h) Inspect the repair for wrinkles.
+Working from the attached edge of the fabric
+to the edge of the patch, remove the wrinkles
+with a stitcher. Lay the opposite edge of the
+torn fabric on the patch so that it butts the edge
+of the torn fabric that has already been applied
+to the patch. Remove the wrinkles. Thoroughly roll the patch with a 2 inch rubber
+roller.
+NOTE: The surface under the patch
+should be as smooth as possible so that
+the torn edge of the fabric may be attached to the patch instead of attempting to attach the patch to the
+fabric.
+(i) Scatter the handful of talc that was
+placed inside the tube by grasping the sides of
+the flotation tube and pulling them apart.
+(j) Prepare and attach the outside
+patch as outlined in “OUTSIDE PATCHES,”
+sub-paragraphs 9-42b(1)(a)-(e).
+(k) Allow to cure for at least
+60 hours before performing leak tests and
+storing.
+(3) Seams and Tapes.
+(a) Remove all old or dead cement
+from the area that will require recementing.
+Dampen the repair area with a solventmoistened cloth; then roll or rub off the old
+cement.
+(b) Apply cement to the surface as
+outlined in “OUTSIDE PATCHES,” subparagraph 9-42b(1)(a)-(e).
+(c) Roll thoroughly with a roller to
+ensure that all air pockets are removed and a
+firm bond is secured.
+(d) Allow to dry and apply talc over
+the seam as previously outlined.
+(e) Allow to cure for at least 60 hours
+before performing leak tests and storing.

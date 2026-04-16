@@ -1,0 +1,34 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 3: INSPECTION AND TESTING
+
+2-34. FABRIC TESTING. Mechanical devices used to test fabric by pressing against or
+piercing the finished fabric are not FAA approved and are used at the discretion of the
+mechanic to base an opinion on the general
+fabric condition. Punch test accuracy will depend on the individual device calibration, total
+coating thickness, brittleness, and types of
+coatings and fabric. Mechanical devices are
+not applicable to glass fiber fabric that will
+easily shear and indicate a very low reading
+regardless of the true breaking strength. If the
+fabric tests in the lower breaking strength
+range with the mechanical punch tester or if
+the overall fabric cover conditions are poor,
+then more accurate field tests may be made.
+Cut a 1-1/4-inch wide by 4-inch long sample
+from a top exposed surface, remove all coatings and ravel the edges to a 1-inch width.
+Clamp each end between suitable clamps with
+one clamp anchored to a support structure
+while a load is applied (see table 2-1) by adding sand in a suitable container suspended a
+few inches above the floor. If the breaking
+strength is still in question, a sample should be
+sent to a qualified testing laboratory and
+breaking strength tests made in accordance
+with American Society of Testing Materials
+(ASTM) publication D5035.
+NOTE: ASTM publication D1682 has
+been discontinued but is still referred
+to in some Aerospace Material Specification (AMS). The grab test method
+previously listed in ASTM D1682, sections 1 through 16, has been superseded by ASTM publication D5034.
+The strip testing method (most commonly used in aircraft) previously
+listed in ASTM D1682, sections 17
+through 21, has been superseded by
+ASTM publication D5035.

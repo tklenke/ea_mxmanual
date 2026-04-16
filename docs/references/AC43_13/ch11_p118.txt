@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-118. SLACK. Wiring should be installed
+with sufficient slack so that bundles and individual wires are not under tension. Wires connected to movable or shock-mounted equipment should have sufficient length to allow
+full travel without tension on the bundle.
+Wiring at terminal lugs or connectors should
+have sufficient slack to allow two reterminations without replacement of wires. This slack
+should be in addition to the drip loop and the
+allowance for movable equipment. Normally,
+wire groups or bundles should not exceed
+1/2-inch deflection between support points, as
+shown in figure 11-9a. This measurement may
+be exceeded provided there is no possibility of
+the wire group or bundle touching a surface
+that may cause abrasion. Sufficient slack
+should be provided at each end to:
+a. Permit replacement of terminals.
+b. Prevent mechanical strain on wires.
+c. Permit shifting of equipment for maintenance purposes.
+11-118A. DRIP LOOP IN WIRE BUNDLE.
+A drip loop is an area where wire is dressed
+downward to a connector, terminal block,
+panel, or junction bo. In additional to the
+service termination and strain relief, a trap or
+drip loop shall be provided in the wiring to
+prevent fluid or condensate from running into
+the above devices. (see Figure 11-9b) Wires
+or groups of wires should enter a junction box
+or piece of equipment in an upward direction
+where practicable. Where wires must be
+routed downwards to a junction box or unit of
+electric equipment, the entry should be sealed
+or adequate slack should be provided to form a
+trap or drip loop to prevent liquid from
+running down the wires in the box or electric
+unit.

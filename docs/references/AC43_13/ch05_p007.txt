@@ -1,0 +1,80 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 1: GENERAL
+
+5-7. TYPES OF INSPECTIONS. Nondestructive testing methods are techniques used
+both in the production and in-service environments without damage or destruction of the
+item under investigation. Examples of NDI
+methods are as follows:
+a. Visual inspection
+b. Magnetic particle
+c. Penetrants
+d. Eddy current
+e. Radiography
+f. Ultrasonic
+g. Acoustic emission
+h. Thermography
+i. Holography
+j. Shearography
+k. Tap testing
+[TABLE 5-1] Advantages and disadvantages of NDI methods.
+METHOD ADVANTAGES
+VISUAL Inexpensive
+Highly portable Generally only large discontinuities
+Immediate results Misinterpretation of scratches
+Minimum training
+Minimum part preparation
+DYE PENETRANT Portable
+Inexpensive Rough or porous surfaces interfere with test
+Sensitive to very small discontinuities Part preparation required
+30 min. or less to accomplish (removal of finishes and sealant, etc.)
+Minimum skill required High degree of cleanliness required
+MAGNETIC Can be portable
+PARTICLE Inexpensive
+Sensitive to small discontinuities Part preparation required
+Immediate results (removal of finishes and sealant, etc.)
+Moderate skill required Semi-directional requiring general
+Detects surface and subsurface discontinuities orientation of field to discontinuity
+Relatively fast Ferro-magnetic materials only
+EDDY Portable
+CURRENT Detects surface and subsurface discontinuities
+Moderate speed Electrically conductive materials
+Immediate results Skill and training required
+Sensitive to small discontinuities Time consuming for large areas
+Thickness sensitive
+Can detect many variables
+ULTRASONIC Portable
+Inexpensive Rough surfaces interfere with test
+Sensitive to very small discontinuities Highly sensitive to sound beam -
+Immediate results discontinuity orientation
+Little part preparation High degree of skill required to set up and
+Wide range of materials and thickness can interpret
+be inspected Couplant usually required
+X-RAY Detects surface and internal flaws
+Can inspect hidden areas Very expensive (slow process)
+RADIOGRAPHY
+Permanent test record obtained Highly directional, sensitive to flaw orientation
+Minimum part preparation High degree of skill and experience required for
+ISOTOPE Portable
+RADIOGRAPHY Less expensive than X-ray
+Detects surface and internal flaws handling and use
+Can inspect hidden areas Highly directional, sensitive to flaw orientation
+Permanent test record obtained High degree of skill and experience required for
+Minimum part preparation exposure and interpretation
+5-8.5-14.
+[RESERVED.]
+DISADVANTAGES
+Surface discontinuities only
+Locate surface defects only
+Direct visual detection of results required
+Surface must be accessible
+Rough surfaces interfere with test
+Part must be demagnetized after test.
+Surface must be accessible to probe
+Rough surfaces interfere with test
+Surface must be accessible to probe
+Safety hazard
+exposure and interpretation
+Depth of discontinuity not indicated
+Safety hazard
+Must conform to Federal and State regulations for
+Depth of discontinuity not indicated
+SECTION 2. VISUAL INSPECTION

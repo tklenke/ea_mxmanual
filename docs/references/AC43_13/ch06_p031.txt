@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 3: CORROSION PROTECTION MEASURES FOR BASIC MATERIALS
+
+6-31. PLATING. Steels are commonly
+plated with other metals to prevent corrosion.
+Plating is accomplished by placing the article
+in an electrolytic bath. Metals used in plating
+vary in the corrosion protection they afford
+steel. For instance, in platings that corrode before steel, such as zinc or cadmium, slight
+breaks or cracks throughout the plating will
+not result in rusting of the exposed steel. With
+the surface metal corroded, the steel is protected. However, when the steel corrodes
+faster than the plate metal, such as chromium,
+the amount of protection depends on the tightness of the plating. Post-plate bake treatment
+to relieve hydrogen embrittlement is a necessary part of replating procedures for
+high-strength steel parts. High-strength nuts
+and bolts are susceptible to failure from hydrogen embrittlement. Because of the potential
+failures of embrittled parts, careful control
+over the heat treatment, grinding, preplate
+cleaning, plating, and post-plate baking of
+high-strength parts is necessary.

@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 4: NUTS
+
+7-68. PLAIN NUT (AN315 AND AN335).
+The plain nut is capable of withstanding large
+tension loads; however, it requires an auxiliary
+locking device, such as a checknut or safety
+wire. Use of this type on aircraft structures is
+limited.

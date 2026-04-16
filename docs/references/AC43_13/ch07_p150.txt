@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-150. CORROSION AND RUST PREVENTION. To ensure a satisfactory service
+life for aircraft control cables, use a cable lubricant to reduce internal friction and prevent
+corrosion.
+a. If the cable is made from tinned steel,
+coat the cable with rust-preventive oil, and
+wipe off any excess. It should be noted that
+corrosion-resistant steel cable does not require
+this treatment for rust prevention.
+b. Lubrication and corrosion preventive
+treatment of carbon steel cables may be effected simultaneously by application of compound MIL-C-16173, grade 4, or
+MIL-C-11796, Class I. MIL-C-16173 compound should be brushed, sprayed, or wiped on
+the cable to the extent it penetrates into the
+strands and adequately covers the cable surfaces. It will dry “tack free” in 24 hours at
+77 °F. MIL-C-11796 compound is applied by
+dipping the cable for 1/2 minute into a tank of
+°C
+compound heated to 77 ° ± 5 (170 ° ± 9 °F)
+for 1/2 minute then removing it and wiping off
+the excess oil. (An example of cable corrosion, attributable to battery acid, is shown in
+figure 7-21.)
+[FIG 7-21] Corrosion.

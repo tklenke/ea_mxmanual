@@ -1,0 +1,262 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 9: MAGNESIUM AND MAGNESIUM ALLOYS
+
+6-148. GENERAL. Magnesium and magnesium alloys are the most chemically active
+of the metals used in aircraft construction and
+are the most difficult to protect. However, corrosion on magnesium surfaces is probably the
+easiest to detect in its early stages. Since magnesium corrosion products occupy several
+times the volume of the original magnesium
+metal destroyed, initial signs show a lifting of
+the paint films and white spots on the magnesium surface. These rapidly develop into
+snow-like mounds or even white whiskers.
+The prompt and complete correction of the
+coating failure is imperative if serious structural damage is to be avoided.
+6-149. TREATMENT OF WROUGHT
+MAGNESIUM SHEETS AND FORGINGS.
+Corrosive attack on magnesium skins will usually occur around the edges of skin panels, underneath hold-down washers, or in areas
+physically damaged by shearing, drilling, abrasion, or impact. Entrapment of moisture under
+and behind skin crevices is frequently a contributing factor. If the skin section can be easily removed, this should be accomplished to
+ensure complete inhibition and treatment.
+a. Complete mechanical removal of corrosion products should be practiced when
+practical. Mechanical cleaning should normally be limited to the use of stiff bristle
+brushes and similar nonmetallic cleaning tools.
+b. Any entrapment of steel particles
+from steel wire brushes, steel tools, or contamination of treated surfaces, or dirty abrasives, can cause more trouble than the initial
+corrosive attack. The following procedural
+summary is recommended for treatment of corroded magnesium areas when accomplished
+under most field conditions.
+c. When aluminum insulating washers
+are used and they no longer fasten tightly to
+magnesium panels, corrosion is likely to occur
+under the washers if corrective measures are
+not taken.
+(1) When machine screw fasteners are
+used, aluminum insulating washers must be
+removed from all locations to surface treat the
+magnesium panel.
+(2) Where permanent fasteners other
+than machine screws are used, the insulating
+washer and fastener must be removed.
+(3) When located so water can be
+trapped in the counter-bored area where the
+washer was located, use sealants to fill the
+counterbore. If necessary, fill several areas
+adjacent to each other. It may be advantageous
+to cover the entire row of fasteners with a strip
+of sealant.
+6-150. REPAIR OF MAGNESIUM
+SHEET METAL AFTER EXTENSIVE
+CORROSION REMOVAL. The same general instructions apply when making repairs in
+magnesium as in aluminum alloy skin, except
+that two coats of epoxy primer may be required on both the doubler and skin being
+patched instead of one. Where it is difficult to
+form magnesium alloys in the contour, aluminum alloy may be utilized. When this is done,
+it is necessary to ensure effective dissimilar
+metal insulation. Vinyl tape will ensure positive separation of dissimilar metals, but edges
+will still have to be sealed to prevent entrance
+of moisture between mating surfaces at all
+points where repairs are made. It is recommended that only non-corrosive type sealant be
+used, since it serves a dual purpose of material
+separation and sealing.
+6-151. IN-PLACE TREATMENT OF
+MAGNESIUM CASTINGS. Magnesium
+castings, in general, are more porous and more
+prone to penetrating attack than wrought magnesium skin. However, treatment in the field
+is, for all practical purposes, the same for all
+magnesium. Bellcranks, fittings, and numerous covers, plates, and handles may also be
+magnesium castings. When attack occurs on a
+casting, the earliest practical treatment is required to prevent dangerous corrosive penetration. Engine cases in salt water can develop
+moth holes and complete penetration overnight.
+a. If at all practical, faying surfaces involved shall be separated to treat the existing
+attack effectively and prevent its further progress. The same general treatment sequence as
+detailed for magnesium skin should be followed. Where engine cases are concerned,
+baked enamel overcoats are usually involved
+rather than other top coat finishes. A good air
+drying enamel can be used to restore protection.
+b. If extensive removal of corrosion
+products from a structural casting is involved,
+a decision from the aircraft manufacturer or a
+DER may be necessary to evaluate the adequacy of structural strength remaining. Refer
+to the aircraft manufacturer if any questions of
+safety are involved.
+6-152. EXAMPLE OF REMOVING
+CORROSION FROM MAGNESIUM. If
+possible, corroded magnesium parts shall be
+removed from aircraft. When impossible to
+remove the part, the following procedure will
+be used.
+a. Positively identify metal as magnesium.
+b. Clean area to be reworked.
+c. Strip paint if required.
+d. Determine the extent of corrosion
+damage.
+e. Remove light to moderate corrosion by
+one of the following means.
+(1) Non-Powered Corrosion Removal.
+(a) Non-powered removal can be accomplished using abrasive mats, cloth, and paper with aluminum oxide grit (do not use silicon carbide abrasive). Metallic wools and
+hand brushes compatible with magnesium such
+as stainless steel and aluminum, may be used.
+(b) When a brush is used the bristles
+should not exceed 0.010 inch in diameter.
+After using a brush, the surface should be polished with 400 grit aluminum oxide abrasive
+paper, then with 600 grit aluminum oxide
+abrasive paper.
+(c) Pumice powder may be used to
+remove stains or to remove corrosion on thin
+metal surfaces where minimum metal removal
+is allowed.
+(2) Chemical Corrosion Removal.
+(a) Chemical corrosion removal on
+magnesium alloys is usually done with a
+chromic acid pickle solution. Chemical corrosion removal methods are not considered adequate for areas that have:
+1 Deep pitting,
+2 Heavy corrosion and corrosion
+by products,
+3 Previously had corrosion removed by mechanical means, or
+4 Previously been sand blasted.
+(b) Do not use this method for parts
+containing copper and steel-based inserts (unless the inserts are masked off) and where it
+might come into contact with adhesive bonded
+skins or parts.
+(3) The following solution may be used
+to remove surface oxidation and light corrosion products from magnesium surfaces.
+(a) Solution Composition and Operation:
+1 Chromium Trioxide. 24 oz.
+2 (O-C-303, Type II). Water to
+Make 1 gal. Reaction Time 1 to 15 min.
+3 Operation Temperature. (Solution can be operated at room temperature for a
+longer reaction time if desired.) 190 to 202 °F.
+4 Container Construction. Leadlined steel, stainless steel, or 1100 aluminum.
+(b) Mask off nearby operating
+mechanisms, cracks and plated steel to keep
+the solution from attacking them.
+(c) Apply chromic acid solution carefully to the corroded area with an acid-resistant
+brush.
+(d) Allow the solution to remain on
+the surface for approximately 15 minutes.
+Agitation may be required.
+(e) Thoroughly rinse the solution
+from the surface with plenty of clean water.
+(f) Repeat the preceding sequence as
+necessary until all corrosion products have
+been removed and the metal is a bright metallic color.
+f. Remove moderate to heavy corrosion by
+one of the following means.
+(1) Powered Corrosion Removal.
+(a) Powered corrosion removal can
+be accomplished using pneumatic drill motor
+with either an aluminum-oxide-impregnated
+abrasive wheel, flap brush, or rubber grinding
+wheel with an abrasive value to approximately
+120 grain size.
+(b) Also a rotary file with fine flutes
+can be used for severe or heavy corrosion
+product buildup on metals thicker than
+0.0625 inch. If a flap brush or rotary file is
+used, it should only be used on one type of
+metal. Do not use either a hand or rotary carbon steel brush on magnesium.
+(c) Pneumatic sanders are acceptable
+if used with disk or paper of aluminum oxide.
+When using sanders, use extra care to avoid
+over heating aircraft skins thinner than
+0.0625 inch.
+(d) Do not use rotary wire brushes on
+magnesium.
+WARNING: Cuttings and small
+shavings from magnesium can ignite
+easily and are an extreme fire hazard.
+Fires of this metal must be extinguished with absolutely dry talc, calcium carbonate, sand, or graphite by
+applying the powder to a depth of
+1/2 inch over the metal.
+(2) Blasting. Abrasive blasting is an
+approved method of corrosion removal on
+magnesium alloys of a thickness greater than
+0.0625 inch. Remove heavy corrosion products by hand brushing with a stainless steel or
+fiber brush followed by vacuum abrasive
+blasting with glass beads, (Spec. MIL-G-9954)
+sizes 10-13; or grain abrasive (Spec.
+MIL-G-5634), types I or III at an air pressure
+of 10 to 35 psi (if suction equipment is used,
+use a 50 percent higher pressure). Upon completion of blasting, inspect for the presence of
+corrosion in the blast area. Give particular attention to areas where pitting has progressed
+into intergranular attack. This is necessary because abrasive blasting has a tendency to close
+up streaks of intergranular corrosion rather
+than remove them if the operator uses an improper impingement angle. If the corrosion
+has not been removed in a total blasting time
+of 60 seconds on any one specific area, other
+mechanical methods of removal should be
+utilized.
+CAUTION: When blasting magnesium alloys, do not allow the blast
+stream to dwell on the same spot
+longer than 15 seconds. Longer dwell
+times will cause excessive metal removal.
+g. Inspect the reworked area to ensure
+that no corrosion products remain. If corrosion
+products are found, repeat method used and
+re-inspect.
+h. Fair depressions resulting from rework
+using a blend ratio of 20:1. Clean rework area
+using 240 grit abrasive paper. Smooth with
+300 grit and finally polish with 400 grit abrasive paper.
+i. Determine depth of faired depressions
+to ensure that rework limits have not been exceeded. Refer to the manufacture’s specifications.
+j. Clean reworked area using a solvent to
+provide a water-break-free surface. Do not use
+kerosene or another petroleum base fuel as a
+cleaning solvent.
+k. Apply Chromic Acid Brush-on Pretreatment.
+(1) Chemical pretreatment such as the
+following chromic acid solution (Conversion
+coat conforming to Spec. MIL-M-3171,
+type VI) provides a passive surface layer with
+an inhibitive characteristic that resists corrosive attack and also provides a bond for subsequent coatings. Properly-applied magnesium
+pretreatment tend to neutralize corrosion media in contact with the surface.
+(2) The chromic acid brush-on pretreatment may be applied to all magnesium
+parts that require touch-up. This treatment is
+generally used in refinishing procedures or
+when parts and assemblies are too large to be
+immersed. This treatment is less critical to apply than the other brush-on treatments. It is
+relatively inexpensive and not as harmful when
+trapped in faying surfaces.
+(a) Solution Composition and Operation:
+1 Distilled Water 1 gal.
+2 Chromic Acid (CrO ) 1.3 oz.
+3
+3 (99.5 pure), Calcium Sulfate
+1 oz. (CaSo .2H O)
+4 2
+4 Operating Temp. 70-90 °F.
+5 Container: Stainless Steel, Aluminum, Vinyl, Polyethylene, or Rubber.
+NOTE: Good application requires
+proper preparation of the chromic
+acid coating solution and cleaning of
+the surface where the solution will be
+applied. A water-break test is recommended if the cleanliness of the surface is in doubt.
+(b) Add chemicals to water in the order shown.
+(c) Stir vigorously for at least
+15 minutes, either mechanically or by air agitation, to ensure that the solution is saturated
+with calcium sulfate. (Let solution stand for
+15 minutes before decanting.)
+(d) Prior to use, decant solution
+(avoid transfer of undissolved calcium sulfate)
+into suitable containers (polyethylene or glass).
+(e) Apply solution by brush, swab, or
+flow on using low-pressure spray (nonatomizing) until the metal surface becomes a
+dull color (the color can vary from greenbrown, brassy, yellow-brown to dark-brown).
+For good paint adhesion, a dark-brown color
+free of powder is considered best. The color
+may vary in using different vendors’ materials.
+NOTE: Too long an exposure to the
+brush-on solution produces coatings
+that will powder and impair adhesion
+of applied paint finish/films.
+(f) Observe the coating closely during the treatment for color changes, rinsed with
+cold running water when the desired condition/color is reached and air dried. Preparation
+and use of test panels made of the same material and under the same conditions, before
+starting the actual treating operation may be
+used as to determine the application time required to produce the required coating. A
+good coating is uniform in color/density, adheres well and is free of loose powder.
+l. Apply primer and top coat finish
+m. Remove masking and protective coverings.
+6-153.6-163.
+[RESERVED.]
+SECTION 10. FERROUS METALS

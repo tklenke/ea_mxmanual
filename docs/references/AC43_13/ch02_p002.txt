@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 1: PRACTICES AND PRECAUTIONS
+
+2-2. PROBLEM AREAS.
+a. Deterioration. Polyester fabric deteriorates only by exposure to ultraviolet radiation as used in an aircraft covering environment. When coatings completely protect the
+fabric its service life is infinite. Therefore, it is
+very important to thoroughly protect the
+structure from deterioration before covering
+and provide adequate inspection access to all
+areas of fabric-covered components to allow
+inspection for corrosion, wood rot, and mice
+infestation. Multiple drain holes in the lower
+ends of all fabric-covered sections also provide
+needed ventilation to remove condensation.
+b. Tension. Polyester fabric obtains
+ºF, dures given in the pertinent manuals must be
+maximum tension on an airframe at 350
+and will not be excessive on aircraft originally
+covered with natural fabric and 12 coats of
+Nitrate or Butyrate Dope. However, dope applied over full heat-tauted fabric can develop
+excess tension after aging and damage light
+aircraft structures. Coatings other than dope
+will not increase fabric tension after aging.
+The heat-tauting instructions given in the
+manual of each STC-approved covering process should be followed.

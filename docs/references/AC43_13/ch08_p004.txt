@@ -1,0 +1,49 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-4. REPLACEMENT PARTS IN CERTIFICATED ENGINES. Engine replacement
+parts must be approved under Title 14 of the
+Code of Federal Regulations (14 CFR),
+part 21. Serviceable parts obtained from the
+engine manufacturer, authorized service facility, and those which are approved Federal
+Aviation Administration (FAA)/Parts Manufacture Approval (PMA), or Technical Standard Order (TSO), and meet the requirements
+of part 21 are acceptable for use as replacement parts. Used engine parts can be installed
+if that part either conforms to new part tolerances or meets the manufacturer’s service limits. Ensure that used parts are airworthy and
+properly identified as a PMA or TSO part.
+8-4 Copper Alloy
+2-1
+0-00
+000
+0000
+8-000 Aluminum All
+of the strap would permit wiring to move
+against parts which could damage the insulation and foul mechanical linkages or other
+moving mechanical parts. They also may not
+be used where they could be exposed to UV
+light, unless the straps are resistant to such exposure.
+a. Lacing. Lace wire groups or bundles
+inside junction boxes or other enclosures.
+Single cord-lacing method, shown in figure 11-15, and tying tape, meeting specification MIL-T-43435, may be used for wire
+groups of bundles 1-inch in diameter or less.
+The recommended knot for starting the single
+cord-lacing method is a clove hitch secured by
+a double-looped overhand knot as shown in
+figure 11-15, step a. Use the double cordlacing method on wire bundles 1-inch in diameter or larger as shown in figure 11-16.
+When using the double cord-lacing method,
+employ a bowline on a bight as the starting
+knot.
+b. Tying. Use wire group or bundle ties
+where the supports for the wire are more than
+of strands per Total allowable nicked and
+conductor broken strands
+19 2 nicked, none broken
+37 4 nicked, none broken
+133 6 nicked, 6 broken
+665-817 6 nicked, 6 broken
+1,045-1,330 6 nicked, 6 broken
+1,665- 6 nicked, 6 broken
+2,109- 6 nicked, 6 broken
+numbers of strands None, None
+12 inches apart. A tie consists of a clove hitch,
+around the wire group or bundle, secured by a
+square knot as shown in figure 11-17.
+c. Plastic Ties. Refer to Paragraph 11-220 and table 11-21.

@@ -1,0 +1,134 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-186. GROUNDING. Grounding is the
+process of electrically connecting conductive
+objects to either a conductive structure or some
+other conductive return path for the purpose of
+safely completing either a normal or fault circuit.
+a. Types of Grounding. If wires carrying
+return currents from different types of sources,
+such as signals of DC and AC generators, are
+connected to the same ground point or have a
+common connection in the return paths, an interaction of the currents will occur. Mixing
+return currents from various sources should be
+avoided because noise will be coupled from
+one source to another and can be a major
+problem for digital systems. To minimize the
+interaction between various return currents,
+different types of grounds should be identified
+and used. As a minimum, the design should
+use three ground types: (1) ac returns, (2) dc
+returns, and (3) all others. For distributed
+power systems, the power return point for an
+alternative power source would be separated.
+For example, in a two-ac generator (one on the
+right side and the other on the left side) system, if the right ac generator were supplying
+backup power to equipment located in the left
+side, (left equipment rack) the backup ac
+ground return should be labeled “ac Right”.
+The return currents for the left generator
+should be connected to a ground point labeled
+“ac Left”
+b. Current Return Paths. The design of
+the ground return circuit should be given as
+much attention as the other leads of a circuit.
+A requirement for proper ground connections
+is that they maintain an impedance that is essentially constant. Ground return circuits
+should have a current rating and voltage drop
+adequate for satisfactory operation of the connected electrical and electronic equipment.
+EMI problems, that can be caused by a system’s power wire, can be reduced substantially
+by locating the associated ground return near
+the origin of the power wiring (e.g. circuit
+breaker panel) and routing the power wire and
+its ground return in a twisted pair. Special care
+should be exercised to ensure replacement on
+ground return leads. The use of numbered insulated wire leads instead of bare grounding
+jumpers may aid in this respect. In general,
+equipment items should have an external
+ground connection, even when internally
+grounded. Direct connections to a magnesium
+(which may create a fire hazard) structure must
+not be used for ground return.
+c. Heavy-Current Grounds. Power
+ground connections, for generators, transformer rectifiers, batteries, external power receptacles, and other heavy-current, loads must
+be attached to individual grounding brackets
+that are attached to aircraft structure with a
+proper metal-to-metal bonding attachment.
+This attachment and the surrounding structure
+must provide adequate conductivity to accommodate normal and fault currents of the
+system without creating excessive voltage drop
+or damage to the structure. At least three fasteners, located in a triangular or rectangular
+pattern, must be used to secure such brackets
+in order to minimize susceptibility to loosening under vibration. If the structure is fabricated of a material such as carbon fiber composite (CFC), which has a higher resistivity
+than aluminum or copper, it will be necessary
+to provide an alternative ground path(s) for
+power return current. Special attention should
+be considered for composite aircraft.
+d. Current Return Paths for Internally
+Grounded Equipment. Power return or fault
+current ground connections within flammable
+vapor areas must be avoided. If they must be
+made, make sure these connections will not
+arc, spark, or overheat under all possible current flow or mechanical failure conditions, including induced lightning currents. Criteria
+for inspection and maintenance to ensure continued airworthiness throughout the expected
+life of the aircraft should be established.
+Power return fault currents are normally the
+highest currents flowing in a structure. These
+can be the full generator current capacity. If
+full generator fault current flows through a localized region of the carbon fiber structure,
+major heating and failure can occur. CFC and
+other similar low-resistive materials must not
+be used in power return paths. Additional
+voltage drops in the return path can cause voltage regulation problems. Likewise, repeated
+localized material heating by current surges
+can cause material degradation. Both problems may occur without warning and cause
+nonrepeatable failures or anomalies.
+e. Common Ground Connections. The
+use of common ground connections for more
+than one circuit or function should be avoided
+except where it can be shown that related malfunctions that could affect more than one circuit will not result in a hazardous condition.
+Even when the loss of multiple systems does
+not, in itself, create a hazard, the effect of such
+failure can be quite distracting to the crew.
+(1) Redundant systems are normally
+provided with the objective of assuring continued safe operation in the event of failure of a
+single channel and must therefore be grounded
+at well separated points. To avoid construction
+or maintenance errors that result in connecting
+such ground at a single point, wires that
+ground one channel of a redundant system
+should be incapable of reaching the ground
+attachment of the other channel.
+(2) The use of loop type grounding
+systems (several ground leads connected in series with a ground to structure at each end)
+must be avoided on redundant systems, because the loss of either ground path will remain undetected, leaving both systems, with a
+potential single-point failure.
+(3) Electrical power sources must be
+grounded at separate locations on the aircraft
+structure. The loss of multiple sources of
+electrical power, as the result of corrosion of a
+ground connection or failure of the related
+fasteners, may result in the loss of multiple
+systems and should be avoided by making the
+ground attachments at separate locations.
+(4) Bonds to thermally or vibrationisolated structure require special consideration
+to avoid single ground return to primary
+structure.
+(5) The effect of the interconnection of
+the circuits when ungrounded should be considered whenever a common ground connection is used. This is particularly important
+when employing terminal junction grounding
+modules or other types of gang grounds that
+have a single attachment point.
+f. Grounds for Sensitive Circuits. Special consideration should be given to grounds
+for sensitive circuits. For example:
+(1) Grounding of a signal circuit
+through a power current lead introduces power
+current return voltage drop into the signal circuit.
+(2) Running power wires too close will
+cause signal interference.
+(3) Separately grounding two components of a transducer system may introduce
+ground plane voltage variations into the system.
+(4) Single point grounds for signal circuits, with such grounds being at the signal
+source, are often a good way to minimize the
+effects of EMI, lightning, and other sources of
+interference.

@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-3. CRANKSHAFT INSPECTION AND
+REPAIR REQUIREMENTS. Carefully inspect for misalignment and replace if bent beyond the manufacturer’s permissible service
+limit. Worn journals may be repaired by regrinding in accordance with manufacturers’ instructions. It is recommended that grinding
+operations be performed by appropriately-rated
+repair stations or the original engine manufacturer. Common errors that occur in crankshaft
+grinding are the removal of nitrided journal
+surface, improper journal radii, unsatisfactory
+surfaces, and grinding tool marks on the journals. If the fillets are altered, do not reduce
+their radii. Polish the reworked surfaces to assure removal of all tool marks. Most opposed
+engines have nitrided crankshafts, and engine
+manufacturers specify that these crankshafts
+must be re-nitrided after grinding.
+NOTE: Rapid deceleration or momentary slowing of a propeller may
+occur due to contact with tall grass,
+water, or snow. If this occurs, the engine and propeller should be inspected
+in accordance with the manufacturer’s instruction or service bulletins.

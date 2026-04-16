@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 10: SAFETY METHODS FOR TURNBUCKLES
+
+7-179. GENERAL. Safety all turnbuckles
+with safety wire using either the double or single-wrap method, or with any appropriately
+approved special safetying device complying
+with the requirements of FAA Technical Standard Order TSO-C21. The swaged and unswaged turnbuckle assemblies are covered by
+AN standard drawings. Do not reuse safety
+wire. Adjust the turnbuckle to the correct cable tension so that no more than three cable
+threads are exposed on either side of the turnbuckle barrel.

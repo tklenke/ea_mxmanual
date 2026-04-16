@@ -1,0 +1,94 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 4: REPAIR OF METAL PROPELLERS
+
+8-74. REPAIR LIMITS. The following
+limits are those listed in the blade manufacturing specification for aluminum-alloy blades
+and govern the width and thickness of new
+blades. These limits are to be used with the
+pertinent blade drawing to determine the
+minimum original blade dimensions to which
+the reduction of figure 8-27 and figure 8-28.
+may be applied. When repairs reduce the
+width or thickness of the blade below these
+limits, reject the blade. The face alignment or
+track of the propeller should fall within the
+limits recommended by the manufacturer for
+new propellers
+propellers.
+a. No repairs are permitted to the shanks
+(roots or hub ends) of aluminum-alloy, adjustable-pitch blades. The shanks must be within
+manufacturer’s limits.
+b. The following two examples show
+how to determine the allowable repair limits
+on aluminum alloy blades.
+(1) Example 1. Determine the blade
+(∆w)
+width repair allowable and minimum
+blade width limit, (w ) for a blade having a di1
+ameter (d) of 10 ft. 6 in. The repair location
+a. Draw a vertical line at the value of r% =
+b. Where the vertical line intersects the curve,
+intersect the vertical axis.
+(∆w%)
+c. Read the percent reduction in width
+∆w%
+= 2.5
+[FIG 8-27] Example 1. Determine the repair width limits.
+(r ) is 24 in. from the shank and the original,
+1
+as manufactured, blade width (w) at the repair
+location is 1.88 in.
+(a) Step 1. Calculate the blade radius
+(r)
+r = d/2 = (10 ft 6 in)/2 = 126/2 = 63 in.
+(b) Step 2. Calculate percent of
+blade radius to repair (r%)
+r% = r /r x 100 = (24/63) x 100 = 38
+1
+38 on the horizontal axis.
+draw a horizontal line to the right to
+on the vertical axis at this intersection.
+(c) Step 3. Determine percent reduc-
+(∆w%)
+tion in width from figure 8-27.
+(d) Step 4. Calculate the blade width
+(∆w) remachining is permissible only when covered
+repair allowable
+∆w =(∆w%)
+x (w) x(0.01) = (2.5) x (1.88) x
+(0.01) = 0.05 in.
+(e) Step 5. Calculate the minimum
+blade width limit (w ) at the repair location
+1
+-∆w
+w = w = 1.88 - 0.05 = 1.83 in.
+1
+(2) Example 2. Determine the blade
+(∆t)
+thickness repair allowable and minimum
+blade thickness limit (t ) for a blade having a
+1
+diameter (d) of 10 ft. 6 in. The repair location
+(r ) is 43 in. from the shank and the original,
+1
+as manufactured, blade thickness (t) at the repair location is 0.07 in.
+(a) Step 1. Calculate the blade radius
+(r)
+r = d/2 = (10 ft 6 in)/2 = 126/2 = 63 in.
+(b) Step 2. Calculate percent of
+blade radius to repair (r%)
+r% = r/r x 100 = (43/63) x 100 = 68
+(c) Step 3. Determine percent reduc-
+(∆t%)
+tion in thickness from figure 8-28.
+(d) Step 4. Calculate the blade
+(∆t)
+thickness repair allowable
+∆t (∆t%)
+= x (t) (0.01) = (4.0) x (0.07) x (0.01)
+= 0.003 in.
+(e) Step 5. Calculate the minimum
+blade thickness limit (t ) at the repair location
+1
+-∆t
+t = t = 0.07 - 0.003 = 0.067 in.
+1

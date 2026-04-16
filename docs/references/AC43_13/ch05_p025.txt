@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 3: EDDY CURRENT INSPECTION
+
+5-25. EDDY CURRENT INSPECTION.
+Eddy current is used to detect surface cracks,
+pits, subsurface cracks, corrosion on inner surfaces, and to determine alloy and heat-treat
+condition.
+a. Eddy Current Instruments. A wide
+variety of eddy current test instruments are
+available. The eddy current test instrument
+performs three basic functions: generating, receiving, and displaying. The generating portion of the unit provides an alternating current
+to the test coil. The receiving section processes the signal from the test coil to the required form and amplitude for display. Instrument outputs or displays consist of a variety of visual, audible, storage, or transfer techniques utilizing meters, video displays, chart
+recorders, alarms, magnetic tape, computers,
+and electrical or electronic relays.
+b. Principles of Operations. Eddy currents are induced in a test article when an alternating current is applied to a test coil
+(probe). The alternating current in the coil induces an alternating magnetic field in the article which causes eddy currents to flow in the
+article. (See figure 5-3.)
+(1) Flaws in or thickness changes of the
+test-piece influence the flow of eddy currents
+and change the impedance of the coil accordingly. (See figure 5-4.) Instruments display
+the impedance changes either by impedance
+plane plots or by needle deflection.
+(2) Figure 5-5 shows typical impedance
+plane display and meter display instrument responses for aluminum surface cracks, subsurface cracks, and thickness.
+[FIG 5-3] Generating an eddy current.
+[FIG 5-4] Detecting an eddy current.

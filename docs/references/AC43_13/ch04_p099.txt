@@ -1,0 +1,34 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-99. ENGINE-MOUNT REPAIRS. All
+welding on an engine mount must be of the
+highest quality, since vibration tends to accentuate any minor defect. Engine-mount
+members should preferably be repaired by using a larger diameter replacement tube, telescoped over the stub of the original member,
+and using fishmouth and rosette welds. However, 30-degree scarf welds in place of the
+fishmouth welds will be considered acceptable
+for engine-mount repair work.
+a. Repaired engine mounts must be checked
+for accurate alignment. When tubes are used
+to replace bent or damaged ones, the original
+alignment of the structure must be maintained.
+When drawings are not available, this can be
+done by measuring the distance between points
+of corresponding members that have not been
+distorted.
+b. Grind out all cracked welds.
+c. Use only high-grade metallurgically controlled (mc) welding rods for engine-mount repairs.
+[FIG 4-41] Repairs at built-in fuselage fittings.
+d. If all members are out of alignment, reject the engine mount and replace with one
+supplied by the manufacturer or one which was
+built to conform to the manufacturer’s drawings. The method of checking the alignment
+of the fuselage or nacelle points should be requested from the manufacturer.
+e. Repair minor damage, such as a crack
+adjacent to an engine-attachment lug, by rewelding the ring and extending a gusset or a
+mounting lug past the damaged area. Enginemount rings which are extensively damaged
+must not be repaired, unless the method of repair is specifically approved by the FAA, or
+the repair is accomplished in accordance with
+FAA-approved instructions.
+f. If the manufacturer stress relieved the
+engine mount after welding it, the engine
+mount should be re-stress relieved after the
+weld repairs are made.

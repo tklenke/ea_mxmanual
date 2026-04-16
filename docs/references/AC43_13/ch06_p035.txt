@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 3: CORROSION PROTECTION MEASURES FOR BASIC MATERIALS
+
+6-35. STANNATE IMMERSION TREATMENT. Stannate immersion treatment deposits
+a layer of tin. It is a protective paint base for
+magnesium alloy parts which contain inserts
+and fasteners of a dissimilar metal such as
+brass, copper, or steel. This treatment cannot
+be used with parts containing aluminum inserts
+or fasteners because the high alkalinity of the
+bath attacks the aluminum.

@@ -1,0 +1,91 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-143. NYLON-COATED CABLES.
+a. Nylon-coated cable is made by extruding a flexible nylon coating over corrosion-resistant steel (CRES) cable. The bare
+CRES cable must conform and be qualified to
+MIL-W-83420. After coating, the jacketed cable must still conform to MIL-W-83420.
+b. The service life of nylon-coated cable
+is much greater than the service life of the
+same cable when used bare. Most cable wear
+occurs at pulleys where the cable bends. Wear
+[TABLE 7-3] Flexible cable construction and physical properties.
+ALLOWABLE
+NOMINAL TOLERANCE
+INCREASE
+DIAMETER CONSTRUCTION ON
+OF
+OF WIRE DIAMETER
+DIAMETER
+ROPE (PLUS ONLY)
+AT
+CABLE
+CUT END
+INCHES INCHES INCHES
+1/32 3 x 7 0.006 0.006
+3/64 7 x 7 0.008 0.008
+1/16 7 x 7 0.010 0.009
+1/16 7 x 19 0.010 0.009
+3/32 7 x 7 0.012 0.010
+3/32 7 x 19 0.012 0.010
+1/8 7 x 19 0.014 0.011
+5/32 7 x 19 0.016 0.017
+3/16 7 x 19 0.018 0.019
+7/32 7 x 19 0.018 0.020
+1/4 7 x 19 0.018 0.021
+9/32 7 x 19 0.020 0.023
+5/16 7 x 19 0.022 0.024
+11/32 7 x 19 0.024 0.025
+3/8 7 x 19 0.026 0.027
+7/16 6 x 19 IWRC 0.030 0.030
+1/2 6 x 19 IWRC 0.033 0.033
+9/16 6 x 19 IWRC 0.036 0.036
+5/8 6 x 19 IWRC 0.039 0.039
+3/4 6 x 19 IWRC 0.045 0.045
+7/8 6 x 19 IWRC 0.048 0.048
+1 6 x 19 IWRC 0.050 0.050
+1 - 1/8 6 x 19 IWRC 0.054 0.054
+1 - 1/4 6 x 19 IWRC 0.057 0.057
+1 - 3/8 6 x 19 IWRC 0.060 0.060
+1 - 1/2 6 x 19 IWRC 0.062 0.062
+is caused by friction between strands and between wires. In bare cable, this is aggravated
+by dirt and grit working its way into the cable;
+and the lubricant working its way out leaving
+dry, dirty wires rubbing against each other. In
+long, straight runs of cable, vibration workhardens the wires causing the brittle wires to
+fracture with eventual failure of the cable.
+c. The nylon-jacket protects the cable in
+a threefold manner. It keeps the lubricant from
+oozing out and evaporating, it keeps dirt and
+grit out, and it dampens the vibrations,
+MINIMUM BREAKING STRENGTH (Pounds)
+MIL-W- MIL-W- MIL-C83420 83420 18375
+COMP A COMP B (CRES)
+(CRES)
+LBS LBS LBS
+110 110
+270 270
+480 480 360
+480 480
+920 920 700
+1,000 920
+2,000 1,760 1,300
+2,800 2,400 2,000
+4,200 3,700 2,900
+5,600 5,000 3,800
+7,000 6,400 4,900
+8,000 7,800 6,100
+9,800 9,000 7,600
+12,500
+14,400 12,000 11,000
+17,600 16,300 14,900
+22,800 22,800 19,300
+28,500 28,500 24,300
+35,000 35,000 30,100
+49,600 49,600 42,900
+66,500 66,500 58,000
+85,400 85,400 75,200
+106,400 106,400
+129,400 129,400
+153,600 153,600
+180,500 180,500
+thereby, greatly reducing their effect on the cable.

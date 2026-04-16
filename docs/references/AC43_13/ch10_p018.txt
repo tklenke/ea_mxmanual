@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 10: WEIGHT AND BALANCE  Section 2: WEIGHING PROCEDURES
+
+10-18. LOADING CONDITIONS
+AND/OR PLACARDS. If the following
+items have not been covered in the weight and
+balance extreme condition checks and are not
+covered by suitable placards in the aircraft, additional computations are necessary. These
+computations should indicate the permissible
+distribution of fuel, passengers, and baggage
+that may be carried in the aircraft at any one
+time without exceeding either the maximum
+weight or c.g. range. The conditions to check
+are:
+a. With full fuel, determine the number of
+passengers and baggage permissible.
+b. With maximum passengers, determine
+the fuel and baggage permissible.
+c. With maximum baggage, determine
+the fuel and the number and location of passengers.
+d. Examples of the computations for the
+above items are given in figures 10-12, 10-13,
+and 10-14 respectively. The above cases are
+mainly applicable to the lighter type personal
+aircraft. In the case of the larger type transport
+aircraft, a variety of loading conditions is possible and it is necessary to have a loading
+schedule.

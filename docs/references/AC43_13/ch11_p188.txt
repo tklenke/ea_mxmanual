@@ -1,0 +1,55 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-188. BONDING INSPECTION. Inspect for the following:
+a. If there is evidence of electrical arcing, check for intermittent electrical contact
+between conducting surfaces, that may become
+a part of a ground plane or a current path.
+Arcing can be prevented either by bonding, or
+by insulation if bonding is not necessary.
+b. The metallic conduit should be
+bonded to the aircraft structure at each terminating and break point. The conduit bonding
+strap should be located ahead of the piece of
+equipment that is connected to the cable wire
+inside the conduit.
+c. Bond connections should be secure and
+free from corrosion.
+d. Bonding jumpers should be installed
+in such a manner as not to interfere in any way
+with the operation of movable components of
+the aircraft.
+e. Self-tapping screws should not be used
+for bonding purposes. Only standard threaded
+screws or bolts of appropriate size should be
+used.
+f. Exposed conducting frames or parts
+of electrical or electronic equipment should
+have a low resistance bond of less than
+2.5 millohms to structure. If the equipment
+design includes a ground terminal or pin,
+which is internally connected to such exposed
+parts, a ground wire connection to such terminal will satisfy this requirement. Refer to
+manufacturer’s instructions.
+g. Bonds should be attached directly to
+the basic aircraft structure rather than through
+other bonded parts.
+h. Bonds must be installed to ensure that
+the structure and equipment are electrically
+stable and free from the hazards of lightning,
+static discharge, electrical shock, etc. To
+Figure 11-19. Millivolt drop test.
+ensure proper operation and suppression of radio interference from hazards, electrical
+bonding of equipment must conform to the
+manufacturer’s specifications.
+i. Use of bonding testers is strongly recommended.
+j. Measurements should be performed
+after the grounding and bonding mechanical
+connections are complete to determine if the
+measured resistance values meet the basic requirements. A high quality test instrument
+(AN AN/USM-21A or equivalent) is required
+to accurately measure the very low resistance
+values specified in this document. Another
+method of measurement is the millivolt drop
+test as shown in figure 11-19.
+k. Use appropriate washers when bonding aluminum or copper to dissimilar metallic
+structures so that any corrosion that may occur
+will be on the washer.

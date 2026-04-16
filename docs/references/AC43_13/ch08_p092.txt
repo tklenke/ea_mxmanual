@@ -1,0 +1,110 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 5: INSPECTION OF PROPELLERS
+
+8-92. WOOD OR COMPOSITION PROPELLERS AND BLADES. Wood propellers
+are usually found on low-power, reciprocating
+engines while composition (Carbon fiber,
+Kevlar) propellers are used on high horsepower reciprocating and turbine engines. Due
+to the nature of wood, these propellers should
+be inspected frequently to assure airworthiness. Inspect for defects such as cracks, dents,
+warpage, glue failure, delamination defects in
+the finish, and charring of the wood between
+the propeller and the flange due to loose propeller mounting bolts. Composition propellers
+should be inspected in accordance with the
+propeller manufacturer’s instructions.
+a. Fixed-pitch propellers are normally
+removed from the engine at engine overhaul
+periods. Whenever the propeller is removed,
+visually inspect the rear surface for any indication of cracks. When any defects are found,
+disassemble the metal hub from the propeller.
+Inspect the hub bolts for wear and cracks at the
+head and threads, and if cracked or worn, replace with new equivalent bolts. Inspect for
+elongated bolt holes, enlarged hub bore, and
+for cracks inside the bore or anywhere on the
+propeller. Repair propellers found with any of
+these defects. If no defects are found, the propeller may be reinstalled on the engine. Before
+installation, touch up with varnish all places
+where the finish is worn thin, scratched, or
+nicked. Track and balance the propeller, and
+coat the hub bore and bolt holes with some
+moisture preventive such as asphalt varnish.
+In case the hub flange is integral with the
+crankshaft of the engine, final track the propeller after it is installed on the engine. In all
+cases where a separate metal hub is used, make
+a final balance and track with the hub installed
+on the propeller.
+b. On new, fixed-pitch propeller installations, inspect the bolts for proper torque after
+the first flight and after the first 25 hours of
+flying. Thereafter, inspect and check the bolts
+for proper torque at least every 50 hours. No
+definite time interval can be specified, since a
+bolt’s proper torque is affected by changes in
+the wood caused by the moisture content of the
+air where the airplane is flown and stored.
+During wet weather, some moisture is apt to
+enter the propeller wood through the holes
+drilled in the hub. The wood then swells, and
+because expansion is limited by the bolts extending between the two flanges, some of the
+wood fibers become crushed. Later, when the
+propeller dries out during dry weather or due
+[TABLE 8-2] Sample manufacturer’s propeller inspection checklist.
+Nature of Inspection Engine Operating Hours
+PROPELLER GROUP
+1. Inspect spinner and back plate for cracks....................................................................................
+2. Inspect blades for nicks and cracks.............................................................................................
+3. Check for grease and oil leaks.....................................................................................................
+4. Lubricate propeller per Lubrication Chart.....................................................................................
+5. Check spinner mounting Brackets for cracks...............................................................................
+6. Check propeller mounting bolts and safety (Check torque if safety
+7. Inspect hub parts for cracks and corrosion..................................................................................
+8. Rotate blades of constant speed propeller and check for tightness
+9. Remove constant speed propeller; remove sludge from propeller
+10. Inspect complete propeller and spinner assembly for security,
+wear and correct installation........................................................................................................
+11. Check propeller air pressure (at least once a month)...................................................................
+12. Overhaul propeller.......................................................................................................................
+to heat from the engine, a certain amount of
+propeller hub shrinkage takes place, and the
+wood no longer completely fills the space between the two hub flanges. Consequently, the
+hub bolts become loose.
+c. In-flight tip failures may be avoided
+by frequent inspections of the metal cap, leading edge strip, and surrounding areas. Inspect
+for such defects as looseness or slipping, separation of soldered joints, loose screws, loose
+rivets, breaks, cracks, eroded sections, and corrosion. Inspect for separation between the
+metal leading edge and the cap, which would
+indicate the cap is moving outward in the direction of centrifugal force. This condition is
+often accompanied by discoloration and loose
+rivets. Inspect the tip for cracks by grasping it
+with the hand and slightly twisting about the
+longitudinal blade centerline and by slightly
+bending the tip backward and forward. If the
+leading edge and the cap have separated, carefully inspect for cracks at this point. Cracks
+usually start at the leading edge of the blade.
+A fine line appearing in the fabric or plastic
+may indicate a crack in the wood. Check the
+trailing edge of the propeller blades for bonding, separation, or damage.
+d. Examine the wood close to the metal
+sleeve of wood blades for cracks extending
+outward on the blade. These cracks sometimes
+50 100 500 1000
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0
+is broken)............................. 0 0 0
+0 0 0
+in hub pilot tube.................... 0 0 0
+0 0
+and crankshaft........................
+chafing, cracks, deterioration,
+0 0 0
+0 0 0 0
+0
+occur at the threaded ends of the lag screws
+and may be an indication of internal cracking
+of the wood. Check the tightness of the lag
+screws, which attach the metal sleeve to the
+wood blade, in accordance with the manufacturer’s instructions. Inspect and protect the
+shank areas of composition blades next to the
+metal sleeve in the same manner as that used
+for wood blades.

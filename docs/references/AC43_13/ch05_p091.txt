@@ -1,0 +1,21 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 7: ULTRASONIC INSPECTION
+
+5-91. ULTRASONIC INSPECTION
+TECHNIQUES. Two basic ultrasonic inspection techniques are employed: pulse-echo
+and through-transmission. (See figure 5-16.)
+a. Pulse-Echo Inspection. This process
+uses a transducer to both transmit and receive
+the ultrasonic pulse. The received ultrasonic
+pulses are separated by the time it takes the
+sound to reach the different surfaces from
+which it is reflected. The size (amplitude) of a
+reflection is related to the size of the reflecting
+surface. The pulse-echo ultrasonic response
+pattern is analyzed on the basis of signal amplitude and separation.
+b. Through-Transmission Inspection.
+This inspection employs two transducers, one
+to generate and a second to receive the ultrasound. A defect in the sound path between the
+two transducers will interrupt the sound transmission. The magnitude (the change in the
+sound pulse amplitude) of the interruption is
+used to evaluate test results. Throughtransmission inspection is less sensitive to
+small defects than is pulse-echo inspection.

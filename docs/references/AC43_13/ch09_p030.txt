@@ -1,0 +1,349 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 2: HYDRAULIC SYSTEMS
+
+9-30. HYDRAULIC LINES AND FITTINGS. Carefully inspect all lines and fittings
+at regular intervals to ensure airworthiness.
+Investigate any evidence of fluid loss or leaks.
+Check metal lines for leaks, loose anchorage,
+scratches, kinks, or other damage. Inspect fittings and connections for leakage, looseness,
+cracks, burrs, or other damage. Replace or repair defective elements. Make sure the lines
+and hoses do not chafe against one another and
+are correctly secured and clamped.
+a. Replacement of Metal Lines. When
+inspection shows a line to be damaged or defective, replace the entire line or, if the damaged section is localized, a repair section may
+be inserted. In replacing lines, always use
+tubing of the same size and material as the
+original line. Use the old tubing as a template
+in bending the new line, unless it is too greatly
+damaged, in which case a template can be
+made from soft iron wire. Soft aluminum
+tubing (1100, 3003, or 5052) under ¼-inch
+outside diameter may be bent by hand.. For all
+other tubing use an acceptable hand or power
+tube-bending tool. Bend tubing carefully to
+avoid excessive flattening, kinking, or wrinkling. Minimum bend radii values are shown
+in table 9-2. A small amount of flattening in
+bends is acceptable, but do not exceed
+75 percent of the original outside diameter.
+Excessive flattening will cause fatigue failure
+of the tube. When installing the replacement
+tubing, line it up correctly with the mating part
+so that it is not forced into alignment by tightening of the coupling nuts.
+b. Tube Connections. Many tube connections are made using flared tube ends with
+standard connection fittings: AN-818
+(MS 20818) nut and AN-819 (MS 20819)
+sleeve. In forming flares, cut the tube ends
+square, file smooth, remove all burrs and sharp
+edges, and thoroughly clean. The tubing is
+then flared using the correct 37-degree aviation
+flare forming tool for the size of tubing and
+type of fitting. A double flare is used on soft
+aluminum tubing 3/8-inch outside diameter
+and under, and a single flare on all other tubing. In making the connections, use hydraulic
+fluid as a lubricant and then tighten. Overtightening will damage the tube or fitting,
+which may cause a failure. Under-tightening
+may cause leakage which could result in a
+system failure.
+CAUTION: Mistaken use of
+45-degree automotive flare forming
+tools may result in improper tubing
+flare shape and angle; causing misfit,
+stress and strain, and probable system
+failure.
+c. Repair of Metal Tube Lines. Minor
+dents and scratches in tubing may be repaired.
+Scratches or nicks not deeper than 10 percent
+of the wall thickness in aluminum alloy tubing,
+that are not in the heel of a bend, may be repaired by burnishing with hand tools. Replace
+lines with severe die marks, seams, or splits in
+the tube. Any crack or deformity in a flare is
+unacceptable and cause for rejection. A dent
+less than 20 percent of the tube diameter is not
+objectionable unless it is in the heel of a bend.
+A severely-damaged line should be replaced;
+however, it may be repaired by cutting out the
+damaged section and inserting a tube section
+of the same size and material. Flare both ends
+of the undamaged and replacement tube sections and make the connection by using standard unions, sleeves, and tube nuts. If the
+damaged portion is short enough, omit the insert tube and repair by using one union and
+two sets of connection fittings.
+[TABLE 9-2] Tube data.
+Wrench torque for tightening AN-818 Nut (pound inch) Minimum bend radii
+Dash Nos. Tubing OD Aluminum-alloy tubing Steel
+Ref. inches
+Minimum Maximum Minimum Maximum on oxygen lines only in inches.
+-2 1/8 20 30 75
+-3 3/16 25 35 95
+-4 1/4 50 65 135
+-5 5/16 70 90 170
+-6 3/8 110 130 270
+-8 1/2 230 260 450
+-10 5/8 330 360 650
+-12 3/4 460 500 900
+-16 1 500 700 1200
+-20 1-1/4 800 900 1520
+-24 1-1/2 800 900 1900
+-28 1-3/4 -­ -­ --32 2 1800 2000 2660
+d. Replacement of Flexible Lines. When
+replacement of a flexible line is necessary, use
+the same type, size, part number, and length of
+hose as the line to be replaced. Check TSO
+requirements. If the replacement of a hose
+with a swaged-end type fitting is necessary,
+obtain a new hose assembly of the correct size
+and composition. Certain synthetic oils require a specially compounded synthetic rubber
+hose, which is compatible. Refer to the aircraft manufacturer’s service information for
+the correct part number for the replacement
+hose. If the fittings on each end are of the correct type or sleeve type, a replacement may be
+fabricated as shown in figure 9-8. Before cutting new flexible wire braided hose to the
+proper size, tape the hose tightly with masking
+tape and cut in the center of the masking tape
+to prevent fraying. The use of a mandrel will
+prevent cutting the inside of the hose when inserting the fittings. Typical aircraft hose specifications and their uses are shown in table 9-3.
+Install hose assemblies without twisting. (See
+figure 9-9.) A hose should not be stretched
+tight between two fittings as this will result in
+overstressing and eventual failure. The length
+of hose should be sufficient to provide about
+5 to 8 percent slack. Avoid tight bends in flex
+lines as they may result in
+tubing Aluminum-alloy tubing measured to tubing
+(Flare MS33583) for use centerline. Dimension
+Minimum Maximum Alum. Steel
+Alloy
+85 -­ -­ 3/8 -105 -­ -­ 7/16 21/32
+150 -­ -­ 9/16 7/8
+200 100 125 3/4 1-1/8
+300 200 250 15/16 1-5/16
+500 300 400 1-1/4 1-3/4
+700 -­ -­ 1-1/2 2-3/16
+1000 -­ -­ 1-3/4 2-5/8
+1400 -­ -­ 3 3-1/2
+1680 -­ -­ 3-3/4 4-3/8
+2100 -­ -­ 5 5-1/4
+-­ -­ -­ -­ -2940 -­ -­ 8 7
+failure. Never exceed the minimum bend radii
+as indicated in figure 9-10.
+(1) Teflon hose is used in many aircraft
+systems because it has superior qualities for
+certain applications. Teflon is compounded
+from tetrafluoroethylene resin which is unaffected by fluids normally used in aircraft. It
+-65°F
+has an operating range of to 450 °F. For
+these reasons, Teflon is used in hydraulic and
+engine lubricating systems where temperatures
+and pressures preclude the use of rubber hose.
+Although Teflon hose has excellent performance qualities, it also has peculiar characteristics that require extra care in handling. It tends
+to assume a permanent set when exposed to
+high pressure or temperature. Do not attempt
+to straighten a hose that has been in service.
+Any excessive bending or twisting may cause
+kinking or weakening of the tubing wall. Replace any hose that shows signs of leakage,
+abrasion, or kinking. Any hose suspected of
+kinking may be checked with a steel ball of
+proper size. Table 9-4 shows hose and ball
+sizes. The ball will not pass through if the
+hose is distorted beyond limits.
+(2) If the hose fittings are of the reusable type, a replacement hose may be
+fabricated as described in figure 9-8. Refer to
+figure 9-10 for minimum bend radii. When a
+hose assembly is removed, the ends should be
+tied as shown in figure 9-11, so that the preformed shape will be maintained. Refer to
+figure 9-12 for minimum bend radii for teflon
+hose.
+(3) All flexible hose installations should
+be supported at least every 24 inches. Closer
+supports are preferred. They should be carefully routed and securely clamped to avoid
+abrasion, kinking, or excessive flexing. Excessive flexing may cause weakening of the
+hose or loosening at the fittings.
+e. O-Ring Seals. An understanding of Oring seal applications is necessary to determine
+when replacement should be made. The simplest application is where the O-ring merely
+serves as a gasket when it is compressed
+within a recessed area by applying pressure
+with a packing nut or screw cap. Leakage is
+not normally acceptable in this type of installation. In other installations, the O-ring seals
+depend primarily upon their resiliency to accomplish their sealing action. When moving
+parts are involved, minor seepage may be
+normal and acceptable. A moist surface found
+on moving parts of hydraulic units is an indication the seal is being properly lubricated.
+In pneumatic systems, seal lubrication is provided by the installation of a greaseimpregnated felt wiper ring. When systems
+are static, seepage past the seals is not normally acceptable.
+f. Storage of replacement seals.
+(1) Store O-ring seals where tempera120°
+ture does not exceed F.
+(2) Keep seals packaged to avoid exposure to ambient air and light, particularly sunlight.
+g. During inspection, consider the following to determine whether seal replacement
+is necessary.
+(1) How much fluid is permitted to seep
+past the seals? In some installations minor
+seepage is normal. Refer to the manufacturer’s
+maintenance information.
+(2) What effect does the leak have on
+the operation of the system? Know the system.
+(3) Does the leak of fluid create a hazard or affect surrounding installations? A
+check of the system fluid and a knowledge of
+previous fluid replenishment is helpful.
+(4) Will the system function safely
+without depleting the reservoirs until the next
+inspection?
+h. Do’s and Don’ts that apply to O-ring
+seals.
+(a) Correct all leaks from static seal
+installations.
+(b) Don’t retighten packing gland
+nuts; retightening will, in most cases, increase
+rather than decrease the leak.
+(c) Never reuse O-ring seals because
+they tend to swell from exposure to fluids, and
+become set from being under pressure. They
+may have minor cuts or abrasions that are not
+readily discernible by visual inspection.
+(d) Avoid using tools that might
+damage the seal or the sealing surface.
+(e) Do not depend upon color-coding.
+Coding may vary with manufacturer
+(f) Be sure that part number is correct
+(g) Retain replacement seals in their
+package until ready for use. This provides
+proper identification and protects the seal from
+damage and contamination.
+(h) Assure that the sealing surfaces
+are clean and free of nicks or scratches before
+installing seal.
+(i) Protect the seal from any sharp
+surfaces that it may pass over during installation. Use an installation bullet or cover the
+sharp surfaces with tape.
+(j) Lubricate the seal so it will slide
+into place smoothly.
+(k) Be sure the seal has not twisted
+during installation.
+i. Hydraulic System Pressure Test.
+When a flexible hose has been repaired or
+overhauled using existing hardware and new
+hose material, before the hose is installed on
+the aircraft it is recommended that the hose is
+tested to at least 1.5 system pressure. A new
+hose can be operationally checked after it is installed in the aircraft using system pressure.
+j. Hydraulic Components. Hydraulic
+components such as pumps, actuating cylinders, selector valves, relief valves, etc., should
+be repaired or adjusted following the airplane
+and component manufacturer’s instructions.
+Inspect hydraulic filter elements at frequent
+intervals and replace as necessary.
+[FIG 9-8] Hose assembly instructions (can be used
+applications).
+for low pressure hydraulic fluid, and oil line
+[TABLE 9-3] Aircraft hose specifications.
+SINGLE WIRE BRAID FABRIC COVERED
+MIL. TUBE HOSE HOSE
+PART NO. SIZE SIZE SIZE
+O.D. I.D. O.D. PRESS. PRESS. PRESS. RADIUS
+MIL-H-8794- 3-L 3/16 1/8 .45
+MIL-H-8794- 4-L 1/4 3/16 .52
+MIL-H-8794- 5-L 5/16 1/4 .58
+MIL-H-8794- 6-L 38 5/16 .67
+MIL-H-8794- 8-L 1/2 13/32 .77
+MIL-H-8794-10-L 5/8 1/2 .92
+MIL-H-8794-12-L 3/4 5/8 1.08
+MIL-H-8794-16-L 1 7/8 1.23
+MIL-H-8794-20-L 1 1/4 1 1/8 1.50
+MIL-H-8794-24-L 1 1/2 1 3/8 1.75
+MIL-H-8794-32-L 2 1 13/16 2.22
+MIL-H-8794-40-L 2 1/2 2 3/8 2.88
+MIL-H-8794-48-L 3 3 3.56
+Construction: Seamless synthetic rubber
+inner tube reinforced with one fiber braid,
+one braid of high tensile steel wire and covered with an oil resistant rubber impregnated
+fiber braid.
+Identification: Hose is identified by specification number, size number, quarter year
+and year, hose manufacturer’s identification.
+MULTIPLE WIRE BRAID RUBBER COVERED
+TUBE HOSE HOSE RECOMM. MIN. MIN. MIN.
+MIL SIZE SIZE SIZE
+PAR NO. O.D. I.D. O.D.
+MIL-H-8788- 4-L 1/4 7/32 0.63
+MIL-H-8788- 5-L 5/16 9/32 0.70
+MIL-H-8788- 6-L 3/8 11/32 0.77
+MIL-H-8788- 8-L 1/2 7/16 0.86
+MIL-H-8788-10-L 5/8 9/16 1.03
+MIL-H-8788-12-L 3/4 11/16 1.22
+MIL-H-8788-16-L 1 7/8 1.50
+Hose Construction: Seamless synthetic rubber inner
+tube reinforced with one fabric braid, two or more steel
+wire braids, and covered with a synthetic rubber cover (for
+gas applications request perforated cover).
+Identification: Hose is identified by specification number,
+size number, quarter year and year, hose manufacturer’s
+identification.
+RECOMM. MIN. MAX. MIN
+OPER. BURST PROOF BEND
+3,000 12,000 6,000 3.00
+3,000 12,000 6,000 3.00
+3,000 10,000 5,000 3.38
+2,000 9,000 4,500 4.00
+2,000 8,000 4,000 4.63
+1,750 7,000 3,500 5.50
+1,750 6,000 3,000 6.50
+800 3,200 1,600 7.38
+600 2,500 1,250 9.00
+500 2,000 1,000 11.00
+350 1,400 700 13.25
+200 1,000 300 24.00
+200 800 300 33.00
+Uses: Hose is approved for use in aircraft
+hydraulic, pneumatic, coolant, fuel and oil
+systems.
+Operating Temperatures:
+Sizes-3 through 12: Minus
+65 °F. to plus 250 °F.
+Sizes - 16 through 48: Minus
+40 °F. to plus 275 °F.
+Note: Maximum temperatures and pressures
+should not be used simultaneously.
+OPER. BURST PROOF BEND
+PRESS. PRESS. PRESS. RADIUS
+3,000 16,000 8,000 3.00
+3,000 14,000 7,000 3.38
+3,000 14,000 7,000 5.00
+3,000 14,000 7,000 5.75
+3,000 12,000 6,000 6.50
+3,000 12,000 6,000 7.75
+3,000 10,000 5,000 9.63
+Uses: High pressure hydraulic, pneumatic, coolant, fuel and oil.
+Operating Temperatures:
+Minus 65 °F. to plus 200 °F.
+RIGHT WAY WRONG
+[FIG 9-9] Proper hose installations.
+WAY
+Do not bend or twist the hose as
+illustrated.
+Allow enough slack in the hose line
+to provide for changes in length
+when pressure is applied. The
+hose will change in length from
++ 2% to – 4%.
+Metal end fittings cannot be considered as part of the flexible portion of the assembly.
+The use of elbows and adapters
+will ensure easier installation and in
+many installations will remove the
+strain from the hose line and
+greatly increase service life.
+At all times keep the minimum
+bend radii of the hose as large as
+possible to avoid tube collapsing.
+[FIG 9-10] Minimum bend radii.
+[TABLE 9-4] Ball diameters for testing hose restrictions
+or kinking.
+HOSE SIZE BALL SIZE
+-4 5/64
+-5 9/64
+-6 13/64
+-8 9/32
+-10 3/8
+-12 1/2
+-16 47/64
+-20 61/64
+[FIG 9-11] Suggested handling of preformed hose.
+Figure 9-12. Minimum bend radii–Teflon hose.
+9.31.9.36
+[RESERVED.]
+SECTION 3. EMERGENCY EQUIPMENT

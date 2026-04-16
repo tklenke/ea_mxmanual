@@ -1,0 +1,42 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-210. HOT STAMP MARKING. Due to
+widespread use of hot stamp wire marking,
+personnel should refer to SAE ARP5369,
+Guidelines for Wire Identification Marking
+using the Hot Stamp Process, for guidance on
+minimizing insulation damage. Hot stamp
+process uses a heated typeface to transfer pigment from a ribbon or foil to the surface of
+wires or cables. The traditional method imprints hot ink marks onto the wire. Exercise
+caution when using this method, as it has been
+shown to damage insulation when incorrectly
+applied. Typeset characters, similar to that
+used in printing presses but shaped to the
+contour of the wire, are heated to the desired
+temperature. Wire is pulled through a channel
+directly underneath the characters. The heat of
+the type set characters transfers the ink from
+the marking foil onto the wire.
+a. Good marking is obtained only by the
+proper combination of temperature, pressure,
+and dwelling. Hot stamp will mark wire with
+an outside diameter of 0.038 to 0.25-inch.
+b. Before producing hot stamp wire, it
+must be assured that the marking machine is
+properly adjusted to provide the best wire
+marking with the least wire insulation deterioration. The marking should never create an
+indent greater than 10 percent of the insulation
+wall.
+CAUTION: The traditional Hot
+Stamp method is not recommended
+for use on wire with outside diameters
+of less than 0.035. (REF. SAE
+ARP5369). Stamping dies may cause
+fracture of the insulation wall and
+penetration to the conductor of these
+materials. When various fluids wet
+these opening in service, arcing and
+surface tracking damage wire bundles. Later in service, when various
+fluids have wet these openings, serious
+arcing and surface tracking will have
+damaged wire bundles.

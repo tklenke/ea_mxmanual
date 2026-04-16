@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-124. HEAT PRECAUTIONS. Wiring
+must be routed away from high-temperature
+equipment and lines to prevent deterioration of
+insulation. Wires must be rated (reference
+paragraph 11-66 and 11-67) so that the conductor temperature remains within the wire
+specification maximum when the ambient
+temperature, and heat rise, related to current
+carrying capacity are taken into account. The
+residual heating effects caused by exposure to
+sunlight when aircraft are parked for extended
+periods should also be taken into account.
+Wires such as in fire detection, fire extinguishing, fuel shutoff, and fly-by-wire flight
+control systems that must operate during and
+after a fire, must be selected from types that
+are qualified to provide circuit integrity after
+exposure to fire for a specified period. Wire
+insulation deteriorates rapidly when subjected
+to high temperatures. Do not use wire with
+soft polyethylene insulation in areas subject to
+high temperatures. Use only wires or cables
+with heat resistance shielding or insulation.

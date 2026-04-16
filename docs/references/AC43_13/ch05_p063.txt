@@ -1,0 +1,69 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 5: PENETRANT INSPECTION
+
+5-63. CLEANERS AND APPLICATIONS.
+Use a cleaner to remove contaminants from
+parts prior to the application of penetrant inspection materials. After the inspection is
+completed, penetrant inspection material residues are removed. The following cleaners are
+commonly used during the penetrant inspection process.
+a. Detergents. Detergent cleaners are
+water-based chemicals called surfactants,
+which surround and attach themselves to particles of contaminants allowing them to be
+washed away.
+b. Solvents. Solvents dissolve contaminants such as oils, greases, waxes, sealants,
+paints, and general organic matter so they can
+easily be wiped away or absorbed on a cloth.
+They are also used to remove Method C penetrant material prior to developer application.
+c. Alkalies. Alkaline cleaners are water
+solutions of chemicals that remove contaminants by chemical action or displacement
+rather than dissolving the contaminant.
+d. Paint Removers. The general types of
+removers used for conventional paint coatings
+are solvent, bond release, and disintegrating.
+e. Salt Baths. Molten salt baths are used
+in removing heavy, tightly-held scale and oxide from low alloy steels, nickel, and cobaltbase alloys, and some types of stainless steel.
+They cannot be used on aluminum, magnesium, or titanium alloys.
+f. Acids. Solutions of acids or their salts
+are used to remove rust, scale, corrosion products, and dry shop contamination. The type of
+acid used and its concentration depends on the
+part material and contaminants to be removed.
+g. Etching Chemicals. Etching chemicals
+contain a mixture of acids or alkalies plus inhibitors. They are used to remove a thin layer
+of surface material, usually caused by a mechanical process, that may seal or reduce the
+opening of any discontinuities. The type of
+etching solution used depends on the part material and condition.
+h. Penetrant Application. Apply the
+penetrant by spraying, brushing, or by completely submerging the part in a container of
+penetrant. Wait the recommended amount of
+time after the penetrant has been applied to
+allow it to enter any discontinuities
+(1) Removal of Excess Penetrant. Excess penetrant must be removed from the
+part’s surface to prevent a loss of contrast between indications of discontinuities and the
+background during the inspection. Removal
+may require actually washing or spraying the
+part with a cleansing liquid, or may simply require wiping the part clean with a solventmoistened cloth. The removal method is determined by the type of penetrant used.
+(2) Drying. If removal of the excess
+penetrant involves water or other cleaning liquids, drying of the part may be required prior
+to developer application. When drying is required, the time can be decreased by using ovens or ventilation systems.
+i. Developer Application. Apply developer after excess penetrant is removed and,
+where required, the surface is dried. Apply the
+developer in a thin uniform layer over the surface to be inspected. Developer acts like a
+blotter to assist the natural capillary action
+bleed-out of the penetrant from discontinuities
+and to spread the penetrant at discontinuity
+surface edges to enhance bleed-out indications.
+After the developer is applied, allow sufficient
+time for the penetrant to be drawn out of any
+discontinuities. Follow the manufacturer’s
+recommendations.
+j. Inspection for Discontinuities. After
+the penetrant has sufficiently developed, visually inspect the surface for indications from
+discontinuities. Evaluate each indication observed to determine if it is within acceptable
+limits. Visible penetrant inspection is performed in normal visible white light, whereas
+fluorescent penetrant inspection is performed
+in black (ultraviolet) light.
+k. Post-Cleaning. Remove inspection
+material residues from parts after completion
+of penetrant inspection. This residue could
+interfere with subsequent part processing, or if
+left on some alloys, it could increase their susceptibility to hydrogen embrittlement, intergranular corrosion, and stress corrosion during
+service.

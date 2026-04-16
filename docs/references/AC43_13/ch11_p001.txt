@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 1: INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+
+11-1. GENERAL. The term “electrical
+system” as used in this AC means those parts
+of the aircraft that generate, distribute, and use
+electrical energy, including their support and
+attachments. The satisfactory performance of
+an aircraft is dependent upon the continued reliability of the electrical system. Damaged
+wiring or equipment in an aircraft, regardless
+of how minor it may appear to be, cannot be
+tolerated. Reliability of the system is proportional to the amount of maintenance received
+and the knowledge of those who perform such
+maintenance. It is, therefore, important that
+maintenance be accomplished using the best
+techniques and practices to minimize the possibility of failure. This chapter is not intended
+to supersede or replace any government specification or specific manufacturer’s instruction
+regarding electrical system inspection and repair.

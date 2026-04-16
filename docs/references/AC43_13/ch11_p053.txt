@@ -1,0 +1,219 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 4: INSPECTION OF CIRCUIT-PROTECTION DEVICES
+
+11-53. SWITCHES. In all circuits where a
+switch malfunction can be hazardous, a switch
+specifically designed for aircraft service should
+be used. These switches are of rugged construction and have sufficient contact capacity
+to break, make, and continuously carry the
+connected load current. The position of the
+switch should be checked with an electrical
+meter.
+a. Electrical Switch Inspection. Special
+attention should be given to electrical circuit
+switches, especially the spring-loaded type,
+during the course of normal airworthiness inspection. An internal failure of the springloaded type may allow the switch to remain
+closed even though the toggle or button returns
+to the “off” position. During inspection, attention should also be given to the possibility
+that improper switch substitution may have
+been made.
+(1) With the power off suspect aircraft
+electrical switches should be checked in the
+ON position for opens (high resistance) and in
+The OFF position for shorts (low resistance),
+with an ohmmeter.
+(2) Any abnormal side to side movement of the switch should be an alert to imminent failure even if the switch tested was
+shown to be acceptable with an ohmmeter.
+b. Electromechanical Switches.
+Switches have electrical contacts and various
+types of switch actuators (i.e., toggle, plunger,
+push-button, knob, rocker).
+(1) Contacts designed for high-level
+loads must not be subsequently used for lowlevel applications, unless testing has been performed to establish this capability.
+(2) Switches are specifically selected
+based on the design for the aircraft service current ratings for lamp loads, inductive loads,
+and motor loads and must be replaced with
+identical make and model switches.
+c. Proximity Switches. These switches
+are usually solid-state devices that detect the
+presence of a predetermined target without
+physical contact and are usually rated 0.5 amps
+or less.
+d. Switch Rating. The nominal current
+rating of the conventional aircraft switch is
+usually stamped on the switch housing and
+represents the continuous current rating with
+the contacts closed. Switches should be derated from their nominal current rating for the
+following types of circuits:
+(1) Circuits containing incandescent
+lamps can draw an initial current that is
+15 times greater than the continuous current.
+Contact burning or welding may occur when
+the switch is closed.
+(2) Inductive circuits have magnetic energy stored in solenoid or relay coils that is
+released when the control switch is opened and
+may appear as an arc.
+(3) Direct-current motors will draw
+several times their rated current during starting, and magnetic energy stored in their
+armature and field coils is released when the
+control switch is opened.
+e. Switch Selection. Switches for aircraft
+use should be selected with extreme caution.
+The contact ratings should be adequate for all
+load conditions and applicable voltages, at
+both sea level and the operational altitude.
+Consideration should be given to the variation
+in the electrical power characteristics, using
+MIL-STD-704 as a guide.
+f. Derating Factors. Table 11-4 provides
+an approximate method for derating nominal
+ratings to obtain reasonable switch efficiency
+and service life under reactive load conditions.
+WARNING: Do not use AC derated
+switches in DC circuits. AC switches
+will not carry the same amperage as a
+DC switch.
+[TABLE 11-4] Switch derating factors.
+Nominal Type of Load Derating
+System Factor
+Voltage
+28 VDC Lamp 8
+28 VDC Inductive (relay-solenoid) 4
+28 VDC Resistive (Heater) 2
+28 VDC Motor 3
+12 VDC Lamp 5
+12 VDC Inductive (relay-solenoid) 2
+12 VDC Resistive (Heater) 1
+12 VDC Motor 2
+NOTES:
+1. To find the nominal rating of a switch required to operate
+a given device, multiply the continuous current rating
+of the device by the derating factor corresponding
+to the voltage and type of load.
+2. To find the continuous rating that a switch of a
+given nominal rating will handle efficiently,
+divide the switch nominal rating by the derating
+factor corresponding to the voltage and type of load.
+g. Low Energy Loads. Switches rated
+for use at 28 VDC or more, and at 1.0 amp or
+more, generally have silver contacts. In general, silver contacts should not be used to control devices which have either a voltage less
+than 8 volts or a continuous current less than
+0.5 amps unless the switch is specifically rated
+for use with low-energy loads. Table 11-5
+provides general guidelines for selecting contact materials for low-energy loads, but is not
+applicable to hermetically sealed switches.
+(1) Typical logic load devices have a
+voltage of 0.5 volts to 28 volts and a continuous current of less than 0.5 amps. A suitable
+method of rating switches for use on logic load
+devices is specified in ANSI/EIA 5200000.
+(General specification for special use electromechanical switches of certified quality.)
+[TABLE 11-5] Selection of contact material.
+NOTES:
+1. If sulfide, moisture, or any form of contamination is
+present, a sealed switch should be used. The degree
+of sealing required (environmental or hermetic) is dependent upon the environment in which the switch is
+intended to be operated.
+2. If particle contamination in any form is likely to reach
+the contacts, bifurcated contacts should be used.
+3. Low-voltage high-current loads are difficult to predict
+and may result in a combined tendency of noncontact,
+sticking, and material transfer.
+4. High-voltage high-current applications may require the
+use of Silver Nickel contacts.
+(2) Typical low-level load devices have
+a voltage of less than 0.5 volts and a continuous current of less than 0.5 amps. A suitable
+method of rating switches for use on logic load
+devices is specified in ANSI/EIA 5200000.
+h. Shock and Vibration.
+(1) Electromechanical switches (toggle
+switches) are most susceptible to shock and
+vibration in the plane that is parallel to contact
+motion. Under these conditions the switch
+contacts may momentarily separate.
+ANSI/EIA 5200000 specifies that contact
+separations greater than 10 microseconds and
+that closing of open contacts in excess of
+1 microsecond are failures. Repeated contact
+separations during high levels of vibration or
+shock may cause excessive electrical degradation of the contacts. These separations can
+also cause false signals to be registered by
+electronic data processors without proper buffering.
+(2) Although proximity switches do not
+have moving parts, the reliability of the internal electronic parts of the switch may be reduced. Reliability and mean time betweenfailure (MTBF) calculations should reflect the
+applicable environment. Note that the mounting of both the proximity sensor and its target
+must be rigid enough to withstand shock or vibration to avoid creating false responses.
+i. Electromagnetic/Radio Frequency Interference (EMI/RFI).
+(1) DC operated electromechanical
+switches are usually not susceptible to
+EMI/RFI. Proximity switches are susceptible
+to an EMI/RFI environment and must be
+evaluated in the application. Twisting lead
+wires, metal overbraids, lead wire routing, and
+the design of the proximity switch can minimize susceptibility.
+(2) The arcing of electromechanical
+switch contacts generates short duration
+EMI/RFI when controlling highly inductive
+electrical loads. Twisting lead wires, metal
+overbraids, and lead wire routing can reduce or
+eliminate generation problems when dealing
+with arcing loads. Proximity sensors generally
+use a relatively low-energy electromagnetic
+field to sense the target. Adequate spacing is
+required to prevent interference between adjacent proximity sensors or other devices susceptible to EMI/RFI. Refer to manufacturer’s
+instructions.
+b. Temperature.
+(1) Electromechanical switches can
+withstand wide temperature ranges and rapid
+gradient shifts without damage. Most aircraft
+°C °C
+switches operate between -55 and 85
+°C °C
+with designs available from -185 to 260
+or more. Higher temperatures require more
+exotic materials, which can increase costs and
+limit life. It should be noted that o-ring seals
+and elastomer boot seals tend to stiffen in extreme cold. This can increase operating forces
+and reduce release forces or stop the switch
+from releasing.
+(2) Proximity sensors are normally de-
+°C
+signed for environments from -55 to
+°C.
+125 During temperature excursions, the
+operating and release points may shift from
+5 percent to 10 percent. Reliability of the
+proximity sensor will typically be highest at
+room temperature. The reliability and MTBF
+estimates should be reduced for use under high
+temperatures or high thermal gradients.
+c. Sealing.
+NOTE: The materials used for sealing
+(o-rings, potting materials, etc.)
+should be compatible with any aircraft fluids to which the switch may be
+exposed.
+(1) Electromechanical switches range in
+sealing from partially sealed to hermetically
+sealed. Use a sealed switch when the switch
+will be exposed to a dirty environment during
+storage, assembly, or operation. Use a higher
+level of sealing when the switch will not have
+an arcing load to self-clean the contacts. Lowenergy loads tend to be more susceptible to
+contamination.
+(2) Proximity switches for aircraft applications typically have a metal face and potting material surrounding any electronics and
+lead wire exits. The potting material should be
+compatible with the fluids the switch will be
+exposed to in the environment. The plastic
+sensing face of some proximity switches may
+be subject to absorption of water that may
+cause the operating point to shift should be
+protected.
+d. Switch Installation. Hazardous errors
+in switch operation may be avoided by logical
+and consistent installation. “On-off”
+two-position switches should be mounted so
+that the “on” position is reached by an upward
+or forward movement of the toggle. When the
+switch controls movable aircraft elements,
+such as landing gear or flaps, the toggle should
+move in the same direction as the desired motion. Inadvertent operation of switches can be
+prevented by mounting suitable guards over
+the switches.

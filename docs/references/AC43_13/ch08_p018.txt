@@ -1,0 +1,35 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-18. IGNITION HARNESSES INSPECTION. Aircraft-quality ignition harness is
+usually made of either medium or hightemperature wire. The type used will depend
+upon the manufacturing specification for the
+particular engine. In addition to the applicable
+manufacturer’s maintenance and repair procedures, the following is a quick-reference
+checklist for isolating some of the malfunctions inherent to ignition harnesses.
+a. Carefully inspect the lead conduit or
+shielding. A few broken strands will not affect
+serviceability, but if the insulation in general
+looks worn, replace the lead.
+b. When replacing a lead, if the dressing
+procedure is not accomplished properly,
+strands of shielding may be forced through the
+conductor insulation. If this occurs, a short
+will exist in the conductor; therefore, it is essential this task be performed properly.
+c. The high-temperature coating used
+on some lightweight harnesses is provided for
+vibration abrasion resistance and moisture
+protection. Slight flaking or peeling of this
+coating is not serious, and a harness assembly
+need not be removed from service because of
+this condition.
+d. Check the spark plug contact springs
+for breaks, corrosion, or deformation. If possible, check the lead continuity from the distributor block to the contact spring.
+e. Check the insulators at the spark plug
+end of the lead for cracks, breaks, or evidence
+of old age. Make sure they are clean.
+f. Check to see that the leads are positioned as far away from the exhaust manifold
+as possible and are supported to prevent any
+whipping action.
+g. When lightweight harnesses are used
+and the conduit enters the spark plug at a severe angle, use clamps as shown in figure 8-8
+to prevent overstressing the lead.

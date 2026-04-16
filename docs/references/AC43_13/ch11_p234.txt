@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-234. SPARE CONTACTS (Future
+Wiring). To accommodate future wiring additions, spare contacts are normally provided.
+Locating the unwired contacts along the outer
+part of the connector facilitates future access.
+A good practice is to provide: Two spares on
+connectors with 25 or less contacts; 4 spares
+on connectors with 26 to 100 contacts; and
+6 spares on connectors with more than
+100 contacts. Spare contacts are not normally
+provided on receptacles of components that are
+unlikely to have added wiring. Connectors
+must have all available contact cavities filled
+with wired or unwired contacts. Unwired
+contacts should be provided with a plastic
+grommet sealing plug.

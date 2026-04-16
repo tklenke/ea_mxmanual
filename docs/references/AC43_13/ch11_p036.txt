@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 3: INSPECTION OF EQUIPMENT INSTALLATION
+
+11-36. ELECTRICAL LOAD DETERMINATION. The connected load of an aircraft’s electrical system may be determined by
+any one or a combination of several acceptable
+methods, techniques, or practices. However,
+those with a need to know the status of a particular aircraft’s electrical system should have
+accurate and up-to-date data concerning the
+capacity of the installed electrical power
+source(s) and the load(s) imposed by installed
+electrical power-consuming devices. Such
+data should provide a true picture of the status
+of the electrical system. New or additional
+electrical devices should not be installed in an
+aircraft, nor the capacity changed of any power
+source, until the status of the electrical system
+in the aircraft has been determined accurately
+and found not to adversely affect the integrity
+of the electrical system.

@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-46. INTERNAL WRENCHING BOLTS
+(MS20004 THROUGH MS20024) AND SIX
+HOLE, DRILLED SOCKET HEAD BOLTS
+(AN148551 THROUGH AN149350). These
+are very similar to the bolts in paragraph 7-45,
+except these bolts are made from different alloys. The NAS144 through NAS158 and
+NAS172 through NAS176 are interchangeable
+with MS20004 through MS20024 in the same
+thread configuration and grip lengths. The
+AN148551 through AN149350 have been superseded by MS9088 through MS9094 with
+the exception of AN149251 through 149350,
+which has no superseding MS standard.

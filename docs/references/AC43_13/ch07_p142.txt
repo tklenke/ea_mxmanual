@@ -1,0 +1,40 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-142. FLEXIBLE CABLES. Flexible,
+preformed, carbon steel, Type I, composition A
+cables, MIL-W-83420, are manufactured from
+steel made by the acid-open-hearth, basic-open
+hearth, or electric-furnace process. The wire
+used is coated with pure tin or zinc. Flexible,
+preformed, corrosion-resistant, Type I, composition B cables, MIL-W-87161,
+MIL-W-83420, and MIL-C-18375 are manufactured from steel made by the electricfurnace process. (See table 7-3 and figure 7-8.) These cables are of the 3 by 7,
+7 by 7, 7 by 19, or 6 by 19 IWRC construction,
+according to the diameter as specified in table 7-3. The 3 by 7 cable consists of three
+REPAIR OF CONTROL CABLES
+strands of seven wires each. There is no core
+in this construction. The 3 by 7 cable has a
+length of lay of not more than eight times or
+less than five times the nominal cable diameter. The 7 by 7 cable consists of six strands, of
+seven wires each, laid around a center strand
+of seven wires. The wires are laid so as to develop a cable which has the greatest bending
+and wearing properties. The 7 by 7 cable has a
+length of lay of not more than eight times or
+less than six times the cable diameter. The
+7 by 19 cable consists of six strands laid
+around a center strand in a clockwise direction.
+The wires composing the seven individual
+strands are laid around a center wire in two
+layers. The center core strand consists of a lay
+of six wires laid around the central wire in a
+clockwise direction and a layer of 12 wires laid
+around this in a clockwise direction. The six
+outer strands of the cable consist of a layer of
+six wires laid around the center wire in a
+counterclockwise direction and a layer of
+12 wires laid around this in a counterclockwise
+direction. The 6 by 19 cable consists of six
+strands of 19 wires each, laid around a 7 by 7.
+MIL-C-18375 cable, although not as strong as
+MIL-W-83420, is equal in corrosion resistance
+and superior in non-magnetic and coefficient
+of thermal expansion properties.

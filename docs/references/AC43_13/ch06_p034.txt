@@ -1,0 +1,9 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 3: CORROSION PROTECTION MEASURES FOR BASIC MATERIALS
+
+6-34.
+This treatment consists of boiling magnesium
+parts in a solution of sodium dichromate. It
+provides good paint base and protective qualities on all standard wrought magnesium alloys
+except the magnesium-thorium alloys. Acid
+pickling of the magnesium surface prior to application of the dichromate treatment is required if maximum corrosion resistance of the
+finish is expected.

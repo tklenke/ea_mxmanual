@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 18: CONDUITS
+
+11-248. GENERAL. Conduit is manufactured in metallic and nonmetallic materials
+and in both rigid and flexible forms. Primarily, its purpose is for mechanical protection of
+cables or wires. Conduit should be inspected
+for: proper end fittings; absence of abrasion at
+the end fittings; proper clamping; distortion;
+adequate drain points which are free of dirt,
+grease, or other obstructions; and freedom
+from abrasion or damage due to moving objects, such as aircraft control cables or shifting
+cargo.

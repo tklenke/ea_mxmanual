@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-17. SPARK PLUG PRE-RECONDITIONING INSPECTION. All spark plugs
+should be inspected visually before reconditioning to eliminate any plug with obvious defects. A partial checklist of common defects
+includes:
+a. Chipped or cracked ceramic either at
+the nose core or in the connector well.
+b. Damaged or badly worn electrodes.
+c. Badly nicked, damaged, or corroded
+threads on shell or shielding barrel.
+d. Dented, bent, or cracked shielding
+barrel.
+e. Connector seat at the top of the
+shielding barrel badly nicked or corroded.
+FIGURE 8-6e. Typical spark plug with bridged electrodes.
+[FIG 8-7] Spark plug well flashover.

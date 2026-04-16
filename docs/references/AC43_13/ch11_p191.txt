@@ -1,0 +1,22 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-191. FUEL SYSTEMS. Small metallic
+objects within an aircraft fuel tank, that are not
+part of the tank structure, should be electrically
+bonded to the structure so as to dissipate static
+charges that may otherwise accumulate on
+these objects. A practical bonding design
+would use a flexible braided jumper wire or
+riveted bracket. In such situations, a DC resistance of 1 ohm or less should indicate an
+adequate connection. Care should be taken, in
+designing such connections, to avoid creating
+continuous current paths that could allow
+lightning or power fault currents to pass
+through connections not designed to tolerate
+these higher amplitude currents without arcing.
+Simulated static charge, lightning, or fault current tests may be necessary to establish or verify specific designs. All other fuel system
+components, such as fuel line (line to line) access doors, fuel line supports, structural parts,
+fuel outlets, or brackets should have an electromechanical (bonding strap) secure connector that ensures 1 ohm or less resistance to the
+structure. Advisory Circular 20-53A Protection of Aircraft Fuel Systems Against Fuel Vapor Ignition Due to Lightning, and associate
+manual DOT/FAA/ CT-83/3, provide detailed
+information on necessary precautions.

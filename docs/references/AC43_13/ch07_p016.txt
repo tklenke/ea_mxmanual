@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 2: SCREWS
+
+7-16. MACHINE SCREWS. These screws
+are available in four basic head styles: flathead (countersunk), roundhead, fillister, and
+socket head.
+a. Flathead machine screws (AN505,
+AN510, AN507, NAS200, NAS514, NAS517,
+and NAS662) are used in countersunk holes
+where a flush surface is desired.
+b. Roundhead machine screws (AN515
+and AN520) are general-purpose screws for
+use in nonstructural applications.
+c. Fillister head machine screws (AN500
+through AN503, AN116901 through
+AN116912, AN116913 through AN116924,
+AN116962 through AN116990, AN117002
+through AN117030, and AN117042 through
+AN117070) are general-purpose screws that
+may be used as capscrews in light mechanical
+applications and are usually drilled for safety
+wire.
+d. Socket head machine screws
+(NAS608 and NAS609) are designed to be
+driven into tapped holes by means of internal
+wrenches. They may be used in applications
+requiring high strength, compactness of assembled parts, or sinking of heads below surfaces into fitted holes.

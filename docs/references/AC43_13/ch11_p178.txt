@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 14: TERMINAL REPAIRS
+
+11-178. CRIMP ON TERMINAL LUGS
+AND SPLICES (pre-insulated crimp type).
+The crimp on terminal lugs and splices must
+be installed using a high quality ratchet-type,
+crimping tool. We recommend the use of the
+proper calibrated tool. Aircraft quality crimp
+tools are manufactured to standards. Such
+tools are provided with positioners for the wire
+size and are adjusted for each wire size. It is
+essential that the crimp depth be appropriate
+for each wire size. If the crimp is too deep or
+not deep enough, it may break or cut individual strands, or it may not be tight enough to
+retain the wire in the terminal or connector.
+Crimps that are not tight enough are also susceptible to high resistance due to corrosion
+build-up between the crimped terminal and the
+wire. MIL-C22520/2 or MIL-T-DTl2250G
+specification covers in detail the general requirement for crimp tools, inspection gages
+and tool kits.
+a. Hand, portable, and stationary
+power tools are available for crimping terminal lugs. These tools crimp the barrel to the
+conductor, and simultaneously from the insulation support to the wire insulation.
+b. Crimp tools must be carefully inspected:
+(1) Insure that the full cycle ratchet
+mechanism is tamper-proof so that it cannot be
+disengaged prior to or during the crimp cycle.
+(2) If the tool does not function or faults
+are found, reject the tool and send the tool to
+be repaired.
+(3) The tool calibration and adjustments
+are make only by the manufacturer or an approved calibration laboratory.
+(4) Suitable gages of the Go/No Go
+type are available and shall be used prior to
+any crimping operation and whenever possible
+during operation to ensure crimp dimensions.

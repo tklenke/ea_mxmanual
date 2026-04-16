@@ -1,0 +1,23 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 14: HANDLING AND CARE OF AIRCRAFT RECOVERED FROM WATER IMMERSION
+
+6-220. GENERAL. Aircraft recovered from
+partial or total immersion in standing water or
+flash floods require an in-depth inspection and
+cleaning of both the exterior and interior areas.
+Water-immersion increases the probability of
+corrosive attack, it removes lubricants, deteriorates aircraft materials, and destroys electrical
+and avionics components.
+a. Sea water, because of salt content, is
+more corrosive than fresh water. However,
+fresh water may also contain varying amounts
+of salt and, as drying occurs, the salt concentration is increased and corrosive attack accelerated.
+b. Prompt action is the most important
+factor following recovery of an aircraft from
+water-immersion. Components of the aircraft
+which have been immersed, such as the
+powerplant, accessories, airframe sections,
+actuating mechanisms, screws, bearings,
+working surfaces, fuel and oil systems, wiring,
+radios, and radar should be disassembled, as
+necessary, and the contaminants completely
+removed.

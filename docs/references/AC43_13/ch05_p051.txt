@@ -1,0 +1,57 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-51. DEMAGNETIZATION AND POSTEXAMINATION CLEANING. Parts should
+be magnetized longitudinally last before demagnetizing.
+NOTE: Circular magnetism cannot
+be read with a field meter since it is an
+internal magnetic field. However, if
+the last shot, was a coil shot the meter
+can read it if a magnetic field is present.
+a. Demagnetization. Demagnetize between successive magnetization of the same
+part, to allow finding defects in all directions,
+and whenever the residual magnetism interferes with the interpretation of the indications.
+Also, demagnetize all parts and materials after
+completion of magnetic particle examination.
+Test all parts at several locations and parts for
+residual magnetism of complex configuration
+at all significant changes in geometry. Repeat
+demagnetization if there is any appreciable deflection of the field indicator needle.
+(1) AC method. Hold the part in the
+AC demagnetizing coils and then move the
+part slowly and steadily through the coils and
+approximately 3 to 4 feet past the coils. Repeat this process until the part loses its residual
+magnetism. Rotate and tumble parts of complex configuration as they are passed through
+the coils.
+(2) DC method. Place the part in the
+same relative position as when magnetized and
+apply reversing DC current. Gradually reduce
+the current to zero and repeat the process until
+the residual magnetic field is depleted.
+b. Post-Examination Cleaning.
+(1) When oil suspensions are used, solvent clean or remove the part until all magnetic
+particles and traces of oil are removed.
+(2) When parts or materials have been
+examined using water suspension methods,
+completely remove the water by any suitable
+means, such as an air blast, to ensure that the
+parts are dried immediately after cleaning.
+Thoroughly rinse the part with a detergentbase cleaner until all magnetic particles are
+removed. Then rinse in a solution of water
+and rust inhibitor.
+(3) For cadmium-plated parts an airwater vapor blast may be used to remove any
+remaining magnetic particle residue.
+(4) After final cleaning and drying, use
+temporary protective coatings, when necessary,
+to prevent corrosion.
+(5) After magnetic particle examination
+has been completed, restore any removed finishes according to the manufacturer’s repair
+manual.
+NOTE: Visible penetrant is often
+used interchangeably by NDI personnel with fluorescent penetrant. However, the chemical within most common red dye penetrants will neutralize
+the fluorescence of the chemicals used
+in that method. Therefore, a thorough
+cleaning of all magnetic particles is
+mandatory.
+5-52.5-59.
+[RESERVED.]
+SECTION 5. PENETRANT INSPECTION

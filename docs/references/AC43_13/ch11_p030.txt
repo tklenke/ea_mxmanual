@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 3: INSPECTION OF EQUIPMENT INSTALLATION
+
+11-30. GENERAL. When installing equipment which consumes electrical power in an
+aircraft, it should be determined that the total
+electrical load can be safely controlled or managed within the rated limits of the affected
+components of the aircraft’s electrical power
+supply system. Addition of most electrical
+utilization equipment is a major alteration and
+requires appropriate FAA approval. The electrical load analysis must be prepared in general
+accordance with good engineering practices.
+Additionally, an addendum to the flight manual is generally required.

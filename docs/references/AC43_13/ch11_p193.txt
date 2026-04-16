@@ -1,0 +1,50 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 15: GROUNDING AND BONDING
+
+11-193. LIGHTNING PROTECTION
+BONDING. Electrical bonding is frequently
+required for lightning protection of aircraft and
+systems, especially to facilitate safe conduction of lightning currents through the airframe.
+Most of this bonding is achieved through normal airframe riveted or bolted joints but some
+externally mounted parts, such as control surfaces, engine nacelles, and antennas, may require additional bonding provisions. Generally, the adequacy of lightning current bonds
+depends on materials, cross-sections, physical
+configurations, tightness, and surface finishes.
+Care should be taken to minimize structural resistance, so as to control structural voltage
+rises to levels compatible with system protection design. This may require that metal surfaces be added to composite structures, or that
+tinned copper overbraid, conduits, or cable
+trays be provided for interconnecting wire harnesses within composite airframes. Also care
+must be taken to prevent hazardous lightning
+currents from entering the airframe via flight
+control cables, push rods, or other conducting
+objects that extend to airframe extremities.
+This may require that these conductors be
+electrically bonded to the airframe, or that
+electrical insulators be used to interrupt lightning currents. For additional information on
+lightning protection measures, refer to
+DOT/FAA/CT-89-22. Report DOT/FAA/
+CT 86/8, April 1987, Determination of Electrical Properties of Bonding and Fastening Techniques may provide additional information for
+composite materials.
+a. Control Surface Lightning Protection
+Bonding. Control surface bonding is intended
+to prevent the burning of hinges on a surface
+that receives a lightning strike; thus causing
+possible loss of control. To accomplish this
+bonding, control surfaces and flaps should
+have at least one 6500 circular mil area copper
+(e.g. 7 by 37 AWG size 36 strands) jumper
+across each hinge. In any case, not less than
+two 6500 circular mil jumpers should be used
+on each control surface. The installation location of these jumpers should be carefully chosen to provide a low-impedance shunt for
+lightning current across the hinge to the structure. When jumpers may be subjected to arcing, substantially larger wire sizes of
+40,000 circular mils or a larger cross section
+are required to provide protection against multiple strikes. Sharp bends and loops in such
+jumpers can create susceptibility to breakage
+when subjected to the inductive forces created
+by lightning current, and should be avoided.
+b. Control Cable Lightning Protection
+Bonding. To prevent damage to the control
+system or injury to flight personnel due to
+lightning strike, cables and levers coming from
+each control surface should be protected by
+one or more bonding jumpers located as close
+to the control surface as possible. Metal pulleys are considered a satisfactory ground for
+control cables.

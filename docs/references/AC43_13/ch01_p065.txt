@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 5: FINISHING WOOD STRUCTURES
+
+1-65. ACCEPTABLE FINISHES. Any
+varnish conforming to Federal Specification
+TT-V-109, as amended, or other coating approved by the airframe manufacturer or the
+FAA is acceptable. Exterior surfaces must be
+further protected from the effects of abrasion,
+weather, and sunlight. A number of systems
+for exterior finishing have STC approval and
+are manufactured under a PMA. (See Chapter 2, Fabric Covering.) Low viscosity epoxy
+adhesive (meeting the requirements of paragraph 1-4 for that purpose) may be used as an
+internal surface finish when subsequent bonding is necessary.

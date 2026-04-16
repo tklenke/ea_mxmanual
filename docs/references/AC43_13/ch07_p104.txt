@@ -1,0 +1,40 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 6: PINS
+
+7-104. SPRING PINS. The spring pin is
+designed for use in double-shear applications.
+The pins are manufactured with the diameter
+greater than the holes in which they are to be
+used. Spring pins are stronger than mild carbon steel straight pins, taper pins, or grooved
+pins of the equivalent size. The spring pin is
+compressed as it is driven into the hole, and
+exerts continuous spring pressure against the
+sides of the hole to prevent loosening by vibration. Spring pins require no other means of
+securing, and can be used inside one another to
+increase shear strength.
+a. Be careful when using these pins,
+since spring-pin performance depends entirely
+on the fit and the durability of the fit under
+vibration or repeated load conditions (especially in soft materials, such as aluminum alloys and magnesium). They should not be
+used in an aircraft component or system where
+the loss or failure of the pin might endanger
+safe flight.
+b. The joints where spring pins are used
+for fastening shall be designed like riveted and
+bolted joints. Spring pins should not be mixed
+with other structural fasteners in the same
+joint. These pins, for primary structural applications, should be used only where there will
+be no rotation or relative movement of the
+joint. Spring pins may be reused if a careful
+inspection reveals no deformation of the pin or
+hole.
+c. Be careful to observe that the hole has
+not enlarged or deformed preventing proper
+functioning of the spring pin. Where hole
+misalignment results in the pin gap closing or
+necessitates excess inserting force, the spring
+pin will not be used. The spring pin should
+not be used as a substitute for a cotter pin.
+When a spring pin is used in a clevis joint, it is
+recommended that the pin be held by the outer
+members of the unit for maximum efficiency
+and reduced maintenance.

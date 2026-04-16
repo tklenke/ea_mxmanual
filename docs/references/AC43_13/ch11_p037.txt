@@ -1,0 +1,40 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 3: INSPECTION OF EQUIPMENT INSTALLATION
+
+11-37. JUNCTION BOX CONSTRUCTION. Replacement junction boxes should be
+fabricated using the same material as the original or from a fire-resistant, nonabsorbent material, such as aluminum, or an acceptable plastic
+material. Where fire-proofing is necessary, a
+stainless steel junction box is recommended.
+Rigid construction will prevent “oil-canning”
+of the box sides that could result in internal
+short circuits. In all cases, drain holes should
+be provided in the lowest portion of the box.
+Cases of electrical power equipment must be
+insulated from metallic structure to avoid
+ground fault related fires. (See paragraph 11-7.)
+a. Internal Arrangement. The junction
+box arrangement should permit easy access to
+any installed items of equipment, terminals,
+and wires. Where marginal clearances are unavoidable, an insulating material should be inserted between current carrying parts and any
+grounded surface. It is not good practice to
+mount equipment on the covers or doors of
+junction boxes, since inspection for internal
+clearance is impossible when the door or cover
+is in the closed position.
+b. Installation. Junction boxes should be
+securely mounted to the aircraft structure in
+such a manner that the contents are readily accessible for inspection. When possible, the
+open side should face downward or at an angle
+so that loose metallic objects, such as washers
+or nuts, will tend to fall out of the junction box
+rather than wedge between terminals.
+c. Wiring. Junction box layouts should
+take into consideration the necessity for adequate wiring space and possible future additions. Electrical wire bundles should be laced
+or clamped inside the box so that cables do not
+touch other components, prevent ready access,
+or obscure markings or labels. Cables at entrance openings should be protected against
+chafing by using grommets or other suitable
+means.
+11-38.11-46.
+[RESERVED.]
+
+SECTION 4. INSPECTION OF CIRCUIT-PROTECTION

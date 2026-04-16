@@ -1,0 +1,58 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 4: CABIN INTERIOR
+
+9-61. CAR-3 AIRCRAFT INTERIOR.
+The requirement for an interior of a CAR-3
+aircraft that is used only in 14 CFR, part 91
+operations, where smoking is not permitted, is
+that the materials shall be flash-resistant.
+(Reference CAR-3.388.)
+a. For compartments in CAR-3 aircraft
+where smoking is permitted, the wall and
+ceiling linings, the covering of all
+upholstering, floors, and furnishings shall be
+flame-resistant. Such compartments should be
+equipped with an adequate number of selfcontained ash trays. All other compartments
+shall be placarded against smoking. (Refer to
+CAR-3.388.)
+(1) If fabric is bought in bulk to
+refurbish the interior, seats, and ceiling liners
+for a CAR-3 aircraft used in part 91
+operations, a manufacturer’s statement,
+declaring that the material meets the American
+Society for Testing and Materials (ASTM) or
+similar national standard for either flash
+resistance or flame resistance, would be
+acceptable, but only for a CAR-3 aircraft
+installation. (Refer to 14 CFR part 43,
+section 43.13(a).) A manufacturer’s statement
+is acceptable due to neither the Civil
+Aeronautics Administration (CAA) nor the
+Federal Aviation Administration (FAA) having
+published an FAA fire standard for either flash
+or flame resistance for interior materials for
+CAR-3 aircraft. Since the FAA would accept
+and recognize a national
+standard, the mechanic would reference the
+manufacturer’s statement and the national
+standard that the material meets in the
+aircraft’s maintenance records.
+(2) If an annual inspection is performed
+on a CAR3 aircraft with a new interior and
+-
+there is no mention of a manufacturer’s
+statement that the fabric is flash or flame
+resistant as applicable, the possibility exists
+that the fabric is an unapproved part. The
+mechanic should take the necessary steps to
+ensure that the fabric meets or exceeds the
+ASTM or national standards. (Refer to
+14 CFR part 23, appendix F.)
+(3) If an FAA-approved STC interior kit
+is installed in a CAR-3 aircraft, and the
+material and fabric in the kit are PMA or TSO
+approved, the mechanic should include the
+STC number in block 8 of FAA Form 337.
+b. It is recommended that for all CAR-3
+interiors to use only fabric and materials that
+meets the more stringent requirements of
+part 23, appendix F.

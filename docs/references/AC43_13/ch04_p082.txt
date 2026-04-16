@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-82. TORCH SIZE (Oxyacetylene welding). When using oxyacetylene welding, the
+torch tip size depends upon the thickness of
+the material to be welded. Commonly used
+sizes, proven satisfactory by experience, are
+shown in table 4-13.
+[TABLE 4-13] Torch tip sizes.
+Thickness of
+steel Diameter of
+Drill size
+(in inches) hole in tip
+0.015 to 0.031 0.026 71
+0.031 to 0.065 .031 68
+0.065 to 0.125 .037 63
+0.125 to 0.188 .042 58
+0.188 to 0.250 .055 54
+0.250 to 0.375 .067 51

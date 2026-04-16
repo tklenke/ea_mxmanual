@@ -1,0 +1,40 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-102. LANDING GEAR REPAIR.
+a. Round Tube Construction. Repair
+landing gears made of round tubing using
+standard repairs and splices as shown in figure 4-35 and figure 4-41.
+b. Streamline Tube Construction. Repair
+landing gears made of streamlined tubing by
+either one of the methods shown in figure 4-42, figure 4-44, or figure 4-45.
+c. Axle Assemblies. Representative types of
+repairable and nonrepairable landing gear axle
+assemblies are shown in figures 4-46 and 4-47.
+The types as shown in A, B, and C of this figure are formed from steel tubing and may be
+repaired by the applicable method
+A- Slot Width (Original Tube).
+B- Outside Diameter (Insert Tube).
+C- Streamline Tube Length of Major Axis.
+S.L. Size A B C D
+1” .375 .563 1.340 .496
+1-¼ .375 .688 1.670 .619
+1-½ .500 .875 2.005 .743
+1-¾ .500 1.000` 2.339 .867
+2 .500 1.125 2.670 .991
+2-¼ .500 1.250 3.008 1.115
+2-½ .500 1.375 3.342 1.239
+ROUND INSERT TUBE (B) SHOULD BE AT LEAST OF
+THAN ORIGINAL STREAMLINE TUBE (C).
+[FIG 4-42] Streamline tube splice using round tube (applicable
+d. shown in figure 4-35 through figure 4-45.
+However, it will always be necessary to ascertain whether or not the members are heat
+treated. The axle assembly as shown in figure 4-47 is, in general, of a nonrepairable type
+for the following reasons.
+(1) The axle stub is usually made from a
+highly heat-treated nickel alloy steel and carefully machined to close tolerances. These
+stubs are usually replaceable and must be replaced if damaged.
+SAME MATERIAL AND ONE GAUGE THICKER
+to landing gear).
+(2) The oleo portion of the structure is generally heat treated after welding, and is perfectly machined to ensure proper functioning
+of the shock absorber. These parts would be
+distorted by welding after machining.

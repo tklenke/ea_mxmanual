@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-119. POWER FEEDERS. The power
+feeder wires should be routed so that they can
+be easily inspected or replaced. They must be
+given special protection to prevent potential
+chafing against other wiring, aircraft structure,
+or components.

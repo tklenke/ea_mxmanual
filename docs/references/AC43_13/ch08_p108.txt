@@ -1,0 +1,29 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 6: PROPELLER TRACKING AND VIBRATION
+
+8-108. PROPELLER TRACKING
+CHECK. The following is a simple procedure
+that can be accomplished in less than
+30 minutes:
+a. Chock the aircraft so it cannot be
+moved.
+b. Remove one spark plug from each
+cylinder. This will make the propeller easier
+and safer to turn.
+c. Rotate one of the blades so it is
+pointing down.
+d. Place a solid object (e.g. a heavy
+wooden block that is at least a couple of inches
+higher off the ground than the distance between the propeller tip and the ground) next to
+the propeller tip so that it just touches (see figure 8-30), or attach a pointer/indicator to the
+cowling itself.
+e. Rotate the propeller slowly to see if
+the next blade “tracks” through the same point
+(touches the block/pointer). Each blade track
+should be within 1/16-inch (plus or minus)
+from the opposite blade’s track.
+f. If the propeller is out of track, it may
+be due to one or more propeller blades being
+bent, a bent propeller flange, or propeller
+mounting bolts that are either over or undertorqued. An out-of-track propeller will cause
+vibration and stress to the airframe and engine,
+and may cause premature propeller failure.

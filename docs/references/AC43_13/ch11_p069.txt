@@ -1,0 +1,117 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 5: ELECTRICAL WIRE RATING
+
+11-69.
+COMPUTING CURRENT CARRYING CAPACITY.
+a. Example 1. Assume a harness (open or
+braided), consisting of 10 wires, size #20,
+°C
+200 rated copper and 25 wires, size #22,
+°C
+200 rated copper, will be installed in an
+°C
+area where the ambient temperature is 60
+and the vehicle is capable of operating at a
+60,000-foot altitude. Circuit analysis reveals
+that 7 of the 35 wires in the bundle
+(7/35 = 20 percent) will be carrying power currents nearly at or up to capacity.
+STEP 1: Refer to the “single wire in free air”
+curves in figure 11-4a. Determine the change
+of temperature of the wire to determine free air
+ratings. Since the wire will be in an ambient
+200°
+of 60 ºC and rated at C, the change of to
+°C °C °C.
+temperature is 200 - 60 = 140 Fol°C
+low the 140 temperature difference horizontally until it intersects with wire size line
+on figure 11-4a. The free air rating for
+size #20 is 21.5 amps, and the free air rating
+for size #22 is 16.2 amps.
+STEP 2: Refer to the “bundle derating curves”
+in figure 11-5, the 20 percent curve is selected
+since circuit analysis indicate that 20 percent
+or less of the wire in the harness would be carrying power currents and less than 20 percent
+of the bundle capacity would be used. Find
+35 (on the abscissa) since there are 35 wires in
+the bundle and determine a derating factor of
+0.52 (on the ordinate) from the 20 percent
+curve.
+STEP 3: Derate the size #22 free air rating by
+multiplying 16.2 by 0.52 to get 8.4 amps inharness rating. Derate the size #20 free airrating by multiplying 21.5 by 0.52 to get
+11.2 amps in-harness rating.
+STEP 4: Refer to the “altitude derating curve”
+of figure 11-6, look for 60,000 feet (on the abscissa) since that is the altitude at which the
+vehicle will be operating. Note that the wire
+must be derated by a factor of 0.79 (found on
+the ordinate). Derate the size
+#22 harness rating by multiplying
+8.4 amps by 0.79 to get 6.6 amps. Derate the
+size #20 harness rating by multiplying
+11.2 amps by 0.79 to get 8.8 amps.
+STEP 5: To find the total harness capacity,
+multiply the total number of size #22 wires by
+the derated capacity (25 x 6.6 = 165.0 amps)
+and add to that the number of size #20 wires
+multiplied by the derated capacity
+(10 x 8.8 = 88 amps) and multiply the sum by
+the 20 percent harness capacity factor. Thus,
+the total harness capacity is
+(165.0 + 88.0) x 0.20 = 50.6 amps. It has been
+determined that the total harness current
+should not exceed 50.6 A, size #22 wire should
+not carry more than 6.6 amps and size
+#20 wire should not carry more than 8.8 amps.
+STEP 6: Determine the actual circuit current
+for each wire in the bundle and for the whole
+bundle. If the values calculated in step #5 are
+exceeded, select the next larger size wire and
+repeat the calculations.
+b. Example 2. Assume a harness (open or
+°C
+braided), consisting of 12, size #12, 200
+rated copper wires, will be operated in an am°C °C
+bient of 25 at sea level and 60 at a
+20,000-foot altitude. All 12 wires will be operated at or near their maximum capacity.
+STEP 1: Refer to the “single wire in free air”
+curve in figure 11-4a, determine the temperature difference of the wire to determine free air
+ratings. Since the wire will be in ambient of
+°C °C °C,
+25 and 60 and is rated at 200 the
+°C-25 °C
+temperature differences are 200 =
+°C °C-60 °C °C
+175 and 200 = 140 respec°C °C
+tively. Follow the 175 and the 140 temperature difference lines on figure 11-4a until
+each intersects wire size line, the free air ratings of size #12 are 68 amps and 61 amps, respectively.
+STEP 2: Refer to the “bundling derating
+curves” in figure 11-5, the 100 percent curve is
+selected because we know all 12 wires will be
+carrying full load. Find 12 (on the abscissa)
+since there are 12 wires in the bundle and determine a derating factor of 0.43 (on the ordinate) from the 100 percent curve.
+STEP 3: Derate the size #12 free air ratings by
+multiplying 68 amps and 61 amps by 0.43 to
+get 29.2 amps and 26.2 amps, respectively.
+STEP 4: Refer to the “altitude derating curve”
+of figure 11-6, look for sea level and
+20,000 feet (on the abscissa) since these are
+the conditions at which the load will be carried. The wire must be derated by a factor of
+1.0 and 0.91, respectively.
+STEP 5: Derate the size #12 in a bundle ratings by multiplying 29.2 amps at sea level and
+26.6 amps at 20,000 feet by 1.0 and 0.91, respectively, to obtained 29.2 amps and
+23.8 amps. The total bundle capacity at sea
+level and 25 °C ambient is
+29.2x12=350.4 amps. At 20,000 feet and
+60 °C ambient the bundle capacity is
+23.8x12=285.6 amps. Each size #12 wire can
+carry 29.2 amps at sea level, 25 °C ambient or
+23.8 amps at 20,000 feet, and 60 °C ambient.
+STEP 6: Determine the actual circuit current
+for each wire in the bundle and for the bundle.
+If the values calculated in Step #5 are exceeded, select the next larger size wire and repeat the calculations.
+[FIG 11-2] Conductor chart, continuous flow.
+[FIG 11-3] Conductor chart, intermittent flow.
+FIGURE 11-4a. Single copper wire in free air.
+FIGURE 11-4b. Single copper wire in free air.
+[FIG 11-5] Bundle derating curves.
+[FIG 11-6] Altitude derating curve.
+11-70. – 11-75. [RESERVED.]
+SECTION 6. AIRCRAFT ELECTRICAL WIRE SELECTION

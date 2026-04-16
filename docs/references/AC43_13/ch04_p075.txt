@@ -1,0 +1,28 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-75. EQUIPMENT SELECTION. Use
+the welding equipment manufacturer’s information to determine if the equipment will satisfy the requirements for the type of welding
+operation being undertaken. Disregarding
+such detailed operating instructions may cause
+substandard welds. For example, when using
+GTAW equipment, a weld can be contaminated with tungsten if the proper size electrode
+is not used when welding with direct current
+reverse polarity. Another example, the depletion of the inert gas supply below the critical
+level causes a reduction in the gas flow and
+will increase the danger of atmospheric contamination.
+(a) Electric welding equipment versatility
+requires careful selection of the type current
+and polarity to b used. Since the composition
+and thickness of metals are deciding
+factors, the selection may vary with each specific application. Metals having refractory surface oxide films (i.e., magnesium alloys and
+aluminum and its alloys), are generally welded
+with alternating current (AC), while direct current (DC) is used for carbon, low alloy, noncorrodible, and heat-resisting steels. General
+recommendations covering current and polarity are shown in table 4-12.
+(b) Oxyacetylene gas equipment is suitable
+for welding most metals. It is not, however,
+the best method to use on such materials as
+stainless steel, magnesium, and aluminum alloys; because of base metal oxidization, distortion, and loss of ductility.
+NOTE: If oxyacetylene is used for
+welding stainless steel or aluminum, all
+flux must be removed, as it may cause
+corrosion.

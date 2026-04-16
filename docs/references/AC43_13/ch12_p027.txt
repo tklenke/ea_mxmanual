@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-27. DATA BUS. Data Buses provide the
+physical and functional partitioning needed to
+enable different companies to design different
+avionics boxes to be able to communicate information to each other. It defines the framework for system(s) intergration. There are
+several types of data bus analyzers used to receive and review transmitted data or to transmit data to a bus user. Before using an analyzer, make sure that the bus language is compatible with the bus analyzer. For further information refer to ARINC specifications such
+as 429 Digital Information Transfer System,
+Mark 33 which offers simple and affordable
+answers to data communications on aircraft.
+12-28. ELECTRIC COMPATABLITY.
+When replacing an instrument with one which
+provides additional functions or when adding
+new instruments, check the following electrical
+( where applicable) for compatibility:
+a. Voltage (AC/DC).
+b. Voltage polarity (DC).
+c. Voltage phase (s) (AC).
+d. Frequency (AC).
+e. Grounding (AC/DC).
+f. System impedance matching.
+g. Compatibility with system to which connected.
+12-29.12-36.
+[RESERVED.]
+SECTION 3. GROUND OPERATIONAL
+(NON ELECTRICAL)

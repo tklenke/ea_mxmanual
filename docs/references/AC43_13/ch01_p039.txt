@@ -1,0 +1,22 @@
+AC 43.13-1B  Chapter 1: WOOD STRUCTURE  Section 4: REPAIRS
+
+1-39. SCARF JOINTS. The scarf joint is
+the most satisfactory method of making an end
+joint between two solid wood members. Cut
+both parts accurately. The strength of the
+joints depends upon good joint design and a
+thin, uniform bond line. Make the scarf cut in
+the general direction of the grain slope as
+shown in figure 1-4.
+No grain deviation steeper than
+1 in 15 should be present in an outer
+eighth of the depth of the spar. In
+adjacent eighths, deviations involving
+steeper slopes, such as a wave in a
+few growth layers, are unlikely to be
+harmful. Local grain slope deviations
+in excess of those specified may be
+permitted in spar flanges only in the
+inner one-fourth of the flange depth.
+[FIG 1-4] Consideration of grain direction when
+making scarf joints.

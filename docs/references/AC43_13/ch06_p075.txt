@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 5: VISUAL CORROSION INSPECTION GUIDE FOR AIRCRAFT
+
+6-75. CONTROL CABLES.
+a. Inspect control cables for bare spots in
+the preservative coating and corrosion.
+b. If external corrosion is found, relieve
+tension on the cable and check internal strands
+for corrosion. Cables with corrosion on internal strands should be replaced. External corrosion should be removed by a clean, dry,
+coarse rag or fiber brush. A preservative
+should be applied after removal of external
+corrosion.

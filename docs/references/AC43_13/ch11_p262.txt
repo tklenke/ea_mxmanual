@@ -1,0 +1,36 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 19: PROTECTION OF UNUSED CONNECTORS
+
+11-262. UNPRESSURIZED AREA CONNECTORS. Connectors may be installed in
+unpressurized areas of the aircraft. Unused
+connector contact cavities installed in unpressurized areas should be properly sealed as follows:
+a. Firewall Connectors Installations.
+Firewall unused connector contact cavities
+should be filled with spare contacts and stub
+wires. (See figure 11-39.)
+(1) Construct stub wires using high
+temperature wire (260 ºC). Ensure that stub
+wires are of the same type of wires in the bundle.
+(2) Crimp the proper contact, for the
+connector and cavity being used, onto the wire.
+Install the crimped contact into the unused
+cavity.
+(3) Extend stub wires beyond the back
+of the connector clamp from 1.5 to 6 inches.
+Feather trim stub wires to taper wire bundle.
+(4) Secure wire ends with high tem
+AND UNUSED WIRES
+perature (greater than 250 ºC) lacing cord.
+Nylon cable ties are not allowed for this installation.
+NOTE: Both connectors mating
+through the engine fire-seal are considered firewall connectors. Connectors mounted on or near, but not
+through, the engine fire-seal are not
+considered firewall connectors.
+b. Non-firewall Connector Installations.
+In this type of installation all unused connector
+cavities must also be filled with spare contacts.
+It is not required, however, to crimp stub wires
+on filling contacts.
+Fill unused contact cavities with spare contacts
+and Teflon sealing plugs or rods. (See figure 11-40.) Rods shall be cut so that they extend 1/8 to 1/4 inch beyond the surface of the
+grommet when bottomed against the end of the
+spare contact. (See table 11-26 for dimensions.)

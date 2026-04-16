@@ -1,0 +1,55 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 7: BASIC CORROSION REMOVAL TECHNIQUES
+
+6-115. FAIRING OR BLENDING REWORKED AREAS. All depressions resulting from corrosion rework should be faired or
+blended with the surrounding surface. Fairing
+can be accomplished as follows:
+a. Remove rough edges and all corrosion
+from the damaged area. All dish-outs should
+be elliptically shaped with the major axis running spanwise on wings and horizontal stabilizers, longitudinally on fuselages, and vertically on vertical stabilizers. (Select the proper
+abrasive for fairing operations from table 6-1.)
+b. In critical and highly stressed areas,
+all pits remaining after the removal of corrosion products should be blended out to prevent
+stress risers that may cause stress corrosion
+cracking. (See figure 6-14.) On a non-critical
+structure, it is not necessary to blend out pits
+remaining after removal of corrosion products
+by abrasive blasting, since this results in unnecessary metal removal.
+[TABLE 6-1] Abrasives for corrosion removal.
+METALS OR RESTRICTIONS OPERATION ABRASIVE PAPER OR CLOTH
+MATERIALS TO
+ALUMINUM SILICON GARNET
+BE
+OXIDE CARBIDE
+PROCESSED
+FERROUS CORROSION 150 GRIT 180 GRIT
+ALLOYS REMOVAL OR FINER OR FINER
+OR FAIRING
+FINISHING 400 X X X
+ALUMINUM AL- DO NOT USE CORROSION 150 GRIT 7/0
+LOYS SILICON REMOVAL OR FINER OR
+EXCEPT CLAD CARBIDE OR FAIRING
+ALUMINUM ABRASIVE FINISHING 400
+CLAD SANDING CORROSION 240 GRIT 7/0
+ALUMINUM LIMITED TO THE REMOVAL OR FINER OR
+REMOVAL OF OR FAIRING
+MINOR
+SCRATCHES FINISHING 400
+MAGNESIUM CORROSION 240 GRIT
+ALLOYS REMOVAL OR FINER
+OR FAIRING ULTRA FINE
+FINISHING 400 X X
+CLEANING
+TITANIUM 150 GRIT 180 GRIT
+AND X X X
+OR FINER OR FINER
+FINISHING
+c. Rework depressions by forming
+smoothly blended dish-outs, using a ratio
+of 20:1, length to depth. (See figure 6-15.) In
+areas having closely spaced multiple pits, intervening material should be removed to
+minimize surface irregularity or waviness.
+(See figure 6-16.) Steel nut-plates and steel
+fasteners should be removed before blending
+corrosion out of aluminum structure. Steel or
+copper particles embedded in aluminum can
+become a point of future corrosion. All corrosion products must be removed during blending to prevent reoccurrence of corrosion.

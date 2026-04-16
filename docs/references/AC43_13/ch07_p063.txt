@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 4: NUTS
+
+7-63. GENERAL. Aircraft nuts are available in a variety of shapes, sizes, and material
+strengths. The types of nuts used in aircraft
+structures include castle nuts, shear nuts, plain
+nuts, light hex nuts, checknuts, wingnuts, and
+sheet spring nuts. Many are available in either
+self-locking or nonself-locking style. Typical
+nut types are shown in table 7-13. Refer to the
+aircraft manufacturer’s structural repair manual, the manufacturer’s engineering department, or the FAA, before replacing any nut
+with any other type.

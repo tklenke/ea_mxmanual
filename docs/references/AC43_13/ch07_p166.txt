@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 9: TURNBUCKLES
+
+7-166. TURNBUCKLE INSTALLATION.
+(See figure 7-25.) When installing cable system turnbuckles, it is necessary to screw both
+threaded terminals into the turnbuckle barrel
+an equal amount. It is essential that turnbuckle
+terminals be screwed into the barrel so that not
+more than three threads on the terminal are exposed. (See figure 7-23A.) On initial installation, the turnbuckle terminals should not be
+screwed inside the turnbuckle barrel more than
+four threads. (See figure 7-23B.)
+[FIG 7-25] Turnbuckle thread tolerance.

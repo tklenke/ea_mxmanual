@@ -1,0 +1,20 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-102. CONDUIT - RIGID METALLIC,
+FLEXIBLE METALLIC AND RIGID
+NONMETALLIC. Inspection of conduit assemblies should ascertain that:
+a. Conduit is relieved of strain and flexing of ferrules.
+b. Conduit is not collapsed or flattened
+from excessive bending.
+c. Conduits will not trap fluids or condensed moisture. Suitable drain holes should
+be provided at the low points.
+d. Bonding clamps do not cause damage
+to the conduit.
+e. Weatherproof shields on flexible conduits of the nose and main landing gear and in
+wheel wells are not broken; that metallic braid
+of weatherproof conduit is not exposed; and
+that conduit nuts, ferrules, and conduit fittings
+are installed securely.
+f. Ends of open conduits are flared or
+routed to avoid sharp edges that could chafe
+wires exiting from the conduit.

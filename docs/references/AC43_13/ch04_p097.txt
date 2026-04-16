@@ -1,0 +1,41 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-97. SPLICING USING LARGER DIAMETER REPLACEMENT TUBES. The
+method of splicing structural tubes, as shown
+in figure 4-40, requires the least amount of
+cutting and welding. However, this splicing
+method cannot be used where the damaged
+tube is cut too near the adjacent cluster joints,
+or where bracket-mounting provisions make it
+necessary to maintain the same replacement
+tube diameter as the original. As an aid to installing the replacement tube, squarely cut the
+original damaged tube leaving a minimum
+short stub equal to 2-1/2-tube diameters on one
+end and a minimum long stub equal to
+4-1/2-tube diameters on the other end. Select a
+length of steel tube of the same material and at
+least the same wall thickness, having an inside
+diameter approximately equal to the outside
+diameter of the damaged tube. Fit this replacement tube material snugly around the
+original tube with a maximum diameter difference of 1/16 inch. From this replacement tube
+material, cut a section of tubing diagonally (or
+fishmouth) of such a length that each end of
+the tube is a minimum distance of 1-1/2-tube
+diameters from the end of the cut on the original tube. Use a fishmouth cut replacement
+tube wherever possible. Deburr the edges of
+the replacement tube and original tube stubs.
+If a fishmouth cut is used, file out the sharp radius of the cut with a small round file.
+[FIG 4-38] Splicing by outer-sleeve method (replacement
+by welded outside sleeve).
+[FIG 4-39] Tube replacement at a station by welded outer
+[FIG 4-40] Splicing using larger diameter replacement
+sleeves.
+tube.
+Spring the long stub of the original tube from
+the normal position, slip the replacement tube
+over the long stub, and then back over the
+short stub. Center the replacement tube between the stubs of the original tube. Tack
+weld one end of the replacement tube in several places, then weld completely around the
+end. In order to prevent distortion, allow the
+weld to cool completely, then weld the remaining end of the replacement tube to the
+original tube.

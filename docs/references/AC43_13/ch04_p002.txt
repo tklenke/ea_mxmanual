@@ -1,0 +1,39 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 1: IDENTIFICATION OF METALS
+
+4-2. IDENTIFICATION OF STEEL
+STOCK. The Society of Automotive Engineers (SAE) and the American Iron and Steel
+Institute (AISI) use a numerical index system
+to identify the composition of various steels.
+The numbers assigned in the combined listing
+of standard steels issued by these groups represent the type of steel and make it possible to
+readily identify the principal elements in the
+material.
+a. The basic numbers for the four digit
+series of the carbon and alloy steel may be
+found in table 4-2. The first digit of the four
+number designation indicates the type to which
+the steel belongs. Thus, “1” indicates a carbon
+steel, “2” a nickel steel, “3” a nickel chromium
+steel, etc. In the case of simple alloy steels, the
+second digit indicates the approximate percentage of the predominant alloying element.
+The last two digits usually indicate the mean of
+the range of carbon content. Thus, the designation “1020” indicates a plain carbon steel
+lacking a principal alloying element and containing an average of 0.20 percent
+(0.18 to 0.23) carbon. The designation “2330”
+indicates a nickel steel of approximately
+3 percent (3.25 to 3.75) nickel and an average
+of 0.30 percent, (0.28 to 0.33) carbon content.
+The designation “4130” indicates a chromiummolybdenum steel of approximately 1 percent
+(0.80 to 1.10) chromium, 0.20 percent
+(0.15 to 0.25) molybdenum, and 0.30 percent
+(0.28 to 0.33) carbon.
+b. There are numerous steels with higher
+percentages of alloying elements that do not fit
+into this numbering system. These include a
+large group of stainless and heat resisting alloys in which chromium is an essential alloying element. Some of these alloys are identified by three digit AISI numbers and many
+others by designations assigned by the steel
+company that produces them. The few examples in table 4-3 will serve to illustrate the
+kinds of designations used and the general alloy content of these steels.
+c. “1025”
+welded tubing as per Specification
+MIL-T-5066 and “1025” seamless tubing conforming to Specification MIL-T-5066A are interchangeable.

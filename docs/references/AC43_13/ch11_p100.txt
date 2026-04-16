@@ -1,0 +1,52 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 8: WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-100. CONNECTORS. Ensure reliability
+of connectors by verifying that the following
+conditions are met or that repairs are effected
+as required.
+a. Inspect connectors for security and
+evidence of overheating (cause of over-heating
+must be corrected), and exteriors for corrosion
+and cracks. Also, wires leading to connectors
+must be inspected for deterioration due to
+overheating. Replace corroded connections
+and overheated connectors.
+b. Ensure installation of cable clamp
+(reference MIL-C-85049) adapters on applicable MS connectors, except those that are
+moisture-proof.
+c. See that silicone tape is wrapped
+around wires in MS3057 cable clamp adapters
+so that tightening of the cable clamp adapter
+cap provides sufficient grip on the wires to
+keep tension from being applied to the connector pins.
+d. Make sure unused plugs and receptacles are covered to prevent inclusion of dust
+and moisture. Receptacles should have metal
+or composite dust caps attached by their normal mating method. Plugs may have a dust
+cap similar to above or have a piece of
+polyolefin shrink sleeving shrunk over the
+connector, starting from the backshell threads,
+with a tail sufficiently long enough to doubleback over the connector and be tied with polyester lacing tape behind the coupling nut. The
+cable identification label should be visible behind the connector or a tag should be attached
+identifying the associated circuit or attaching
+equipment. The connector should be attached
+to structure by its normal mounting means or
+by the use of appropriate clamps.
+e. Ensure that connectors are fully mated
+by checking position and tightness of coupling
+ring or its alignment with fully mated indicator
+line on receptacle, if applicable.
+f. Ensure that the coupling nut of MS
+connectors is safetied, by wire or other mechanical locking means, as required by applicable aircraft instructional manuals.
+g. Ensure that moisture-absorbent material is not used as “fill” for MS3057 clamps
+or adapters.
+h. Ensure that there is no evidence of
+deterioration such as cracking, missing, or
+disintegration of the potting material.
+i. Identical connectors in adjacent locations can lead to incorrect connections. When
+such installations are unavoidable, the attached
+wiring must be clearly identified and must be
+routed and clamped so that it cannot be mismatched.
+j. Connectors in unpressurized areas
+should be positioned so that moisture will
+drain out of them when unmated. Wires exiting connectors must be routed so that moisture
+drains away from them.

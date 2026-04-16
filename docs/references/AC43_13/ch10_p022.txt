@@ -1,0 +1,157 @@
+AC 43.13-1B  Chapter 10: WEIGHT AND BALANCE  Section 2: WEIGHING PROCEDURES
+
+10-22. INSTALLATION OF BALLAST.
+Ballast is sometimes permanently installed for
+c.g. balance purposes as a result of installation
+or removal of equipment items and is not used
+to correct a nose-up or nose-down tendency of
+an aircraft. It is usually located as far aft or as
+far forward as possible in order to bring the
+c.g. position within acceptable limits with a
+minimum of weight increase. Permanent ballast is often lead plate wrapped around and
+bolted to the fuselage primary structure (e.i.,
+tail-post, longerons, or bulkhead members).
+Permanent ballast invariably constitutes a concentrated load; therefore, the strength of the
+local structure and the attachment of the ballast
+thereto should be investigated for the design
+loading conditions pertinent to that particular
+aircraft. Placard permanent ballast with Permanent ballast - do not remove. It is not
+[FIG 10-16] Example of moment and weight changes resulting
+desirable to install permanent ballast by pouring melted lead into the tail-post or longerons
+due to difficulties that may be encountered in
+subsequent welding repair operations. It
+should be noted that the installation of permanent ballast results in an increase of aircraft
+empty weight. See figure 10-19 for ballast
+computation. The local strength of the compartment in which the ballast is carried and the
+effect of the ballast on aircraft weight and balance should be investigated when disposable
+ballast is carried.
+from equipment changes.
+MAKE MA-700 MODEL A SERIAL # 0000
+DATUM IS leading edge of wing
+COMPUTE AS FOLLOWS IF AIRCRAFT WEIGHED
+1. Leveling means: level top longeron between front
+2. Main wheel weighing point is located ( “ FORWARD)
+3. Actual measured distance from the main weight point
+centerline 222 “.
+4. Oil over and above “ZERO” tank reading = (a. ----
+ACTUAL EMPTY WEIGHT
+Weight Point Scale Reading 5. Right 564
+6. Left 565
+7. Tail 67
+8. Nose ---9. Total Net Weight X
+CENTER OF GRAVITY AS WEIGHED
+10. C.G. relative to main wheel weighing point:
+(a) Tail wheel airc. (Item 3, 222) x (Item 7, 40
+(Item 9, 1169)
+(b) Nose wheel airc. (Item 3 ----) x (Item 8 ----
+(Item 9 ---- )
+11. C.G. relative to datum:
+(a) Tail wheel airc. (Item 10a, + 7.6) added
+(b) Nose wheel airc. (Item 10b, ) added
+COMPUTE IF AIRCRAFT WEIGHED WITH OIL (Item 4)
+Weight x Arm = Moment
+Aircraft (9)
+Less Oil (4b)
+Empty Totals (a)
+(b) ------------------- = (c) ------------------“ = Empty
+12. (a)
+REPAIR AGENCY
+Name Number
+[FIG 10-17] Sample weight and balance report to determine
+REGISTRATION # N1234 .
+.
+and rear seats.
+(+ 3 “ AFT) of datum.
+centerline to the tail (or nose) point
+Gals.) (b. ---- Lbs.) (c. ---- In.)
+Tare = Net Weight
+0 564
+0 565
+27 40
+---­ ----X 1169
+) = + 7.6 = C.G.
+) = = C.G.
+to (Item 2, + 3) = +10.6” = C.G.
+to (Item 2, ) = = C.G.
+(11)
+(4c)
+X (b)
+weight C.G.
+DATE
+empty weight center of gravity.
+EQUIPMENT LIST
+*Required or Optional Item Numbers as
+1 2 101 102
+106 201 202 203
+401(a) 402 ---­ ---Special Equipment
+Item Make
+3 Flares 1-1/2 Min. XYZ
+Enter above those items included in the empty weight.
+WEIGHT AND BALANCE EXTREME CONDITIONS
+Approved fwd limit 8.5” Approved max. weight
+Item FORWARD CHECK
+Weight Arm = Moment
+X X
+Airo. Empty + 1169 + 10.6 + 12391
+(9 or 12a) (11 or 12c)
+Oil + 17 - 49 - 833
+Pilot + 170 + 16 + 2720
+Fuel + 83 + 22 + 1826
+Passenger (s)
+Baggage
+TOTAL + 1439 = TW + 16104 = TM
+x x
+TM = 16104 = +11.2” =
+TW 1439
+Most Forward C.G. location
+LOADING SCHEDULE
+Gallons Number of Pounds of
+of Fuel Passengers Baggage
+40 2(R) 100
+The above includes pilot and capacity oil.
+EQUIPMENT CHANGE
+Computing New C.G.
+Item, Make, and Model* Weight X Arm
+Airc. Empty + 1169
+(9 or 12a) (11 or 12c)
+204 added + 6
+302(b) added + 29
+302(a) removed - 24
+303 removed - 1
+NET TOTALS - 1179 = NW
+NM = 13454= +11.4” = New C.G.
+NW 1179
+*ITEM NUMBERS WHEN LISTED IN PERTINENT AIRCRAFT
+IN LIEU OF “ITEM, MAKE, AND MODEL”.
+PREPARED BY________________________________
+[FIG 10-18] Sample weight and balance report including an
+Shown in Aircraft Specification
+103 104 105
+301 302(a) 303
+---­ ---­ ---Model Weight Arm
+03 25# 105”
+2100# Approved aft limit 21.9”
+REARWARD CHECK
+Weight Arm = Moment
++ 1169 + 10.6 + 12391
+(9 or 12a) (11 or 12c)
++ 17 - 49 - 833
++ 170 + 16 + 2720
++ 240 + 22 + 5280
++ 340 + 48 + 16320
++ 100 + 75.5 + 7550
++ 2036 = TW +43428=TM
+TM = 43428 = +21.3” =
+TW 2036
+Most Rearward C.G. location
+Moment
++ 10.6 + 12391
+- 1 - 6
++ 13 + 377
++ 29 + 696
++ 4 - 4
+x + 13454 = NM
+SPECIFICATION MAY BE USED
+DATE________________________
+equipment change for aircraft fully loaded.
+[FIG 10-19] Permanent ballast computation formula.

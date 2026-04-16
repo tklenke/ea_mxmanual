@@ -1,0 +1,204 @@
+AC 43.13-1B  Chapter 10: WEIGHT AND BALANCE  Section 2: WEIGHING PROCEDURES
+
+10-20. EQUIPMENT CHANGE. The person making an equipment change is obligated
+to make an entry on the equipment list indicating items added, removed, or relocated with
+the date accomplished, and identify himself by
+name and certificate number in the aircraft records. Examples of items so affected are the
+installation of extra fuel tanks, seats, and baggage compartments. Figure 10-15 illustrates
+the effect on balance when equipment items
+are added within the acceptable c.g. limits and
+fore and aft of the established c.g. limits.
+TO CHECK: MOST REARWARD WEIGHT AND BALANCE
+GIVEN:
+Actual empty weight of the aircraft --------------------------------------------------------------------------1169#
+Empty weight center of gravity-------------------------------------------------------------------------------10.6”
+*Maximum weight----------------------------------------------------------------------------------------------2100#
+*Rearward C.G.. limit------------------------------------------------------------------------------------------21.9”
+*Oil capacity, 9 qts. --------------------------------------------------------------------------------------------17#
+*Baggage, placarded do not exceed 100 lbs ---------------------------------------------------------------100#
+*Two passengers in rear seat, 170# x 2---------------------------------------------------------------------340#
+*Pilot in most rearward seat equipped with
+controls (unless otherwise placarded)-----------------------------------------------------------------------170#
+*Since the fuel tank is located aft of the
+rearward C.G. limit full fuel must be used------------------------------------------------------------------240#
+* Information should be obtained from the aircraft specification.
+Note: If fuel tanks are located ahead of the rearward
+CHECK OF REARWARD WEIGHT AND BALANCE EXTREME
+Weight (#) x Arm (“) = Moment (“#)
+Aircraft empty +
+Oil +
+Pilot (1) +
+Passenger (2) +
+Fuel (40 gals.) +
+Baggage +
+Total +
+Divide the TM (total moment) by the TW (total weight)
+TM = 43428 = + 21.3”
+TW 2036
+Since the rearward C.G. limit and the maximum weight
+treme condition is satisfactory.
+[FIG 10-11] Example of check of most rearward weight
+EXTREME.
+at -49”
+at +75.5”
+at +48”
+at +16”
+at +22”
+C.G. limit minimum fuel should be used.
+1169 + 10.6 + 12391
+17 - 49 - 833
+170 + 16 + 2720
+340 + 48 + 16320
+240 + 22 + 5280
+100 + 75.5 + 7550
+2036 (TW) + 43428 (TM)
+to obtain the rearward weight and balance extreme.
+are not exceeded, the rearward weight and balance exand balance extreme.
+EXAMPLE OF THE DETERMINATION OF THE NUMBER
+PERMISSIBLE WITH FULL FUEL
+GIVEN:
+Actual empty weight of the aircraft -------------------------------------------------------------------------1169#
+Empty weight center of gravity ------------------------------------------------------------------------------10.6”
+Maximum weight-----------------------------------------------------------------------------------------------2100#
+Datum is leading edge of the wing
+Forward center of gravity limit ------------------------------------------------------------------------------8.5”
+Rearward center of gravity limit -----------------------------------------------------------------------------21.9”
+Oil capacity, 9 qts.; show full capacity ---------------------------------------------------------------------17#
+Baggage, maximum--------------------------------------------------------------------------------------------100#
+Two passengers in rear seat, 170# x 2 ----------------------------------------------------------------------340#
+Pilot in most rearward seat equipped with
+controls (unless otherwise placarded) ----------------------------------------------------------------------170#
+Full fuel, 40 gals. x 6#-----------------------------------------------------------------------------------------240#
+Weight (#) x Arm (“) = Moment (“#)
+Aircraft empty + 1169
+Oil + 17
+Full Fuel + 240
+Passengers 2 rear + 340*
+Pilot + 170
+Baggage + 100
+Total + 2036
+Divide the TM (total moment) by the TW (total
+of gravity.
+TM = 43428 = + 21.3”
+TW 2036
+The above computations show that with full
+passengers in the rear seat may be carried
+the maximum weight or the approved C. G.
+This condition may be entered in the loading
+GALLONS OF FUEL NUMBER OF PASSENGERS
+Full 2 Rear 100
+* Only two passengers are listed to prevent
+being exceeded.
+[FIG 10-12] Loading conditions: determination of the number
+with full fuel.
+OF PASSENGERS AND BAGGAGE
+at -49”
+at +75.5”
+at +48”
+at +16”
+at +22”
++ 10.6 + 12391
+- 49 - 833
++ 22 + 5280
++ 48 +16320
++ 16 + 2720
++ 75.5 + 7550
+(TW) + 43428 (TM)
+weight) to obtain the loaded center
+fuel, 100 pounds of baggage and two
+in this aircraft without exceeding either
+range.
+schedule as follows:
+POUNDS OF BAGGAGE
+the maximum weight of 2100 lbs. from
+of passengers and baggage permissible
+EXAMPLE OF THE DETERMINATION OF THE
+WITH MAXIMUM PASSENGERS
+Weight (#) x Arm (“) = Moment (“#)
+Aircraft empty +
+Oil +
+Pilot +
+Passenger (1) front +
+Passenger (2) rear +
+Fuel (39 gals.) +
+Baggage
+Total +
+Divide the TM (total moment) by the TW
+of gravity.
+TM = 38466 = + 18.6”
+TW 2100
+The above computations show that with
+gallons of fuel and zero pounds of baggage
+exceeding either the maximum weight or
+This condition may be entered in the loading
+GALLONS OF FUEL NUMBER OF
+*Full *2 Rear * 100
+39 1(F) 2(R) None
+* Conditions as entered from Figure 10-12
+(F) Front seat
+(R) Rear seat
+[FIG 10-13] Loading conditions: determination of the
+POUNDS OF FUEL AND BAGGAGE PERMISSIBLE
+1169 + 10.6 + 12391
+17 - 49 - 833
+170 + 16 + 2720
+170 + 16 + 2720
+340 + 48 +16320
+234 + 22 + 5148
+---­ ---­ ---2100 + 38466
+(total weight) to obtain the loaded center
+the maximum number of passengers, 39
+may be carried in this aircraft without
+the approved C. G. range.
+schedule as follows:
+PASSENGERS POUNDS OF BAGGAGE
+fuel and baggage permissible with maximum passengers.
+EXAMPLE OF THE DETERMINATION OF THE FUEL
+PASSENGERS PERMISSIBLE WITH MAXIMUM BAGGAGE
+Weight (#) x Arm (“) = Moment (“#)
+Aircraft empty + 1169
+Oil +
+Pilot + 170
+Passenger (1) rear + 170
+Passenger (1) front + 170
+Fuel (40 gals.) + 240
+Baggage + 100
+Total + 2036
+Divide the TM (total moment) by the TW (total
+of gravity.
+TM = 37988 = + 18.7
+TW 20366
+The above computations show that with maximum
+gers (1 in the front seat and 1 in the rear seat)
+exceeding either the maximum weight or the
+This condition may be entered in the loading
+GALLONS OF FUEL NUMBER OF PASSENGERS
+*Full *2 Rear * 100
+** 39 *1(F) 2(R) **None
+Full 1(F) 1(R) Full
+* Conditions as entered from Figure 10-12
+** Conditions as entered from Figure 10-13
+(F) Front seat
+(R) Rear seat
+[FIG 10-14] Loading conditions: determination of the fuel
+permissible with maximum baggage.
+AND THE NUMBER AND LOCATION OF
++ 10.6 + 12391
+17 - 49 - 833
++ 16 + 2720
++ 48 + 8160
++ 16 + 2720
++ 22 + 5280
++ 75.5 + 7550
++ 37988
+weight) to obtain the loaded center
+baggage, full fuel and 2 passenmay be carried in this aircraft without
+approved C. G. range.
+schedule as follows:
+POUNDS OF BAGGAGE
+and the number and location of passengers
+[FIG 10-15] Effects of the addition of equipment items
+Moment computations for typical equipment
+changes are given in figure 10-16 and are also
+included in the sample weight and balance
+sheet in figure 10-18.

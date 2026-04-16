@@ -1,0 +1,142 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 2: STORAGE BATTERIES
+
+11-19. BATTERY MAINTENANCE.
+Battery inspection and maintenance procedures
+vary with the type of chemical technology and
+the type of physical construction. Always follow the battery manufacturer’s approved procedures. Battery performance at any time in a
+given application will depend upon the battery’s age, state of health, state of charge, and
+mechanical integrity.
+a. Age. To determine the life and age of
+the battery, record the install date of the battery
+on the battery. During normal battery maintenance, battery age must be documented either
+in the aircraft maintenance log or in the shop
+maintenance log.
+b. State of Health. Lead-acid battery
+state of health may be determined by duration
+of service interval (in the case of vented batteries), by environmental factors (such as excessive heat or cold), and by observed electrolyte leakage (as evidenced by corrosion of
+wiring and connectors or accumulation of
+powdered salts). If the battery needs to be refilled often, with no evidence of external leakage, this may indicate a poor state of the battery, the battery charging system, or an over
+charge condition.
+(1) Use a hydrometer to determine the
+specific gravity of the battery electrolyte,
+which is the weight of the electrolyte compared to the weight of pure water.
+(2) Take care to ensure the electrolyte is
+returned to the cell from which it was extracted. When a specific gravity difference
+of 0.050 or more exists between cells of a battery, the battery is approaching the end of its
+useful life and replacement should be considered. Electrolyte level may be adjusted by the
+addition of distilled water.
+c. State of Charge. Battery state of
+charge will be determined by the cumulative
+effect of charging and discharging the battery.
+In a normal electrical charging system the battery’s generator or alternator restores a battery
+to full charge during a flight of one hour to
+ninety minutes.
+d. Mechanical Integrity. Proper mechanical integrity involves the absence of any
+physical damage as well as assurance that
+hardware is correctly installed and the battery
+is properly connected. Battery and battery
+compartment venting system tubes, nipples
+and attachments, when required, provide a
+means of avoiding the potential buildup of explosive gases, and should be checked periodically to ensure that they are securely connected
+and oriented in accordance with the maintenance manual’s installation procedures. Always follow procedures approved for the specific aircraft and battery system to ensure that
+the battery system is capable of delivering
+specified performance.
+e. Battery and Charger Characteristics.
+The following information is provided to acquaint the user with characteristics of the more
+common aircraft battery and battery charger
+types. Products may vary from these descriptions due to different applications of available
+technology. Consult the manufacturer for specific performance data.
+NOTE: Under no circumstances connect a lead-acid battery to a charger,
+unless properly serviced.
+(1) Lead-acid vented batteries have a
+two volt nominal cell voltage. Batteries are
+constructed so that individual cells cannot be
+removed. Occasional addition of water is required to replace water loss due to overcharging in normal service. Batteries that become
+fully discharged may not accept recharge.
+(2) Lead-acid sealed batteries are similar in most respects to lead-acid vented batteries, but do not require the addition of water.
+(3) The lead-acid battery is economical
+and has extensive application, but is heavier
+than an equivalent performance battery of another type. The battery is capable of a high
+rate of discharge and low temperature performance. However, maintaining a high rate
+of discharge for a period of time usually warps
+the cell plates, shorting out the battery. Its
+electrolyte has a moderate specific gravity, and
+state of charge can be checked with a hydrometer.
+(4) Do not use high amperage automotive battery chargers to charge aircraft
+batteries.
+(5) NiCad vented batteries have a
+1.2 volt nominal cell voltage. Occasional addition of distilled water is required to replace
+water loss due to overcharging in normal
+service. Cause of failure is usually shorting or
+weakening of a cell. After replacing the bad
+cell with a good cell, the battery’s life can be
+extended for five or more years. Full discharge is not harmful to this type of battery.
+(6) NiCad sealed batteries are similar in
+most respects to NiCad vented batteries, but do
+not normally require the addition of water.
+Fully discharging the battery (to zero volts)
+may cause irreversible damage to one or more
+cells, leading to eventual battery failure due to
+low capacity.
+(7) The state of charge of a NiCad battery cannot be determined by measuring the
+specific gravity of the potassium hydroxide
+electrolyte. The electrolyte specific gravity
+does not change with the state of charge. The
+only accurate way to determine the state of
+charge of a NiCad battery is by a measured
+discharge with a NiCad battery charger and
+following the manufacturer’s instructions.
+After the battery has been fully charged and
+allowed to stand for at least two hours, the
+fluid level may be adjusted, if necessary, using
+distilled or demineralized water. Because the
+fluid level varies with the state of charge, water should never be added while the battery is
+installed in the aircraft. Overfilling the battery
+will result in electrolyte spewage during
+charging. This will cause corrosive effects on
+the cell links, self-discharge of the battery, dilution of the electrolyte density, possible
+blockage of the cell vents, and eventual cell
+rupture.
+(8) Lead-acid batteries are usually
+charged by regulated DC voltage sources. This
+allows maximum accumulation of charge in
+the early part of recharging.
+(9) Constant-current battery chargers
+are usually provided for NiCad batteries because the NiCad cell voltage has a negative
+temperature coefficient. With a constantvoltage charging source, a NiCad battery
+having a shorted cell might overheat due to excessive overcharge and undergo a thermal runaway, destroying the battery and creating a
+possible safety hazard to the aircraft.
+DEFINITION: Thermal runaway can
+result in a chemical fire and/or explosion of the NiCad battery under recharge by a constant-voltage source,
+and is due to cyclical, ever-increasing
+temperature and charging current.
+One or more shorted cells or an existing high temperature and low charge
+can produce the cyclical sequence of
+events: (1) excessive current,
+(2) increased temperature,
+(3) decreased cell(s) resistance,
+(4) further increased current, and
+(5) further increased temperature.
+This will not become a self-sustaining
+thermal-chemical action if the constant-voltage charging source is removed before the battery temperature
+°°°°F.
+is in excess of 160
+(10) Pulsed-current battery chargers are
+sometimes provided for NiCad batteries.
+CAUTION: It is important to use the
+proper charging procedures for batteries under test and maintenance.
+These charging regimes for reconditioning and charging cycles are defined by the aircraft manufacturer
+and should be closely followed.
+f. Shop-Level Maintenance Procedures.
+Shop procedures must follow the manufacturer’s recommendations. Careful examination
+of sealed batteries and proper reconditioning of
+vented batteries will ensure the longest possible service life.
+g. Aircraft Battery Inspection.
+(1) Inspect battery sump jar and lines
+for condition and security.
+(2) Inspect battery terminals and quickdisconnect plugs and pins for evidence of corrosion, pitting, arcing, and burns. Clean as required.
+(3) Inspect battery drain and vent lines
+for restriction, deterioration, and security.
+(4) Routine pre-flight and post-flight
+inspection procedures should include observation for evidence of physical damage, loose
+connections, and electrolyte loss.

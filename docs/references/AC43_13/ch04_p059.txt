@@ -1,0 +1,12 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-59. REPAIRING CRACKED MEMBERS. Acceptable methods of repairing various types of cracks in structural elements are
+shown in figures 4-21 through 4-24. The following general procedures apply in repairing
+such defects.
+a. Drill small holes 3/32 inch (or
+1/8 inch) at the extreme ends of the cracks to
+minimize the possibility of their spreading
+further.
+b. Add reinforcement to carry the
+stresses across the damaged portion and to
+stiffen the joints. (See figures 4-14 through

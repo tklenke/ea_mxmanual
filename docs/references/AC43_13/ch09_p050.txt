@@ -1,0 +1,48 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 3: EMERGENCY EQUIPMENT
+
+9-50. FUNCTIONAL TESTING AFTER
+REPAIR. Following repair, and before inspection plates, cover plates, or upholstering
+are replaced, test the entire system.
+a. Open the cylinder valve slowly and
+observe the pressure gauge on a high-pressure
+system. A pressure of approximately 1,800 psi
+°F)
+(at 70 should be indicated on the gauge.
+(Cylinder pressure will vary considerably with
+radical temperature changes.)
+(1) Check the system by installing one
+of the mask hose fittings (minus the mask) in
+each of the cabin wall outlets to determine
+whether there is a flow. If a demand mask is
+used, check by breathing through the mask
+and, if appropriate, clean the mask according
+to paragraph 9-49d.
+(2) Check the complete system for leaks
+in accordance with the procedure outlined in
+paragraph 9-49b(2)(d).
+(3) If leaks are found, close the cylinder
+valve and open an outlet to reduce the pressure
+in the system to zero.
+b. The following checks may be made for
+a pressure drop check of the system.
+(1) Open the cylinder valve and pressurize the system. Observe the pressure gauge
+°F
+(a pressure of approximately 1,800 psi at 70
+should be indicated). For the light weight
+ICC 3HT 1850 cylinders, pressurize the system
+°F. procedures for charging high-pressure oxygen
+to approximately 1,850 psi at 70
+(2) Close the cylinder valve and wait
+approximately 5 minutes for temperatures to
+stabilize.
+(3) Record the pressure gauge reading
+and temperature and after 1 hour, record the
+pressure gauge reading and temperature again.
+(4) A maximum pressure drop of
+100 psi is permissible.
+NOTE: Conduct the above tests in an
+area where changes of temperature
+°°°°F.
+will be less than 10 If a leak occurs during the 1-hour period, suitable corrections would be required, or
+reconduct the test under conditions of
+unvarying temperatures.

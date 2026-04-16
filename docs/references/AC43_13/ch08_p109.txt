@@ -1,0 +1,43 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 6: PROPELLER TRACKING AND VIBRATION
+
+8-109. VIBRATION. Although vibration
+can be caused by the propeller, there are numerous other possible sources of vibration
+which can make troubleshooting difficult.
+a. If a propeller vibrates, whether due to
+balance, angle, or track problems, it typically
+vibrates, throughout the entire RPM range, although the intensity of the vibration may vary
+with the RPM. If a vibration occurs only at
+one particular RPM or within a limited RPM
+range (e.g. 2200-2350 RPM), the vibration is
+not normally a propeller problem but a problem with a poor engine/propeller match.
+b. If a propeller vibration is suspected
+but cannot be positively determined, if possible, the ideal troubleshooting method is to
+temporarily replace the propeller with one
+which is known to be airworthy and test fly the
+aircraft.
+c. There are numerous allowable tolerances in blade angles, balance, track, and
+blade width and thickness dimensions. These
+tolerances have been established through many
+years of experience. The degree to which
+these factors affect vibration is sometimes disputed and can involve significant repair bills,
+which may or may not cure a vibration problem. Reliance upon experienced, reputable
+propeller repair stations is the owner’s best
+method of dealing with these problems.
+d. Blade shake is not the source of vibration problems. Once the engine is running,
+centrifugal force holds the blades firmly (approximately 30-40,000 lbs.) against blade
+bearings.
+e. Cabin vibration can sometimes be improved by reindexing the propeller to the
+crankshaft. The propeller can be removed,
+180�,
+rotated and re-installed.
+f. The propeller spinner can be a contributing factor to an out-of-balance condition.
+An indication of this would be a noticeable
+spinner “wobble” while the engine is running.
+[FIG 8-30] Propeller tracking (wood block or
+8-110.8-129.
+[RESERVED.]
+This condition is normally caused by inadequate shimming of the spinner front support or
+a cracked or deformed spinner.
+cowling fixture shown).
+CHAPTER 9. AIRCRAFT SYSTEMS
+SECTION 1. INSPECTION AND MAINTENANCE

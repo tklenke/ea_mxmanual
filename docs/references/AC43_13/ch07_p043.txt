@@ -1,0 +1,57 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-43. ENGINE BOLTS. These are hex
+head bolts (AN101001 through AN101900),
+drilled shank hex head bolts (AN101901
+through AN102800), drilled hex head (one
+hole) bolts (AN102801 through AN103700),
+and drilled hex head (six holes) bolts
+(AN103701 through AN104600). They are
+similar to each other except for the holes in the
+head and shank. Hex head bolts (AN104601
+through AN105500), drilled shank hex head
+bolts (AN105501 through AN106400), drilled
+hex head (one hole) bolts (AN106401 through
+AN107300), and drilled hex head (six holes)
+bolts (AN107301 through AN108200) are
+similar to the bolts described in paragraph 7-42, except that this series is manufactured from corrosion-resistant steel.
+[FIG 7-2] Torque wrench with various adapters.
+[TABLE 7-1] Recommended torque values (inch-pounds).
+CAUTION
+THE FOLLOWING TORQUE VALUES ARE DERIVED
+TORQUE LIMITS RECOMMENDED FOR INSTAL- MAXIMUM ALLOWABLE TIGHTENING
+LATION (BOLTS LOADED PRIMARILY IN SHEAR) TORQUE LIMITS
+Thread Size Tension type nuts Shear type
+MS20365 and AN310 and AN320 (24,000 psi in AN310 (90,000 psi in AN320 (54,000 psi in
+(40,000 psi in bolts) bolts) bolts) bolts)
+FINE THREAD SERIES
+8-36 12-15
+10-32 20-25 12-15
+1/4-28 50-70 30-40
+5/16-24 100-140 60-85
+3/8-24 160-190 95-110
+7/16-20 450-500 270-300
+1/2-20 480-690 290-410
+9/16-18 800-1000 480-600
+5/8-18 1100-1300 600-780
+3/4-16 2300-2500
+1300-1500 5000 3000
+7/8-14 2500-3000 1500-1800
+1-14 3700-5500 2200-3300*
+1-1/8-12 5000-7000 3000-4200*
+1-1/4-12 9000-11,000 5400-6600*
+COARSE THREAD SERIES
+8-32 12-15
+10-24 20-25 12-15
+1/4-20 40-50 25-30
+5/16-18 80-90 48-55
+3/8-16 160-185 95-100
+7/16-14 235-255 140-155
+1/2-13 400-480 240-290
+9/16-12 500-700 300-420
+5/8-11 700-900 420-540
+3/4-10 1150-1600 700-950
+7/8-9 2200-3000 1300-1800
+The above torque values may be used for all
+have approximately equal number of threads and
+* Estimated corresponding values.

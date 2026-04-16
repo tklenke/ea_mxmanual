@@ -1,0 +1,29 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 1: GENERAL
+
+6-3. COMMON CORROSIVE AGENTS.
+Substances that cause corrosion are called corrosive agents. The most common corrosive
+agents are acids, alkalies, and salts. The atmosphere and water, the two most common
+media for these agents, may also act as corrosive agents.
+a. Any acid will severely corrode most
+of the alloys used in airframes. The most destructive are sulfuric acid (battery acid), halogen acids (hydrochloric, hydrofluoric, and hydrobromic), nitrous oxide compounds, and organic acids found in the wastes of humans and
+animals.
+b. Alkalies, as a group, are not as corrosive as acids. Aluminum and magnesium alloys are exceedingly prone to corrosive attack
+by many alkaline solutions unless the solutions
+contain a corrosion inhibitor. Substances particularly corrosive to aluminum are washing
+soda, potash (wood ashes), and lime (cement
+dust).
+c. The major atmospheric corrosive
+agents are oxygen and airborne moisture.
+Corrosion often results from the direct action
+of atmospheric oxygen and moisture on metal
+nd the presence of additional moisture often
+accelerates corrosive attack, particularly on
+ferrous alloys. The atmosphere may also contain other corrosive gases and contaminants,
+particularly industrial and marine salt spray.
+d. The corrosiveness of water depends
+on the type and quantity of dissolved mineral
+and organic impurities and dissolved gasses
+(particularly oxygen) in the water. One characteristic of water that makes it corrosive is its
+conductivity. Physical factors, such as water
+temperature and velocity also have a direct
+bearing on its corrosiveness.

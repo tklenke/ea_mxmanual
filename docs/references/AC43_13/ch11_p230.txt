@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-230. GENERAL. There is a multitude
+of types of connectors. Crimped contacts are
+generally used. Some of the more common
+are the round cannon type, the rectangular,
+and the module blocks. Environmentalresistant connectors should be used in applications subject to fluids, vibration, thermal,
+mechanical shock, and/or corrosive elements.
+When HIRF/Lightning protection is required,
+special attention should be given to the terminations of individual or overall shields. The
+number and complexity of wiring systems
+have resulted in an increased use of electrical
+connectors. The proper choice and application of connectors is a significant part of the
+aircraft wiring system. Connectors must be
+kept to a minimum, selected, and installed to
+provide the maximum degree of safety and
+reliability to the aircraft. For the installation
+of any particular connector assembly, the
+specification of the manufacturer or the appropriate governing agency must be followed.

@@ -1,0 +1,79 @@
+AC 43.13-1B  Chapter 9: AIRCRAFT SYSTEMS AND COMPONENTS  Section 1: INSPECTION AND MAINTENANCE OF LANDING GEAR
+
+9-9. INSPECTION AND REPAIR OF
+FLOATS AND SKIS. Inspection of floats
+and skis involves examination for damage due
+to corrosion, collision with other objects, hard
+landings, and other conditions that may lead to
+failure. Tubular structures for such gear may
+be repaired as described in the section covering welded repairs of tubular structures.
+a. Floats. To maintain the float in an airworthy condition, periodic and frequent inspections should be made because of the rapidity of corrosion on metal parts, particularly
+when the aircraft is operated in salt water. Examine metal floats and all metal parts on
+wooden or fiberglass floats for corrosion, and
+take corrective action in accordance with the
+procedures described in Chapter 6, Corrosion,
+Inspection & Protection. Chapter 4, Metal
+Structure, Welding, and Brazing, outlines
+methods for repairing damage to metal floats
+of aluminum and aluminum alloy structures.
+Note: Blind rivets should not be used on
+floats or amphibian hulls below the water
+line.
+In the case of wooden floats, make repairs in
+accordance with general procedures outlined in
+Chapter 1, Wood Structure. Repair fiberglass
+floats in accordance with the manufacturer’s
+instructions.
+(1) If small blisters are noticed on the
+paint, either inside or outside the float, the
+paint should be removed and the area examined. If corrosion is found, the area should be
+cleaned thoroughly, and a coat of corrosioninhibiting material applied. If the corrosion
+penetrates the metal to an appreciable depth,
+replace the metal. Special attention should be
+given to brace wire fittings and water ruddercontrol systems.
+(2) If the hull or floats have retractable
+landing gear, a retraction check should be performed along with the other recommendations
+mentioned for retractable landing-gear systems. Sheet-metal floats should be repaired
+using approved practices; however, the seams
+between sections of sheet metal should be waterproofed with suitable fabric and sealing
+compound. A float that has undergone hull repairs should be tested by filling it with water
+and allowing it to stand for at least 24 hours to
+see if any leaks develop.
+b. Skis and Ski Installation. Skis should
+be inspected for general condition of the skis,
+cables, bungees, and fuselage attachments. If
+retractable skis are used, checks in accordance
+with the general practices for retractable gear
+should be followed. Ski manufacturers usually
+furnish acceptable repair procedures. It is advisable to examine ski installations frequently
+to keep them maintained in airworthy condition. If shock cord is used to keep the ski runner in proper trim, periodically examine to ensure that the cord has enough elasticity to keep
+the runner in its required attitude and the cord
+is not becoming loose or badly frayed. Replace old or weak shock cords. When other
+means of restraint are provided, examine for
+excessive wear and binding, and replace or repair as required. Examine the points of cable
+attachment, both on the ski and the aircraft
+structure, for bent lugs due to excessive loads
+that have been imposed while taxiing over
+rugged terrain or by trying to break loose frozen skis. If skis that permit attachment to the
+wheels and tires are used, maintain proper tire
+pressure as under-inflated tires may push off
+the wheels if appreciable side loads are developed in landing or taxiing.
+c. Repair of Ski Runners. Repair limits
+are found in the applicable manufacturer’s
+manual. Fractured wooden ski runners usually
+require replacement. If a split at the rear end
+of the runner does not exceed 10 percent of the
+ski length, it may be repaired by attaching one
+or more wooden crosspieces across the top of
+the runner using glue and bolts. Bent or torn
+metal runners may be straightened if minor
+bending has taken place and minor tears may
+be repaired in accordance with procedures recommended in Chapter 4, Metal Structure,
+Welding, and Brazing.
+d. Ski Pedestals.
+(1) Tubular Pedestals. Damaged pedestals made of steel tubing may be repaired by
+using tube splices as shown in the chapter on
+welding.
+(2) Cast Pedestals. Consult a Federal
+Aviation Administration (FAA) representative
+on the repair of cast pedestals.

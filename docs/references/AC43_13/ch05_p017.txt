@@ -1,0 +1,44 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 2: VISUAL INSPECTION
+
+5-17. BORESCOPES. These instruments
+are long, tubular, precision optical instruments
+with built-in illumination, designed to allow
+remote visual inspection of internal surfaces or
+otherwise inaccessible areas. The tube, which
+can be rigid or flexible with a wide variety of
+lengths and diameters, provides the necessary
+optical connection between the viewing end
+and an objective lens at the distant, or distal tip
+of the borescope. Rigid and flexible borescopes are available in different designs for a
+variety of standard applications and manufacturers also provide custom designs for specialized applications. Figure 5-1 shows three
+typical designs of borescopes.
+a. Borescopes Uses. Borescopes are used
+in aircraft and engine maintenance programs to
+reduce or eliminate the need for costly teardowns. Aircraft turbine engines have access
+ports that are specifically designed for borescopes. Borescopes are also used extensively in
+a variety of aviation maintenance programs to
+determine the airworthiness of difficult-toreach components. Borescopes
+typically are used to inspect interiors of hydraulic cylinders and valves for pitting, scoring, porosity, and tool marks; inspect for
+cracked cylinders in aircraft reciprocating engines; inspect turbojet engine turbine blades
+and combustion cans; verify the proper placement and fit of seals, bonds, gaskets, and subassemblies in difficult to reach areas; and assess Foreign Object Damage (FOD) in aircraft,
+airframe, and powerplants. Borescopes may
+also be used to locate and retrieve foreign objects in engines and airframes.
+b. Optical Designs. Typical designs for
+the optical connection between the borescope
+viewing end and the distal tip are:
+(1) A rigid tube with a series of relay
+lenses;
+(2) A flexible or rigid tube with a bundle of optical fibers; and
+(3) A flexible or rigid tube with wiring
+that carries the image signal from a Charge
+Couple Device (CCD) imaging sensor at the
+distal tip.
+These designs can have either fixed or adjustable focusing of the objective lens at the distal
+tip. The distal tip may also have prisms and
+mirrors that define the direction and field of
+view. A fiber optic light guide with white
+light is generally used in the illumination system, but ultraviolet light can also be used to
+inspect surfaces treated with liquid fluorescent
+penetrant or to inspect for contaminants that
+fluoresce. Some borescopes with long working lengths use light-emitting diodes at the
+distal tip for illumination.

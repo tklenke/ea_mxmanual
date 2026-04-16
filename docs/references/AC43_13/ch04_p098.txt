@@ -1,0 +1,37 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-98. REPAIRS AT BUILT-IN FUSELAGE FITTINGS. Make splices in accordance with the methods described in paragraphs 4-86 through 4-92. Repair built-in fuselage fittings in the manner shown in figure 4-41. The following paragraphs outline the
+different methods as shown in figure 4-41.
+a. Tube of Larger Diameter Than Original. A tube (sleeve) of larger diameter than
+the original is used in the method shown in
+figure 4-41 (A). The forward splice is a
+30-degree scarf splice. Cut the rear longeron
+(right) approximately 4 inches from the centerline of the joint and fit a 1 inch long spacer
+over the longeron, and edge weld this spacer
+and longeron. Make a tapered “V” cut approximately 2 inches long in the aft end of the
+outer sleeve, and swage the end of the outer
+sleeve to fit the longeron and weld.
+b. Tube of Same Diameter as Original. In
+the method shown in figure 4-41 (B) the new
+section is the same size as the longeron
+forward (left) of the fitting. The rear end
+(right) of the tube is cut at 30 degrees and
+forms the outside sleeve of the scarf splice. A
+sleeve is centered over the forward joint as indicated.
+c. Simple Sleeve. In figure 4-41 (C), it is assumed the longeron is the same size on each
+side of the fitting. It is repaired by a sleeve of
+larger diameter than the longeron.
+d. Large Difference in Longeron Diameter
+Each Side of Fitting. Figure 4-41 (D) assumes that there is 1/4-inch difference in the
+diameter of the longeron on the two sides of
+the fitting. The section of longeron forward
+(left) of the fitting is cut at 30 degrees, and a
+section of tubing of the same size as the tube
+and of such length as to extend well to the rear
+(right) of the fitting is slipped through it. One
+end is cut at 30 degrees to fit the 30-degree
+scarf at left, and the other end fishmouthed.
+This makes it possible to insert a tube of
+proper diameter to form an inside sleeve for
+the tube on the left of the fitting and an outside
+sleeve for the tube on the right of the fitting.

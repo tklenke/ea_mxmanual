@@ -1,0 +1,27 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-81. PRACTICES TO GUARD
+AGAINST Do not file or grind welds in an
+effort to create a smooth appearance, as such
+treatment causes a loss of strength. Do not fill
+welds with solder, brazing metal, or any other
+filler. When it is necessary to weld a
+ALTERNATING DIRECT
+CURRENT CURRENT
+With HighStabilization Polarity
+1 N.R.
+1 N.R.
+1 N.R.
+1 N.R.
+1 N.R.
+1
+1
+N.R. 1
+[FIG 4-26] Common defects to avoid when fitting
+and welding aircraft certification cluster.
+joint which was previously welded, remove all
+of the old weld material before rewelding.
+Avoid welding over a weld, because reheating
+may cause the material to lose its strength and
+become brittle. Never weld a joint which has
+been previously brazed.

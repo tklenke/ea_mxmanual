@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 8: ENGINES, FUEL, EXHAUST, AND PROPELLERS  Section 1: ENGINES
+
+8-13. ENGINE RUN-IN. After an aircraft
+engine has been overhauled, it is recommended that the pertinent aircraft engine
+manufacturer’s run-in instructions be followed.
+concerning engine temperatures and other criteria. Repair processes employed during overhaul often necessitate amending the manufacturer’s run-in procedures. Follow the approved amended run-in procedures in such instances.
+NOTE: Do not run up engines on the
+ground for long periods of time with
+the cowling off. The engine will overheat because cylinder cooling has been
+disrupted.

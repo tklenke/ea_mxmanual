@@ -1,0 +1,6 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 16: WIRE MARKING
+
+11-207. IDENTIFICATION AND INFORMATION RELATED TO THE WIRE
+AND WIRING DIAGRAMS. The wire
+identification marking should consist of similar information to relate the wire to a wiring
+diagram.

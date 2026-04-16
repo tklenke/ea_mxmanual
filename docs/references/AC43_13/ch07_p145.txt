@@ -1,0 +1,4 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 8: INSPECTION AND REPAIR OF CONTROL CABLES AND TURNBUCKLES
+
+7-145. CABLE SPECIFICATIONS. Cable
+diameter and strength data are given in table 7-3 and table 7-4. These values are acceptable for repair and modification of civil aircraft.

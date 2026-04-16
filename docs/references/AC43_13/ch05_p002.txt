@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 1: GENERAL
+
+5-2. APPROVED PROCEDURES. Title 14 CFR, part 43 requires that all maintenance be performed using methods, techniques, and practices prescribed in the current
+manufacturer’s maintenance manual or instructions for continued airworthiness prepared
+by its manufacturer, or other methods,
+INSPECTION (NDI)
+techniques, and practices acceptable to the
+administrator. If the maintenance instructions
+include materials, parts, tools, equipment, or
+test apparatus necessary to comply with industry practices then those items are required to be
+available and used as per part 43.

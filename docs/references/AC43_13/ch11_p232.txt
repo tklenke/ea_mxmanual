@@ -1,0 +1,146 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 17: CONNECTORS
+
+11-232. TYPES OF CONNECTORS.
+Connectors must be identified by an original
+identification number derived from MIL
+Specification (MS) or OAM specification.
+Figure 11-35 provides some examples of MS
+connector types. Several different types are
+shown in figures 11-36 and 11-37.
+a. Environmental Classes. Environment-resistant connectors are used in applications where they will probably be subjected to
+fluids, vibration, thermal, mechanical shock,
+corrosive elements, etc. Firewall class connectors incorporating these same features
+should, in addition, be able to prevent the
+penetration of the fire through the aircraft
+firewall connector opening and continue to
+function without failure for a specified period
+of time when exposed to fire. Hermetic connectors provide a pressure seal for maintaining pressurized areas. When EMI/RFI protection is required, special attention should be
+given to the termination of individual and
+overall shields. Backshell adapters designed
+for shield termination, connectors with conductive finishes, and EMI grounding fingers
+are available for this purpose.
+b. Rectangular Connectors. The rectangular connectors are typically used in applications where a very large number of circuits are accommodated in a single mated
+pair. They are available with a great variety
+of contacts, which can include a mix of standard, coaxial, and large power types. Coupling is accomplished by various means.
+Smaller types are secured with screws which
+hold their flanges together. Larger ones have
+integral guide pins that ensure correct alignment, or jackscrews that both align and lock
+the connectors. Rack and panel connectors
+use integral or rack-mounted pins for alignment and box mounting hardware for couplings.
+c. Module Blocks. These junctions accept crimped contacts similar to those on
+connectors. Some use internal busing to provide a variety of circuit arrangements. They
+are useful where a number of wires are connected for power or signal distribution.
+MS27472 WALL MOUNT RECEPTACLE
+MS27473 STRAIGHT PLUG
+MS27474 JAM NUT RECEPTACLE
+MS27475 HERMITIC WALL MOUNT RECEPTACLE
+MS27476 HERMETIC BOX MOUNT RECEPTACLE
+MS27477 HERMETIC JAM NUT RECEPTACLE
+MS27478 HERMETIC SOLDER MOUNT RECEPTACLE
+MS27479 WALL MOUNT RECEPTACLE (NOTE 1)
+MS27480 STRAIGHT PLUG (NOTE 1)
+MS27481 JAM NUT RECEPTACLE (NOTE 1)
+MS27482 HERMETIC WALL MOUNT RECEPTACLE (NOTE 1)
+MS27483 HERMETIC JAM NUT RECEPTACLE (NOTE 1)
+NOTE
+1. ACTIVE SUPERSEDES
+MS27472 MS27479
+MS27473 MS27480
+MS27474 MS27481
+MS27475 MS27482
+MS27477 MS27483
+MS27473 WITH MS27500
+MS27507 ELBOW
+MS27478 MS27503
+MS27499 MS27504
+MS27497 MS27664
+CLASS
+E ENVIRONMENT RESISTING-BOX AND THRUBULKHEAD MOUNTING TYPES ONLY (SEE CLASS T)
+P POTTING-INCLUDES POTTING FORM AND SHORT
+REAR GROMMET
+T ENVIRONMENT RESISTING-WALL AND JAM-NUT
+MOUNTING RECEPTACLE AND PLUG TYPES:
+THREAD AND TEETH FOR ACCESSORY
+ATTACHMENT
+Y HERMETICALLY SEALED
+FINISH
+A SILVER TO LIGHT IRIDESCENT YELLOW COLOR
+CADMIUM PLATE OVER NICKEL (CONDUCTIVE), -
+[FIG 11-35] Connector information example.
+MS27484 STRAIGHT PLUG, EMI GROUNDING
+MS27497 WALL RECEPTACLE, BACK PANEL MOUNTING
+MS27499 BOX MOUNTING RECEPTACLE
+90°
+MS27500 PLUG (NOTE 1)
+MS27503 HERMETIC SOLDER MOUNT RECEPTACLE
+(NOTE 1)
+MS27504 BOX MOUNT RECEPTACLE (NOTE 1)
+MS27508 BOX MOUNT RECEPTACLE, BACK PANEL
+MOUNTING
+MS27513 BOX MOUNT RECEPTACLE, LONG GROMMET
+MS27664 WALL MOUNT RECEPTACLE, BACK PANEL
+MOUNTING (NOTE 1)
+MS27667 THRU-BULKHEAD RECEPTACLE
+65°C +150C°
+TO (INACTIVE FOR NEW DESIGN)
+B OLIVE DRAB CADMIUM PLATE OVER SUITABLE
+-65°C +175°C
+UNDERPLATE (CONDUCTIVE), TO
+-65°C +175°C
+C ANODIC (NONCONDUCTIVE), TO
+D FUSED TIN, CARBON STEEL (CONDUCTIVE),
+-65°C 150°C
+TO
+E CORROSION RESISTANT STEEL (CRES),
+-65°C +200°C
+PASSIVATED (CONDUCTIVE), TO
+F ELECTROLESS NICKEL COATING (CONDUCTIVE),
+-65°C TO +200°C
+N HERMETIC SEAL OR ENVIRONMENT RESISTING
+-65°C +200°C
+CRES (CONDUCTIVE PLATING), TO
+CONTACT STYLE
+A WITHOUT PIN CONTACTS
+B WITHOUT SOCKET CONTACTS
+C FEED THROUGH
+P PIN CONTACTS-INCLUDING HERMETICS WITH
+SOLDER CUPS
+S SOCKET CONTACTS-INCLUDING HERMETICS
+WITH SOLDER CUPS
+X PIN CONTACTS WITH EYELET (HERMETIC)
+Z SOCKET CONTACTS WITH EYELET (HERMETIC)
+POLARIZATION
+A, B NORMAL-NO LETTER REQUIRED
+C, OR
+D
+WALL CABLE BOX
+RECEPTACLE RECEPTACLE RECEPTACLE
+QUICK DISCONNECT STRAIGHT
+STRAIGHT
+PLUG PLUG PLUG
+ANGLE PLUG ANGLE PLUG
+MS CONNECTOR
+[FIG 11-36] Different types of connectors.
+TYPICAL RACK AND PANEL CONNECTORS
+BNC Series Connectors
+TNC Series Connectors
+N Series Connectors
+C Series Connectors
+[FIG 11-37] Coax cable connectors.
+SC Series Connectors
+SMA Series Connectors
+SMB Series Connectors
+SMC Series Connectors
+[FIG 11-37] Coax cable connectors (continued).
+[FIG 11-37] Coax cable connectors (continued).
+When used as grounding modules, they save
+and reduce hardware installation on the aircraft. Standardized modules are available with
+wire end grommet seals for environmental applications and are track-mounted. Function
+module blocks are used to provide an easily
+wired package for environment-resistant
+mounting of small resistors, diodes, filters, and
+suppression networks. In-line terminal junctions are sometimes used in lieu of a connector
+when only a few wires are terminated and
+when the ability to disconnect the wires is desired. The in-line terminal junction is environment-resistant. The terminal junction
+splice is small and may be tied to the surface
+of a wire bundle when approved by the OAM.

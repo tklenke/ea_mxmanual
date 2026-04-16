@@ -1,0 +1,21 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 3: BOLTS
+
+7-39. BOLT FIT. Bolt holes, particularly
+those of primary connecting elements, have
+close tolerances. Generally, it is permissible to
+use the first-lettered drill size larger than the
+nominal bolt diameter, except when the AN
+hexagon bolts are used in light-drive fit
+(reamed) applications and where NAS closetolerance bolts or AN clevis bolts are used. A
+light-drive fit can be defined as an interference
+of 0.0006 inch for a 5/8 inch bolt. Bolt holes
+should be flush to the surface, and free of debris to provide full bearing surface for the bolt
+head and nut. In the event of over-sized or
+elongated holes in structural members, reaming or drilling the hole to accept the next larger
+bolt size may be permissible. Care should be
+taken to ensure items, such as edge distance,
+clearance, and structural integrity are maintained. Consult the manufacturer’s structural
+repair manual, the manufacturer’s engineering
+department, or the FAA before drilling or
+reaming any bolt hole in a critical structural
+member.

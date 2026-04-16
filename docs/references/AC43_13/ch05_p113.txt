@@ -1,0 +1,14 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 9: ACOUSTIC-EMISSION
+
+5-113. APPLICATIONS. A wide variety of
+structures and materials, such as: wood, plastic, fiberglass, and metals can be inspected by
+the acoustic-emission technique by applying
+stress on the test material. The emission-producing mechanism in each type of
+material may differ, but characteristic acoustic-emissions are produced and can be correlated to the integrity of the material. Acoustic-emission technology has been applied quite
+successfully in monitoring proof tests of pressure vessels and tests of fiber-reinforced plastic structures of all kinds. There are now
+ASTM standards and ASME codes applying to
+its use in testing gas cylinders and both metal
+and fiber-reinforced plastic vessels, tanks, and
+piping.
+For a welded structure such as a pressure vessel, acoustic-emission testing works well with
+SECTION 10. THERMOGRAPHY

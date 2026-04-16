@@ -1,0 +1,25 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 9: ENVIRONMENTAL PROTECTION AND INSPECTION
+
+11-115. MAINTENANCE AND OPERATIONS. Wire bundles must be routed in accessible areas that are protected from damage
+from personnel, cargo, and maintenance activity. They should not be routed in areas in
+where they are likely to be used as handholds
+or as support for personal equipment or where
+they could become damaged during removal of
+aircraft equipment. Wiring must be clamped
+so that contact with equipment and structure is
+avoided. Where this cannot be accomplished,
+extra protection, in the form of grommets,
+chafe strips, etc., should be provided. Protective grommets must be used, wherever wires
+cannot be clamped, in a way that ensures at
+least a 3/8-inch clearance from structure at
+penetrations. Wire must not have a preload
+against the corners or edges of chafing strips or
+grommets. Wiring must be routed away from
+high-temperature equipment and lines to prevent deterioration of insulation. Protective
+flexible conduits should be made of a material
+and design that eliminates the potential of
+chafing between their internal wiring and the
+conduit internal walls. Wiring that must be
+routed across hinged panels, must be routed
+and clamped so that the bundle will twist,
+rather than bend, when the panel is moved.

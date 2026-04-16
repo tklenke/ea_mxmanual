@@ -1,0 +1,34 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 8: ALUMINUM AND ALUMINUM ALLOYS
+
+6-134. REPAIR OF ALUMINUM ALLOY
+SHEET METAL. After extensive corrosion
+removal the following procedures should be
+followed:
+a. If water can be trapped in blended areas, chemical conversion coat in accordance
+with MIL-C-81706 and fill the blended area
+with structural adhesive or sealant to the same
+level and contour as the original skin. When
+areas are small enough that structural strength
+has not been significantly decreased, no other
+work is required prior to applying the protective finish.
+b. When corrosion removal exceeds the
+limits of the structural repair manual, contact a
+DER or the aircraft manufacturer for repair instructions.
+c. Where exterior doublers are installed,
+it is necessary to seal and insulate them adequately to prevent further corrosion.
+d. Doublers should be made from alclad,
+when available, and the sheet should be anodized (preferred) or a chemical conversion coat
+applied after all cutting, drilling, and countersinking has been accomplished.
+e. All rivet holes should be drilled, countersunk, surface treated, and primed prior to
+installation of the doubler.
+f. Apply a suitable sealing compound in
+the area to be covered by the doubler. Apply
+sufficient thickness of sealing compound to fill
+all voids in the area being repaired.
+g. Install rivets wet with sealant. Sufficient sealant should be squeezed out into holes
+so that all fasteners, as well as all edges of the
+repair plate, will be sealed against moisture.
+h. Remove all excess sealant after fasteners are installed. Apply a fillet sealant bead
+around the edge of the repair. After the sealant
+has cured apply the protective paint finish to
+the reworked area.

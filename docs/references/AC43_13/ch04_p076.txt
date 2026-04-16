@@ -1,0 +1,13 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-76. ACCURATELY IDENTIFY THE
+TYPE OF MATERIAL TO BE REPAIRED. If positive identification of the
+material is not possible, contact the aircraft
+manufacturer or subject the item to a metallurgical laboratory analysis. Before any welding
+is attempted, carefully consider the weldability
+of the alloy, since all alloys are not readily
+weldable. The following steels are readily
+weldable; plain carbon (of the 1000 series),
+nickel steel (of the Society of Automotive Engineers (SAE) 2300 series), chrome-nickel alloys (of the SAE 3100 series), chromemolybdenum steels (of the SAE 4100 series),
+and low nickel-chrome-molybdenum steel (of
+the SAE 8600 series).

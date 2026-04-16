@@ -1,0 +1,8 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 4: MAGNETIC PARTICLE INSPECTION
+
+5-46. METHODS OF EXAMINATION.
+Magnetic particle examination generally consists of: the application of magnetic particles;
+magnetization; determination of field strength;
+special examination techniques; and demagnetization and post-examination cleaning.
+Each of these steps will be described in the
+following paragraphs.

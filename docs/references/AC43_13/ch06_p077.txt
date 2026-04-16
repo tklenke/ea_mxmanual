@@ -1,0 +1,11 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 5: VISUAL CORROSION INSPECTION GUIDE FOR AIRCRAFT
+
+6-77. ELECTRICAL CONNECTORS.
+a. Inspect electrical connectors for
+breaks in potting compound and corrosion of
+pins and wires.
+b. If the electrical connector is suspected of having moisture intrusion, disassemble the connector, clean the connector, and
+inspect it for corrosion.
+6-78.6-88.
+[RESERVED.]
+SECTION 6. CORROSION REMOVAL PROCEDURES

@@ -1,0 +1,274 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 5: ELECTRICAL WIRE RATING
+
+11-66. GENERAL. Wires must be sized so
+that they: have sufficient mechanical strength
+to allow for service conditions; do not exceed
+allowable voltage drop levels; are protected by
+system circuit protection devices; and meet
+circuit current carrying requirements.
+a. Mechanical Strength of Wires. If it is
+desirable to use wire sizes smaller than #20,
+particular attention should be given to the mechanical strength and installation handling of
+these wires, e.g., vibration, flexing, and termination. Wire containing less than 19 strands
+must not be used. Consideration should be
+given to the use of high-strength alloy conductors in small gauge wires to increase mechanical strength. As a general practice, wires
+smaller than size #20 should be provided with
+additional clamps and be grouped with at least
+three other wires. They should also have additional support at terminations, such as connector grommets, strain relief clamps, shrinkable sleeving, or telescoping bushings. They
+should not be used in applications where they
+will be subjected to excessive vibration, repeated bending, or frequent disconnection
+from screw termination.
+b. Voltage Drop in Wires. The voltage
+drop in the main power wires from the generation source or the battery to the bus should not
+exceed 2 percent of the regulated voltage when
+the generator is carrying rated current or the
+battery is being discharged at the 5-minute
+rate. The tabulation shown in table 11-6 defines the maximum acceptable voltage drop in
+the load circuits between the bus and the utilization equipment ground.
+c. Resistance. The resistance of the current return path through the aircraft structure is
+generally considered negligible. However, this
+is based on the assumption that adequate
+[TABLE 11-6] Tabulation chart (allowable voltage drop
+between bus and utilization equipment ground).
+Nominal Allowable voltage
+Intermittent
+system drop continuous
+operation
+voltage operation
+14 0.5 1
+28 1 2
+115 4 8
+200 7 14
+bonding to the structure or a special electric
+current return path has been provided that is
+capable of carrying the required electric current with a negligible voltage drop. To determine circuit resistance check the voltage drop
+across the circuit. If the voltage drop does not
+exceed the limit established by the aircraft or
+product manufacturer, the resistance value for
+the circuit may be considered satisfactory.
+When checking a circuit, the input voltage
+should be maintained at a constant value. Tables 11-7 and 11-8 show formulas that may be
+used to determine electrical resistance in wires
+and some typical examples.
+d. Resistance Calculation Methods.
+Figures 11-2 and 11-3 provide a convenient
+means of calculating maximum wire length for
+the given circuit current.
+(1) Values in tables 11-7 and 11-8 are
+for tin-plated copper conductor wires. Because the resistance of tin-plated wire is
+slightly higher than that of nickel or silverplated wire, maximum run lengths determined
+from these charts will be slightly less than the
+allowable limits for nickel or silver-plated
+copper wire and are therefore safe to use. Figures 11-2 and 11-3 can be used to derive
+slightly longer maximum run lengths for silver
+or nickel-plated wires by multiplying the
+maximum run length by the ratio of resistance
+of tin-plated wire, divided by the resistance of
+silver or nickel-plated wire.
+[TABLE 11-7] Examples of determining required tinplated copper wire size and checking voltage drop using
+figure 11-2
+Check- table 11-10, by the wire run length and circuit
+calculated voltWire Size current.
+age drop (VD)=
+From
+Run Circuit (Resistance/Ft)
+Chart
+Voltage Lengths Current (Length) (Curdrop (Feet) (Amps) rent)
+VD= (.00044 °C,
+1 107 20 No. 6
+ohms/ft)
+(107)(20)=
+0.942
+0.5 VD= (.00028
+90 20 No. 4
+ohms/ft)
+(90)(20)= °C
+0.504
+4 VD= (.00202
+88 20 No. 12
+ohms/ft)
+(88)(20)=
+3.60
+7 100 20 No. 14 VD= (.00306
+ohms/ft) L
+(100)(20)=
+6.12
+[TABLE 11-8] Examples of determining maximum tinplated copper wire length and checking voltage drop
+using figure 11-2.
+Check-calculated
+voltage drop
+Maximum
+(VD)= (ResisWire Run
+Maximum Circuit tance/Ft) (Length)
+Length
+Voltage Wire Current (Current)
+drop Size (Amps) (Feet)
+VD= (.00126
+1 20 39
+No. 10
+ohms/ft)
+(39)(20)= .98
+0.5 VD= (.00126
+---­ 19.5
+ohms/ft)
+(19.5)(20)= (5) To determine T2 for wires carrying a
+.366
+4 VD= (.00126
+---­ 156
+ohms/ft)
+(156)(20)=
+3.93
+7 ---­ 273 VD= (.00126
+ohms/ft)
+(273)(20)=
+6.88
+(2) As an alternative method or a means
+of checking results from figure 11-2, continuous flow resistance for a given wire size can be
+read from table 11-9 and multiplied by the wire
+run length and the circuit current. For intermittent flow, use figure 11-3.
+(3) Voltage drop calculations for aluminum wires can be accomplished by multiplying
+the resistance for a given wire size, defined in
+(4) When the estimated or measured
+conductor temperature (T2) exceeds 20
+such as in areas having elevated ambient temperatures or in fully loaded power-feed wires,
+the maximum allowable run length (L2), must
+be shortened from L1 (the 20 value) using
+the following formula for copper conductor
+wire:
+°C)(L)
+(254.5
+= 1
+2
+°C)+)(T
+(234.5 )
+2
+For aluminum conductor wire, the formula is:
+°C)(L)
+(258.1
+1
+=
+L
+2
+°C) +
+(238.1 (T )
+2
+These formulas use the reciprocal of each material’s resistively temperature coefficient to
+take into account increased conductor resistance resulting from operation at elevated temperatures.
+high percentage of their current carrying capability at elevated temperatures, laboratory
+testing using a load bank and a hightemperature chamber is recommended. Such
+tests should be run at anticipated worse case
+ambient temperature and maximum currentloading combinations.
+(6) Approximate T2 can be estimated
+using the following formula:
+= + −
+T T (T T )( I / I )
+2 1 R 1 2 max
+Where:
+T = Ambient Temperature
+1
+T = Estimated Conductor Temperature
+2
+T = Conductor Temperature Rating
+R
+I = Circuit Current (A=Amps)
+2
+I = Maximum Allowable Current
+max
+(A=Amps) at T
+R
+This formula is quite conservative and will typically yield somewhat higher estimated temperatures than are likely to be encountered under actual
+operating conditions.
+[TABLE 11-9] Current carrying capacity and resistance of
+Wire
+Continuous duty current (amps)-Wires in
+Size
+groups, harnesses, or conduits. (See Note
+Wire Conductor Temperature Rating tin plated conduc­ area 105 °C 150 °C
+24 2.5 4
+22 3 5
+20 4 7
+18 6 9
+16 7 11
+14 10 14
+12 13 19
+10 17 26
+8 38 57
+6 50 76
+4 68 103
+2 95 141
+1 113 166
+0 128 192
+00 147 222
+000 172 262
+0000 204 310
+Note #1: Rating is for 70°C ambient, 33 or more
+wires for size 8 and larger, with no more than 20 percent
+at an operating altitude of 60,000 feet. For rating
+paragraph 11-69.
+Note #2: For resistance of silver or nickel-plated conductors
+Note: Aluminum wire-From Table 11-9 and
+11-10 note that the conductor resistance of
+aluminum wire and that of copper wire (two
+numbers higher) are similar. Accordingly,
+the electric wire current in Table 11-9 can
+be used when it is desired to substitute aluminum wire and the proper size can be selected by reducing the copper wire size by
+two numbers and referring to Table 11-10.
+The use of aluminum wire size smaller than
+No. 8 is not recommended.
+copper wire.
+bundles, Max. resistance Nominal
+°C
+#1) ohms/1000ft@20 conductor
+tor
+200 °C (See Note #2) circ.mils
+5 28.40 475
+6 16.20 755
+9 9.88 1,216
+12 6.23 1,900
+14 4.81 2,426
+18 3.06 3,831
+25 2.02 5,874
+32 1.26 9,354
+71 0.70 16,983
+97 0.44 26,818
+133 0.28 42,615
+179 0.18 66,500
+210 0.15 81,700
+243 0.12 104,500
+285 0.09 133,000
+335 0.07 166,500
+395 0.06 210,900
+wires in the bundle for sizes 24 through 10, and 9
+of harness current carrying capacity being used,
+of wires under other conditions or configurations see
+see wire specifications.
+[TABLE 11-10] Current carrying capacity and resistance of aluminum
+Continuous duty current (amps)
+Wire Size Wires in bundles, groups or harnesses
+or conduits (See table 11-9 Note #1) ohms/1000ft
+Wire conductor temperature rating °C
+°C °C
+105 150
+8 30 45
+6 40 61
+4 54 82
+2 76 113
+1 90 133
+0 102 153
+00 117 178
+000 138 209
+0000 163 248
+Note: Observe design practices described in paragraph
+wire.
+Max. resistance
+@ 20
+1.093
+0.641
+0.427
+0.268
+0.214
+0.169
+0.133
+0.109
+0.085
+11-67 for aluminum conductor

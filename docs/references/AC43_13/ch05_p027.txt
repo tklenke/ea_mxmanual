@@ -1,0 +1,19 @@
+AC 43.13-1B  Chapter 5: NONDESTRUCTIVE INSPECTION (NDI)  Section 3: EDDY CURRENT INSPECTION
+
+5-27. FIELD APPLICATION OF EDDY
+CURRENT INSPECTION. Eddy current
+techniques are particularly well-suited for detection of service-induced cracks in the field.
+[FIG 5-5] Typical instrument displays.
+Service-induced cracks in aircraft structures
+are generally caused by fatigue or stress corrosion. Both types of cracks initiate at the surface of a part. If this surface is accessible, a
+high-frequency eddy current inspection can be
+performed with a minimum of part preparation
+and a high degree of sensitivity. If the surface
+is less accessible, such as in a subsurface layer
+of structure, low-frequency eddy current inspection can usually be performed. Eddy current inspection can usually be performed without removing surface coatings such as primer,
+paint, and anodic films. Eddy current inspection has the greatest application for inspecting
+small localized areas where possible crack initiation is suspected rather than for scanning
+broad areas for randomly-oriented cracks.
+However, in some instances it is more economical to scan relatively large areas with
+eddy current rather than strip surface coatings,
+inspect by other methods, and then refinish.

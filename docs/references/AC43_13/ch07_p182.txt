@@ -1,0 +1,53 @@
+AC 43.13-1B  Chapter 7: AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES  Section 10: SAFETY METHODS FOR TURNBUCKLES
+
+7-182. SAFETY-WIRE SECURED
+TURNBUCKLES. (See figure 7-27.) Before
+securing turnbuckles, threaded terminals
+should be screwed into the turnbuckle barrel
+until no more than three threads of either terminal are outside the barrel. After the turnbuckle has been adjusted for proper cable tension, two pieces of safety wire are inserted,
+half the wire length into the hole in the center
+of the turnbuckle barrel. The safety-wires are
+bent so that each wire extends half the length
+of the turnbuckle on top and half on bottom.
+The ends of the wires are passed through the
+hole in the turnbuckle eyes or between the
+jaws of the turnbuckle fork, as applicable. The
+wires are then bent toward the center of the
+turnbuckle and each wire is wrapped around
+the shank four times, binding the wrapping
+wires in place as shown in figure 7-27.
+a. When a swaged terminal is being secured, one wire is passed through the hole in
+the terminal and is looped over the free end of
+the other wire and both ends wrapped around
+the shank. All lock wire used in the safetying
+of turnbuckles should be carbon steel, corrosion-resistant steel, nickel-chromium iron alloy
+(inconel), nickel-copper alloy (monel) or aluminum alloy. For safety cable diameter of
+safety wire size and material, refer to table 7-8.
+b. Care should be exercised when safety
+wiring, particularly where corrosion will present a problem, because smaller wire sizes tend
+to crack when twisted.
+[TABLE 7-8] Turnbuckle safetying guide.
+Cable Type of Diameter of Material (AnSize Wrap Safety Wire nealed
+Condition) terminal.
+brass.1
+1/16 Single 0.040 Copper,
+brass.1
+3/32 Single 0.040 Copper,
+1/8 Single 0.040 Stainless steel,
+Monel and
+“K” Monel.
+1/8 Double 0.040 Copper, brass.1
+brass.1
+1/8 Single 0.057 min. Copper,
+5/32 Double 0.040 Stainless steel,
+and Monel and
+greater. Monel.1
+“K” e. Apply pressure to hook shoulder to en5/32 Single 0.057 min. Stainless steel,
+and Monel or
+Monel.1
+greater “K”
+5/32 Double 0.0512 Copper, brass.
+and
+greater
+1Galvanized
+or tinned steel, or soft iron wires are also acceptable.

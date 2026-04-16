@@ -1,0 +1,26 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-101. WING-BRACE STRUTS AND
+TAIL-BRACE STRUTS. In general, it will
+be found advantageous to replace damaged
+wing-brace struts made either from rounded or
+streamlined tubing with new members purchased from the original manufacturer. However, there is no objection, from an airworthiness point of view, to repairing such members
+in a proper manner. An acceptable method of
+repair, if streamlined tubing is used, will be
+found in figure 4-43. Repair similar members
+made of round tubes using a standard splice, as
+shown in figure 4-35, figure 4-37, or figure 4-38.
+a. Location of Splices. Steel-brace struts
+may be spliced at any point along the length of
+the strut provided the splice does not overlap
+part of an end fitting. The jury-strut attachment is not considered an end fitting; therefore, a splice may be made at this point. The
+repair procedure and workmanship minimize
+distortion due to welding and the necessity for
+subsequent straightening operations. Observe
+every repaired strut carefully during initial
+flights to ascertain that the vibration characteristics of the strut and attaching components
+are not adversely affected by the repair. A
+wide range of speed and engine-power combination must be covered during this check.
+b. Fit and Alignment. When making repairs to wing and tail surface brace members,
+ensure to proper fit and alignment to avoid
+distortion.

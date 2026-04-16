@@ -1,0 +1,10 @@
+AC 43.13-1B  Chapter 12: AIRCRAFT AVIONICS SYSTEMS  Section 2: GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)
+
+12-18. AUTOPILOT SYSTEMS. Automatic Flight Control Systems (AFCS) are the
+most efficient managers of aircraft performance and control. There are three kinds of
+autopilot; two axes, three axes, and three axes
+with coupled approach capability. Attention
+must be given to the disconnect switch operation, aural and visual alerts of automatic and
+intentional autopilot disconnects, override
+forces and mode annunciation, servo operation, rigging and bridle cable tension, and condition. In all cases the manufacturer’s inspection and maintenance instructions must be
+followed.

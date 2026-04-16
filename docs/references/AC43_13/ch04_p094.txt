@@ -1,0 +1,18 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 5: WELDING AND BRAZING
+
+4-94. WELDED-PATCH REPAIR. Dents
+or holes in tubing may be repaired by using a
+patch of the same material, one gauge thicker.
+(See figure 4-36.)
+a. Dented Tubing.
+(1) Dents are not deeper than 1/10 of
+tube diameter, do not involve more than 1/4 of
+the tube circumference, and are not longer than
+tube diameter.
+(2) Dents are free from cracks, abrasions,
+and sharp corners.
+(3) The dented tubing can be substantially reformed, without cracking, before application
+of the patch.
+b. Punctured Tubing. Holes are not longer
+than tube diameter and involve not more than
+1/4 of tube circumference.

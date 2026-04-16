@@ -1,0 +1,17 @@
+AC 43.13-1B  Chapter 11: AIRCRAFT ELECTRICAL SYSTEMS  Section 3: INSPECTION OF EQUIPMENT INSTALLATION
+
+11-33. ALTERNATOR DIODES. Alternators employ diodes for the purpose of converting the alternating current to direct current.
+These diodes are solid-state electronic devices
+and are easily damaged by rough handling,
+abuse, over heating, or reversing the battery
+connections. A voltage surge in the line, if it
+exceeds the design value, may destroy the diEQUIPMENT INSTALLATION
+ode.
+The best protection against diode destruction
+by voltage surges is to make certain that the battery is never disconnected from the aircraft's
+electrical system when the alternator is in operation. The battery acts as a large capacitor
+and tends to damp out voltage surges. The
+battery must never be connected with reversed
+polarity as this may subject the diodes to a
+forward bias condition, allowing very high current conduction that will generally destroy
+them instantly.

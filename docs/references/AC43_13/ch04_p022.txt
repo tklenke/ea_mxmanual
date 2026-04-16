@@ -1,0 +1,16 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 2: TESTING OF METALS
+
+4-22. MAGNETIC TESTING. Magnetic
+testing consists of determining whether the
+specimen is attracted by a magnet. Usually, a
+metal attracted by a magnet is iron, steel, or an
+iron-base alloy containing nickel, cobalt, or
+chromium. However, there are exceptions to
+this rule since some nickel and cobalt alloys
+may be either magnetic or nonmagnetic.
+Never use this test as a final basis for identification. The strongly attracted metals could be
+pure iron, pure nickel, cobalt, or iron-nickelcobalt alloys. The lightly attracted metals
+could be cold-worked stainless steel, or monel.
+The nonmagnetic metals could be aluminum,
+magnesium, silver, or copper-base alloy, or an
+annealed 300-type stainless steel.

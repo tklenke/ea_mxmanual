@@ -1,0 +1,29 @@
+AC 43.13-1B  Chapter 2: FABRIC COVERING  Section 3: INSPECTION AND TESTING
+
+2-33. STRENGTH CRITERIA FOR
+AIRCRAFT FABRIC. Minimum performance standards for new intermediate-grade fabric are specified in TSO-C14b, which references AMS 3804C. Minimum performance
+standards for new Grade A fabric are specified
+in TSO-C15d, which references AMS 3806D.
+a. The condition of the fabric covering
+must be determined on every 100-hour and annual inspection, because the strength of the
+fabric is a definite factor in the airworthiness
+of an airplane. Fabric is considered to be airworthy until it deteriorates to a breaking
+strength less than 70 percent of the strength of
+new fabric required for the aircraft. For example, if grade-A cotton is used on an airplane
+that requires only intermediate fabric, it can
+deteriorate to 46 pounds per inch width
+(70 percent of the strength of intermediate fabric) before it must be replaced.
+b. Fabric installed on aircraft with a
+wing loading less than 9 lb. per square foot
+(psf), and a Vne less than 160 mph, will be
+considered unairworthy when the breaking
+strength has deteriorated below 46 lb. per inch
+width, regardless of the fabric grade. Fabric
+installed on aircraft with a wing loading of
+9 lb. per square foot and over, or a Vne of
+160 mph and over, will be considered unairworthy when the breaking strength has deteriorated below 56 lb. per inch width.
+c. Fabric installed on a glider or sailplane with a wing loading of 8 lb. per square
+foot and less, and a Vne of 135 mph or less,
+will be considered unairworthy when the fabric
+breaking strength has deteriorated below 35 lb.
+per inch width, regardless of the fabric grade.

@@ -1,0 +1,24 @@
+AC 43.13-1B  Chapter 4: METAL STRUCTURE, WELDING, AND BRAZING  Section 4: METAL REPAIR PROCEDURES
+
+4-54. HEAT TREATMENT OF ALUMINUM ALLOY PARTS. All structural aluminum alloy parts are to be heat-treated in accordance with the heat-treatment instruction issued by the manufacturers of the part. In the
+case of a specified temper, the sequence of
+heat-treating operations set forth in
+MIL-HDBK-5 and corresponding specifications. If the heat-treatment produces warping,
+straighten the parts immediately after quenching. Heat-treat riveted parts before riveting, to
+preclude warping and corrosion.
+a. Quenching. Quench material from the
+solution heat-treating temperature as rapidly as
+possible after removal from the furnace.
+Quenching in cold water is preferred, although
+less drastic chilling (hot or boiling water, or
+airblast) is sometimes employed for bulk sections, such as forgings, to minimize quenching
+stresses.
+b. Reheating at Temperatures Above
+Boiling Water. Reheating of 2017 and
+°F
+2024 alloys above 212 tend to impair the
+original heat treatment. Therefore, reheating
+°F,
+above 212 including the baking of primers,
+is not acceptable without subsequent complete
+and correct heat treatment.

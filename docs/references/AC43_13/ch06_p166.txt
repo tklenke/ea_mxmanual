@@ -1,0 +1,22 @@
+AC 43.13-1B  Chapter 6: CORROSION, INSPECTION & PROTECTION  Section 10: FERROUS METALS
+
+6-166. SPECIAL TREATMENT OF
+STAINLESS STEEL. Stainless steels are of
+two general types: magnetic and nonmagnetic.
+a. Magnetic steels are of the ferritic or
+martensitic types and are identified by numbers in the 400-series. Corrosion often occurs
+on 400-series stainless steels and treatment is
+the same as specified in high-strength steels.
+(See paragraph 6-165.)
+b. Non-magnetic stainless steels are of
+the austenitic type and are identified by numbers in the 300-series. They are much more
+corrosion resistant than the 400-series steels,
+particularly in a marine environment.
+(1) Austenitic steels develop corrosion
+resistance by an oxide film, which should not
+be removed even though the surface is discolored. The original oxide film is normally
+formed at time of fabrication by passivation. If
+this film is broken accidentally or by abrasion,
+it may not restore itself without repassivation.
+(2) If any deterioration or corrosion
+does occur on austenitic steels, and the structural integrity or serviceability of the part is affected, it will be necessary to remove the part.
