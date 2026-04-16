@@ -4,11 +4,11 @@
 
 ## Backlog
 
-### [ ] PREREQUISITE: Set up OtterWiki instance on local machine
+### [ ] Set up OtterWiki instance on local machine
 
-**Must be done before any Writer tasks can proceed.**
+**Must be done before the pilot page review and before the Writer's print footer task.**
 
-Install and configure a local OtterWiki instance pointed at the `ea_mxmanual` git repository. Writer cannot test the print footer, validate page rendering, or verify link formats without a running instance.
+The Writer can write the pilot pages (Markdown files committed to git) without OtterWiki running. OtterWiki is needed to review rendering, verify wiki-links resolve, and test the print footer.
 
 **Steps:**
 1. Install OtterWiki (pip or clone from repo)
@@ -18,13 +18,7 @@ Install and configure a local OtterWiki instance pointed at the `ea_mxmanual` gi
 5. Confirm `[TOC]` tag renders in-page table of contents
 6. Confirm Markdown code blocks, blockquotes, and NOTE callout format render as expected
 
-Once running, hand off to Writer for print footer configuration.
-
----
-
-### [ ] Configure OtterWiki print footer for version tracing
-
-Set up `customBody.html` and `custom.css` to inject a print-only footer showing last-edited timestamp and short git commit hash. Target format: `Last edited: YYYY-MM-DD HH:MM (short-hash)`. Test whether `page.updated` is available in the Jinja2 context for the installed OtterWiki version; if not, use JavaScript against the history endpoint. See architecture_decisions.md for full rationale.
+Once running, notify Writer to proceed with pilot page review and print footer configuration.
 
 ### [ ] OtterWiki navigation sidebar strategy — DECISION TBD (initial: Option C)
 
