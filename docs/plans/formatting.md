@@ -64,6 +64,23 @@ If a value cannot be traced to a source in `docs/references/`, flag it with `@@T
 
 ---
 
+## Table of Contents
+
+For long pages, place a `[TOC]` tag immediately after the page's H1 header. OtterWiki will render an in-page table of contents at that location, linking to all `##` and `###` headings on the page.
+
+```markdown
+# Page Title
+
+[TOC]
+
+## First Section
+...
+```
+
+Use `[TOC]` on any page with four or more sections. Omit it on short pages where a TOC adds no navigation value.
+
+---
+
 ## Cross-References
 
 When content in one section refers to a procedure or topic covered in another section, use a wiki link rather than duplicating the content.

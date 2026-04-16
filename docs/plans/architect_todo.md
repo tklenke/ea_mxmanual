@@ -8,6 +8,18 @@
 
 Set up `customBody.html` and `custom.css` to inject a print-only footer showing last-edited timestamp and short git commit hash. Target format: `Last edited: YYYY-MM-DD HH:MM (short-hash)`. Test whether `page.updated` is available in the Jinja2 context for the installed OtterWiki version; if not, use JavaScript against the history endpoint. See architecture_decisions.md for full rationale.
 
+### [ ] OtterWiki navigation sidebar strategy — DECISION TBD (initial: Option C)
+
+Decide how to maintain the OtterWiki navigation sidebar as content is developed. Three options evaluated 2026-04-16:
+
+- **Option A: Hand-maintained `_sidebar.md`** — Writer updates sidebar with each new page commit. Reviewer verifies. Clean hierarchy, manual maintenance burden.
+- **Option B: Derived from `toc_structure.md`** — `toc_structure.md` is already in OtterWiki wiki syntax; use it as the source of truth. Less duplication, requires a generation step or direct use as sidebar.
+- **Option C: OtterWiki built-in auto-generated index** — Rely on OtterWiki's native page index. No maintenance required, less control over organization.
+
+**Initial decision: Option C.** Let OtterWiki auto-generate navigation. Revisit if organization or findability becomes a problem.
+
+**FINAL DECISION: TBD** — confirm after content development begins and the auto-generated index can be evaluated in practice.
+
 ### [ ] Migrate architecture_decisions.md to Otterwiki as Manual Standards page
 
 After TOC audit is complete, create a Writer task to migrate `docs/plans/architecture_decisions.md` into the Otterwiki as the Manual Standards page under Section 1 (General Information). Update `claude/content_development_overview.md` to reference the Otterwiki location instead of the plans file.
