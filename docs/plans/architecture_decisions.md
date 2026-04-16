@@ -99,6 +99,14 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ---
 
+## Section 17: Avionics Record Keeping Removed
+
+**Decision:** Removed `avionics-record-keeping` from Section 17 (Avionics).
+
+**Reasoning:** No clear content to put on the page. Software update procedures belong on each component's page, not a separate record keeping page. Wing removal and structural components belong to Section 8. If a genuine need for an avionics record keeping page emerges during writing, it can be added back.
+
+---
+
 ## Section 15 Folded into Section 16
 
 **Decision:** Section 15 (Instruments) is eliminated. Instrument content is covered in Section 16 (Avionics).

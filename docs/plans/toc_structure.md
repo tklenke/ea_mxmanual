@@ -111,7 +111,6 @@
   - [[avionics-gdu-460-pfd|GDU 460 PFD]]
   - [[avionics-gps-and-navigation|GPS and Navigation (GNC 355)]]
   - [[avionics-magnetometer|Magnetometer (GMU 11)]]
-  - [[avionics-record-keeping|Record Keeping]]
   - [[avionics-transponder-adsb|Transponder and ADS-B (GTX 45R)]]
   - [[avionics-vhf-communication|VHF Communication (GTR 20)]]
 
