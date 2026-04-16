@@ -4,6 +4,10 @@
 
 ## Backlog
 
+### [ ] Migrate architecture_decisions.md to Otterwiki
+
+After TOC audit is complete, create a Writer task to migrate `docs/plans/architecture_decisions.md` into the Otterwiki under a dedicated Architecture folder. Update `claude/content_development_overview.md` to reference the Otterwiki location instead of the plans file.
+
 ### [ ] Audit and revise toc_structure.md
 
 The current TOC has significant problems identified on 2026-04-15. Do not begin writing content until this is resolved.

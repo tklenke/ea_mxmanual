@@ -37,6 +37,12 @@ Names must describe the content, not the document's history or status:
 - You MUST NEVER discard tasks from your TodoWrite todo list without Tom's explicit approval.
 
 
+## Architectural Decisions
+
+Structural decisions about the manual — scope, section organization, content boundaries, and design rationale — are recorded in `docs/plans/architecture_decisions.md`. Read this file when assuming the Architect role or when making decisions that could affect manual structure.
+
+**Note:** This file will eventually be migrated to the Otterwiki. Until then, `docs/plans/architecture_decisions.md` is the authoritative source.
+
 ## Learning and Memory Management
 NOTE: Journaling functionality may be added in the future to help track research findings, failed approaches, architectural decisions, and user preferences across conversations. This section is a placeholder for that capability.
 
@@ -50,6 +56,8 @@ All reference materials are in `docs/references/` and are **READ ONLY**. Never m
 - **`docs/references/AC43_13/`** — FAA Advisory Circular 43.13, *Acceptable Methods, Techniques, and Practices — Aircraft Inspection and Repair*. Files are named by chapter and page (e.g., `ch01_p001.txt`). Appendices are also available. This is the baseline reference for general aircraft maintenance practices.
 
 - **`docs/references/tds/`** — Manufacturer Technical Data Sheets for specific products used on the aircraft (e.g., sealants, adhesives, thread compounds). These are product-specific documents from the manufacturer.
+
+- **`docs/acronyms.md`** — list of acronymns used during development.  not necessarily for inclusion in the content.  short hand for discussions between Claude and Tom.  When Tom uses a term followed by a parenthesis with an acronym that means "here's a new one add it to this file."  Read this file on startup.
 
 ### How to Use References
 

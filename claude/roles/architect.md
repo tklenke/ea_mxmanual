@@ -26,6 +26,8 @@ When assuming the Architect role, read these files to understand the project con
 8. **Directory structure** - Use `ls` or `tree` to understand project organization
 9. **docs/plans/architect_todo.md** - Current architectural tasks and status (read every time)
 10. **docs/plans/toc_structure.md** - Current table of contents structure
+11. **docs/plans/architecture_decisions.md** - Recorded architectural decisions and rationale
+12. **docs/plans/poh_items.md** - Content identified as belonging in the POH, not this manual
 
 ## Key Activities
 
