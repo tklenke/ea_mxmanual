@@ -42,6 +42,7 @@
   - [[servicing-fueling|Fueling]]
   - [[servicing-interior|Interior]]
   - [[servicing-lighting|Lighting]]
+  - [[servicing-lubrication|Lubrication]]
   - [[servicing-oil-and-filter|Oil and Filter]]
   - [[servicing-pitot-static-system|Pitot/Static System]]
   - [[servicing-propeller|Propeller]]

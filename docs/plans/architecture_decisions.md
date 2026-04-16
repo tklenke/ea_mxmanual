@@ -28,6 +28,14 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ---
 
+## Lubrication Page: Master List with Pointers
+
+**Decision:** The Lubrication page in Section 6 (Servicing) is a comprehensive list of all lubrication points on the aircraft, each with its interval and a pointer to the procedure in the relevant section. It does not contain procedures itself.
+
+**Reasoning:** Same pattern as the overall Section 6 — single place to find everything that requires lubrication, without duplicating procedures that live with the system they belong to.
+
+---
+
 ## Section 5: Servicing as Master Index
 
 **Decision:** Section 5 is a master index of all servicing tasks, not a collection of procedures. Each entry describes the task, its service interval, and points to the full procedure in its home section.
