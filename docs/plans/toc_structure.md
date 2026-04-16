@@ -48,7 +48,6 @@
   - [[servicing-propeller|Propeller]]
   - [[servicing-spark-plugs|Spark Plugs]]
   - [[servicing-tires-and-wheels|Tires and Wheels]]
-  - [[servicing-wing-removal-and-installation|Wing Removal and Installation]]
 
 ===== 7. Inspection =====
   - [[inspection-annual-condition|Annual Condition Inspection]]

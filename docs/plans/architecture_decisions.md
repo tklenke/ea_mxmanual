@@ -125,10 +125,10 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 **What does belong in the TOC:**
 - All Type 1a System pages and Type 1b Component pages
-- Major standalone procedures that are not specific to a single component (e.g., Wing Removal and Installation, Annual Condition Inspection, Structural Repair)
+- Section-level index pages (e.g., Servicing index, Lubrication index, Annual Condition Inspection)
 
 **What does not belong in the TOC:**
-- Component-specific procedures (e.g., Canopy Cleaning, Battery Removal, Brake Fluid Change)
+- Component-specific procedures, even substantial ones (e.g., Canopy Cleaning, Wing Removal and Installation, Battery Removal, Brake Fluid Change) — these are accessed through their parent component page in the relevant section
 
 ---
 
@@ -197,4 +197,4 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 - Lighting
 - Interior (seats and seat belts)
 - Avionics Software Updates
-- Wing Removal and Installation
+- Wing Removal and Installation (pointer to Section 8 — no dedicated servicing page)
