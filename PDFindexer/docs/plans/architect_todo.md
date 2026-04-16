@@ -1,27 +1,20 @@
 # Architect Todo
 
-## Phase 1: Design
+## Completed Work (as of 2026-04-15)
 
-- [x] Gather requirements from Tom
-- [x] Evaluate PDF characteristics (born-digital, two-column layout, figure/table types)
-- [x] Decide output granularity (paragraph-level files)
-- [x] Design token-optimized output format (plain text, compact markers, rich index)
-- [x] Design processing pipeline (TOC pass, content pass, output writing)
-- [x] Document two-column extraction approach
-- [x] Select library (pdfplumber)
-- [x] Write design.md
-- [x] Update claude/project_status.md
-- [x] Create docs/plans/ structure
+Initial design, library selection, output format, pipeline design, token optimization,
+all documented in design.md. CMW (claude-maintenance-writer) defined as the consumer.
 
-## Phase 2: Implementation Support
+Design revisions after implementation review:
+- CHG 1 format: body text uses no period after paragraph number; Chapter 13 has no
+  section headers in TOC. Both documented in design.md "CHG 1 Format" section.
+- Three appendices confirmed (Glossary p.633-641, Acronyms p.642-645, Metric p.646).
+  Extraction approach and filenames documented in design.md.
+- Soft hyphen (U+00AD) found in CHG 1 pages — fix must strip \xad before joining,
+  not just handle whitespace around regular hyphens.
 
-- [ ] Review programmer_todo.md tasks once Programmer begins
-- [ ] Address any architectural questions that arise during implementation
-- [ ] Review sample output from early implementation runs for quality
-- [ ] Adjust design if extraction quality reveals issues with approach
+## Open Items
 
-## Phase 3: Validation
-
-- [ ] Validate index.txt structure and completeness against TOC
-- [ ] Spot-check several paragraph files for content accuracy
-- [ ] Confirm output is usable by mxmanual Claude instance
+- [ ] Validate index.txt and spot-check output files once Phases 8-10 are complete
+- [ ] Confirm output is usable by CMW after full pipeline re-run
+- [ ] README.md review once Programmer drafts it (Phase 10)

@@ -2,65 +2,56 @@
 
 Read docs/plans/design.md fully before starting any task.
 
-## Phase 1: Project Setup
+## Completed (Phases 1-7)
 
-- [ ] Create requirements.txt with pdfplumber and pytest
-- [ ] Set up venv and install dependencies
-- [ ] Create pdfindexer/ package directory with __init__.py
-- [ ] Create tests/ directory
-- [ ] Add pdfplumber and pytest to requirements.txt
-- [ ] Verify pdfplumber can open and read the source PDF
+Project setup, TOC parser, page extractor, doc parser, output writer, main entry point,
+and full pipeline run are all complete. 37 tests passing. 648/656 paragraphs extracted.
+See git log for details.
 
-## Phase 2: TOC Parser
+## Phase 8: CHG 1 Format Support — COMPLETE
 
-- [ ] Write failing test for TOC extraction using tests/fixtures/ac_43_13_excerpt.pdf
-      (page 1 of fixture = PDF page 2 = TOC Chapter 1 entries)
-- [ ] Implement toc_parser.py — extracts chapter/section/paragraph structure from pages 2-34
-      Output: nested dict of {chapter -> {section -> [{para_num, para_title, page_ref}]}}
-- [ ] Handle reserved paragraph ranges (e.g., "1-12. 1-17. [RESERVED.]")
-- [ ] Verify parser produces correct structure for Chapter 1 (compare to TOC page image)
+- [x] Extract PDF pages 631-632 as tests/fixtures/ac_43_13_chg1_excerpt.pdf
+- [x] Update toc_parser.py — handle chapters with no section headers (Ch.13 has none);
+      synthetic section {number: 0, title: "", paragraphs: []} created on demand;
+      also made trailing period optional in TOC para entry (some CHG 1 entries omit it)
+- [x] Write tests: 13-1 and 13-2 appear in TOC parse with correct chapter metadata
+- [x] Update doc_parser.py — paragraph boundary also matches CHG 1 format `^(\d+-\d+)\s+[A-Z]`
+- [x] Write tests: 12-70 and 13-1 detected from CHG 1 body text
+- [x] Re-run full PDF — 12-70/71/72 and 13-1/13-2 now in output; 661/666 paragraphs
+- [x] output_writer.py updated to omit SECTION line for synthetic sections (Ch.13)
 
-## Phase 3: Page Text Extractor
+## Phase 9: Appendix Extraction — COMPLETE
 
-- [ ] Write failing test for two-column extraction using tests/fixtures/ac_43_13_excerpt.pdf
-      (pages 2-7 of fixture = PDF pages 35-40 = Chapter 1 Section 1 content)
-- [ ] Implement page_extractor.py — extracts text from a single page with column awareness
-      - Uses extract_words() with bounding boxes
-      - Splits at page midpoint, sorts left then right column by y-coordinate
-      - Strips page header (top ~50pt) and footer (bottom ~50pt)
-- [ ] Implement figure detection — returns list of (y_position, page_label) for images on page
-- [ ] Implement table detection — returns table text with [TABLE X-X, p.X-X] marker
+See design.md "Phase 3: Appendix Extraction" section.
 
-## Phase 4: Document Parser
+Page ranges (1-indexed PDF page numbers):
+  Appendix 1 Glossary:  pages 633-641
+  Appendix 2 Acronyms:  pages 642-645
+  Appendix 3 Metric:    page  646
 
-- [ ] Write failing tests for paragraph boundary detection
-- [ ] Implement doc_parser.py — walks all content pages (35+), splits text into paragraphs
-      - Detects paragraph boundaries by matching pattern "N-N." at start of text block
-      - Associates each paragraph with its chapter/section from TOC structure
-      - Inserts figure and table markers at correct positions in text flow
-- [ ] Handle paragraphs that span multiple pages
-- [ ] Handle sub-paragraphs (a., b., c.) as part of parent paragraph content
+- [x] Extract PDF pages 633-634 as tests/fixtures/ac_43_13_appendix_excerpt.pdf
+- [x] Implement pdfindexer/appendix_extractor.py (strips PUA leader chars, joins hyphens)
+- [x] Write tests for appendix_extractor.py (10 tests)
+- [x] Update output_writer.py — write appendix files and APPENDICES section in index.txt
+- [x] Update __main__.py — run appendix extraction after main content pass
+- [x] Re-run full pipeline — 3 appendix files present; 665 total files
 
-## Phase 5: Output Writer
+## Phase 10: Hyphenation Fix and README — COMPLETE
 
-- [ ] Write failing tests for output format
-- [ ] Implement output_writer.py — writes paragraph files and index
-      - Paragraph files: ch##_p###.txt with single header line + content
-      - index.txt: full TOC with filenames, plain text format per design.md
-- [ ] Verify filenames sort correctly (zero-padded paragraph numbers)
+- [x] Fix soft hyphens in doc_parser.py: re.sub(r'\xad\n\s*', '') + text.replace('\xad','')
+- [x] Fix soft hyphens in appendix_extractor.py: same approach
+- [x] Write tests: soft-hyphenated words joined in both body and appendix contexts
+- [x] Create README.md: purpose, CMW consumer, how to run, output structure,
+      known gaps (5 paragraphs undetected: 9-17, 10-17, 11-54, 11-55, 11-56)
 
-## Phase 6: Main Entry Point
+## Phase 11: Mid-line Paragraph Marker Fix — COMPLETE
 
-- [ ] Implement main.py (or __main__.py) — orchestrates full pipeline
-      - Accepts PDF path and output directory as arguments
-      - Runs TOC parser, doc parser, output writer in sequence
-      - Prints progress summary on completion
-- [ ] Write integration test against a small page range of the real PDF
-
-## Phase 7: Full Run and Validation
-
-- [ ] Run against full ac_43.13.pdf, writing output to data/
-- [ ] Verify output file count matches expected paragraph count from TOC
-- [ ] Spot-check 5-10 paragraph files for content accuracy
-- [ ] Confirm index.txt lists all chapters, sections, paragraphs with correct filenames
-- [ ] Report any extraction quality issues to Architect
+- [x] Rebuild CHG 1 fixture to include PDF page 431 (9-17 mid-line case) at index 1
+- [x] Write failing tests: test_para_9_17_detected, test_para_9_17_has_chapter_metadata,
+      test_para_9_17_text_starts_at_marker
+- [x] Fix _split_paragraphs in doc_parser.py: secondary mid-line detection using
+      mid_para_pattern; only triggers when no lowercase precedes the number
+      (avoids false positives from body-text cross-references)
+- [x] Re-run full pipeline: 662/666 paragraphs; 9-17 now in output
+- [x] Update README.md known gaps: 4 remaining paragraphs with root causes documented
+      (10-17: header cutoff; 11-54/55/56: TOC/body numbering inconsistency in source PDF)
