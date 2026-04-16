@@ -1,31 +1,41 @@
 ## Project Overview
 
-**PDFindexer** is a simple python program that will read a PDF file of FAA 43.13, create appropriate index files and appropriate files of the content.
+**PDFindexer** is a Python program that reads the FAA AC 43.13-1B PDF ("Acceptable Methods, Techniques, and Practices - Aircraft Inspection and Repair"), extracts its content by paragraph, and writes a structured text index and paragraph-level text files. The output is consumed by a Claude instance assisting with the ea_mxmanual project.
 
 ## Project Status
 
-This repository is in active implementation.  
+This repository is in active design. Implementation has not yet started.
 
 ### Current Structure
 
-- `kicad2wireBOM/` - Main package implementation
-- `tests/` - Test suite with fixtures
+- `pdfindexer/` - Main package (not yet created)
+- `tests/` - Test suite (not yet created)
 - `docs/plans/` - Design specifications and implementation plans
-  - `required_from_tom.md` - Items such as test fixtures needed from Tom
-  - `architect_todo.md` - place for Programmer or Tom to give feedback to the architect
-  - `programmer_todo.md` - place where architect gives direction to programmer on what steps to tackle next
-- `docs/acronyms.md` - list of acronyms or terms relevant to this project
+  - `design.md` - Full architecture and design decisions
+  - `required_from_tom.md` - Items needed from Tom before work can proceed
+  - `architect_todo.md` - Architect task tracking
+  - `programmer_todo.md` - Programmer task tracking
+- `docs/acronyms.md` - List of acronyms or terms relevant to this project
 - `docs/references/` - Reference materials (READ ONLY)
+  - `ac_43.13.pdf` - Source PDF (600+ pages, born-digital, two-column layout)
+
+## Output
+
+The program writes to `data/` within this repo:
+- `index.txt` - Master index listing all chapters, sections, and paragraph titles with filenames
+- `ch##_p###.txt` - One plain text file per paragraph
+
+Tom copies the contents of `data/` to `../docs/references/FAA43_13/` in the ea_mxmanual
+project after a successful run.
 
 ## Documentation Management
 
 ### Reference Materials
 - All files in `docs/references/` are READ ONLY. NEVER modify these files.
-- These contain source materials like MIL-SPEC documents and Aeroelectric Connection excerpts.
 
 ## Environment Setup
 
-A Python virtual environment is configured at `venv/`:
+A Python virtual environment will be configured at `venv/`:
 
 ```bash
 # Activate virtual environment
