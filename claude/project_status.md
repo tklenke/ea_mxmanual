@@ -2,6 +2,15 @@
 
 **ea_mxmanual** is a maintenance manual for a Cozy Mark IV experimental aircraft (N657CZ), written as a collection of Markdown files served by Otterwiki. The manual is intended for use by the aircraft owner/builder performing maintenance and inspection.
 
+## Repository Structure
+
+This project uses two git repositories:
+
+- **Agent Repo (AR)** — `/home/tom/projects/ea_mxmanual` — planning documents, standards, role definitions, and reference materials.
+- **Wiki Repo (WR)** — `/home/tom/projects/N657CZDashTwo` — all published manual content pages (wiki Markdown files).
+
+The Writer creates all manual content pages in the WR. The AR contains everything else.
+
 ## Project Status
 
 Architectural work is complete. The TOC has been fully audited and revised. All planning documents, style standards, and page templates are in place. The project is ready for the Writer to begin content development.

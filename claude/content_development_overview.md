@@ -1,3 +1,16 @@
+## Repository Structure
+
+This project uses two git repositories:
+
+- **Agent Repo (AR)** — `/home/tom/projects/ea_mxmanual` — all changes under this directory are committed to the AR.
+- **Wiki Repo (WR)** — `/home/tom/projects/N657CZDashTwo` — all changes under this directory are committed to the WR.
+
+**Writer note:** All manual content pages (wiki Markdown files) are written to and committed from the WR. The AR contains planning documents, standards, and reference materials only.
+
+When committing, verify you are in the correct repository before running `git add` or `git commit`.
+
+---
+
 ## Writing Style and Formatting
 
 Content standards are split across three documents. Read all three:
