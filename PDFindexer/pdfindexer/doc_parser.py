@@ -85,27 +85,50 @@ def _insert_markers(text):
 
 
 def _split_paragraphs(text, para_lookup):
-    """Split full document text into paragraph dicts using paragraph number markers."""
+    """Split full document text into paragraph dicts using paragraph number markers.
+
+    If a paragraph number is encountered again (can happen due to cross-column layout),
+    the extra content is appended to the original paragraph rather than creating a duplicate.
+    """
     para_pattern = re.compile(r"^(\d+-\d+)\.")
 
     paragraphs = []
+    seen_nums = {}   # para number → index in paragraphs list
     current_num = None
     current_lines = []
+
+    def _flush():
+        """Commit the accumulated paragraph if it hasn't been stored yet."""
+        nonlocal current_num, current_lines
+        if current_num is None:
+            return
+        if current_num not in seen_nums:
+            para = _make_para(current_num, current_lines, para_lookup)
+            seen_nums[current_num] = len(paragraphs)
+            paragraphs.append(para)
+        current_num = None
+        current_lines = []
 
     for line in text.split("\n"):
         m = para_pattern.match(line)
         if m and m.group(1) in para_lookup:
-            if current_num is not None:
-                paragraphs.append(_make_para(current_num, current_lines, para_lookup))
-            current_num = m.group(1)
-            current_lines = [line]
+            candidate = m.group(1)
+            _flush()
+            if candidate in seen_nums:
+                # Duplicate occurrence — append content to existing paragraph
+                paragraphs[seen_nums[candidate]]["text"] += "\n" + line
+                current_num = candidate   # track so subsequent lines append too
+            else:
+                current_num = candidate
+                current_lines = [line]
         else:
             if current_num is not None:
-                current_lines.append(line)
+                if current_num in seen_nums:
+                    paragraphs[seen_nums[current_num]]["text"] += "\n" + line
+                else:
+                    current_lines.append(line)
 
-    if current_num is not None:
-        paragraphs.append(_make_para(current_num, current_lines, para_lookup))
-
+    _flush()
     return paragraphs
 
 
