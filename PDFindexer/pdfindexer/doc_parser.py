@@ -62,7 +62,14 @@ def _extract_all_pages(pdf, content_start_page):
 
 
 def _join_hyphens(text):
-    """Join words hyphenated across line breaks (e.g. 'construc-\\ntion' → 'construction')."""
+    """Join words hyphenated across line breaks.
+
+    Handles both regular hyphens (U+002D) and soft hyphens (U+00AD, used in
+    CHG 1 pages): 'construc-\\ntion' → 'construction', 'recom\\xad\\nmended' → 'recommended'.
+    """
+    # Soft-hyphen line breaks: the \xad sits at end of line, word continues on next line
+    text = re.sub(r'\xad\n\s*', '', text)
+    # Regular-hyphen line breaks
     return re.sub(r"(\w)-\n(\w)", r"\1\2", text)
 
 

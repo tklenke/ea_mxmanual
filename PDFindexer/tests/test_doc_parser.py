@@ -4,7 +4,7 @@
 import pytest
 import pdfplumber
 from pdfindexer.toc_parser import parse_toc
-from pdfindexer.doc_parser import parse_document
+from pdfindexer.doc_parser import parse_document, _join_hyphens
 
 FIXTURE = "tests/fixtures/ac_43_13_excerpt.pdf"
 
@@ -154,3 +154,99 @@ def test_chg1_para_13_1_has_chapter_metadata(chg1_paragraphs):
     p = next((p for p in chg1_paragraphs if p["number"] == "13-1"), None)
     assert p is not None
     assert p["chapter"] == 13
+
+
+# ---------------------------------------------------------------------------
+# Soft Hyphen Tests — CHG 1 pages use U+00AD (\xad) instead of U+002D for
+# line-break hyphens. These must be joined just like regular hyphens.
+# Fixture page 1 = PDF page 611 (paragraph 12-8, Section 2 of Ch.12)
+# ---------------------------------------------------------------------------
+
+def test_join_hyphens_strips_soft_hyphen():
+    """_join_hyphens must join words broken by a soft hyphen (U+00AD)."""
+    text = "is strongly recom\xad\nmended. An operation"
+    result = _join_hyphens(text)
+    assert "recommended" in result
+    assert "\xad" not in result
+
+
+def test_join_hyphens_regular_hyphen_still_works():
+    """_join_hyphens must still join regular hyphens after the soft-hyphen fix."""
+    text = "construc-\ntion"
+    result = _join_hyphens(text)
+    assert "construction" in result
+    assert "-\n" not in result
+
+
+def _make_chg1_toc_with_12_8():
+    """Synthetic TOC covering paragraph 12-8 (PDF page 611) plus CHG 1 paragraphs."""
+    return [
+        {
+            "number": 12,
+            "title": "AIRCRAFT AVIONICS SYSTEMS",
+            "sections": [
+                {
+                    "number": 2,
+                    "title": "GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT (ELECTRICAL)",
+                    "paragraphs": [
+                        {"number": "12-8", "title": "General", "page_ref": "12-5"},
+                    ],
+                },
+                {
+                    "number": 5,
+                    "title": "AVIONICS TEST EQUIPMENT",
+                    "paragraphs": [
+                        {"number": "12-70", "title": "General", "page_ref": "12-25"},
+                        {"number": "12-71", "title": "Test Equipment Calibration Standards", "page_ref": "12-25"},
+                        {"number": "12-72", "title": "Test Equipment Calibration", "page_ref": "12-25"},
+                    ],
+                },
+            ],
+        },
+        {
+            "number": 13,
+            "title": "HUMAN FACTORS",
+            "sections": [
+                {
+                    "number": 0,
+                    "title": "",
+                    "paragraphs": [
+                        {"number": "13-1", "title": "Human Factors Influence on Mechanic's Performance", "page_ref": "13-1"},
+                        {"number": "13-2", "title": "The FAA Aviation Safety Program", "page_ref": "13-1"},
+                    ],
+                }
+            ],
+        },
+    ]
+
+
+@pytest.fixture(scope="module")
+def para_12_8():
+    """Parse paragraph 12-8 from the CHG 1 fixture (fixture page 1 = PDF page 611)."""
+    toc = _make_chg1_toc_with_12_8()
+    with pdfplumber.open(CHG1_FIXTURE) as pdf:
+        # content_start_page=1: fixture pages 1-3 (PDF pp.611, 631, 632)
+        paragraphs = parse_document(pdf, toc, content_start_page=1)
+    return next((p for p in paragraphs if p["number"] == "12-8"), None)
+
+
+def test_para_12_8_detected(para_12_8):
+    """Paragraph 12-8 is found in the CHG 1 fixture."""
+    assert para_12_8 is not None
+
+
+def test_para_12_8_soft_hyphens_joined(para_12_8):
+    """Soft-hyphen line breaks in paragraph 12-8 are joined (e.g. recom­+mended → recommended)."""
+    assert para_12_8 is not None
+    assert "recommended" in para_12_8["text"]
+    assert "\xad" not in para_12_8["text"]
+
+
+def test_para_12_8_no_broken_word_recom(para_12_8):
+    """'recom' does not appear as a fragment (line break was at 'recom­\\nmended')."""
+    assert para_12_8 is not None
+    # After joining, "recom" should only appear as part of "recommended"
+    text = para_12_8["text"]
+    assert "recom\xad" not in text
+    # The word "recommended" appears whole, not as a bare fragment
+    assert "recom\n" not in text
