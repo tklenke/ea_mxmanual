@@ -22,7 +22,13 @@
 ### [ ] 1.4 Parse review log
 - Write failing test: reads `Last updated:` datestamp
 - Write failing test: reads page entries and their status (`Approved`, `unreviewed`)
-- Write failing test: handles missing log file gracefully (report N/A)
+- Implement
+- Tests pass, commit
+
+### [ ] 1.5 Handle missing review log
+- Write failing test: when log missing, generates seeded review_log.md in data/
+- Write failing test: seeded log contains all WR slugs with status `unreviewed` and today's date
+- Write failing test: summary output includes NOT FOUND message with expected destination path
 - Implement
 - Tests pass, commit
 
@@ -52,43 +58,29 @@
 - Implement
 - Tests pass, commit
 
-## Phase 4: --seed flag
+## Phase 4: CLI and integration
 
-### [ ] 4.1 Generate seed content
-- Write failing test: produces correct review_log.md content for a given set of slugs
-- Implement
-- Tests pass, commit
-
-### [ ] 4.2 Confirmation prompt and write
-- Write failing test: prints slug list and prompts before writing
-- Write failing test: aborts cleanly on non-yes response
-- Write failing test: writes review_log.md on confirmation
-- Implement
-- Tests pass, commit
-
-## Phase 5: CLI and integration
-
-### [ ] 5.1 Wire up argparse CLI (--detail, --seed)
+### [ ] 4.1 Wire up argparse CLI (--detail)
 - Write failing test: correct behavior for each flag combination
 - Implement
 - Tests pass, commit
 
-### [ ] 5.2 End-to-end test against fixture WR and log
+### [ ] 4.2 End-to-end test against fixture WR and log
 - Create fixture directory with a small WR and review log
-- Write E2E test covering: broken links, unreviewed, missing, seed
+- Write E2E test covering: broken links, unreviewed, missing pages, missing log
 - Tests pass, commit
 
-## Phase 6: AR integration
+## Phase 5: AR integration
 
-### [ ] 6.1 Create `docs/notes/review_log.md` in ea_mxmanual project
-- Run `wiki_check.py --seed` or create manually from WR page list
+### [ ] 5.1 Create `docs/notes/review_log.md` in ea_mxmanual project
+- Run `wiki_check.py`, take the generated template from `data/`, move to `docs/notes/`
 - Commit in ea_mxmanual repo
 
-### [ ] 6.2 Update `claude/roles/reviewer.md` in ea_mxmanual project
+### [ ] 5.2 Update `claude/roles/reviewer.md` in ea_mxmanual project
 - Add wikiCheck startup sequence per design.md spec
 - Add post-review log update step
 - Commit in ea_mxmanual repo
 
-### [ ] 6.3 Update `claude/project_status.md` in ea_mxmanual project
+### [ ] 5.3 Update `claude/project_status.md` in ea_mxmanual project
 - Document `docs/notes/` directory and `review_log.md`
 - Commit in ea_mxmanual repo

@@ -25,11 +25,20 @@ Pages missing from log:   3  (in WR, not in log)
 Review log last updated: 2026-04-10 (6 days ago)
 ```
 
+If the review log is missing:
+
+```
+Wiki Integrity Report — YYYY-MM-DD
+Total WR pages:          47
+Broken links:            12  (pages referenced but not yet written)
+Review log:              NOT FOUND — seeded template written to
+                         tools/wikiCheck/data/review_log.md
+                         move to: docs/notes/review_log.md
+```
+
 ## Flags
 
 - `--detail` — append full lists of broken links, unreviewed pages, and missing pages
-- `--seed` — write all WR pages to review log with status `unreviewed`; prompts Tom
-  for confirmation before writing
 
 ## Checks
 
@@ -68,13 +77,14 @@ Last updated: YYYY-MM-DD
 
 Valid status values: `Approved`, `unreviewed`
 
-### Seeding
+### Missing review log
 
-First Reviewer session runs `wiki_check.py --seed`. The script:
-1. Globs all WR `.md` pages
-2. Prints the list and asks Tom to confirm before writing
-3. Writes `review_log.md` with all pages marked `unreviewed` and today's date as
-   `Last updated:`
+If `docs/notes/review_log.md` does not exist, the script:
+1. Generates a seeded `review_log.md` (all WR pages, status `unreviewed`, today's date)
+2. Writes it to `tools/wikiCheck/data/review_log.md`
+3. Reports it in the summary with the expected destination path
+
+Tom moves the file to `docs/notes/review_log.md` manually.
 
 ## Reviewer Integration
 
