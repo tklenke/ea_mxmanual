@@ -23,12 +23,11 @@ When assuming the Architect role, read these files to understand the project con
 3. **claude/software_development_overview.md** - TDD, YAGNI, documentation requirements, code style, version control and issue tracking
 4. **README.md** (if exists) - Project overview and current status
 5. **requirements.txt** - Current dependencies to evaluate new additions
-6. **docs/acronyms.md** - Domain terminology and project-specific acronyms
-7. **docs/plans/** - Review existing implementation plans to maintain consistency
-8. **docs/notes/opportunities_for_improvement.md** - Outstanding OFIs that might inform current work
-9. **Directory structure** - Use `ls` or `tree` to understand project organization
-10. **docs/ea_wire_marking_standard.md** - Domain-specific standards (for wire-related work)
-11. **docs/plans/architect_todo.md** - more on this below, but definitely read it everytime
+6. **docs/acronyms.md** - Domain terminology and project-specific acronyms (shared: `tools/docs/acronyms.md`)
+7. **docs/style-guide.md** - Naming conventions and coding standards (shared: `tools/docs/style-guide.md`)
+8. **docs/plans/architect_todo.md** - Shared architect task tracking across all tools (`tools/docs/plans/architect_todo.md`) — read this every time
+9. Per-tool **docs/plans/** - Review existing design.md and programmer_todo.md for the tool you're working on
+10. **Directory structure** - Use `ls` or `tree` to understand project organization
 
 ### Contextual Reading (based on task)
 1. **docs/references/** - Reference materials relevant to the feature being designed

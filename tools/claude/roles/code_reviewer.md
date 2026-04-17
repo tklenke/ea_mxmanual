@@ -20,12 +20,12 @@ When assuming the Code Reviewer role, read these files to understand what to rev
 1. **CLAUDE.md** - Project standards, rules, and development philosophy
 2. **claude/project_status.md** - Project status, structure, document management, environment
 3. **claude/software_development_overview.md** - TDD, YAGNI, documentation requirements, code style, version control and issue tracking
-4. **docs/acronyms.md** - Domain terminology to verify correct usage
+4. **docs/acronyms.md** - Domain terminology to verify correct usage (shared: `tools/docs/acronyms.md`)
 5. **Git diff** - All changes being reviewed (staged and unstaged)
 6. **Git status** - Files modified, added, or deleted
 
 ### For Code Review
-5. **docs/style-guide.md** (if exists) - Naming conventions and style rules
+5. **docs/style-guide.md** - Naming conventions and style rules (shared: `tools/docs/style-guide.md`)
 6. **Implementation plan** - Review relevant `docs/plans/*.md` to verify implementation matches design
 7. **All modified files** - Read complete files, not just diffs, to understand context
 8. **Related test files** - Verify tests exist and cover all new functionality

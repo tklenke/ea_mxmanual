@@ -1,58 +1,95 @@
 ## Project Overview
 
-**PDFindexer** is a Python program that reads the FAA AC 43.13-1B PDF ("Acceptable Methods, Techniques, and Practices - Aircraft Inspection and Repair"), extracts its content by paragraph, and writes a structured text index and paragraph-level text files. The output is consumed by a Claude instance assisting with the ea_mxmanual project.
+**tools/** is a collection of Python utilities that support the ea_mxmanual project.
 
-## Project Status
+### Tools
 
-This repository is in active design. Implementation has not yet started.
+**PDFindexer** — Reads the FAA AC 43.13-1B PDF ("Acceptable Methods, Techniques, and
+Practices - Aircraft Inspection and Repair"), extracts its content by paragraph, and
+writes a structured text index and paragraph-level text files. Output is consumed by
+CMW (claude-maintenance-writer), the Claude instance writing aircraft-specific
+maintenance procedures for the Cozy Mark IV ea_mxmanual project.
 
-### Current Structure
+**wikiCheck** — Checks integrity of the wiki reference (WR) and the AR review log.
+Detects broken internal links and tracks which WR pages have been reviewed.
 
-- `pdfindexer/` - Main package (not yet created)
-- `tests/` - Test suite (not yet created)
-- `docs/plans/` - Design specifications and implementation plans
-  - `design.md` - Full architecture and design decisions
-  - `required_from_tom.md` - Items needed from Tom before work can proceed
-  - `architect_todo.md` - Architect task tracking
-  - `programmer_todo.md` - Programmer task tracking
-- `docs/acronyms.md` - List of acronyms or terms relevant to this project
-- `docs/references/` - Reference materials (READ ONLY)
-  - `ac_43.13.pdf` - Source PDF (600+ pages, born-digital, two-column layout)
+---
 
-## Output
+## Shared Structure
 
-The program writes to `data/` within this repo:
-- `index.txt` - Master index listing all chapters, sections, and paragraph titles with filenames
-- `ch##_p###.txt` - One plain text file per paragraph
+```
+tools/
+  docs/
+    acronyms.md              <- project-wide acronyms and domain terms
+    style-guide.md           <- naming conventions and coding standards
+    plans/
+      architect_todo.md      <- architect task tracking across all tools
+  claude/
+    roles/                   <- role definitions (Architect, Programmer, Code Reviewer)
+    project_status.md        <- this file
+    software_development_overview.md
+  CLAUDE.md
+```
 
-Tom copies the contents of `data/` to `../docs/references/FAA43_13/` in the ea_mxmanual
-project after a successful run.
+## Per-Tool Structure
 
-## Documentation Management
+Each tool lives in its own subdirectory with:
+```
+<tool>/
+  docs/
+    plans/
+      design.md              <- architecture and design decisions
+      programmer_todo.md     <- implementation task tracking
+      required_from_tom.md   <- blocked items awaiting Tom's input
+    references/              <- reference materials (READ ONLY)
+  <package>/                 <- Python source package
+  tests/                     <- test suite
+  requirements.txt
+  README.md (when complete)
+  venv/                      <- Python virtual environment
+```
+
+---
+
+## PDFindexer
+
+### Status: Implementation in progress (Phases 1–7 likely complete; 8–10 pending)
+
+### Output
+
+The program writes to `PDFindexer/data/`:
+- `index.txt` — master index listing all chapters, sections, and paragraph titles with filenames
+- `ch##_p###.txt` — one plain text file per paragraph
+- `appendix_1_glossary.txt`, `appendix_2_acronyms.txt`, `appendix_3_metric.txt`
+
+Tom copies the contents of `PDFindexer/data/` to `../docs/references/FAA43_13/` in the
+ea_mxmanual project after a successful run.
 
 ### Reference Materials
-- All files in `docs/references/` are READ ONLY. NEVER modify these files.
+- `PDFindexer/docs/references/ac_43.13.pdf` — source PDF (646 pages, born-digital). READ ONLY.
 
-## Environment Setup
-
-A Python virtual environment will be configured at `venv/`:
+### Environment Setup
 
 ```bash
-# Activate virtual environment
+cd PDFindexer
 source venv/bin/activate
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Run tests
 pytest
-
-# Run specific test file
 pytest tests/test_example.py
-
-# Run tests with verbose output
 pytest -v
-
-# Run tests and show print statements
 pytest -s
 ```
+
+---
+
+## wikiCheck
+
+### Status: Design complete; implementation not started
+
+### Paths
+- WR (wiki reference): `/home/tom/projects/N657CZDashTwo`
+- AR review log: `<ea_mxmanual>/docs/notes/review_log.md`
+
+### Environment Setup
+
+TBD — no requirements.txt yet.

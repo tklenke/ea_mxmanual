@@ -33,7 +33,7 @@ When assuming the Programmer role, read these files to understand what to implem
    - **If tests are passing but todo shows tasks incomplete:** Flag this discrepancy to Tom immediately
    - **If code exists but documentation says it's not done:** Verify the existing code meets requirements before marking tasks complete (see "Handling Existing Code" below)
 6. **requirements.txt** - Dependencies available for use
-7. **docs/acronyms.md** - Domain terminology to use in code and tests
+7. **docs/acronyms.md** - Domain terminology to use in code and tests (shared: `tools/docs/acronyms.md`)
 
 ### For Context on Current Work
 8. **docs/plans/incremental_implementation_plan.md** - Overall implementation strategy
