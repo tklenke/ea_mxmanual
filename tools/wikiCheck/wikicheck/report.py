@@ -14,6 +14,7 @@ def format_report(stats: Stats, today: str, log_last_updated: str) -> str:
         f"Wiki Integrity Report — {today}",
         f"Total WR pages:          {stats.total_pages}",
         f"Broken links:            {stats.broken_link_count}  (pages referenced but not yet written)",
+        f"System links:            {stats.system_link_count:>2}  (Otterwiki system calls, not checked)",
         f"Orphan pages:            {stats.orphan_count:>2}  (exist in WR, never linked to)",
         structural_line,
         f"Approved pages:          {stats.approved_count}  (of {stats.total_pages} in log)",
@@ -33,6 +34,7 @@ def format_detail(
     orphan_pages: list,
     structural_pages_found: list,
     structural_pages_missing: list,
+    system_links: list,
 ) -> str:
     def section(title, items):
         lines = [title]
@@ -53,6 +55,7 @@ def format_detail(
 
     parts = [
         section("Broken links:", broken_links),
+        section("System links (not checked):", system_links),
         section("Orphan pages:", orphan_pages),
         structural_section,
         section("Unreviewed pages:", unreviewed),
@@ -64,6 +67,8 @@ def format_detail(
 def format_missing_log_report(
     total_pages: int,
     broken_link_count: int,
+    system_link_count: int,
+    system_links: list[str],
     structural_pages_found: list[str],
     structural_pages_missing: list[str],
     today: str,
@@ -78,6 +83,7 @@ def format_missing_log_report(
         f"Wiki Integrity Report — {today}",
         f"Total WR pages:          {total_pages}",
         f"Broken links:            {broken_link_count}  (pages referenced but not yet written)",
+        f"System links:            {system_link_count:>2}  (Otterwiki system calls, not checked)",
         structural_line,
     ]
     for slug in structural_pages_missing:

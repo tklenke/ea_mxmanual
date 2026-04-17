@@ -12,6 +12,7 @@ def test_detail_includes_broken_links():
         orphan_pages=[],
         structural_pages_found=[],
         structural_pages_missing=[],
+        system_links=[],
     )
     assert "Broken links:" in detail
     assert "  page-x" in detail
@@ -26,6 +27,7 @@ def test_detail_includes_unreviewed():
         orphan_pages=[],
         structural_pages_found=[],
         structural_pages_missing=[],
+        system_links=[],
     )
     assert "Unreviewed pages:" in detail
     assert "  manual-standards" in detail
@@ -40,6 +42,7 @@ def test_detail_includes_missing_from_log():
         orphan_pages=[],
         structural_pages_found=[],
         structural_pages_missing=[],
+        system_links=[],
     )
     assert "Pages missing from log:" in detail
     assert "  new-page" in detail
@@ -53,6 +56,7 @@ def test_detail_empty_sections_show_none():
         orphan_pages=[],
         structural_pages_found=[],
         structural_pages_missing=[],
+        system_links=[],
     )
     assert "  (none)" in detail
 
@@ -65,6 +69,7 @@ def test_detail_sorted():
         orphan_pages=[],
         structural_pages_found=[],
         structural_pages_missing=[],
+        system_links=[],
     )
     alpha_pos = detail.index("  alpha")
     zebra_pos = detail.index("  zebra")
@@ -79,6 +84,7 @@ def test_detail_includes_orphan_pages():
         orphan_pages=["lonely-page", "another-orphan"],
         structural_pages_found=[],
         structural_pages_missing=[],
+        system_links=[],
     )
     assert "Orphan pages:" in detail
     assert "  lonely-page" in detail
@@ -93,6 +99,7 @@ def test_orphan_section_between_broken_links_and_unreviewed():
         orphan_pages=["orphan-page"],
         structural_pages_found=[],
         structural_pages_missing=[],
+        system_links=[],
     )
     broken_pos = detail.index("Broken links:")
     orphan_pos = detail.index("Orphan pages:")
@@ -108,6 +115,7 @@ def test_detail_structural_section_present():
         orphan_pages=[],
         structural_pages_found=["home", "readme"],
         structural_pages_missing=[],
+        system_links=[],
     )
     assert "Structural pages (excluded from orphans):" in detail
     assert "  home" in detail
@@ -122,5 +130,36 @@ def test_detail_structural_error_lines():
         orphan_pages=[],
         structural_pages_found=["home"],
         structural_pages_missing=["readme"],
+        system_links=[],
     )
     assert "  ERROR: not in WR: readme" in detail
+
+
+def test_detail_system_links_section_present():
+    detail = format_detail(
+        broken_links=[],
+        unreviewed=[],
+        missing_from_log=[],
+        orphan_pages=[],
+        structural_pages_found=[],
+        structural_pages_missing=[],
+        system_links=["/-/changelog", "/-/history"],
+    )
+    assert "System links (not checked):" in detail
+    assert "  /-/changelog" in detail
+    assert "  /-/history" in detail
+
+
+def test_detail_system_links_empty_shows_none():
+    detail = format_detail(
+        broken_links=[],
+        unreviewed=[],
+        missing_from_log=[],
+        orphan_pages=[],
+        structural_pages_found=[],
+        structural_pages_missing=[],
+        system_links=[],
+    )
+    assert "System links (not checked):" in detail
+    # (none) appears somewhere — could be from any empty section
+    assert "  (none)" in detail

@@ -2,7 +2,7 @@
 # ABOUTME: Covers all six stats: page count, broken links, approved, unreviewed, missing, log age.
 
 from pathlib import Path
-from wikicheck.stats import compute_stats
+from wikicheck.stats import compute_stats, Stats
 
 LOG_CONTENT = """\
 # Review Log
@@ -94,6 +94,15 @@ def test_structural_pages_missing(tmp_path):
     stats = compute_stats(wr, log, today="2026-04-16")
     assert stats.structural_pages_found == ["home"]
     assert stats.structural_pages_missing == ["readme"]
+
+
+def test_system_link_count(tmp_path):
+    wr = _make_wr(tmp_path, ["page-a"])
+    (wr / "page-a.md").write_text("[[/-/changelog]] and [[/-/history]]")
+    log = _make_log(tmp_path, LOG_CONTENT)
+    stats = compute_stats(wr, log, today="2026-04-16")
+    assert stats.system_link_count == 2
+    assert sorted(stats.system_links) == ["/-/changelog", "/-/history"]
 
 
 def test_orphan_count_excludes_structural(tmp_path):

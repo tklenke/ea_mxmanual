@@ -20,12 +20,14 @@ def _run_with_fixtures(log_path, *extra_args):
     from wikicheck.stats import compute_stats
     from wikicheck.report import format_report, format_detail
     from wikicheck.orphan_pages import find_orphan_pages, check_structural_pages
+    from wikicheck.broken_links import find_broken_links, find_system_links
 
     stats = compute_stats(FIXTURE_WR, log_path, today="2026-04-16")
     log = parse_review_log(log_path)
     summary = format_report(stats, today="2026-04-16", log_last_updated=log.last_updated)
 
     broken = find_broken_links(FIXTURE_WR)
+    system = find_system_links(FIXTURE_WR)
     orphans = find_orphan_pages(FIXTURE_WR)
     structural_found, structural_missing = check_structural_pages(FIXTURE_WR)
     wr_slugs = set(glob_wr_pages(FIXTURE_WR))
@@ -39,6 +41,7 @@ def _run_with_fixtures(log_path, *extra_args):
         orphan_pages=orphans,
         structural_pages_found=structural_found,
         structural_pages_missing=structural_missing,
+        system_links=system,
     )
     return summary, detail
 
@@ -113,8 +116,10 @@ def _run_missing_log_detail(fixture_wr, tmp_path):
     from wikicheck.orphan_pages import find_orphan_pages, check_structural_pages
     from wikicheck.seed_log import seed_review_log
     from wikicheck.report import format_missing_log_report, format_detail
+    from wikicheck.broken_links import find_system_links
 
     broken = find_broken_links(fixture_wr)
+    system = find_system_links(fixture_wr)
     orphans = find_orphan_pages(fixture_wr)
     structural_found, structural_missing = check_structural_pages(fixture_wr)
     seed_path = tmp_path / "review_log.md"
@@ -122,6 +127,8 @@ def _run_missing_log_detail(fixture_wr, tmp_path):
     summary = format_missing_log_report(
         total_pages=3,
         broken_link_count=len(broken),
+        system_link_count=len(system),
+        system_links=system,
         structural_pages_found=structural_found,
         structural_pages_missing=structural_missing,
         today="2026-04-16",
@@ -134,6 +141,7 @@ def _run_missing_log_detail(fixture_wr, tmp_path):
         orphan_pages=orphans,
         structural_pages_found=structural_found,
         structural_pages_missing=structural_missing,
+        system_links=system,
     )
     return summary, detail
 

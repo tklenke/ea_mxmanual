@@ -2,7 +2,7 @@
 # ABOUTME: Covers cross-referencing extracted slugs against known pages, and deduplication.
 
 from pathlib import Path
-from wikicheck.broken_links import find_broken_links, collect_referenced_slugs
+from wikicheck.broken_links import find_broken_links, collect_referenced_slugs, find_system_links
 
 
 def test_collect_referenced_slugs_returns_all_linked_slugs(tmp_path):
@@ -59,3 +59,24 @@ def test_system_link_prefix_excluded(tmp_path):
 def test_non_system_broken_link_still_detected(tmp_path):
     (tmp_path / "page-a.md").write_text("[[/-/changelog]] and [[real-missing]]")
     assert find_broken_links(tmp_path) == ["real-missing"]
+
+
+def test_find_system_links_returns_system_slugs(tmp_path):
+    (tmp_path / "page-a.md").write_text("See [[/-/changelog]] for history.")
+    assert find_system_links(tmp_path) == ["/-/changelog"]
+
+
+def test_find_system_links_deduplicates(tmp_path):
+    (tmp_path / "page-a.md").write_text("[[/-/changelog]] and [[/-/changelog]]")
+    (tmp_path / "page-b.md").write_text("[[/-/changelog]]")
+    assert find_system_links(tmp_path) == ["/-/changelog"]
+
+
+def test_find_system_links_sorted(tmp_path):
+    (tmp_path / "page-a.md").write_text("[[/-/zebra]] and [[/-/alpha]]")
+    assert find_system_links(tmp_path) == ["/-/alpha", "/-/zebra"]
+
+
+def test_find_system_links_empty_when_none(tmp_path):
+    (tmp_path / "page-a.md").write_text("[[normal-link]]")
+    assert find_system_links(tmp_path) == []
