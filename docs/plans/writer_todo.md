@@ -27,8 +27,8 @@ Migrate `docs/plans/architecture_decisions.md` into the OtterWiki as the `manual
 ### [x] Configure OtterWiki print footer and write Record of Revisions page (2026-04-16)
 
 - Print footer implemented via `customBody.html` + `custom.css` in `~/otterwiki_system/custom/`. Uses `document.lastModified` (reliable: OtterWiki sets Last-Modified header from git commit datetime). Shows date only — no git hash.
-- `record-of-revisions.md` written and committed to WR. Explains git-based tracking, print footer, page history, and links to `/?do=recent` built-in view.
-- TOC updated: `record-of-revisions` replaces `/?do=recent` as the TOC link target. `home.md` updated to match.
+- `record-of-revisions.md` written and committed to WR. Explains git-based tracking, print footer, page history, and links to `/changelog` built-in view.
+- TOC updated: `record-of-revisions` replaces `/changelog` as the TOC link target. `home.md` updated to match.
 - Note: changes to volume-mounted custom files require OtterWiki server restart to take effect.
 
 ---
