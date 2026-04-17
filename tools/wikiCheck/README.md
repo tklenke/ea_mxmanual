@@ -40,20 +40,37 @@ When the review log exists:
 ```
 Wiki Integrity Report — 2026-04-16
 Total WR pages:          10
-Broken links:            83  (pages referenced but not yet written)
+Broken links:             3  (pages referenced but not yet written)
+Orphan pages:             2  (exist in WR, never linked to)
+Structural pages:         2  (home, readme — excluded from orphans)
 Approved pages:           7  (of 10 in log)
 Unreviewed pages:         2  (in log, never reviewed)
 Pages missing from log:   1  (in WR, not in log)
 Review log last updated: 2026-04-10 (6 days ago)
 ```
 
-With `--detail`, three sorted lists are appended after a blank line:
+If a structural page (`home` or `readme`) is missing from the WR entirely, an
+error line appears after the structural pages line:
+
+```
+ERROR: Structural page not in WR: home
+```
+
+With `--detail`, sorted lists are appended after a blank line:
 
 ```
 Broken links:
   engine-mount
   fuel-system
   ...
+
+Orphan pages:
+  some-unreferenced-page
+  ...
+
+Structural pages (excluded from orphans):
+  home
+  readme
 
 Unreviewed pages:
   manual-standards-formatting
@@ -73,7 +90,8 @@ reports where it was written:
 ```
 Wiki Integrity Report — 2026-04-16
 Total WR pages:          10
-Broken links:            83  (pages referenced but not yet written)
+Broken links:             3  (pages referenced but not yet written)
+Structural pages:         2  (home, readme — excluded from orphans)
 Review log:              NOT FOUND — seeded template written to
                          /path/to/tools/wikiCheck/data/review_log.md
                          move to: docs/notes/review_log.md
@@ -111,7 +129,7 @@ Update `Last updated:` and the relevant row after each review session, then comm
 ## Development
 
 ```
-python -m pytest          # run all tests (44 tests)
+python -m pytest          # run all tests (78 tests)
 python -m pytest -v       # verbose
 ```
 
