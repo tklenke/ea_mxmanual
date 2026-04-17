@@ -2,6 +2,21 @@
 
 ## In Progress
 
+### [~] Write safety-composite-materials page — Section 2 (2026-04-17)
+
+Type 4 Reference page in Section 2 (Safety Precautions). Covers hazards from composite materials encountered during maintenance and inspection of N657CZ.
+
+**Epoxy systems used in construction (@@TOM: confirm details before publishing):**
+
+- **EZ-Poxy** — Resin: EZ 10. Hardeners: EZ 83 (fast), EZ 84 (medium), EZ 87 (slow). EZ 87 noted for fuel resistance (MOGAS applications).
+- **Proset** — Made by Gougeon Brothers (same as West System). Hardeners include LAM 125 (medium) and LAM 224 (fast). Suitable for structural aviation applications.
+- **MGS** — Resins: MGS 285 and MGS 335. MGS 335 noted for less aggressive skin reactions. Low viscosity; not as fuel resistant as some alternatives.
+- **West System** — Resin: West 105. Hardeners: 205 (fast), 206 (slow), 207 (special clear), 209 (extra slow). Favored for sanding and cosmetic finishes.
+
+No TDS available in `docs/references/tds/` for any of these systems. @@TOM: obtain TDS for each system if available.
+
+**Status:** Draft complete and committed to WR. Two @@TOM flags open — confirm epoxy system details and add MSDS sources when available. Pending Reviewer sign-off.
+
 ## Backlog
 
 ## Completed
