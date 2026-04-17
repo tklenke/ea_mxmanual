@@ -12,4 +12,4 @@ Last updated: 2026-04-17
 | panels-canopy | unreviewed | — |
 | panels-canopy-cleaning | unreviewed | — |
 | readme | unreviewed | — |
-| record-of-revisions | unreviewed | — |
+| record-of-revisions | Approved | 2026-04-17 |
