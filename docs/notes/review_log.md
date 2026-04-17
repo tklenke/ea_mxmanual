@@ -17,3 +17,4 @@ Last updated: 2026-04-17
 | fuel-level-sensors | pending | 2026-04-17 |
 | panels-turtleback-windows | pending | 2026-04-17 |
 | record-of-revisions | Approved | 2026-04-17 |
+| aircraft-dimensions-and-weight | pending | 2026-04-17 |

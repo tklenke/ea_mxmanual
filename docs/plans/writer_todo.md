@@ -15,7 +15,7 @@ Key specs from input:
 - Wing Span: 28.1 ft, Canard Span: 11.5 ft, Total Wing Area: 101.4 sq. ft.
 - Length: 17.0 ft, Height: 7.9 ft
 - Cockpit Width Front: 42.0 in, Rear: 38.0 in
-- Nose Gear: manual retract
+- Nose Gear: electric retract
 - Engine: Lycoming O-360
 - Wing Airfoil: Modified Eppler, Canard Airfoil: Roncz 1145MS
 - Plans/support: Aircraft Spruce (Corona, CA); Marc J. Zeitlin (official support, Tehachapi CA)
