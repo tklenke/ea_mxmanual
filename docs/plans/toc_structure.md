@@ -2,7 +2,7 @@
 
 ===== 1. General Information =====
   - [[Record of Revisions|record-of-revisions]]
-  - [[start#disclaimer|Disclaimer]] and [[https://www.gnu.org/licenses/fdl-1.3.html|License]] Information
+  - [[start#disclaimer|Disclaimer]] and [[https://opensource.org/licenses/MIT|License]] Information
   - [[manual-standards|Manual Standards]]
 
 ===== 2. Safety Precautions =====

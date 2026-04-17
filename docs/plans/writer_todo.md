@@ -4,7 +4,21 @@
 
 ## Backlog
 
-### [ ] Resolve readme.md and home.md Section 1 mismatch (flagged by Reviewer 2026-04-17)
+### [ ] Write fuel-level-sensors page (from input 2026-04-17)
+
+Type 1b Component page in Section 15 (Fuel System). Tom provided installation notes and product info for the Stewart Warner 385B fuel level sender (SWW-385B from Summit Racing). No PDF/TDS available — product data from Summit Racing listing only. Gasket sealant used: Permatex Form-A-Gasket No. 2. See `input/writer_todo/fuel_level_sensors.txt` (deleted after logging — content preserved in this entry).
+
+Key details from Tom's notes:
+- Sender: Stewart Warner 385B, 240Ω empty / 33Ω full, lever style, 6–12 in. depth tank
+- Mounts via SAE-5 flange; 5 bolts; max ~2 full turns before bolt exits flange
+- Probe bent so tip nearly contacts top and bottom of tank interior — no contact allowed
+- Gasket sealant: Permatex Form-A-Gasket No. 2 (thin layer, tighten until gasket just begins to bulge)
+- Wires: 3-pin connector (red, black, yellow) to EMS; calibrate empty and full positions
+- No TDS available — product data from Summit Racing listing only
+
+---
+
+### [x] Resolve readme.md and home.md Section 1 mismatch (flagged by Reviewer 2026-04-17)
 
 `home.md` links to `[[README|readme]]` under Section 1, but `toc_structure.md` shows that slot as `[[start#disclaimer|Disclaimer]] and [[https://www.gnu.org/licenses/fdl-1.3.html|License]] Information`. The current `readme.md` is a legacy git README — it does not conform to manual style (emojis, asterisk bullets, evaluative language, broken URL). Options:
 - Rewrite `readme.md` as a proper Disclaimer/License page and update `home.md` to match the TOC
