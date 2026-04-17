@@ -4,22 +4,6 @@
 
 ## Backlog
 
-### [ ] Update TDS citation format in docs/plans/formatting.md (flagged by Reviewer 2026-04-17)
-
-During review of `manual-standards-formatting`, Tom decided TDS inline citations should use the filename rather than common name. The wiki page has been updated. Update the AR source to match:
-
-```
-- TDS: `(Permatex_Thread_Sealant_TDS.pdf)`
-```
-
----
-
-### [ ] Add AR-update flow to Reviewer role instructions (flagged by Reviewer 2026-04-17)
-
-When the Reviewer identifies a needed change to AR source documents (style.md, formatting.md, templates.md, role definitions), the current instructions don't describe what to do. Add guidance: Reviewer updates the wiki page directly, then leaves a note in `architect_todo.md` for the Architect to update the corresponding AR source. Reviewer does not update AR sources directly.
-
----
-
 ### [ ] OtterWiki navigation sidebar strategy — confirm final decision
 
 Options evaluated 2026-04-16:
@@ -32,6 +16,14 @@ Options evaluated 2026-04-16:
 ---
 
 ## Completed
+
+### [x] Update TDS citation format in docs/plans/formatting.md (2026-04-17)
+
+AR source already had the correct filename format. No change needed.
+
+### [x] Add AR-update flow to Reviewer role instructions (2026-04-17)
+
+Added "When AR Sources Need Updates" section to `claude/roles/reviewer.md`. Reviewer fixes wiki page, logs task in architect_todo.md, does not touch AR sources directly.
 
 ### [x] Verify wikiCheck output and integrate into Reviewer role (2026-04-17)
 

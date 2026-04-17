@@ -58,7 +58,7 @@ When a manufacturer Technical Data Sheet (TDS) conflicts with AC 43.13 and the T
 All specific values, procedures, and specifications MUST include an inline citation.
 
 - AC 43.13: `(AC 43.13, ch01_p001)`
-- TDS: `(Permatex Thread Sealant TDS)`
+- TDS: `(Permatex_Thread_Sealant_TDS.pdf)`
 - Multiple pages from the same source: `(AC 43.13, ch03_p024, ch03_p040)`
 
 If a value cannot be traced to a source in `docs/references/`, flag it with `@@TOM:` rather than presenting it without attribution.

@@ -82,6 +82,16 @@ Do not commit during the review. Accumulate all fixes for the page, then:
 
 One commit per page, after Tom's sign-off.
 
+### When AR Sources Need Updates
+
+The Reviewer does not update AR source documents directly (`docs/plans/formatting.md`, `style.md`, `templates.md`, role definitions). When a review session reveals that an AR source needs updating:
+
+1. Fix the published wiki page directly (in the WR)
+2. Add a task to `docs/plans/architect_todo.md` describing what needs to change in the AR source and why
+3. Include the updated `architect_todo.md` in the AR commit for the session
+
+The Architect handles all AR source updates. The Reviewer's job is to keep the wiki correct and ensure the Architect has a clear task to sync the source.
+
 ---
 
 ## Key Activities
