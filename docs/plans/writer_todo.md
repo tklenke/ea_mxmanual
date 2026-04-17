@@ -4,6 +4,65 @@
 
 ## Backlog
 
+### [ ] Write aircraft-dimensions-and-weight page — Section 3 (from input 2026-04-17)
+
+Type 1b Component page (or Type 4 Reference page) in Section 3 (Aircraft General). Tom provided official Cozy MK IV specifications.
+
+Key specs from input:
+- Seats: 4
+- Gross Weight: 2050 lbs, Empty Weight: ~1050 lbs
+- Max Speed: 220 mph, Min Speed: 64 mph, Range: 1350 mi (w/ 1 hr reserve)
+- Wing Span: 28.1 ft, Canard Span: 11.5 ft, Total Wing Area: 101.4 sq. ft.
+- Length: 17.0 ft, Height: 7.9 ft
+- Cockpit Width Front: 42.0 in, Rear: 38.0 in
+- Nose Gear: manual retract
+- Engine: Lycoming O-360
+- Wing Airfoil: Modified Eppler, Canard Airfoil: Roncz 1145MS
+- Plans/support: Aircraft Spruce (Corona, CA); Marc J. Zeitlin (official support, Tehachapi CA)
+
+Source: Cozy MK IV official specs (from input). Verify against plans/builders manual as available.
+
+Input file: `input/writer_todo/COZY MKIV General Information` (renamed to `_pending` after logging)
+
+---
+
+### [ ] Write ground-handling-jacking-and-leveling page — Section 5 (from input 2026-04-17)
+
+Type 2 Procedure page in Section 5 (Ground Handling). Tom provided builder community notes on jacking the Cozy MK IV.
+
+Key details from input:
+- Jack under center section spar or wing spar — NOT on wing/strake skins
+- Further outboard jack placement → more nose weight; prefer end of center spar or just outboard of outboard wing mount bolts
+- Use pads (e.g., 4" 2 lb styrofoam, or 12"x12"x3/4" plywood) to distribute load
+- Method: extend nose gear → position jacks under center spar → raise aircraft (main gear lift off); or use padded sawhorses
+- Do NOT jack on skins — always spar with suitable pad
+- No factory-specified jack points; jacking spar with appropriate pads is accepted practice
+
+Source: CozyRAG builder community notes (from input). Cross-reference AC 43.13 for general jacking guidance. Flag any unverified safety specifications.
+
+Input file: `input/writer_todo/Jacking General.md` (renamed to `_pending` after logging)
+
+---
+
+### [ ] Write wb-weighing-procedures page — Section 4 (from input 2026-04-17)
+
+Type 2 Procedure page in Section 4 (Weight and Balance). Tom provided builder's notes on weighing procedures for the Cozy MK IV.
+
+Key details from input:
+- Load-cell type scales (stacked on floor jacks) are problematic — jack location can't be verified by plumb bob after placement; inaccurate CG results
+- Preferred method: flat scales with wooden ramps; aircraft driven up onto scales; allows re-verification; safer
+- Do in closed hangar — wind affects readings
+- Use digital level; chalk line on floor to translate plumb bob positions; straight edge for reference
+- Wing leading edge FS 113.9 is the datum — set tape to 113.9 on translated wing LE point
+- Follow Owners Manual description and examples
+- Need at least one helper
+
+Source: Builder community experience (from input). Must reference Cozy MK IV Owners Manual for official procedure. Flag any steps not confirmed by authoritative source. Cross-reference `ground-handling-jacking-and-leveling` for jacking procedures.
+
+Input file: `input/writer_todo/Jacking for weight and balance.md` (renamed to `_pending` after logging)
+
+---
+
 ### [x] Write fuel-level-sensors page (from input 2026-04-17)
 
 Type 1b Component page in Section 15 (Fuel System). Tom provided installation notes and product info for the Stewart Warner 385B fuel level sender (SWW-385B from Summit Racing). No PDF/TDS available — product data from Summit Racing listing only. Gasket sealant used: Permatex Form-A-Gasket No. 2. See `input/writer_todo/fuel_level_sensors.txt` (deleted after logging — content preserved in this entry).
