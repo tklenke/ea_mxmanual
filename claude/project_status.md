@@ -50,6 +50,10 @@ ea_mxmanual/
 │       │   └── engineering_report.md - kicad2wireBOM wire harness analysis
 │       │                              for N657CZ (component inventory, wire BOM)
 │       └── tds/                     - Manufacturer Technical Data Sheets (PDF)
+├── input/                           - Drop zone for passing instructions to Claude between sessions
+│   ├── architect_todo/              - New architectural tasks for Architect to pick up at session start
+│   ├── writer_todo/                 - New writing tasks for Writer to pick up at session start
+│   └── feedback/                   - Feedback on published wiki pages for Writer to process
 ├── otterwiki/                       - Otterwiki instance (not yet configured)
 └── PDFindexer/                      - Python tool used to extract AC43_13 text
                                        Has its own CLAUDE.md — do not read it

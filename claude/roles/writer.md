@@ -23,11 +23,13 @@ When assuming the Writer role, read these files to understand the project contex
 4. **docs/plans/style.md** - Voice, tense, and language rules
 5. **docs/plans/formatting.md** - Page naming, NOTE formats, citations, cross-references
 6. **docs/plans/templates.md** - Standard page structures by page type
-5. **docs/plans/writer_todo.md** - Current writing tasks and status
+5. **`input/writer_todo/`** - Check for new tasks dropped by Tom; add each to `docs/plans/writer_todo.md`, then delete the input file
+6. **`input/feedback/`** - Check for feedback on published wiki pages; process each file (update content as needed), then delete the input file. If feedback has structural implications, escalate to Architect before making changes.
+7. **docs/plans/writer_todo.md** - Current writing tasks and status
    - Review which sections are complete
    - Identify next uncompleted task
    - **Watch for `[REVISED]` markers** - plan changes after initial design
-5. **Verify actual content state** - The todo document may be out of sync with actual files
+8. **Verify actual content state** - The todo document may be out of sync with actual files
    - Run `git log -10 --oneline` to see recent commits
    - Use Glob to check what pages exist in the content directories
    - **If content exists but todo shows tasks incomplete:** See "Handling Existing Content" below

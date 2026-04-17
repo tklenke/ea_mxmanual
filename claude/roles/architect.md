@@ -28,6 +28,7 @@ When assuming the Architect role, read these files to understand the project con
 10. **docs/plans/toc_structure.md** - Current table of contents structure
 11. **docs/plans/architecture_decisions.md** - Recorded architectural decisions and rationale
 12. **docs/plans/poh_items.md** - Content identified as belonging in the POH, not this manual
+13. **`input/architect_todo/`** - Check for new tasks dropped by Tom; add each to `docs/plans/architect_todo.md`, then delete the input file
 
 ## Key Activities
 
@@ -83,6 +84,14 @@ When structural changes are needed after initial planning:
 - Architect SHOULD update `docs/plans/writer_todo.md` when breaking work into writing tasks
 - When you create detailed task breakdowns for Writer, mark those sections complete in writer_todo.md
 
+**Standards File Changes:**
+If you modify any of `docs/plans/style.md`, `docs/plans/formatting.md`, or `docs/plans/templates.md`, you MUST immediately create a Writer task to re-publish the corresponding WR page:
+- `style.md` → `manual-standards-writing-style`
+- `formatting.md` → `manual-standards-formatting`
+- `templates.md` → `manual-standards-page-templates`
+
+Do this at the time of the change, not at commit time.
+
 **CRITICAL PRE-COMMIT CHECK:**
 Before EVERY `git commit`, you MUST:
 1. Review `docs/plans/architect_todo.md`
@@ -90,7 +99,8 @@ Before EVERY `git commit`, you MUST:
 3. Mark tasks `[x]` that are done, `[~]` that are in progress
 4. If you updated writer tasks, review `docs/plans/writer_todo.md` and update it
 5. Include BOTH updated todo files in your commit if both were modified
-6. NEVER commit without updating your todo list
+6. Check for standards file drift: run `git log -1 --format="%ai"` on each of `docs/plans/style.md`, `docs/plans/formatting.md`, `docs/plans/templates.md` and compare against the corresponding WR file. If the AR file is newer, create a Writer task to re-publish if one does not already exist.
+7. NEVER commit without updating your todo list
 
 This is not optional. Accurate todo tracking is essential for session continuity.
 
