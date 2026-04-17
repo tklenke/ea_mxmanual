@@ -41,9 +41,9 @@ These apply to all manual content regardless of role.
 
 ## Architectural Decisions
 
-Structural decisions about the manual — scope, section organization, content boundaries, and design rationale — are recorded in `docs/plans/architecture_decisions.md`. Read this file when assuming the Architect role or when making decisions that could affect manual structure.
+Structural decisions about the manual — scope, section organization, content boundaries, and design rationale — are recorded in `docs/plans/architecture_decisions.md` and published in the wiki as [[Manual Standards|manual-standards]].
 
-**Note:** This file will eventually be migrated to the Otterwiki. Until then, `docs/plans/architecture_decisions.md` is the authoritative source.
+The wiki page is a published snapshot. `docs/plans/architecture_decisions.md` remains the working copy for the Architect to update. After significant changes, the Writer should re-publish by updating `manual-standards.md` in the WR.
 
 ## Learning and Memory Management
 NOTE: Journaling functionality may be added in the future to help track research findings, failed approaches, architectural decisions, and user preferences across conversations. This section is a placeholder for that capability.

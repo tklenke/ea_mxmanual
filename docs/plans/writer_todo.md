@@ -4,7 +4,7 @@
 
 ## Backlog
 
-### [ ] Publish Manual Standards page (Section 1)
+### [x] Publish Manual Standards page (Section 1) (2026-04-16)
 
 Migrate `docs/plans/architecture_decisions.md` into the OtterWiki as the `manual-standards` page under Section 1 (General Information).
 
