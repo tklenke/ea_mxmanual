@@ -33,12 +33,15 @@ Review log last updated: 2026-04-10 (6 days ago)
 
 ### Broken link check
 
-Scan all WR `.md` files for DokuWiki internal links in these formats:
-- `[[page-slug]]`
-- `[[page-slug|Display Text]]`
+Scan all WR `.md` files for Otterwiki internal links in these formats:
+- `[[Display Text|page-slug]]` — display text before the pipe, slug after
+- `[[page-slug]]` — slug only, no display text
 
-Extract target slugs. A broken link is a slug with no corresponding `.md` file in the
-WR. Report count (and list under `--detail`).
+Regex: `\[\[(?:[^\]|]+\|)?([^\]|]+)\]\]` (capturing group = slug)
+
+The WR is flat: slug `page-slug` maps to `page-slug.md` in the WR root.
+A broken link is a slug with no corresponding `.md` file. Report count (and list under
+`--detail`).
 
 ### Review log check
 
