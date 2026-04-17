@@ -28,14 +28,9 @@ Writer marks tasks `[x]` complete after Tom's explicit sign-off, not before. Upd
 
 ---
 
-### [ ] OtterWiki navigation sidebar strategy — confirm final decision
+### [x] OtterWiki navigation sidebar strategy — confirmed Option C (2026-04-17)
 
-Options evaluated 2026-04-16:
-- **Option A:** Hand-maintained `_sidebar.md`
-- **Option B:** Derived from `toc_structure.md`
-- **Option C:** OtterWiki built-in auto-generated index
-
-**Current decision: Option C.** Auto-generated sidebar reviewed with initial content (2026-04-16) — acceptable so far. Revisit as content volume grows. Do not close until Tom confirms Option C is the permanent approach.
+Tom confirmed OtterWiki built-in auto-generated sidebar is the permanent approach. No hand-maintained sidebar file needed.
 
 ---
 
