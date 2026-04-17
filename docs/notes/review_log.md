@@ -19,3 +19,4 @@ Last updated: 2026-04-17
 | record-of-revisions | Approved | 2026-04-17 |
 | aircraft-dimensions-and-weight | pending | 2026-04-17 |
 | ground-handling-jacking-and-leveling | Approved | 2026-04-17 |
+| wb-weighing-procedures | pending | 2026-04-17 |
