@@ -2,7 +2,7 @@
 
 ===== 1. General Information =====
   - [[Record of Revisions|record-of-revisions]]
-  - [[start#disclaimer|Disclaimer]] and [[https://opensource.org/licenses/MIT|License]] Information
+  - [[Disclaimer and License|disclaimer-and-license]]
   - [[manual-standards|Manual Standards]]
 
 ===== 2. Safety Precautions =====
