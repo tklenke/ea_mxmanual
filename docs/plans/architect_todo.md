@@ -58,4 +58,37 @@ The current TOC has significant problems identified on 2026-04-15. Do not begin 
 - Add weight and balance section
 - Get explicit scope decision from Tom on fabrication content
 
+## Backlog
+
+### [ ] Consider retiring standards files from docs/plans/ (NOTE FROM WRITER 2026-04-16)
+
+`docs/plans/style.md`, `formatting.md`, and `templates.md` have been published to the WR as `manual-standards-writing-style`, `manual-standards-formatting`, and `manual-standards-page-templates`. The AR copies are now somewhat redundant.
+
+**Writer's suggestion:** Consider removing these files from `docs/plans/` and updating the role startup instructions to search for `manual-standards-*` in the WR instead. The WR is the authoritative published location; maintaining parallel copies in the AR creates a drift risk.
+
+If removed, update:
+- `claude/roles/writer.md` startup reads (currently references `docs/plans/style.md`, `formatting.md`, `templates.md`)
+- `claude/roles/reviewer.md` startup reads (same)
+- `claude/content_development_overview.md`
+
+Architect should verify and decide before any files are removed.
+
+---
+
+### [ ] Define workflow for the `input/` directory (NOTE FROM WRITER 2026-04-16)
+
+Tom created `input/` with three subdirectories: `feedback/`, `writer_todo/`, `architect_todo/`. The intent appears to be a structured drop zone for passing instructions to Claude between sessions.
+
+**Writer's read on how this should work:**
+- `input/feedback/` — feedback on published wiki pages (e.g., `manual-standards.txt`). Writer checks this at session start, processes any files found, then deletes the file and leaves the directory.
+- `input/writer_todo/` — new writing tasks dropped in by Tom. Writer picks these up, adds them to `docs/plans/writer_todo.md`, then removes the input file.
+- `input/architect_todo/` — new architectural tasks for the Architect. Same pattern.
+
+**Questions for Architect to resolve:**
+- Should roles check `input/` at session startup as a standard step? If so, role definitions need updating.
+- Should processed files be deleted (current approach) or moved to an `input/processed/` archive?
+- Should `input/` be documented somewhere so Tom knows what each subdirectory is for?
+
+---
+
 ## Completed

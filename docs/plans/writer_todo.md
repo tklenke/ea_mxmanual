@@ -6,21 +6,21 @@
 
 ### [x] Publish Manual Standards page (Section 1) (2026-04-16)
 
-Migrate `docs/plans/architecture_decisions.md` into the OtterWiki as the `manual-standards` page under Section 1 (General Information).
+Published as a family of `manual-standards-*` pages in the WR:
+- `manual-standards` — scope, versioning, TOC depth, list ordering rules; links to all sub-pages
+- `manual-standards-section-notes` — section-specific structural decisions
+- `manual-standards-writing-style` — voice, tense, language rules
+- `manual-standards-formatting` — naming, NOTEs, citations, cross-references
+- `manual-standards-page-templates` — standard page structures by type
 
-**What this is:** `architecture_decisions.md` is already written and complete. This task is a publishing step, not a writing task — convert it to a clean wiki page, not a planning document.
+Also published: `record-of-revisions`, `section-notes` (now `manual-standards-section-notes`).
 
-**Steps:**
-1. Read `docs/plans/architecture_decisions.md` in full
-2. Create `manual-standards.md` in the WR
-3. Strip all internal planning notes (e.g., "Note to Architect:", "Note to Writer:") — these are not for the published manual
-4. Strip the "What Belongs Here" section — that's guidance for editors, not maintainers
-5. Convert all internal cross-references to wiki links using `[[Display Text|page-name]]` format
-6. Apply standard formatting (Type 4 Reference page — no fixed template, structure to suit content)
-7. Use `[TOC]` — the page has many sections and a TOC will help navigation
-8. After publishing, update `claude/content_development_overview.md` to reference the OtterWiki page as the authoritative location (replacing the reference to `docs/plans/architecture_decisions.md`)
-
-**Do NOT delete `docs/plans/architecture_decisions.md`** — it remains the working copy for the Architect to update. The OtterWiki page is a published snapshot; the AR file is the source of truth until a better workflow is established.
+Processed feedback from `input/feedback/manual-standards.txt` (2026-04-16):
+- [TOC] removed from all pages (OtterWiki renders sidebar TOC automatically)
+- Section-specific decisions split to `manual-standards-section-notes`
+- Manual scope updated to include POH as out of scope
+- Writing style, formatting, and page templates published as separate pages
+- All manual-standards pages given `manual-standards-` prefix for searchability
 
 ---
 
