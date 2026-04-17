@@ -4,9 +4,12 @@
 
 ## Backlog
 
-### [ ] Design input file archiving for writer_todo and feedback drop zones (flagged by Writer 2026-04-17)
+### [x] Design input file archiving for writer_todo and feedback drop zones (2026-04-17)
 
-Currently, the Writer deletes input files from `input/writer_todo/` and `input/feedback/` after consuming them. Tom wants consumed files retained. Design an archiving approach — likely an `input/archive/` directory or per-subdirectory archive folders. Update the Writer role instructions and content_development_overview.md to reflect the new behavior.
+Files are renamed in place with a `_pending` suffix after being consumed (e.g.,
+`task.md` → `task_pending.md`). Deleted after work is approved. No archive directories
+needed — drop zones are gitignored. Updated `claude/roles/writer.md` and
+`claude/roles/architect.md`.
 
 ---
 

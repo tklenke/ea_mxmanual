@@ -23,8 +23,8 @@ When assuming the Writer role, read these files to understand the project contex
 4. **docs/plans/style.md** - Voice, tense, and language rules
 5. **docs/plans/formatting.md** - Page naming, NOTE formats, citations, cross-references
 6. **docs/plans/templates.md** - Standard page structures by page type
-5. **`input/writer_todo/`** - Check for new tasks dropped by Tom; add each to `docs/plans/writer_todo.md`, then delete the input file
-6. **`input/feedback/`** - Check for feedback on published wiki pages; process each file (update content as needed), then delete the input file. If feedback has structural implications, escalate to Architect before making changes.
+5. **`input/writer_todo/`** - Check for new tasks dropped by Tom; add each to `docs/plans/writer_todo.md`, then rename the input file with a `_pending` suffix (e.g., `task.md` → `task_pending.md`). Delete the file after the work is approved.
+6. **`input/feedback/`** - Check for feedback on published wiki pages; process each file (update content as needed), then rename the input file with a `_pending` suffix (e.g., `feedback.md` → `feedback_pending.md`). Delete the file after the work is approved. If feedback has structural implications, escalate to Architect before making changes.
 7. **docs/plans/writer_todo.md** - Current writing tasks and status
    - Review which sections are complete
    - Identify next uncompleted task

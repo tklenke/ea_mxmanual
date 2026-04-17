@@ -28,7 +28,7 @@ When assuming the Architect role, read these files to understand the project con
 10. **docs/plans/toc_structure.md** - Current table of contents structure
 11. **docs/plans/architecture_decisions.md** - Recorded architectural decisions and rationale
 12. **docs/plans/poh_items.md** - Content identified as belonging in the POH, not this manual
-13. **`input/architect_todo/`** - Check for new tasks dropped by Tom; add each to `docs/plans/architect_todo.md`, then delete the input file
+13. **`input/architect_todo/`** - Check for new tasks dropped by Tom; add each to `docs/plans/architect_todo.md`, then rename the input file with a `_pending` suffix (e.g., `task.md` → `task_pending.md`). Delete the file after the work is approved.
 
 ## Key Activities
 
