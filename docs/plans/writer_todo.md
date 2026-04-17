@@ -4,7 +4,7 @@
 
 ## Backlog
 
-### [ ] Write aircraft-dimensions-and-weight page — Section 3 (from input 2026-04-17)
+### [x] Write aircraft-dimensions-and-weight page — Section 3 (from input 2026-04-17)
 
 Type 1b Component page (or Type 4 Reference page) in Section 3 (Aircraft General). Tom provided official Cozy MK IV specifications.
 
