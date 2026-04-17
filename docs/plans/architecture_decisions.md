@@ -86,16 +86,16 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ---
 
-## Section 6: Inspection Structure
+## Section 7: Inspection Structure
 
 **Decision:** Three inspection tiers:
-- 6.1 Annual Condition Inspection — single comprehensive checklist page
-- 6.2 Post-Cross-Country Check — focused on stress/extended use items
-- 6.3 Periodic Check — mid-season, broader than 6.2 but lighter than annual
+- Annual Condition Inspection — single comprehensive checklist page
+- Post-Cross-Country Check — focused on stress/extended use items
+- Periodic Check — mid-season, broader than Post-Cross-Country but lighter than annual
 
-**Reasoning:** Experimental aircraft under annual condition inspection only. The 6.2 and 6.3 tiers reflect practical maintenance intervals (roughly 10 hours and 50 hours of flying) without implying FAA-mandated tach-time requirements.
+**Reasoning:** Experimental aircraft under annual condition inspection only. The Post-Cross-Country and Periodic tiers reflect practical maintenance intervals (roughly 10 hours and 50 hours of flying) without implying FAA-mandated tach-time requirements.
 
-**Note:** 6.1 kept as a single page (not broken into sub-pages by system) to preserve its utility as a checklist. If it grows unwieldy, reconsider at next architectural review.
+**Note:** The Annual Condition Inspection page is kept as a single page (not broken into sub-pages by system) to preserve its utility as a checklist. If it grows unwieldy, reconsider at next architectural review.
 
 ---
 
@@ -107,9 +107,9 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ---
 
-## Section 15 Folded into Section 16
+## Section 17: Avionics (Instruments Folded In)
 
-**Decision:** Section 15 (Instruments) is eliminated. Instrument content is covered in Section 16 (Avionics).
+**Decision:** Section 15 (Instruments) is eliminated. Instrument content is covered in Section 17 (Avionics).
 
 **Reasoning:** The aircraft has a full glass panel (GDU 460 PFD, G5 backup, GEA 24 EIS). The traditional instruments/avionics boundary assumes steam gauges. On this aircraft, the displays and the avionics generating the data are the same hardware. Splitting them across two sections would force arbitrary decisions about where content belongs and require cross-referencing for every topic.
 
@@ -133,21 +133,21 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ## Alternators: Power Plant, Not Electrical
 
-**Decision:** Alternator maintenance procedures live in Section 12 (Power Plant), not Section 14 (Electrical). Section 14 includes a cross-reference pointer to Section 12.
+**Decision:** Alternator maintenance procedures live in Section 14 (Power Plant), not Section 16 (Electrical). Section 16 includes a cross-reference pointer to Section 14.
 
 **Reasoning:** Alternators are engine-driven mechanical components. Their maintenance (belt tension, brush inspection, output testing) is physically performed at the engine. The electrical section covers distribution and consumption of power after it is generated, not the generation hardware itself.
 
 ---
 
-## Panel and Cover Removal Procedures Live in Section 8
+## Panel and Cover Removal Procedures Live in Section 9
 
-**Decision:** Removal and installation procedures for all panels and covers are in Section 8 (Canopy and Panels). Other sections that reference those panels include a cross-reference pointer rather than duplicating the procedure.
+**Decision:** Removal and installation procedures for all panels and covers are in Section 9 (Canopy and Panels). Other sections that reference those panels include a cross-reference pointer rather than duplicating the procedure.
 
 **Reasoning:** Single source of truth for panel procedures. A maintainer working on cabin access or firewall components should not have to reconcile two versions of the same removal steps.
 
 **Examples:**
-- Cabin Interior (Section 9) links to Armrests and Firewall Cover Panel in Section 8
-- Any section requiring instrument panel access links to IP Access Panel in Section 8
+- Cabin Interior (Section 10) links to Armrests and Firewall Cover Panel in Section 9
+- Any section requiring instrument panel access links to IP Access Panel in Section 9
 
 ---
 
@@ -190,29 +190,29 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 ## Section 3: Aircraft General Structure
 
 **Decision:** Three pages:
-- 3.1 General Layout and Configuration
-- 3.2 Aircraft Dimensions and Weight
-- 3.3 Systems Overview
+- General Layout and Configuration
+- Aircraft Dimensions and Weight
+- Systems Overview
 
-**Reasoning:** 3.3 added to give a maintainer context before diving into individual systems. A high-level summary with cross-references reduces the chance of someone working on a system without understanding how it fits into the whole.
+**Reasoning:** Systems Overview added to give a maintainer context before diving into individual systems. A high-level summary with cross-references reduces the chance of someone working on a system without understanding how it fits into the whole.
 
 ---
 
-## Section 4: Ground Handling Structure
+## Section 5: Ground Handling Structure
 
 **Decision:** Four pages:
-- 4.1 Towing Procedures
-- 4.2 Jacking and Leveling
-- 4.3 Tiedown and Parking
-- 4.4 Storage
+- Towing Procedures
+- Jacking and Leveling
+- Tiedown and Parking
+- Storage
 
-**Reasoning:** Tiedown separated from Jacking (previously misplaced as a sub-page of 4.2). Storage added as a maintenance task in its own right (fuel stabilizer, pitot cover, control locks, etc.).
+**Reasoning:** Tiedown separated from Jacking (previously misplaced as a sub-page of Jacking and Leveling). Storage added as a maintenance task in its own right (fuel stabilizer, pitot cover, control locks, etc.).
 
 ---
 
-## Section 5: Servicing Index Contents
+## Section 6: Servicing Index Contents
 
-**Decision:** The following tasks are indexed in Section 5 (each with interval and pointer to home section):
+**Decision:** The following tasks are indexed in Section 6 (each with interval and pointer to home section):
 
 - Fueling
 - Oil and Filter
