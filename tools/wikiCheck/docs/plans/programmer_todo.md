@@ -13,7 +13,7 @@
 Orphan pages are WR pages that exist as `.md` files but are never referenced as link
 targets from any other WR page. Logic is the inverse of broken links.
 
-### [ ] 6.1 Extract `collect_referenced_slugs()` helper (refactor)
+### [x] 6.1 Extract `collect_referenced_slugs()` helper (refactor)
 
 - In `wikicheck/broken_links.py`, extract the inner loop into:
   `collect_referenced_slugs(wr_dir: Path) -> set[str]`
@@ -21,7 +21,7 @@ targets from any other WR page. Logic is the inverse of broken links.
 - Tests: update `tests/test_broken_links.py` to cover the helper directly;
   existing broken-link tests must still pass
 
-### [ ] 6.2 Add `wikicheck/orphan_pages.py`
+### [x] 6.2 Add `wikicheck/orphan_pages.py`
 
 - `find_orphan_pages(wr_dir: Path) -> list[str]`
   - `known = set(glob_wr_pages(wr_dir))`
@@ -34,14 +34,14 @@ targets from any other WR page. Logic is the inverse of broken links.
   - all pages linked → empty result
   - empty WR dir → empty result
 
-### [ ] 6.3 Add `orphan_count` to `Stats`
+### [x] 6.3 Add `orphan_count` to `Stats`
 
 - In `wikicheck/stats.py`:
   - Add `orphan_count: int` field to `Stats` dataclass
   - Call `find_orphan_pages(wr_dir)` in `compute_stats()` and set the field
 - Tests: update `tests/test_stats.py` to assert `orphan_count` is correct
 
-### [ ] 6.4 Update `format_report()` and `format_detail()`
+### [x] 6.4 Update `format_report()` and `format_detail()`
 
 - In `wikicheck/report.py`:
   - Add orphan line to `format_report()` between broken links and approved:
@@ -57,7 +57,7 @@ targets from any other WR page. Logic is the inverse of broken links.
     output and in correct position
   - Update `tests/test_detail.py` to assert orphan section appears and is correct
 
-### [ ] 6.5 Update `wiki_check.py` CLI
+### [x] 6.5 Update `wiki_check.py` CLI
 
 - Import `find_orphan_pages` from `wikicheck.orphan_pages`
 - In the normal (log exists) path:

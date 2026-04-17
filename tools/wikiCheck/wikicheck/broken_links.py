@@ -6,10 +6,14 @@ from wikicheck.wr_pages import glob_wr_pages
 from wikicheck.link_parser import extract_links
 
 
-def find_broken_links(wr_dir: Path) -> list[str]:
-    known = set(glob_wr_pages(wr_dir))
+def collect_referenced_slugs(wr_dir: Path) -> set[str]:
     referenced = set()
     for md_file in Path(wr_dir).glob("*.md"):
         for slug in extract_links(md_file.read_text()):
             referenced.add(slug)
-    return sorted(referenced - known)
+    return referenced
+
+
+def find_broken_links(wr_dir: Path) -> list[str]:
+    known = set(glob_wr_pages(wr_dir))
+    return sorted(collect_referenced_slugs(wr_dir) - known)

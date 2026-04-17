@@ -23,12 +23,15 @@ def _run_with_fixtures(log_path, *extra_args):
     stats = compute_stats(FIXTURE_WR, log_path, today="2026-04-16")
     log = parse_review_log(log_path)
     summary = format_report(stats, today="2026-04-16", log_last_updated=log.last_updated)
+    from wikicheck.orphan_pages import find_orphan_pages
+
     broken = find_broken_links(FIXTURE_WR)
+    orphans = find_orphan_pages(FIXTURE_WR)
     wr_slugs = set(glob_wr_pages(FIXTURE_WR))
     log_slugs = {e.slug for e in log.entries}
     unreviewed = sorted(e.slug for e in log.entries if e.status == "unreviewed")
     missing = sorted(wr_slugs - log_slugs)
-    detail = format_detail(broken_links=broken, unreviewed=unreviewed, missing_from_log=missing)
+    detail = format_detail(broken_links=broken, unreviewed=unreviewed, missing_from_log=missing, orphan_pages=orphans)
     return summary, detail
 
 
@@ -60,6 +63,18 @@ def test_e2e_detail_shows_unreviewed_slug():
 
 def test_e2e_detail_shows_missing_slug():
     _, detail = _run_with_fixtures(FIXTURE_LOG)
+    assert "page-c" in detail
+
+
+def test_e2e_orphan_count_in_summary():
+    summary, _ = _run_with_fixtures(FIXTURE_LOG)
+    # fixture: page-a and page-c are orphans (page-b is linked from page-a)
+    assert "Orphan pages:             2" in summary
+
+
+def test_e2e_detail_shows_orphan_slugs():
+    _, detail = _run_with_fixtures(FIXTURE_LOG)
+    assert "page-a" in detail
     assert "page-c" in detail
 
 

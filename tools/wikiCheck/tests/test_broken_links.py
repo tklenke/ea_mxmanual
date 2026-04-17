@@ -2,7 +2,22 @@
 # ABOUTME: Covers cross-referencing extracted slugs against known pages, and deduplication.
 
 from pathlib import Path
-from wikicheck.broken_links import find_broken_links
+from wikicheck.broken_links import find_broken_links, collect_referenced_slugs
+
+
+def test_collect_referenced_slugs_returns_all_linked_slugs(tmp_path):
+    (tmp_path / "page-a.md").write_text("See [[page-b]] and [[page-c]].")
+    assert collect_referenced_slugs(tmp_path) == {"page-b", "page-c"}
+
+
+def test_collect_referenced_slugs_deduplicates(tmp_path):
+    (tmp_path / "page-a.md").write_text("[[dup]] and [[dup]]")
+    (tmp_path / "page-b.md").write_text("[[dup]]")
+    assert collect_referenced_slugs(tmp_path) == {"dup"}
+
+
+def test_collect_referenced_slugs_empty_dir(tmp_path):
+    assert collect_referenced_slugs(tmp_path) == set()
 
 
 def test_detects_broken_link(tmp_path):

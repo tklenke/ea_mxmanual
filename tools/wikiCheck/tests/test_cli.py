@@ -43,3 +43,8 @@ def test_no_detail_flag_omits_detail_sections():
     # The summary line has a count; the detail block header has no count after it
     detail_headers = [l for l in lines if l.strip() == "Broken links:"]
     assert detail_headers == []
+
+
+def test_detail_flag_includes_orphan_section():
+    result = _run("--detail")
+    assert "Orphan pages:" in result.stdout

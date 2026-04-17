@@ -70,3 +70,11 @@ def test_log_age_in_days(tmp_path):
     log = _make_log(tmp_path, LOG_CONTENT)  # Last updated: 2026-04-10
     stats = compute_stats(wr, log, today="2026-04-16")
     assert stats.log_age_days == 6
+
+
+def test_orphan_count(tmp_path):
+    wr = _make_wr(tmp_path, ["page-a", "page-b", "page-c"])
+    (wr / "page-a.md").write_text("[[page-b]]")  # page-b is linked; page-c is orphan
+    log = _make_log(tmp_path, LOG_CONTENT)
+    stats = compute_stats(wr, log, today="2026-04-16")
+    assert stats.orphan_count == 2  # page-a and page-c are orphans

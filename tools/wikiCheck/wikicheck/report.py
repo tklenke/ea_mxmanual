@@ -9,6 +9,7 @@ def format_report(stats: Stats, today: str, log_last_updated: str) -> str:
         f"Wiki Integrity Report — {today}",
         f"Total WR pages:          {stats.total_pages}",
         f"Broken links:            {stats.broken_link_count}  (pages referenced but not yet written)",
+        f"Orphan pages:            {stats.orphan_count:>2}  (exist in WR, never linked to)",
         f"Approved pages:          {stats.approved_count}  (of {stats.total_pages} in log)",
         f"Unreviewed pages:        {stats.unreviewed_count:>2}  (in log, never reviewed)",
         f"Pages missing from log:  {stats.missing_from_log_count:>2}  (in WR, not in log)",
@@ -17,7 +18,7 @@ def format_report(stats: Stats, today: str, log_last_updated: str) -> str:
     return "\n".join(lines)
 
 
-def format_detail(broken_links: list, unreviewed: list, missing_from_log: list) -> str:
+def format_detail(broken_links: list, unreviewed: list, missing_from_log: list, orphan_pages: list) -> str:
     def section(title, items):
         lines = [title]
         if items:
@@ -28,6 +29,7 @@ def format_detail(broken_links: list, unreviewed: list, missing_from_log: list) 
 
     parts = [
         section("Broken links:", broken_links),
+        section("Orphan pages:", orphan_pages),
         section("Unreviewed pages:", unreviewed),
         section("Pages missing from log:", missing_from_log),
     ]

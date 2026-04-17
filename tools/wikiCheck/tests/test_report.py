@@ -9,6 +9,7 @@ def test_format_normal_report():
     stats = Stats(
         total_pages=47,
         broken_link_count=12,
+        orphan_count=5,
         approved_count=36,
         unreviewed_count=8,
         missing_from_log_count=3,
@@ -19,11 +20,29 @@ def test_format_normal_report():
         "Wiki Integrity Report — 2026-04-16\n"
         "Total WR pages:          47\n"
         "Broken links:            12  (pages referenced but not yet written)\n"
+        "Orphan pages:             5  (exist in WR, never linked to)\n"
         "Approved pages:          36  (of 47 in log)\n"
         "Unreviewed pages:         8  (in log, never reviewed)\n"
         "Pages missing from log:   3  (in WR, not in log)\n"
         "Review log last updated: 2026-04-10 (6 days ago)"
     )
+
+
+def test_orphan_line_appears_between_broken_links_and_approved():
+    stats = Stats(
+        total_pages=10,
+        broken_link_count=1,
+        orphan_count=2,
+        approved_count=5,
+        unreviewed_count=0,
+        missing_from_log_count=0,
+        log_age_days=0,
+    )
+    output = format_report(stats, today="2026-04-16", log_last_updated="2026-04-16")
+    broken_pos = output.index("Broken links:")
+    orphan_pos = output.index("Orphan pages:")
+    approved_pos = output.index("Approved pages:")
+    assert broken_pos < orphan_pos < approved_pos
 
 
 def test_format_missing_log_report():

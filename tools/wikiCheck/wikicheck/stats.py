@@ -1,11 +1,12 @@
 # ABOUTME: Computes wikiCheck statistics from WR directory and review log.
-# ABOUTME: Returns a Stats dataclass with all six report fields.
+# ABOUTME: Returns a Stats dataclass with all seven report fields.
 
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
 from wikicheck.wr_pages import glob_wr_pages
 from wikicheck.broken_links import find_broken_links
+from wikicheck.orphan_pages import find_orphan_pages
 from wikicheck.review_log import parse_review_log
 
 
@@ -13,6 +14,7 @@ from wikicheck.review_log import parse_review_log
 class Stats:
     total_pages: int
     broken_link_count: int
+    orphan_count: int
     approved_count: int
     unreviewed_count: int
     missing_from_log_count: int
@@ -22,6 +24,7 @@ class Stats:
 def compute_stats(wr_dir: Path, log_path: Path, today: str) -> Stats:
     slugs = set(glob_wr_pages(wr_dir))
     broken = find_broken_links(wr_dir)
+    orphans = find_orphan_pages(wr_dir)
     log = parse_review_log(log_path)
 
     log_slugs = {e.slug for e in log.entries}
@@ -35,6 +38,7 @@ def compute_stats(wr_dir: Path, log_path: Path, today: str) -> Stats:
     return Stats(
         total_pages=len(slugs),
         broken_link_count=len(broken),
+        orphan_count=len(orphans),
         approved_count=approved,
         unreviewed_count=unreviewed,
         missing_from_log_count=missing,
