@@ -2,30 +2,30 @@
 
 ## Phase 1: Core data collection
 
-### [ ] 1.1 Glob WR pages
+### [x] 1.1 Glob WR pages
 - Write failing test: given a directory of .md files, returns list of slugs
 - Implement
 - Tests pass, commit
 
-### [ ] 1.2 Parse Otterwiki links from a page
+### [x] 1.2 Parse Otterwiki links from a page
 - Write failing test: extracts slugs from `[[Display Text|slug]]` and `[[slug]]` forms
 - Write failing test: ignores non-link content
 - Implement regex extraction
 - Tests pass, commit
 
-### [ ] 1.3 Collect all broken links across WR
+### [x] 1.3 Collect all broken links across WR
 - Write failing test: cross-references extracted slugs against known WR slugs
 - Write failing test: deduplicates repeated broken links
 - Implement
 - Tests pass, commit
 
-### [ ] 1.4 Parse review log
+### [x] 1.4 Parse review log
 - Write failing test: reads `Last updated:` datestamp
 - Write failing test: reads page entries and their status (`Approved`, `unreviewed`)
 - Implement
 - Tests pass, commit
 
-### [ ] 1.5 Handle missing review log
+### [x] 1.5 Handle missing review log
 - Write failing test: when log missing, generates seeded review_log.md in data/
 - Write failing test: seeded log contains all WR slugs with status `unreviewed` and today's date
 - Write failing test: summary output includes NOT FOUND message with expected destination path
