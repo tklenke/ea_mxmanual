@@ -158,4 +158,38 @@ Add `docs/notes/` to the directory structure with entries for `review_log.md` an
 
 ---
 
+### [ ] Restructure tools/ directory and delegate wikiCheck to tools Claude (2026-04-16)
+
+**Context:** PDFindexer has a Python-optimized CLAUDE.md and claude/ directory. These should live at the `tools/` level and cover all tools. Each tool gets its own subdirectory for code, plans, and data.
+
+**Target structure:**
+```
+tools/
+├── CLAUDE.md          (moved from PDFindexer/CLAUDE.md)
+├── claude/            (moved from PDFindexer/claude/)
+├── PDFindexer/        (code, plans, data — moved from root PDFindexer/)
+└── wikiCheck/         (new — code, plans, data for wiki integrity script)
+```
+
+**Steps:**
+
+1. `git mv PDFindexer tools/PDFindexer` — preserves history
+2. `git mv PDFindexer/CLAUDE.md tools/CLAUDE.md` — move before step 1, or adjust paths accordingly
+3. `git mv PDFindexer/claude tools/claude` — same
+4. Create `tools/wikiCheck/` with a spec file describing what to build (see below)
+5. Update `claude/project_status.md` directory structure — replace `PDFindexer/` entry with `tools/` block
+6. Update the wiki integrity tooling task above — `tools/wiki_check.py` becomes `tools/wikiCheck/`
+7. Update any references in role definitions that mention PDFindexer
+
+**wikiCheck spec to seed `tools/wikiCheck/plans/spec.md`:**
+- Inputs: WR path (`/home/tom/projects/N657CZDashTwo`), AR review log path (`docs/notes/review_log.md`)
+- Broken link check: scan all WR `.md` files for `[[slug]]` and `[[slug|Text]]` links; report slugs with no corresponding `.md` file
+- Review log check: read log datestamp; find WR pages missing from log; count entries with status `unreviewed`
+- Output: compact plain-text summary (see wiki integrity task for format); `--detail` flag for full lists
+- Review log seeding: `--seed` flag writes all WR pages to log with status `unreviewed` (asks confirmation before writing)
+
+**Note:** After restructure, main roles delegate scripting work to the tools Claude by dropping a spec into `tools/wikiCheck/` or `tools/PDFindexer/` and switching Claude context to `tools/`.
+
+---
+
 ## Completed
