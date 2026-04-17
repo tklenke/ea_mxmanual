@@ -19,6 +19,7 @@ Compact plain-text summary printed to stdout:
 Wiki Integrity Report — YYYY-MM-DD
 Total WR pages:          47
 Broken links:            12  (pages referenced but not yet written)
+Orphan pages:             3  (exist in WR, never linked to)
 Approved pages:          36  (of 47 in log)
 Unreviewed pages:         8  (in log, never reviewed)
 Pages missing from log:   3  (in WR, not in log)
@@ -38,9 +39,22 @@ Review log:              NOT FOUND — seeded template written to
 
 ## Flags
 
-- `--detail` — append full lists of broken links, unreviewed pages, and missing pages
+- `--detail` — append full lists of broken links, orphan pages, unreviewed pages, and missing pages
 
 ## Checks
+
+### Orphan page detection
+
+Scan all WR `.md` files for internal links using the same regex as broken link check.
+Build a set of all referenced slugs. Any existing WR page whose slug does not appear in
+that set is an orphan — it exists but is never linked to.
+
+A helper `collect_referenced_slugs(wr_dir)` should be extracted from `broken_links.py`
+so both checks share the same scan loop. `find_orphan_pages(wr_dir)` returns
+`sorted(known - referenced)`.
+
+No separate tracking file — live scan is authoritative. No valid use case for
+intentionally unlinked pages in this manual.
 
 ### Broken link check
 

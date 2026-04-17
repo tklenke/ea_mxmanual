@@ -84,7 +84,7 @@ pytest -s
 
 ## wikiCheck
 
-### Status: Design complete; implementation not started
+### Status: Phases 1–4 complete; Phase 5 (AR integration) and Phase 6 (orphan detection) pending
 
 ### Paths
 - WR (wiki reference): `/home/tom/projects/N657CZDashTwo`
@@ -92,4 +92,10 @@ pytest -s
 
 ### Environment Setup
 
-TBD — no requirements.txt yet.
+```bash
+cd wikiCheck
+source venv/bin/activate
+pytest
+python wiki_check.py
+python wiki_check.py --detail
+```
