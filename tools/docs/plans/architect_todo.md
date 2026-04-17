@@ -108,9 +108,9 @@ Design revisions after implementation review:
 - [x] Write `wiki_check.py` (see spec below)
 - [x] Add orphan page detection to wikiCheck — designed in design.md, programmer tasks
       written in programmer_todo.md Phase 6. (2026-04-16)
-- [ ] Create `docs/notes/review_log.md` format spec (in AR — ea_mxmanual project)
-- [ ] Update `claude/roles/reviewer.md` (in AR — ea_mxmanual project)
-- [ ] Document `docs/notes/` in `claude/project_status.md` (in AR)
+- [x] Create `docs/notes/review_log.md` format spec (in AR — ea_mxmanual project)
+- [x] Update `claude/roles/reviewer.md` (in AR — ea_mxmanual project)
+- [x] Document `docs/notes/` in `claude/project_status.md` (in AR)
 
 ### Spec (from original wikiCheck architect_todo)
 

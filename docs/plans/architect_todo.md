@@ -13,18 +13,12 @@ needed — drop zones are gitignored. Updated `claude/roles/writer.md` and
 
 ---
 
-### [ ] Verify wikiCheck "pending" status fix (flagged 2026-04-17)
+### [x] Verify wikiCheck "pending" status fix (2026-04-17)
 
-Task written to `tools/docs/plans/architect_todo.md` for tools architect to implement.
-When complete: run `wiki_check.py --detail` and verify:
-- Pending pages show under "Pending pages" summary line with correct count
+Verified 2026-04-17. All three criteria met:
+- Pending pages show under "Pending pages" summary line with correct count (7)
 - Pending pages do NOT appear under "Pages missing from log"
 - `--detail` output includes a "Pending pages" section listing them
-
-**2026-04-17: Verified — fix is NOT working.** Bug report written to
-`tools/docs/plans/architect_todo.md`. Likely cause: case mismatch — review log uses
-lowercase `pending`, implementation likely checks for `Pending`. Task reopened in tools
-architect_todo.
 
 ---
 
