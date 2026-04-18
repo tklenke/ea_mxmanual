@@ -1,379 +1,2918 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="612" height="792" viewBox="0 0 612 792">
-<defs>
-<clipPath id="clip_1">
-<path transform="matrix(1,0,0,-1,0,792)" d="M0 792H611.975V.032H0Z" clip-rule="evenodd"/>
-</clipPath>
-<clipPath id="clip_2">
-<path transform="matrix(1,0,0,-1,0,792)" d="M0 792H611.975V.032H0Z" clip-rule="evenodd"/>
-</clipPath>
-<clipPath id="clip_3">
-<path transform="matrix(1,0,0,-1,0,792)" d="M539.768 744.213H450.587V731.425H539.768Z"/>
-</clipPath>
-<clipPath id="clip_4">
-<path transform="matrix(1,0,0,-1,0,792)" d="M450.48 744.24H539.76V731.52H450.48Z" clip-rule="evenodd"/>
-</clipPath>
-<clipPath id="clip_5">
-<path transform="matrix(1,0,0,-1,0,792)" d="M0 792.12H612V.11999512H0Z"/>
-</clipPath>
-<clipPath id="clip_6">
-<path transform="matrix(1,0,0,-1,0,792)" d="M0 792H611.975V.032H0Z" clip-rule="evenodd"/>
-</clipPath>
-<clipPath id="clip_7">
-<path transform="matrix(1,0,0,-1,0,792)" d="M538.717 584.25H73.28299V184.27802H538.717Z"/>
-</clipPath>
-<clipPath id="clip_8">
-<path transform="matrix(1,0,0,-1,0,792)" d="M538.717 584.25H73.28299V184.27802H538.717Z"/>
-</clipPath>
-</defs>
-
-<g clip-path="url(#clip_1)">
-<path transform="matrix(1,0,0,-1,71.9971,730.5303)" d="M0 0H467.981" fill="#ffffff" fill-opacity="0" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,71.9971,730.5303)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H467.981"/>
-</g>
-<g clip-path="url(#clip_2)">
-<path transform="matrix(1,0,0,-1,448.3018,54.477785)" d="M0 0H-375.825" fill="#ffffff" fill-opacity="0" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,448.3018,54.477785)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H-375.825"/>
-</g>
-<g clip-path="url(#clip_3)">
-<g clip-path="url(#clip_4)">
-<g clip-path="url(#clip_5)">
-<path transform="matrix(1,0,0,-1,504.399,54.97998)" d="M0 0C-.162-.291-.428-.29-.588 .002L-4.078 6.411C-4.227 6.709-4.531 6.953-4.955 6.953H-6.848C-7.182 6.953-7.455 6.681-7.455 6.347V-4.787C-7.455-5.12-7.236-5.348-6.848-5.348H-5.672C-5.338-5.348-5.097-5.138-5.097-4.816-5.097-4.662-5.092 3.282-5.079 3.282-5.066 3.282-.723-4.814-.723-4.814-.566-5.108-.179-5.109-.019-4.816-.019-4.816 4.36 3.259 4.373 3.259 4.387 3.259 4.382-4.584 4.382-4.816 4.382-5.138 4.639-5.348 4.973-5.348H6.329C6.663-5.348 6.935-5.182 6.935-4.742V6.347C6.935 6.681 6.663 6.953 6.329 6.953H4.514C4.051 6.953 3.772 6.717 3.607 6.427L0 0ZM29.113 6.953C28.779 6.953 28.51 6.733 28.51 6.412 28.51 6.258 28.513-.719 28.513-.719 28.513-1.053 28.324-1.129 28.093-.889L20.952 6.517C20.72 6.758 20.381 6.953 19.924 6.953H18.581C18.159 6.953 17.974 6.728 17.974 6.5 17.974 6.272 17.974-4.675 17.974-4.904 17.974-5.131 18.191-5.348 18.525-5.348H19.869C20.202-5.348 20.436-5.167 20.436-4.86 20.436-4.706 20.443 2.653 20.443 2.653 20.443 2.986 20.631 3.062 20.863 2.822L28.308-4.919C28.544-5.155 28.832-5.348 29.343-5.348H30.353C30.687-5.348 30.96-5.076 30.96-4.742V6.347C30.96 6.681 30.687 6.953 30.353 6.953H29.113ZM-14.741 1.601C-15.116 1.515-15.537 1.498-15.537 1.498-15.87 1.483-16.415 1.472-16.749 1.472H-19.58C-19.914 1.472-20.187 1.745-20.187 2.078V4.337C-20.187 4.671-19.914 4.944-19.58 4.944H-16.749C-16.415 4.944-15.87 4.932-15.537 4.918-15.537 4.918-15.116 4.901-14.741 4.815-14.367 4.728-14.07 4.608-13.853 4.452-13.635 4.295-13.479 4.112-13.385 3.901-13.292 3.689-13.245 3.459-13.245 3.208-13.245 2.959-13.292 2.727-13.385 2.516-13.479 2.305-13.635 2.122-13.853 1.965-14.07 1.809-14.367 1.687-14.741 1.601ZM-13.591-.663C-13.783-.39-13.678-.088-13.358 .007-13.358 .007-12.088 .388-11.479 .933-10.871 1.48-10.565 2.27-10.565 3.299-10.565 3.972-10.682 4.538-10.917 4.998-11.151 5.457-11.487 5.833-11.924 6.121-12.361 6.41-12.884 6.622-13.494 6.755-14.104 6.887-14.927 6.925-14.927 6.925-15.26 6.941-15.806 6.953-16.139 6.953H-22.247C-22.58 6.953-22.853 6.681-22.853 6.347V-4.802C-22.853-5.135-22.58-5.348-22.247-5.348H-20.801C-20.468-5.348-20.195-5.135-20.195-4.802-20.195-4.802-20.193-.367-20.191-.367-20.188-.367-20.187-.365-20.187-.362-20.187-.358-17.447-.355-17.447-.355-17.114-.355-16.683-.578-16.491-.851L-13.646-4.856C-13.382-5.21-13.131-5.348-12.797-5.348H-10.908C-10.574-5.348-10.522-5.034-10.637-4.87-10.752-4.708-13.591-.663-13.591-.663ZM11.055 6.324C11.055 6.215 11.055-4.612 11.055-4.831 11.055-5.138 11.328-5.348 11.662-5.348H13.133C13.466-5.348 13.739-5.135 13.739-4.802V6.347C13.739 6.681 13.524 6.953 13.19 6.953H11.662C11.328 6.953 11.055 6.748 11.055 6.324ZM-33.933-1.861C-34.267-1.861-34.424-1.612-34.283-1.311L-32.162 3.233C-32.021 3.536-31.793 3.534-31.656 3.231L-29.591-1.312C-29.453-1.615-29.613-1.864-29.946-1.864L-33.933-1.861ZM-30.533 6.411C-30.681 6.71-31.076 6.953-31.41 6.953H-32.089C-32.422 6.953-32.812 6.707-32.956 6.406L-38.339-4.838C-38.488-5.135-38.326-5.348-37.992-5.348H-36.748C-36.257-5.348-36.032-5.125-35.899-4.852-35.765-4.578-35.469-3.983-35.412-3.862-35.336-3.698-35.099-3.597-34.765-3.597L-28.975-3.601C-28.641-3.601-28.427-3.665-28.328-3.862-28.263-3.99-27.968-4.525-27.822-4.817-27.675-5.109-27.429-5.348-26.951-5.348H-25.146C-24.812-5.348-24.666-5.095-24.786-4.86-24.906-4.624-30.533 6.411-30.533 6.411"/>
-<path transform="matrix(1,0,0,-1,450.587,54.166017)" d="M0 0C0-6.007 6.144-6.312 7.376-6.312 11.454-6.312 13.177-5.21 13.248-5.162 13.503-5.018 13.813-4.727 13.813-4.182V-.036C13.813 .346 13.502 .657 13.12 .657H7.998C7.615 .657 7.364 .346 7.364-.036V-.465C7.364-.848 7.615-1.16 7.998-1.16H10.961C11.247-1.16 11.479-1.392 11.479-1.678 11.479-1.678 11.477-3.495 11.477-3.611 10.891-3.85 8.225-4.629 6.083-4.118 2.976-3.375 2.733-.811 2.733-.043 2.733 .601 2.927 3.83 6.743 4.157 9.832 4.421 11.866 3.174 11.886 3.162 12.25 2.974 12.625 3.108 12.828 3.492 12.829 3.495 13.213 4.273 13.213 4.273 13.373 4.593 13.319 4.925 12.928 5.19 12.902 5.205 10.737 6.379 7.377 6.379 .207 6.379 0 .653 0 0"/>
-<path transform="matrix(1,0,0,-1,538.097,59.054994)" d="M0 0H.319C.525 0 .657 .043 .657 .256 .657 .443 .49 .497 .319 .497H0V0ZM-.268 .707H.361C.738 .707 .925 .555 .925 .245 .925-.02 .757-.21 .501-.21L.968-.937H.684L.225-.21H0V-.937H-.268V.707ZM.272-1.31C.917-1.31 1.403-.789 1.403-.117 1.403 .555 .917 1.077 .272 1.077-.381 1.077-.867 .555-.867-.117-.867-.789-.381-1.31 .272-1.31ZM.268 1.286C1.041 1.286 1.671 .656 1.671-.117 1.671-.89 1.041-1.52 .268-1.52-.505-1.52-1.135-.89-1.135-.117-1.135 .656-.505 1.286 .268 1.286"/>
-</g>
-</g>
-</g>
-
-
-
-<g clip-path="url(#clip_6)">
-<path transform="matrix(1,0,0,-1,71.9971,170.63312)" d="M0 0H65.517" fill="#ffffff" fill-opacity="0" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,71.9971,170.63312)" stroke-width=".48" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#0000ff" d="M0 0H65.517"/>
-</g>
-
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 792)" font-size="11" font-family="MKKMHU+Arial,Bold" font-weight="bold"><tspan y="-166.21643" x="177.77829 184.49929 187.37908 194.10007 200.82106 205.14076 211.14017 214.25977 220.50006 224.09926 230.09976 233.21936 236.38626 244.78586 251.02616 258.22566 261.34529 264.4649 271.1859 274.7862 281.0254 285.1053 291.34559 298.0666 304.7876 311.5086 317.508 323.7483 327.34858 330.4682 337.6677 343.908 349.90739 359.74687 366.46788 369.3477 375.58689 378.7076 382.3068 390.70643 398.6264 406.7862 409.7683 416.0075 423.2081 430.6474">Figure 2-1  G3X Interconnect Example (GDU 4XX)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,112.071269,243.3963)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H17.257"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M338.789 374.094H373.604V404.056H338.789Z" fill="#ffffff"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M306.726 374.094H341.54103V404.056H306.726Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-384.79966" x="318.54026 323.52033 328.191 332.81233 334.59193 338.14985 342.41883">GDU 4XX</tspan><tspan y="-377.09318" x="324.49787 329.84056 333.76106 338.3926">MFD2</tspan><tspan y="-369.38673" x="318.62355 320.75868 325.7445 329.3082 331.09098 332.51506 336.07875 339.64244 343.20613 344.6302">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,324.13423,367.2035)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V14.966"/>
-<path transform="matrix(1,0,0,-1,327.043,381.813)" d="M0 0-2.91-6.132-5.818 0H0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,324.1722,367.64387)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0-.039 16.407"/>
-<path transform="matrix(1,0,0,-1,324.133,387.945)" d="M0 0-2.158 4.55C-.798 3.857 .798 3.857 2.159 4.55L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M350.083-364.426H380.362V-393.61399H350.083Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-384.79966" x="351.45344 356.4335 361.1042 365.7255 367.5051 371.06303 375.332">GDU 4XX</tspan><tspan y="-377.09318" x="357.41108 362.75376 366.67427 371.30583">MFD1</tspan><tspan y="-369.38673" x="351.53675 353.67189 358.6577 362.2214 364.0042 365.42826 368.99195 372.55564 376.11933 377.5434">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,356.19676,367.2035)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V14.966"/>
-<path transform="matrix(1,0,0,-1,359.106,381.813)" d="M0 0-2.91-6.132-5.818 0H0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,356.19676,367.53816)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V16.517"/>
-<path transform="matrix(1,0,0,-1,356.196,387.945)" d="M0 0-2.158 4.55C-.798 3.857 .799 3.857 2.159 4.55L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,120.03892,247.42017)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H168.9"/>
-<path transform="matrix(.97416,0,0,1.0265,537.9993,367.2035)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-351.082"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M93.795 446.187H129.267V475.40803H93.795Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M96.283-434.656H132.696V-463.122H96.283Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-450.83943" x="101.09945 106.07951 110.750179 115.371509 117.15175 120.70967 124.97866">GDU 4XX</tspan><tspan y="-443.13294" x="106.24992 110.54198 114.475299 119.11968">PFD1</tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M93.795 227.846H159.625V404.15998H93.795Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M96.283-221.958H163.86V-393.716H96.283Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-317.46919" x="118.63195 123.61586 127.8887 132.56 134.34024 137.90201 141.46376 143.59697 147.86981">GAD 29(B)</tspan><tspan y="-309.7627" x="123.25712 127.88293 131.44533 133.27683">Data</tspan><tspan y="-302.0562" x="110.59235 112.37322 116.99839 120.56016 124.167407 127.35121 130.91298 134.52088 136.30176 138.43497 141.99674 143.77762 147.33937"> Concentrator</tspan><tspan y="-294.34974" x="115.9414 118.07653 123.06236 126.62605 128.40886 129.83292 133.3966 136.9603 140.56754 141.99161">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M206.823-434.272H248.152V-469.963H206.823Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-454.06648" x="216.40831 221.41144 225.70349 230.34789 232.12749 235.70847">GSU 25</tspan><tspan y="-446.36003" x="211.78314 216.06174 220.69269 224.97129 229.60222 234.23317 238.51177 240.292">ADAHRS 1</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M271.236-483.962H326.089V-508.992H271.236Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-501.8632" x="278.0562 283.0382 288.43275 293.056 294.8356 298.39546 301.95527 305.5151 307.29408 310.8539 314.41377">GMC 305/307</tspan><tspan y="-494.17594" x="278.08183 282.3553 284.1368 288.41029 290.18989 294.81568 298.37809 301.9405 303.722 305.85585 309.41825 310.84104 312.26383 315.82624">A/P Controller</tspan><tspan y="-486.48869" x="283.95619 286.09004 291.0746 294.637 296.41853 297.84129 301.4037 304.9661 308.5285 309.9513">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M413.293-323.724H462.427V-346.505H413.293Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-340.123" x="426.20158 431.1932 435.4737 439.7542 441.5338 445.10328">GEA 24</tspan><tspan y="-334.0244" x="414.0621 418.34135 421.90953 425.47767 426.90623 430.4744 434.04255 435.82218 440.10139 443.66957 447.27873 448.67527 451.8847 455.09416 458.6623">Engine Analyzer</tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M170.416 372.665H211.754V404.16H170.416Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M177.345-363.035H215.344V-393.716H177.345Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-384.17835" x="188.7291 193.71814 197.63736">GTX</tspan><tspan y="-376.47187" x="177.92208 181.8381 183.97324 187.53693 191.1006 194.30556 197.86923 201.43292 205.04082 208.60449 212.16819">Transponder</tspan><tspan y="-368.7654" x="182.06679 184.2 189.1839 192.74567 194.52655 195.94869 199.5553 203.11705 206.67882 208.10095">(Optional)</tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M285.898 256.661H351.77503V308.083H285.898Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M291.98-249.219H359.604V-299.311H291.98Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-276.23957" x="302.76835 307.39353 310.9553 312.73619 314.51579 318.07756 319.85716 324.84107 329.1139 333.38676 335.16764 339.7928 343.35459">No. 2 GPS/Com</tspan><tspan y="-268.53309" x="310.42359 312.56385 317.5548 321.12364 322.91157 324.34074 327.90956 331.4784 335.0472 336.47639 338.97538">(Optional*)</tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M284.434 318.921H350.263V366.78199H284.434Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M291.98-310.679H359.555V-357.30299H291.98Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-335.91658" x="302.72105 307.35328 310.9221 312.71003 314.49028 318.0591 319.83937 324.83033 329.1102 333.39009 335.17805 339.81025 343.37907">No. 1 GPS/Com</tspan><tspan y="-328.21009" x="310.42753 312.56138 317.54594 321.10835 322.88984 324.31263 327.92054 331.4829 335.04533 336.4681 338.9287">(Optional*)</tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M284.434 225.835H350.31098V251.546H284.434Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M291.98-219.999H359.604V-245.04599H291.98Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-238.30121" x="298.8188 303.80848 308.08708 312.71803 318.06 319.84666 324.51734 326.29695 330.92787 335.91755 341.25956 343.03916 348.0288 352.65977">GARMIN COM OR </tspan><tspan y="-230.59471" x="310.76609 315.40406 319.6897 323.97538 325.76908 330.40705 335.40379">NAV/COM</tspan><tspan y="-222.88823" x="309.17738 311.31767 316.3086 319.8774 321.66539 323.09455 326.66337 330.23219 333.801 335.2302 337.7292">(Optional*)</tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M93.795 184.484H159.672V218.502H93.795Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M96.283-179.716H163.90799V-212.85501H96.283Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-202.0655" x="114.537738 118.4576 122.02514 123.45305 125.592029 129.15956 131.29854 134.86608 138.43361 140.5726 142.35926">Third-party</tspan><tspan y="-194.35903" x="107.93951 112.56404 113.98554 117.54667 118.96817 120.74841 124.30954 125.73104 127.511928 131.78414 135.34526 137.1255 140.73342 144.29454 145.71605 147.13755 150.69869">Digital Autopilot</tspan><tspan y="-186.65253" x="115.985507 118.12064 123.106479 126.67016 128.45296 129.87703 133.44072 137.0044 140.56809 141.99216">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,159.62488,551.7015)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H21.193V37.809H3.419"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M168.728 214.891H190.077V226.75801H168.728Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-216.61273" x="178.78997 182.01753 184.71047 187.36052">A429</tspan><tspan y="-210.83287" x="173.44359 175.06578 178.24951 180.94582 182.30313 184.97246 187.66585 188.72597 189.78754 192.48384 193.81705">(Autopilot)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,284.43525,452.3219)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-124.797"/>
-<path transform="matrix(1,0,0,-1,159.625,452.313)" d="M0 0 4.317 2.274C3.613 .84 3.613-.841 4.317-2.275L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M195.753 333.159H208.516V345.025H195.753Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-331.82435" x="202.1493 205.33304 208.02646 210.71988">A429</tspan><tspan y="-326.0445" x="201.186 202.8116 206.28049 209.51479 212.69757">(NAV)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,284.43525,466.76066)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-124.797"/>
-<path transform="matrix(1,0,0,-1,159.625,466.751)" d="M0 0 4.317 2.274C3.613 .841 3.613-.84 4.317-2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M195.613 319.712H208.656V331.578H195.613Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-318.72404" x="202.1493 205.33304 208.02646 210.71988">A429</tspan><tspan y="-312.94416" x="201.08968 202.6719 206.42784 209.61882 212.8459">(GPS)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,284.3875,445.23908)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-124.829V-82.878H-176.559V-93.634"/>
-<path transform="matrix(1,0,0,-1,112.438,345.763)" d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,284.43525,510.46595)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-124.797"/>
-<path transform="matrix(1,0,0,-1,159.625,510.458)" d="M0 0 4.317 2.274C3.613 .84 3.613-.84 4.317-2.275L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M195.707 275.015H208.516V286.881H195.707Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-275.13328" x="202.1493 205.33304 208.02646 210.71988">A429</tspan><tspan y="-269.35343" x="201.186 202.81882 206.28769 209.47045 212.69753">(NAV)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,370.7536,410.00035)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H8.669V81.93H-21.08"/>
-<path transform="matrix(1,0,0,-1,370.596,409.99)" d="M0 0 4.318 2.274C3.66 .84 3.66-.84 4.318-2.275L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M367.765 354.075H383.67103V360.00703H367.765Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-346.37046" x="377.8091 381.264 384.454 386.0868 388.74217 391.43464">RS-232</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,284.43525,527.7224)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-124.797"/>
-<path transform="matrix(1,0,0,-1,159.625,527.71499)" d="M0 0 4.317 2.275C3.613 .841 3.613-.84 4.317-2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M195.613 259.243H208.656V271.109H195.613Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-259.81654" x="202.1493 205.33304 208.02646 210.71988">A429</tspan><tspan y="-254.03667" x="201.08968 202.6719 206.42784 209.61882 212.8459">(GPS)</tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M124.997 498.746H164.551V524.456H124.997Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M128.313-485.857H168.916V-510.90299H128.313Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-504.2072" x="137.36827 142.35474 146.63014 150.90555 152.68579 156.25012">GAP 26</tspan><tspan y="-496.50074" x="134.47913 138.76157 140.19332 141.98381 145.55518 147.34568 149.13616 153.41861 158.41213">Pitot/AOA</tspan><tspan y="-488.79426" x="134.47913 136.64438 141.65262 145.20862 146.98374 148.40012 152.00736 155.56336 159.11936 160.53574 162.70098">(Optional) </tspan></text>
-<path transform="matrix(1,0,0,-1,169.056,280.004)" d="M0 0C0 6.873 5.254 12.46 11.824 12.46 18.346 12.46 23.647 6.873 23.647 0 23.647-6.873 18.346-12.46 11.824-12.46 5.254-12.46 0-6.873 0 0" fill="#ffffff" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,169.0567,280.01774)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C0-6.695 5.394-12.137 12.138-12.137 18.833-12.137 24.275-6.695 24.275 0 24.275 6.695 18.833 12.138 12.138 12.138 5.394 12.138 0 6.695 0 0Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-500.26014" x="179.60872 182.82088 184.15941 186.80852 188.15715 189.22595">Static</tspan><tspan y="-494.48027" x="178.01927 181.20302 183.89162 186.57349 188.18125 190.59339">Source</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M224.014-483.962H269.049V-501.495H224.014Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-494.5576" x="235.49715 240.48169 244.42653 248.70001 250.47898 254.04137">GTP 59</tspan><tspan y="-486.85115" x="228.84764 232.76815 236.33632 241.67896 245.24713 247.02866 251.3079 253.44753 257.0157 260.58387">Temp Probe</tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M218.225 517.385H262.096V536.075H218.225Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M224.014-504.015H269.049V-522.22207H224.014Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-515.0938" x="234.56269 239.54787 244.88539 249.51186 251.29274 254.85579">GMU 22</tspan><tspan y="-507.3873" x="225.7992 231.13608 234.74398 238.30637 241.86878 245.43117 247.2127 250.7751 256.112 259.67439 261.50526 265.06767">Magnetometer</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,215.56116,265.28334)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-11.872V39.785"/>
-<path transform="matrix(1,0,0,-1,218.225,265.27003)" d="M0 0-4.317-2.274C-3.613-.84-3.613 .841-4.317 2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,203.996,309.571)" d="M0 0-2.158 4.549C-.798 3.857 .798 3.857 2.159 4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M195.831 500.69H213.051V512.556H195.831Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-494.97819" x="201.31526 204.80342 208.02666 209.6161 212.3047 214.99329 217.64238">RS-232/</tspan><tspan y="-489.19834" x="201.98958 205.45749 208.68555 210.27501 212.96842 215.66184">RS-485</tspan></text>
-<path transform="matrix(1,0,0,-1,240.161,309.571)" d="M0 0-2.158 4.549C-.798 3.857 .798 3.857 2.158 4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M318.326-434.656H352.701V-469.962H318.326Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-458.7064" x="324.1869 329.1785 333.459 337.73954 339.51847 343.08793">GSA 28</tspan><tspan y="-450.9999" x="319.0364 323.31889 324.71665 326.50718 329.7198 333.29118 335.07078 339.3532 342.9246 345.06739 348.28004">Pitch Servo</tspan><tspan y="-443.29344" x="321.349 323.48478 328.47126 332.03559 333.81907 335.24375 338.8081 342.37245 345.93678 347.36149">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M413.293-284.412H462.427V-309.94099H413.293Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97415807 0 -0 1.0265275 0 792)" font-size="6.020686" font-family="ArialMT"><tspan y="-299.906" x="423.3335 427.34989 430.698 434.0461 435.38334 438.73146 442.07957 443.75273 447.10084 450.44895">Engine #1/</tspan><tspan y="-292.6812" x="414.45899 418.4772 419.8162 421.8235 423.49967 425.50694 428.85685 433.87449 437.2244 438.89753 442.91575 446.26567 449.61555 452.6283 455.9782 457.9855">Airframe Sensors</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,426.16773,473.84556)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-9.777"/>
-<path transform="matrix(1,0,0,-1,424.007,464.394)" d="M0 0 2.159 4.549 4.318 0H0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,374.64344,398.33213)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H10.184V151.133H-21.606"/>
-<path transform="matrix(1,0,0,-1,371.378,398.321)" d="M0 0 4.318 2.274C3.66 .84 3.66-.84 4.318-2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,350.311,553.463)" d="M0 0 4.317 1.797C3.66 .664 3.66-.664 4.317-1.798L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M376.305 262.554H392.212V268.48799H376.305Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-257.26374" x="386.57524 390.0388 393.26588 394.85585 397.51988 400.21379">RS-232</tspan></text>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741512 0 -0 1.0265347 0 792)" font-size="5.6353676" font-family="ArialMT"><tspan y="-208.80745" x="299.04609 303.12724 306.2729 307.82093 310.93846 313.7381">Notes:</tspan><tspan y="-202.06192" x="299.04609 301.23374 305.9235 309.05226 311.86543 313.11198 317.80174 320.93049 325.62028 327.2083 330.33708 331.8992 333.48725 335.04939 339.0336 342.16236 343.7504 345.62248 348.75123 350.62327 352.21134 356.27555 360.65538 365.34513 366.90727 370.9715 374.72578 378.48005">*Maximum of two (2) COM/NAV </tspan><tspan y="-195.31638" x="299.04609 302.17765 305.30924 306.5586 308.12355 310.9395 312.48246 313.7318 316.86338 319.67939 321.2443 324.3759 325.62525 326.8746 329.95884 333.09043 334.65534 336.19828">units installed.  </tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,140.34041,293.2678)" stroke-width=".963" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#69bd45" d="M0 0V33.716H58.233"/>
-<path transform="matrix(1,0,0,-1,201.478,327.865)" d="M0 0-5.818-3.066C-4.927-1.138-4.927 1.137-5.818 3.066L0 0" fill="#69bd45" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M160.609 460.773H170.51V466.70503H160.609Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-450.361" x="165.11103 168.33281 172.08924">AOA</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,149.20819,293.2678)" stroke-width=".963" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ed1f24" d="M0 0V27.262H49.129"/>
-<path transform="matrix(1,0,0,-1,201.478,321.239)" d="M0 0-5.818-3.066C-4.927-1.138-4.927 1.137-5.818 3.065L0 0" fill="#ed1f24" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M160.845 467.794H170.229V473.726H160.845Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-457.15159" x="165.4 168.61745 169.69155 171.03537 173.68543">Pitot</tspan></text>
-<path transform="matrix(1,0,0,-1,284.574,269.50599)" d="M0 0-2.158 4.549C-.797 3.857 .798 3.857 2.158 4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,111.531,316.592)" d="M0 0-2.159 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M202.398 541.627H219.961V547.56H202.398Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-529.0792" x="208.84513 212.3087 215.5358 217.12574 219.81916 222.48319">RS-232</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,266.22917,477.19197)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-6.166H15.317"/>
-<path transform="matrix(1,0,0,-1,284.434,470.854)" d="M0 0-4.317-2.275C-3.66-.89-3.66 .84-4.317 2.225L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,266.22917,472.24833)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V14.352H15.317"/>
-<path transform="matrix(1,0,0,-1,284.434,486.973)" d="M0 0-4.317-2.275C-3.66-.84-3.66 .84-4.317 2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,321.45527,282.73695)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H75.889V22.143"/>
-<path transform="matrix(1,0,0,-1,317.662,282.723)" d="M0 0 4.317 2.274C3.66 .841 3.66-.84 4.317-2.275L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,395.711,309.423)" d="M0 0-2.159 4.549C-.799 3.857 .797 3.857 2.158 4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M358.335 506.31H374.241V512.243H358.335Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-494.72114" x="368.127 371.60746 374.823 376.42979 379.1107 381.8046">RS-232</tspan></text>
-<path transform="matrix(1,0,0,-1,426.167,436.459)" d="M0 0-3.004 6.082C-1.126 5.142 1.031 5.192 2.815 6.18L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,159.62488,479.38456)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-.53H109.431V-1.109"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M192.094 306.692H212.17499V318.55799H192.094Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-305.99143" x="202.1493 205.37689 208.02695 210.71988">A429</tspan><tspan y="-300.21156" x="197.47727 199.08069 202.29285 203.36165 204.96508 206.31229 209.78934 212.46686 213.80539 216.48291">(Air Data)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,180.88008,292.47636)" stroke-width=".963" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#3853a4" d="M0 0V21.194H16.465"/>
-<path transform="matrix(1,0,0,-1,201.478,314.219)" d="M0 0-5.818-3.065C-4.927-1.137-4.927 1.089-5.818 3.017L0 0" fill="#3853a4" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M174.827 485.642H186.55699V491.576H174.827Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-474.5394" x="179.75243 182.96555 184.30503 186.95511 188.30278 189.37253">Static</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,111.43708,366.78779)" stroke-width=".963" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V.049"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M297.352 422.257H319.97599V428.189H297.352Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-412.79096" x="306.12217 309.62428 312.80799 316.27687 317.6255 320.8627 324.33158">CAN BUS</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,227.80829,366.9017)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-14.651"/>
-<path transform="matrix(1,0,0,-1,224.9,352.641)" d="M0 0 2.908 6.131 5.817 0H0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,394.558,345.813)" d="M0 0 2.909-6.13C1.079-5.142-1.08-5.142-2.91-6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,326.7888,366.83808)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-15.943"/>
-<path transform="matrix(1,0,0,-1,326.788,345.813)" d="M0 0 2.909-6.13C1.079-5.142-1.079-5.142-2.91-6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,126.686,387.84)" d="M0 0-2.768 6.18C-.985 5.192 1.173 5.142 3.05 6.082L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,100.583,345.813)" d="M0 0 2.862-6.13C1.032-5.142-1.079-5.142-2.956-6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,132.552,339.9407)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H67.383"/>
-<path transform="matrix(1,0,0,-1,129.267,339.929)" d="M0 0 4.316 2.274C3.613 .84 3.613-.84 4.316-2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,201.478,339.929)" d="M0 0-4.317-2.274C-3.661-.84-3.661 .84-4.317 2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M155.261 446.137H175.858V458.003H155.261Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-441.83494" x="162.02767 165.53508 168.71785 170.35163 173.00072 175.70858">RS-232</tspan><tspan y="-436.05506" x="159.61939 161.25316 164.96576 167.65918 169.00637 170.06215 172.75556 175.42008 178.1135 179.16928">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,193.64255,372.02909)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-16.466"/>
-<path transform="matrix(1,0,0,-1,193.643,387.84)" d="M0 0-2.159 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,205.373,345.763)" d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.159-4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M203.918 414.049H219.824V419.983H203.918Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,284.43525,428.4917)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-95.802V-5.538"/>
-<path transform="matrix(1,0,0,-1,191.108,419.335)" d="M0 0 2.159-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M230.24 357.585H247.742V369.451H230.24Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-355.57005" x="237.45537 240.91895 244.14603 245.73596 248.42938 251.09342">RS-232</tspan><tspan y="-349.79017" x="236.63655 238.24288 241.45792 244.93788 248.15293 249.75925 252.97429">(ADS-B)</tspan></text>
-<g clip-path="url(#clip_7)">
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M75.427-544.309H130.72101V-568.95108H75.427Z"/>
-</g>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-562.43447" x="84.83492 89.81883 94.48948 98.05125 99.83084 103.39261 106.95438 108.73525 112.29702 116.56986">GDL 39/5XR</tspan><tspan y="-554.72799" x="81.60627 85.52677 87.6664 91.23457 93.02186 94.85206 96.24922 99.45865 101.24593 107.29965 110.86783 114.436008 116.22329 119.79146 123.359638">Traffic/Weather</tspan><tspan y="-547.0215" x="76.18034 80.80615 84.36856 87.57223 91.134639 92.55743 95.761089 99.3235 101.45736 103.23696 105.37082 108.93323 112.495639 114.27716 115.69994 119.26235 122.82476 126.38717 127.80996">Receiver (optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M249.225-434.656H282.68403V-469.962H249.225Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-458.7064" x="254.44307 259.42955 263.70497 268.3327 270.1123 273.67665">GSU 25</tspan><tspan y="-450.9999" x="249.81789 254.09073 258.7159 262.98875 267.61393 272.2391 276.51194 278.29154">ADAHRS 2</tspan><tspan y="-443.29344" x="251.74611 253.91904 258.88246 262.48396 264.2629 265.6607 269.22315 272.82463 276.38835 277.78486">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,259.63313,366.8812)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-15.943"/>
-<path transform="matrix(1,0,0,-1,259.633,345.856)" d="M0 0 2.909-6.131C1.079-5.142-1.079-5.142-2.909-6.131L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,90.51018,338.60624)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-7.996V245.403H0"/>
-<path transform="matrix(1,0,0,-1,93.795,338.594)" d="M0 0-4.317-2.275C-3.613-.841-3.613 .84-4.317 2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,93.795,590.507)" d="M0 0-4.317-2.274C-3.613-.84-3.613 .84-4.317 2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M74.463 296.523H90.368999V302.45503H74.463Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-290.30549" x="76.72727 80.19086 83.417949 85.00788 87.7013 90.36533">RS-232</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,239.97263,306.37107)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-10.645"/>
-<path transform="matrix(.97416,0,0,1.0265,380.20686,345.82563)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H31.157V-35.306H0Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-458.7064" x="394.02699 399.0186 403.2991 407.57963 409.35856 412.928">GSA 28</tspan><tspan y="-450.9999" x="391.27879 395.91419 399.4862 400.9186 402.351 404.12995 408.41307 411.98506 414.12855 417.34184">Roll Servo</tspan><tspan y="-443.29344" x="391.18269 393.31849 398.30497 401.8693 403.65275 405.07746 408.64179 412.20616 415.77049 417.1952">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,394.55818,366.83808)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-15.943"/>
-<path transform="matrix(.97416,0,0,1.0265,158.9381,366.78779)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C0-2.072 2.572-3.7 5.846-3.7"/>
-<path transform="matrix(.97416,0,0,1.0265,164.72188,362.98985)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C3.274 0 5.846 1.628 5.846 3.7"/>
-<path transform="matrix(.97416,0,0,1.0265,158.9381,366.78779)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-59.891"/>
-<path transform="matrix(.97416,0,0,1.0265,191.08635,366.78779)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-21.121"/>
-<path transform="matrix(.97416,0,0,1.0265,191.11528,366.50425)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C0-1.349 1.141-2.408 2.595-2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,193.6827,364.03215)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C1.453 0 2.595 1.059 2.595 2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,284.57456,266.49568)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-18.582"/>
-<path transform="matrix(.97416,0,0,1.0265,100.62975,366.17497)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-14.651"/>
-<path transform="matrix(.97416,0,0,1.0265,126.70997,383.9488)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-16.669"/>
-<path transform="matrix(.97416,0,0,1.0265,426.07325,432.00337)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-63.025"/>
-<path transform="matrix(1,0,0,-1,284.434,445.23)" d="M0 0-4.317-2.274C-3.66-.84-3.66 .841-4.317 2.275L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,99.9722,316.1413)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-80.735"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M92.019 516.575H107.924999V522.508H92.019Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-505.00923" x="95.23888 98.745807 101.92955 103.56284 106.212429 108.91981">RS-232</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,284.3875,438.64689)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-121.618V-80.091H-166.123V-90.392"/>
-<path transform="matrix(1,0,0,-1,122.604,345.763)" d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,284.434,438.638)" d="M0 0-4.317-2.274C-3.66-.84-3.66 .841-4.317 2.275L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M222.441 343.827H261.432V349.761H222.441Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-336.44258" x="228.84981 232.3264 235.53807 237.141 239.81804 242.49507 245.1721 246.51064 248.11357 251.59017 254.2672 256.94425 259.62129 262.2983 264.70564 266.04368">RS-232 (Connext)</tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M219.961 350.547H263.518V356.482H219.961Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-342.91053" x="226.24326 229.71936 232.93056 234.53302 237.20958 239.88616 242.56272 243.90123 245.50371 249.24954 252.46073 255.67192 257.00947 260.48558 264.23139 268.24214">RS-232 (GPS/COM)</tspan></text>
-<path transform="matrix(1,0,0,-1,99.972,316.592)" d="M0 0-2.159 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,99.972,233.25202)" d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M397.5-364.528H434.698V-396.29203H397.5Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-389.92686" x="402.79148 407.78309 412.0636 416.34413 418.1301 421.69956 425.269">GPS 20A</tspan><tspan y="-382.2396" x="404.75175 409.03163 412.60047 415.81053 417.2397 419.02763 420.45683 424.02565">Position</tspan><tspan y="-374.5523" x="406.00733 410.28724 413.85606 417.42488 419.56513 422.7752">Source</tspan><tspan y="-366.86506" x="402.0804 404.22068 409.21165 412.78047 414.5684 415.99757 419.5664 423.13523 426.70405 428.1332">(Optional)</tspan></text>
-<path transform="matrix(1,0,0,-1,412.311,385.042)" d="M0 0-3.004 6.082C-1.126 5.142 1.032 5.192 2.815 6.18L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,412.21678,380.587)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-13.443"/>
-<path transform="matrix(.97416,0,0,1.0265,399.8469,385.20524)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-9.665"/>
-<path transform="matrix(.97416,0,0,1.0265,399.8469,375.2839)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-42.193"/>
-<path transform="matrix(.97416,0,0,1.0265,353.6493,375.2839)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C0-1.349 1.142-2.408 2.595-2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,356.2166,372.8118)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C1.453 0 2.595 1.059 2.595 2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,289.59965,375.2839)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C0-1.349 1.142-2.408 2.595-2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,292.16783,372.8118)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C1.452 0 2.595 1.059 2.595 2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,321.5865,375.2839)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-27.604"/>
-<path transform="matrix(.97416,0,0,1.0265,225.37845,375.2839)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C0-1.349 1.142-2.408 2.595-2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,227.94574,372.8118)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C1.453 0 2.595 1.059 2.595 2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,289.60035,375.2839)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-28.166"/>
-<path transform="matrix(.97416,0,0,1.0265,225.37883,375.2839)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-19.765"/>
-<path transform="matrix(.97416,0,0,1.0265,206.12456,387.8503)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-12.242"/>
-<path transform="matrix(1,0,0,-1,206.123,387.84)" d="M0 0-2.158 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0" fill="#030404" fill-rule="evenodd"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-326.70085" x="422.92955 425.06468 430.0505 433.6142 435.39698 436.82106 440.38475 443.94844 447.5563 448.98039">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M466.606-323.724H515.74V-346.505H466.606Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-340.123" x="479.51527 484.50688 488.78739 493.0679 494.8475 498.41697">GEA 24</tspan><tspan y="-334.0244" x="467.3758 471.65504 475.2232 478.79136 480.2199 483.7881 487.35624 489.13584 493.41508 496.98326 500.59178 501.98829 505.19773 508.40718 511.97535">Engine Analyzer</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M466.606-284.412H515.74V-309.94099H466.606Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97415807 0 -0 1.0265275 0 792)" font-size="6.020686" font-family="ArialMT"><tspan y="-299.10334" x="477.39454 481.41093 484.75904 488.10719 489.44438 492.79249 496.1406 497.81376 501.16188">Engine #2</tspan><tspan y="-291.39686" x="479.79078 483.8138 487.16856 490.5233 493.54084 496.89558 498.90766">Sensors</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,478.10313,473.84556)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-9.777"/>
-<path transform="matrix(1,0,0,-1,475.943,464.394)" d="M0 0 2.159 4.549 4.318 0H0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,478.103,436.459)" d="M0 0-3.004 6.082C-1.126 5.142 1.031 5.192 2.815 6.18L0 0" fill="#030404" fill-rule="evenodd"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-326.70085" x="476.2432 478.37837 483.3642 486.9279 488.71067 490.13475 493.69844 497.26213 500.87 502.29408">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M283.743-434.656H317.20204V-469.962H283.743Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-458.7064" x="288.159 293.14485 297.4196 302.0467 303.82563 307.3893">GSU 25</tspan><tspan y="-450.9999" x="284.3346 288.60743 293.2326 297.50544 302.1306 306.7558 311.02864 312.80824">ADAHRS 3</tspan><tspan y="-443.29344" x="286.2628 288.43577 293.39918 297.00068 298.77964 300.17744 303.73988 307.34135 310.90507 312.30158">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,292.3493,366.83808)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-15.943"/>
-<path transform="matrix(1,0,0,-1,292.348,345.813)" d="M0 0 2.909-6.13C1.078-5.142-1.079-5.142-2.909-6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M354.45-434.656H388.825V-469.962H354.45Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-458.7064" x="359.5083 364.4999 368.78044 373.06095 374.8399 378.40934">GSA 28</tspan><tspan y="-450.9999" x="355.1586 359.44105 363.01243 367.64723 369.42683 373.70927 377.2806 379.42344 382.63609">Yaw Servo</tspan><tspan y="-443.29344" x="356.6704 358.8062 363.79267 367.35704 369.14048 370.5652 374.12953 377.69386 381.2582 382.6829">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,361.97935,366.83808)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-15.943"/>
-<path transform="matrix(1,0,0,-1,361.979,345.813)" d="M0 0 2.909-6.13C1.079-5.142-1.079-5.142-2.91-6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,120.03892,314.60154)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-65.447"/>
-<path transform="matrix(.97416,0,0,1.0265,479.0315,362.32969)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H46.48V-24.717H0Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-436.2059" x="497.10139 502.093 506.01478 510.6476 512.4336 516.00308 519.5725 521.3611 524.93057 528.5">GTR 20/200</tspan><tspan y="-428.49946" x="497.56904 502.20765 507.20503 512.55477 514.3465 518.9851 522.5603 526.13558 527.57119">COM Radio</tspan><tspan y="-420.79298" x="499.8816 502.0174 507.00389 510.5682 512.3517 513.77639 517.3407 520.905 524.4694 525.8941">(Optional)</tspan></text>
-<path transform="matrix(1,0,0,-1,524.161,349.632)" d="M0 0 5.817 3.066C4.88 1.137 4.88-1.138 5.817-3.066L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,537.9993,349.6442)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-9.677"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-463.85285" x="497.10139 502.093 506.01478 510.6476 512.4336 516.00308 519.5725 521.3611 524.93057 528.5">GTR 20/200</tspan><tspan y="-455.61466" x="497.56904 502.20765 507.20503 512.55477 514.3465 518.9851 522.5603 526.13558 527.57119">COM Radio</tspan><tspan y="-448.43989" x="500.68238 502.81819 507.80467 511.369 513.15249 514.57717 518.1415 521.7058 525.2702 526.6949">(Optional)</tspan></text>
-<path transform="matrix(1,0,0,-1,524.309,321.799)" d="M0 0 5.818 3.065C4.88 1.136 4.88-1.138 5.818-3.066L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,538.0977,321.81169)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-9.677"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M491.585-445.692H538.066V-470.409H491.585Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-491.19374" x="505.46849 510.48445 512.29739 514.1096 517.7034 521.2972">GI 260</tspan><tspan y="-483.50648" x="495.03303 499.3379 504.35386 508.6587 510.47099 512.2839 515.8777 519.47146 520.92568 524.1607 527.7545 529.5674 533.1612">AOA Indicator</tspan><tspan y="-475.8192" x="500.95863 503.12455 508.1411 511.73558 513.54916 515.0039 518.5984 522.1928 525.7873 527.2421">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,538.0977,293.5819)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-9.677"/>
-<path transform="matrix(1,0,0,-1,524.309,293.568)" d="M0 0 5.818 3.066C4.88 1.137 4.88-1.137 5.818-3.065L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".253" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M491.752-538.106H537.77706V-504.85H491.752Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-531.16226" x="503.46638 508.48295 512.78848 517.4463 519.2586 522.853">GAD 27</tspan><tspan y="-523.475" x="496.98344 501.2883 502.74247 506.33625 509.57133 511.3836 515.6885 518.9235 522.15859 523.9715 527.56527">Elec System</tspan><tspan y="-515.7877" x="500.91035 505.5682 509.16267 512.7571 514.5707 516.7366 520.331 521.7858 523.2406 526.835">Controller</tspan><tspan y="-508.1005" x="500.731 502.89689 507.91346 511.5079 513.3215 514.77627 518.3707 521.96517 525.55966 527.0144">(Optional)</tspan></text>
-<g clip-path="url(#clip_8)">
-<path transform="matrix(.97416,0,0,1.0265,538.22927,366.83808)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-137.192"/>
-</g>
-<path transform="matrix(.97416,0,0,1.0265,501.85218,226.0105)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V8.743"/>
-<path transform="matrix(1,0,0,-1,501.851,239.61902)" d="M0 0-2.91 6.13C-1.078 5.142 1.08 5.142 2.91 6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M491.585-472.985H538.066V-497.702H491.585Z"/>
-<path transform="matrix(.97416,0,0,1.0265,403.72407,226.0105)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V8.743"/>
-<path transform="matrix(1,0,0,-1,403.723,239.61902)" d="M0 0-2.91 6.13C-1.078 5.142 1.08 5.142 2.909 6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".304" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M441.967-538.106H488.44703V-513.801H441.967Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-531.3316" x="448.33293 453.34889 456.94267 458.75495 463.05979 464.8727 468.4665 472.06028 475.65409 479.24787">G5 Standby</tspan><tspan y="-523.6444" x="445.96269 449.90943 451.36424 452.81904 456.41349 460.00794 461.8215 463.63377 468.29164 469.74644 472.98213 476.57658 478.03138 481.62583">Flight Display</tspan><tspan y="-515.95718" x="451.19004 453.35594 458.3725 461.96696 463.78053 465.23533 468.82978 472.4242 476.01866 477.47346">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M391.49-513.801H437.841V-537.995H391.49Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-531.29946" x="392.1557 397.14347 402.48356 406.76026 408.53987 412.10545 415.67106 419.23664 421.0214 424.58699 428.1526 431.71818">GMA 245/245R</tspan><tspan y="-523.61227" x="396.97306 401.24653 404.8089 408.3713 409.7941 413.3565 415.1361 419.40959 422.972 426.53437 430.09678">Audio Panel</tspan><tspan y="-515.925" x="400.1825 402.31636 407.3009 410.86329 412.6448 414.0676 417.63 421.1924 424.7548 426.17759">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,453.18608,226.0105)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V8.743"/>
-<path transform="matrix(1,0,0,-1,453.185,239.61902)" d="M0 0-2.91 6.13C-1.078 5.142 1.08 5.142 2.909 6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,538.0977,225.25293)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-185.518"/>
-<path transform="matrix(.97416,0,0,1.0265,357.55375,225.16773)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V8.743"/>
-<path transform="matrix(1,0,0,-1,357.553,239.59998)" d="M0 0-2.91 6.131C-1.078 5.142 1.08 5.142 2.909 6.131L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M345.292-513.819H389.106V-538.01296H345.292Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-531.31747" x="354.9124 359.90339 365.24668 369.87889 371.66493 375.23374">GMU 11</tspan><tspan y="-523.63027" x="346.16816 351.51145 355.08027 358.6491 362.21794 365.78675 367.57469 371.1435 376.4868 380.0556 381.84358 385.41239">Magnetometer</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M442.497-371.664H484.569V-396.694H442.497Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-389.5656" x="449.63578 454.6165 460.01106 464.63304 466.41264 469.97117 473.52973">GMC 507</tspan><tspan y="-381.87837" x="443.4283 447.70179 449.48329 453.75675 455.53636 460.16215 463.72456 467.28697 469.06849 471.20234 474.7647 476.1875 477.6103 481.1727">A/P Controller</tspan><tspan y="-374.19108" x="449.30265 451.4365 456.42106 459.98347 461.76499 463.18778 466.75016 470.31257 473.87498 475.29777">(Optional)</tspan></text>
-<path transform="matrix(1,0,0,-1,452.194,385.042)" d="M0 0-3.004 6.082C-1.126 5.142 1.032 5.192 2.815 6.18L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,452.09986,380.587)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-13.443"/>
-<path transform="matrix(1,0,0,-1,159.672,590.507)" d="M0 0 4.317 2.274C3.659 .84 3.659-.84 4.317-2.274L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M181.701 242.245H203.04901V254.111H181.701Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-242.50499" x="189.86 193.08757 195.7805 198.47344 199.55765 202.25058 204.94351 206.296 210.05821 212.75115 214.10507 216.798 219.49094 220.84488 222.19738 225.15523 226.77407 229.467">Analog Output From</tspan><tspan y="-236.72513" x="195.79399 199.55619 202.78377 206.27625 207.62874 210.32167 213.0146 216.24217 217.59467 221.35688 224.0498 225.13402">GAD 29B Only</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,246.4917,544.25936)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V15.088"/>
-<path transform="matrix(1,0,0,-1,248.649,557.985)" d="M0 0-2.158-4.548-4.316 0H0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M228.462-198.244H277.596V-223.77301H228.462Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-216.69179" x="237.83638 241.75624 245.32379 246.7517 248.89069 252.45822 254.59722 258.16474 261.7323 263.87126 265.6579">Third-party</tspan><tspan y="-208.98529" x="229.63024 233.90244 237.46356 241.02469 242.4462 246.00733 249.56847 251.34935 255.62155 259.18269 260.96293 264.57084 268.13197 269.55345 270.97496 274.53608">Analog Autopilot</tspan><tspan y="-201.27881" x="239.27776 241.41289 246.39871 249.9624 251.7452 253.16927 256.73295 260.29664 263.86033 265.2844">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,159.62488,544.089)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H24.58"/>
-<path transform="matrix(.97416,0,0,1.0265,228.44248,544.089)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H18.528"/>
-<path transform="matrix(1,0,0,-1,427.501,346.29)" d="M0 0 2.908-6.13C1.078-5.142-1.08-5.142-2.91-6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M424.109-434.192H455.265V-469.94398H424.109Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-461.45344" x="427.8432 432.8348 437.11534 441.3958 443.17546 446.74488">GSA 28</tspan><tspan y="-447.32807" x="429.91236 434.19035 437.7572 439.89555 443.1037">Servo</tspan><tspan y="-439.62159" x="424.9989 427.1347 432.12117 435.68553 437.46897 438.89369 442.458 446.02235 449.5867 451.01139">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,427.50135,367.31437)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-15.943"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-454.06883" x="425.8042 430.08409 431.51329 433.3012 436.51127 440.08009 441.86613 445.78727 447.92756 449.35673">Pitch Trim</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,478.333,432.00236)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-63.531"/>
-<path transform="matrix(1,0,0,-1,460.345,346.29)" d="M0 0 2.908-6.13C1.078-5.142-1.08-5.142-2.91-6.13L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M457.825-434.192H488.98103V-469.94398H457.825Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-461.45344" x="461.5591 466.55076 470.83125 475.11177 476.89137 480.46083">GSA 28</tspan><tspan y="-447.32807" x="463.6283 467.90626 471.47315 473.61149 476.81965">Servo</tspan><tspan y="-439.62159" x="458.71485 460.85066 465.8371 469.40147 471.1849 472.6096 476.17396 479.73829 483.30265 484.72734">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,460.34614,367.31437)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-15.943"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-454.06883" x="459.52015 464.1517 467.71989 469.1484 470.57698 472.36299 476.28349 478.42308 479.85163">Roll Trim</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,205.3724,355.1257)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-5.322"/>
-<path transform="matrix(.97416,0,0,1.0265,205.41225,355.1257)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-12.082"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-404.84355" x="190.34964 193.81322 197.0403 198.63024 201.32366 203.98769">RS-232</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,193.50812,383.89338)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-6.548"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M274.941 374.131H309.756V404.09303H274.941Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M284.541-364.462H314.81999V-393.65H284.541Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-384.83503" x="285.91203 290.89213 295.56278 300.18409 301.96369 305.5216 309.79063">GDU 4XX</tspan><tspan y="-377.12858" x="291.86967 297.21235 301.13285 305.7644">MFD3</tspan><tspan y="-369.4221" x="285.99534 288.13047 293.1163 296.68 298.4628 299.88688 303.45057 307.01423 310.5779 312.00199">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,292.3493,366.90583)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V15.219"/>
-<path transform="matrix(1,0,0,-1,295.257,381.777)" d="M0 0-2.909-6.131-5.818 0H0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,292.3493,367.1029)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V16.906"/>
-<path transform="matrix(1,0,0,-1,292.348,387.908)" d="M0 0-2.158 4.549C-.798 3.857 .798 3.857 2.158 4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M317.17-364.426H347.449V-393.61399H317.17Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M242.186 374.112H277.001V404.075H242.186Z" fill="#ffffff"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-384.8174" x="252.28766 257.26774 261.9384 266.5597 268.33995 271.89787 276.16685">GDU 4XX</tspan><tspan y="-377.11094" x="258.2453 262.52455 266.44505 271.0766">PFD3</tspan><tspan y="-369.40446" x="252.37094 254.50608 259.4919 263.0556 264.83839 266.26246 269.82615 273.38984 276.95353 278.3776">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,259.59318,366.92329)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V15.219"/>
-<path transform="matrix(1,0,0,-1,262.503,381.795)" d="M0 0-2.91-6.131-5.818 0H0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,259.59318,367.1214)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V16.905"/>
-<path transform="matrix(1,0,0,-1,259.593,387.926)" d="M0 0-2.158 4.549C-.798 3.857 .798 3.857 2.159 4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M210.4 374.149H245.215V404.111H210.4Z" fill="#ffffff"/>
-<path transform="matrix(.97416,0,0,1.0265,0,792)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M218.289-364.48H248.568V-393.668H218.289Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-384.85343" x="219.65862 224.63869 229.30997 233.93129 235.7109 239.26882 243.53783">GDU 4XX</tspan><tspan y="-377.14698" x="225.61626 229.8955 233.816 238.44759">PFD2</tspan><tspan y="-369.4405" x="219.7419 221.87705 226.86287 230.42656 232.20935 233.63343 237.19712 240.76079 244.32448 245.74855">(Optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,227.80829,367.2035)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V14.912"/>
-<path transform="matrix(1,0,0,-1,230.717,381.758)" d="M0 0-2.909-6.132-5.817 0H0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,227.80829,367.5987)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V16.405"/>
-<path transform="matrix(1,0,0,-1,227.808,387.889)" d="M0 0-2.158 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,244.4333,417.89823)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H30.279V-29.188H0Z"/>
-<path transform="matrix(.97416,0,0,1.0265,257.06623,375.28413)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C0-1.349 1.142-2.408 2.595-2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,259.6336,372.81199)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C1.453 0 2.595 1.059 2.595 2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,321.62525,375.28413)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C0-1.349 1.141-2.408 2.595-2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,324.19267,372.81199)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0C1.452 0 2.595 1.059 2.595 2.408"/>
-<path transform="matrix(.97416,0,0,1.0265,257.06623,375.29399)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-27.297"/>
-<path transform="matrix(.97416,0,0,1.0265,353.65028,375.28413)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H-27.449"/>
-<path transform="matrix(.97416,0,0,1.0265,137.00977,233.26679)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H55.293V-24.642H0Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-562.43447" x="158.88173 163.86563 165.64653 167.42613 170.98789 174.54965">GI 275</tspan><tspan y="-555.0483" x="155.04451 157.17836 160.74077 164.30316 166.0847 167.50748 171.06989 174.6323 178.19469 179.61748">(optional)</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,111.57834,314.1622)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-68.939"/>
-<path transform="matrix(.97416,0,0,1.0265,163.86248,243.3963)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-9.346"/>
-<path transform="matrix(1,0,0,-1,163.862,233.39698)" d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(1,0,0,-1,120.07,316.423)" d="M0 0-2.159 4.549C-.798 3.857 .798 3.857 2.158 4.549L0 0" fill="#030404" fill-rule="evenodd"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.97416207 0 -0 1.0265232 0 792)" font-size="4.81655" font-family="ArialMT"><tspan y="-532.5858" x="133.74919 137.25614 140.43987 142.07317 144.72275 147.43015">RS-232</tspan></text>
-<path transform="matrix(.97416,0,0,1.0265,147.09037,243.3963)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H17.257"/>
-<path transform="matrix(.97416,0,0,1.0265,488.18666,411.2896)" stroke-width=".401" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0H42.072V-25.03H0Z"/>
-<text fill="#030404" xml:space="preserve" transform="matrix(.9741566 0 -0 1.026529 0 792)" font-size="6.406054" font-family="ArialMT"><tspan y="-388.78379" x="510.4954 515.478 520.1621 524.4926 526.3305 529.9505">GHA 15</tspan><tspan y="-381.0965" x="513.28207 517.9072 522.18008 527.16397">RAGL</tspan><tspan y="-373.40925" x="507.9394 510.07325 515.0578 518.6202 520.40176 521.8245 525.3869 528.9493 532.5117 533.93447">(Optional)</tspan></text>
-<path transform="matrix(1,0,0,-1,509.318,385.844)" d="M0 0-3.004 6.082C-1.127 5.142 1.031 5.192 2.815 6.18L0 0" fill="#030404" fill-rule="evenodd"/>
-<path transform="matrix(.97416,0,0,1.0265,509.2246,381.38975)" stroke-width="1.003" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#030404" d="M0 0V-13.443"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="496"
+   height="450"
+   viewBox="58 193 496 450"
+   id="svg303"
+   sodipodi:docname="g3x-system-architecture.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview303"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.48"
+     inkscape:cx="306.08108"
+     inkscape:cy="573.98649"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg303" />
+  <defs
+     id="defs6">
+    <clipPath
+       id="clip_5">
+      <path
+         transform="matrix(1,0,0,-1,0,792)"
+         d="M0 792.12H612V.11999512H0Z"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       id="clip_6">
+      <path
+         transform="matrix(1,0,0,-1,0,792)"
+         d="M0 792H611.975V.032H0Z"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       id="clip_7">
+      <path
+         transform="matrix(1,0,0,-1,0,792)"
+         d="M538.717 584.25H73.28299V184.27802H538.717Z"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       id="clip_8">
+      <path
+         transform="matrix(1,0,0,-1,0,792)"
+         d="M538.717 584.25H73.28299V184.27802H538.717Z"
+         id="path6" />
+    </clipPath>
+  </defs>
+  <text xml:space="preserve" transform="matrix(1 0 0 1 0 0)" font-size="11" font-family="Arial,Bold" font-weight="bold" text-anchor="middle" x="306" y="625.8">G3X System Interconnect (N657CZ)</text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,112.071269,243.3963)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H17.257"
+     id="path11" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M338.789 374.094H373.604V404.056H338.789Z"
+     fill="#ffffff"
+     id="path12" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M306.726 374.094H341.54103V404.056H306.726Z"
+     fill="#ffffff"
+     id="path13" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text15"><tspan
+       y="-384.79966"
+       x="318.54026 323.52033 328.191 332.81233 334.59193 338.14985 342.41883"
+       id="tspan13">GDU 4XX</tspan><tspan
+       y="-377.09318"
+       x="324.49787 329.84056 333.76106 338.3926"
+       id="tspan14">MFD2</tspan><tspan
+       y="-369.38673"
+       x="318.62355 320.75868 325.7445 329.3082 331.09098 332.51506 336.07875 339.64244 343.20613 344.6302"
+       id="tspan15">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,324.13423,367.2035)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V14.966"
+     id="path15" />
+  <path
+     transform="matrix(1,0,0,-1,327.043,381.813)"
+     d="M0 0-2.91-6.132-5.818 0H0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path16" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,324.1722,367.64387)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0-.039 16.407"
+     id="path17" />
+  <path
+     transform="matrix(1,0,0,-1,324.133,387.945)"
+     d="M0 0-2.158 4.55C-.798 3.857 .798 3.857 2.159 4.55L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path18" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M350.083-364.426H380.362V-393.61399H350.083Z"
+     id="path19" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text21"><tspan
+       y="-384.79966"
+       x="351.45344 356.4335 361.1042 365.7255 367.5051 371.06303 375.332"
+       id="tspan19">GDU 4XX</tspan><tspan
+       y="-377.09318"
+       x="357.41108 362.75376 366.67427 371.30583"
+       id="tspan20">MFD1</tspan><tspan
+       y="-369.38673"
+       x="351.53675 353.67189 358.6577 362.2214 364.0042 365.42826 368.99195 372.55564 376.11933 377.5434"
+       id="tspan21">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,356.19676,367.2035)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V14.966"
+     id="path21" />
+  <path
+     transform="matrix(1,0,0,-1,359.106,381.813)"
+     d="M0 0-2.91-6.132-5.818 0H0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path22" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,356.19676,367.53816)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V16.517"
+     id="path23" />
+  <path
+     transform="matrix(1,0,0,-1,356.196,387.945)"
+     d="M0 0-2.158 4.55C-.798 3.857 .799 3.857 2.159 4.55L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path24" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,120.03892,247.42017)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H168.9"
+     id="path25" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,537.9993,367.2035)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-351.082"
+     id="path26" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M93.795 446.187H129.267V475.40803H93.795Z"
+     fill="#ffffff"
+     id="path27" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M96.283-434.656H132.696V-463.122H96.283Z"
+     id="path28" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text29"><tspan
+       y="-450.83943"
+       x="101.09945 106.07951 110.750179 115.371509 117.15175 120.70967 124.97866"
+       id="tspan28">GDU 4XX</tspan><tspan
+       y="-443.13294"
+       x="106.24992 110.54198 114.475299 119.11968"
+       id="tspan29">PFD1</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M93.795 227.846H159.625V404.15998H93.795Z"
+     fill="#ffffff"
+     id="path29" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M96.283-221.958H163.86V-393.716H96.283Z"
+     id="path30" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text33"><tspan
+       y="-317.46919"
+       x="118.63195 123.61586 127.8887 132.56 134.34024 137.90201 141.46376 143.59697 147.86981"
+       id="tspan30">GAD 29(B)</tspan><tspan
+       y="-309.7627"
+       x="123.25712 127.88293 131.44533 133.27683"
+       id="tspan31">Data</tspan><tspan
+       y="-302.0562"
+       x="110.59235 112.37322 116.99839 120.56016 124.167407 127.35121 130.91298 134.52088 136.30176 138.43497 141.99674 143.77762 147.33937"
+       id="tspan32"> Concentrator</tspan><tspan
+       y="-294.34974"
+       x="115.9414 118.07653 123.06236 126.62605 128.40886 129.83292 133.3966 136.9603 140.56754 141.99161"
+       id="tspan33">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M206.823-434.272H248.152V-469.963H206.823Z"
+     id="path33" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text35"><tspan
+       y="-454.06648"
+       x="216.40831 221.41144 225.70349 230.34789 232.12749 235.70847"
+       id="tspan34">GSU 25</tspan><tspan
+       y="-446.36003"
+       x="211.78314 216.06174 220.69269 224.97129 229.60222 234.23317 238.51177 240.292"
+       id="tspan35">ADAHRS 1</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M271.236-483.962H326.089V-508.992H271.236Z"
+     id="path35" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text38"><tspan
+       y="-501.8632"
+       x="278.0562 283.0382 288.43275 293.056 294.8356 298.39546 301.95527 305.5151 307.29408 310.8539 314.41377"
+       id="tspan36">GMC 305/307</tspan><tspan
+       y="-494.17594"
+       x="278.08183 282.3553 284.1368 288.41029 290.18989 294.81568 298.37809 301.9405 303.722 305.85585 309.41825 310.84104 312.26383 315.82624"
+       id="tspan37">A/P Controller</tspan><tspan
+       y="-486.48869"
+       x="283.95619 286.09004 291.0746 294.637 296.41853 297.84129 301.4037 304.9661 308.5285 309.9513"
+       id="tspan38">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M413.293-323.724H462.427V-346.505H413.293Z"
+     id="path38" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text40"><tspan
+       y="-340.123"
+       x="426.20158 431.1932 435.4737 439.7542 441.5338 445.10328"
+       id="tspan39">GEA 24</tspan><tspan
+       y="-334.0244"
+       x="414.0621 418.34135 421.90953 425.47767 426.90623 430.4744 434.04255 435.82218 440.10139 443.66957 447.27873 448.67527 451.8847 455.09416 458.6623"
+       id="tspan40">Engine Analyzer</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M170.416 372.665H211.754V404.16H170.416Z"
+     fill="#ffffff"
+     id="path40" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M177.345-363.035H215.344V-393.716H177.345Z"
+     id="path41" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text43"><tspan
+       y="-384.17835"
+       x="188.7291 193.71814 197.63736"
+       id="tspan41">GTX</tspan><tspan
+       y="-376.47187"
+       x="177.92208 181.8381 183.97324 187.53693 191.1006 194.30556 197.86923 201.43292 205.04082 208.60449 212.16819"
+       id="tspan42">Transponder</tspan><tspan
+       y="-368.7654"
+       x="182.06679 184.2 189.1839 192.74567 194.52655 195.94869 199.5553 203.11705 206.67882 208.10095"
+       id="tspan43">(Optional)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M285.898 256.661H351.77503V308.083H285.898Z"
+     fill="#ffffff"
+     id="path43" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M291.98-249.219H359.604V-299.311H291.98Z"
+     id="path44" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text45"><tspan
+       y="-276.23957"
+       x="302.76835 307.39353 310.9553 312.73619 314.51579 318.07756 319.85716 324.84107 329.1139 333.38676 335.16764 339.7928 343.35459"
+       id="tspan44">No. 2 GPS/Com</tspan><tspan
+       y="-268.53309"
+       x="310.42359 312.56385 317.5548 321.12364 322.91157 324.34074 327.90956 331.4784 335.0472 336.47639 338.97538"
+       id="tspan45">(Optional*)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M284.434 318.921H350.263V366.78199H284.434Z"
+     fill="#ffffff"
+     id="path45" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M291.98-310.679H359.555V-357.30299H291.98Z"
+     id="path46" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text47"><tspan
+       y="-335.91658"
+       x="302.72105 307.35328 310.9221 312.71003 314.49028 318.0591 319.83937 324.83033 329.1102 333.39009 335.17805 339.81025 343.37907"
+       id="tspan46">No. 1 GPS/Com</tspan><tspan
+       y="-328.21009"
+       x="310.42753 312.56138 317.54594 321.10835 322.88984 324.31263 327.92054 331.4829 335.04533 336.4681 338.9287"
+       id="tspan47">(Optional*)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M284.434 225.835H350.31098V251.546H284.434Z"
+     fill="#ffffff"
+     id="path47" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M291.98-219.999H359.604V-245.04599H291.98Z"
+     id="path48" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text50"><tspan
+       y="-238.30121"
+       x="298.8188 303.80848 308.08708 312.71803 318.06 319.84666 324.51734 326.29695 330.92787 335.91755 341.25956 343.03916 348.0288 352.65977"
+       id="tspan48">GARMIN COM OR </tspan><tspan
+       y="-230.59471"
+       x="310.76609 315.40406 319.6897 323.97538 325.76908 330.40705 335.40379"
+       id="tspan49">NAV/COM</tspan><tspan
+       y="-222.88823"
+       x="309.17738 311.31767 316.3086 319.8774 321.66539 323.09455 326.66337 330.23219 333.801 335.2302 337.7292"
+       id="tspan50">(Optional*)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M93.795 184.484H159.672V218.502H93.795Z"
+     fill="#ffffff"
+     id="path50" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M96.283-179.716H163.90799V-212.85501H96.283Z"
+     id="path51" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text53"><tspan
+       y="-202.0655"
+       x="114.537738 118.4576 122.02514 123.45305 125.592029 129.15956 131.29854 134.86608 138.43361 140.5726 142.35926"
+       id="tspan51">Third-party</tspan><tspan
+       y="-194.35903"
+       x="107.93951 112.56404 113.98554 117.54667 118.96817 120.74841 124.30954 125.73104 127.511928 131.78414 135.34526 137.1255 140.73342 144.29454 145.71605 147.13755 150.69869"
+       id="tspan52">Digital Autopilot</tspan><tspan
+       y="-186.65253"
+       x="115.985507 118.12064 123.106479 126.67016 128.45296 129.87703 133.44072 137.0044 140.56809 141.99216"
+       id="tspan53">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,159.62488,551.7015)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H21.193V37.809H3.419"
+     id="path53" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M168.728 214.891H190.077V226.75801H168.728Z"
+     fill="#ffffff"
+     id="path54" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text55"><tspan
+       y="-216.61273"
+       x="178.78997 182.01753 184.71047 187.36052"
+       id="tspan54">A429</tspan><tspan
+       y="-210.83287"
+       x="173.44359 175.06578 178.24951 180.94582 182.30313 184.97246 187.66585 188.72597 189.78754 192.48384 193.81705"
+       id="tspan55">(Autopilot)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,284.43525,452.3219)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-124.797"
+     id="path55" />
+  <path
+     transform="matrix(1,0,0,-1,159.625,452.313)"
+     d="M0 0 4.317 2.274C3.613 .84 3.613-.841 4.317-2.275L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path56" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M195.753 333.159H208.516V345.025H195.753Z"
+     fill="#ffffff"
+     id="path57" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text58"><tspan
+       y="-331.82435"
+       x="202.1493 205.33304 208.02646 210.71988"
+       id="tspan57">A429</tspan><tspan
+       y="-326.0445"
+       x="201.186 202.8116 206.28049 209.51479 212.69757"
+       id="tspan58">(NAV)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,284.43525,466.76066)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-124.797"
+     id="path58" />
+  <path
+     transform="matrix(1,0,0,-1,159.625,466.751)"
+     d="M0 0 4.317 2.274C3.613 .841 3.613-.84 4.317-2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path59" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M195.613 319.712H208.656V331.578H195.613Z"
+     fill="#ffffff"
+     id="path60" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text61"><tspan
+       y="-318.72404"
+       x="202.1493 205.33304 208.02646 210.71988"
+       id="tspan60">A429</tspan><tspan
+       y="-312.94416"
+       x="201.08968 202.6719 206.42784 209.61882 212.8459"
+       id="tspan61">(GPS)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,284.3875,445.23908)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-124.829V-82.878H-176.559V-93.634"
+     id="path61" />
+  <path
+     transform="matrix(1,0,0,-1,112.438,345.763)"
+     d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path62" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,284.43525,510.46595)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-124.797"
+     id="path63" />
+  <path
+     transform="matrix(1,0,0,-1,159.625,510.458)"
+     d="M0 0 4.317 2.274C3.613 .84 3.613-.84 4.317-2.275L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path64" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M195.707 275.015H208.516V286.881H195.707Z"
+     fill="#ffffff"
+     id="path65" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text66"><tspan
+       y="-275.13328"
+       x="202.1493 205.33304 208.02646 210.71988"
+       id="tspan65">A429</tspan><tspan
+       y="-269.35343"
+       x="201.186 202.81882 206.28769 209.47045 212.69753"
+       id="tspan66">(NAV)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,370.7536,410.00035)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H8.669V81.93H-21.08"
+     id="path66" />
+  <path
+     transform="matrix(1,0,0,-1,370.596,409.99)"
+     d="M0 0 4.318 2.274C3.66 .84 3.66-.84 4.318-2.275L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path67" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M367.765 354.075H383.67103V360.00703H367.765Z"
+     fill="#ffffff"
+     id="path68" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text68"><tspan
+       y="-346.37046"
+       x="377.8091 381.264 384.454 386.0868 388.74217 391.43464"
+       id="tspan68">RS-232</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,284.43525,527.7224)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-124.797"
+     id="path69" />
+  <path
+     transform="matrix(1,0,0,-1,159.625,527.71499)"
+     d="M0 0 4.317 2.275C3.613 .841 3.613-.84 4.317-2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path70" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M195.613 259.243H208.656V271.109H195.613Z"
+     fill="#ffffff"
+     id="path71" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text72"><tspan
+       y="-259.81654"
+       x="202.1493 205.33304 208.02646 210.71988"
+       id="tspan71">A429</tspan><tspan
+       y="-254.03667"
+       x="201.08968 202.6719 206.42784 209.61882 212.8459"
+       id="tspan72">(GPS)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M124.997 498.746H164.551V524.456H124.997Z"
+     fill="#ffffff"
+     id="path72" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M128.313-485.857H168.916V-510.90299H128.313Z"
+     id="path73" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text75"><tspan
+       y="-504.2072"
+       x="137.36827 142.35474 146.63014 150.90555 152.68579 156.25012"
+       id="tspan73">GAP 26</tspan><tspan
+       y="-496.50074"
+       x="134.47913 138.76157 140.19332 141.98381 145.55518 147.34568 149.13616 153.41861 158.41213"
+       id="tspan74">Pitot/AOA</tspan><tspan
+       y="-488.79426"
+       x="134.47913 136.64438 141.65262 145.20862 146.98374 148.40012 152.00736 155.56336 159.11936 160.53574 162.70098"
+       id="tspan75">(Optional) </tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,169.056,280.004)"
+     d="M0 0C0 6.873 5.254 12.46 11.824 12.46 18.346 12.46 23.647 6.873 23.647 0 23.647-6.873 18.346-12.46 11.824-12.46 5.254-12.46 0-6.873 0 0"
+     fill="#ffffff"
+     fill-rule="evenodd"
+     id="path75" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,169.0567,280.01774)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C0-6.695 5.394-12.137 12.138-12.137 18.833-12.137 24.275-6.695 24.275 0 24.275 6.695 18.833 12.138 12.138 12.138 5.394 12.138 0 6.695 0 0Z"
+     id="path76" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text77"><tspan
+       y="-500.26014"
+       x="179.60872 182.82088 184.15941 186.80852 188.15715 189.22595"
+       id="tspan76">Static</tspan><tspan
+       y="-494.48027"
+       x="178.01927 181.20302 183.89162 186.57349 188.18125 190.59339"
+       id="tspan77">Source</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M224.014-483.962H269.049V-501.495H224.014Z"
+     id="path77" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text79"><tspan
+       y="-494.5576"
+       x="235.49715 240.48169 244.42653 248.70001 250.47898 254.04137"
+       id="tspan78">GTP 59</tspan><tspan
+       y="-486.85115"
+       x="228.84764 232.76815 236.33632 241.67896 245.24713 247.02866 251.3079 253.44753 257.0157 260.58387"
+       id="tspan79">Temp Probe</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M218.225 517.385H262.096V536.075H218.225Z"
+     fill="#ffffff"
+     id="path79" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M224.014-504.015H269.049V-522.22207H224.014Z"
+     id="path80" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text81"><tspan
+       y="-515.0938"
+       x="234.56269 239.54787 244.88539 249.51186 251.29274 254.85579"
+       id="tspan80">GMU 22</tspan><tspan
+       y="-507.3873"
+       x="225.7992 231.13608 234.74398 238.30637 241.86878 245.43117 247.2127 250.7751 256.112 259.67439 261.50526 265.06767"
+       id="tspan81">Magnetometer</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,215.56116,265.28334)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-11.872V39.785"
+     id="path81" />
+  <path
+     transform="matrix(1,0,0,-1,218.225,265.27003)"
+     d="M0 0-4.317-2.274C-3.613-.84-3.613 .841-4.317 2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path82" />
+  <path
+     transform="matrix(1,0,0,-1,203.996,309.571)"
+     d="M0 0-2.158 4.549C-.798 3.857 .798 3.857 2.159 4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path83" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M195.831 500.69H213.051V512.556H195.831Z"
+     fill="#ffffff"
+     id="path84" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text85"><tspan
+       y="-494.97819"
+       x="201.31526 204.80342 208.02666 209.6161 212.3047 214.99329 217.64238"
+       id="tspan84">RS-232/</tspan><tspan
+       y="-489.19834"
+       x="201.98958 205.45749 208.68555 210.27501 212.96842 215.66184"
+       id="tspan85">RS-485</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,240.161,309.571)"
+     d="M0 0-2.158 4.549C-.798 3.857 .798 3.857 2.158 4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path85" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M318.326-434.656H352.701V-469.962H318.326Z"
+     id="path86" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text88"><tspan
+       y="-458.7064"
+       x="324.1869 329.1785 333.459 337.73954 339.51847 343.08793"
+       id="tspan86">GSA 28</tspan><tspan
+       y="-450.9999"
+       x="319.0364 323.31889 324.71665 326.50718 329.7198 333.29118 335.07078 339.3532 342.9246 345.06739 348.28004"
+       id="tspan87">Pitch Servo</tspan><tspan
+       y="-443.29344"
+       x="321.349 323.48478 328.47126 332.03559 333.81907 335.24375 338.8081 342.37245 345.93678 347.36149"
+       id="tspan88">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M413.293-284.412H462.427V-309.94099H413.293Z"
+     id="path88" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97415807 0 -0 1.0265275 0 792)"
+     font-size="6.020686"
+     font-family="ArialMT"
+     id="text90"><tspan
+       y="-299.906"
+       x="423.3335 427.34989 430.698 434.0461 435.38334 438.73146 442.07957 443.75273 447.10084 450.44895"
+       id="tspan89">Engine #1/</tspan><tspan
+       y="-292.6812"
+       x="414.45899 418.4772 419.8162 421.8235 423.49967 425.50694 428.85685 433.87449 437.2244 438.89753 442.91575 446.26567 449.61555 452.6283 455.9782 457.9855"
+       id="tspan90">Airframe Sensors</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,426.16773,473.84556)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-9.777"
+     id="path90" />
+  <path
+     transform="matrix(1,0,0,-1,424.007,464.394)"
+     d="M0 0 2.159 4.549 4.318 0H0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path91" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,374.64344,398.33213)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H10.184V151.133H-21.606"
+     id="path92" />
+  <path
+     transform="matrix(1,0,0,-1,371.378,398.321)"
+     d="M0 0 4.318 2.274C3.66 .84 3.66-.84 4.318-2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path93" />
+  <path
+     transform="matrix(1,0,0,-1,350.311,553.463)"
+     d="M0 0 4.317 1.797C3.66 .664 3.66-.664 4.317-1.798L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path94" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M376.305 262.554H392.212V268.48799H376.305Z"
+     fill="#ffffff"
+     id="path95" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text95"><tspan
+       y="-257.26374"
+       x="386.57524 390.0388 393.26588 394.85585 397.51988 400.21379"
+       id="tspan95">RS-232</tspan></text>
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741512 0 -0 1.0265347 0 792)"
+     font-size="5.6353676"
+     font-family="ArialMT"
+     id="text98"><tspan
+       y="-208.80745"
+       x="299.04609 303.12724 306.2729 307.82093 310.93846 313.7381"
+       id="tspan96">Notes:</tspan><tspan
+       y="-202.06192"
+       x="299.04609 301.23374 305.9235 309.05226 311.86543 313.11198 317.80174 320.93049 325.62028 327.2083 330.33708 331.8992 333.48725 335.04939 339.0336 342.16236 343.7504 345.62248 348.75123 350.62327 352.21134 356.27555 360.65538 365.34513 366.90727 370.9715 374.72578 378.48005"
+       id="tspan97">*Maximum of two (2) COM/NAV </tspan><tspan
+       y="-195.31638"
+       x="299.04609 302.17765 305.30924 306.5586 308.12355 310.9395 312.48246 313.7318 316.86338 319.67939 321.2443 324.3759 325.62525 326.8746 329.95884 333.09043 334.65534 336.19828"
+       id="tspan98">units installed.  </tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,140.34041,293.2678)"
+     stroke-width=".963"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#69bd45"
+     d="M0 0V33.716H58.233"
+     id="path98" />
+  <path
+     transform="matrix(1,0,0,-1,201.478,327.865)"
+     d="M0 0-5.818-3.066C-4.927-1.138-4.927 1.137-5.818 3.066L0 0"
+     fill="#69bd45"
+     fill-rule="evenodd"
+     id="path99" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M160.609 460.773H170.51V466.70503H160.609Z"
+     fill="#ffffff"
+     id="path100" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text100"><tspan
+       y="-450.361"
+       x="165.11103 168.33281 172.08924"
+       id="tspan100">AOA</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,149.20819,293.2678)"
+     stroke-width=".963"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#ed1f24"
+     d="M0 0V27.262H49.129"
+     id="path101" />
+  <path
+     transform="matrix(1,0,0,-1,201.478,321.239)"
+     d="M0 0-5.818-3.066C-4.927-1.138-4.927 1.137-5.818 3.065L0 0"
+     fill="#ed1f24"
+     fill-rule="evenodd"
+     id="path102" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M160.845 467.794H170.229V473.726H160.845Z"
+     fill="#ffffff"
+     id="path103" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text103"><tspan
+       y="-457.15159"
+       x="165.4 168.61745 169.69155 171.03537 173.68543"
+       id="tspan103">Pitot</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,284.574,269.50599)"
+     d="M0 0-2.158 4.549C-.797 3.857 .798 3.857 2.158 4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path104" />
+  <path
+     transform="matrix(1,0,0,-1,111.531,316.592)"
+     d="M0 0-2.159 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path105" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M202.398 541.627H219.961V547.56H202.398Z"
+     fill="#ffffff"
+     id="path106" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text106"><tspan
+       y="-529.0792"
+       x="208.84513 212.3087 215.5358 217.12574 219.81916 222.48319"
+       id="tspan106">RS-232</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,266.22917,477.19197)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-6.166H15.317"
+     id="path107" />
+  <path
+     transform="matrix(1,0,0,-1,284.434,470.854)"
+     d="M0 0-4.317-2.275C-3.66-.89-3.66 .84-4.317 2.225L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path108" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,266.22917,472.24833)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V14.352H15.317"
+     id="path109" />
+  <path
+     transform="matrix(1,0,0,-1,284.434,486.973)"
+     d="M0 0-4.317-2.275C-3.66-.84-3.66 .84-4.317 2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path110" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,321.45527,282.73695)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H75.889V22.143"
+     id="path111" />
+  <path
+     transform="matrix(1,0,0,-1,317.662,282.723)"
+     d="M0 0 4.317 2.274C3.66 .841 3.66-.84 4.317-2.275L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path112" />
+  <path
+     transform="matrix(1,0,0,-1,395.711,309.423)"
+     d="M0 0-2.159 4.549C-.799 3.857 .797 3.857 2.158 4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path113" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M358.335 506.31H374.241V512.243H358.335Z"
+     fill="#ffffff"
+     id="path114" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text114"><tspan
+       y="-494.72114"
+       x="368.127 371.60746 374.823 376.42979 379.1107 381.8046"
+       id="tspan114">RS-232</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,426.167,436.459)"
+     d="M0 0-3.004 6.082C-1.126 5.142 1.031 5.192 2.815 6.18L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path115" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,159.62488,479.38456)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-.53H109.431V-1.109"
+     id="path116" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M192.094 306.692H212.17499V318.55799H192.094Z"
+     fill="#ffffff"
+     id="path117" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text118"><tspan
+       y="-305.99143"
+       x="202.1493 205.37689 208.02695 210.71988"
+       id="tspan117">A429</tspan><tspan
+       y="-300.21156"
+       x="197.47727 199.08069 202.29285 203.36165 204.96508 206.31229 209.78934 212.46686 213.80539 216.48291"
+       id="tspan118">(Air Data)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,180.88008,292.47636)"
+     stroke-width=".963"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#3853a4"
+     d="M0 0V21.194H16.465"
+     id="path118" />
+  <path
+     transform="matrix(1,0,0,-1,201.478,314.219)"
+     d="M0 0-5.818-3.065C-4.927-1.137-4.927 1.089-5.818 3.017L0 0"
+     fill="#3853a4"
+     fill-rule="evenodd"
+     id="path119" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M174.827 485.642H186.55699V491.576H174.827Z"
+     fill="#ffffff"
+     id="path120" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text120"><tspan
+       y="-474.5394"
+       x="179.75243 182.96555 184.30503 186.95511 188.30278 189.37253"
+       id="tspan120">Static</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,111.43708,366.78779)"
+     stroke-width=".963"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V.049"
+     id="path121" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M297.352 422.257H319.97599V428.189H297.352Z"
+     fill="#ffffff"
+     id="path122" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text122"><tspan
+       y="-412.79096"
+       x="306.12217 309.62428 312.80799 316.27687 317.6255 320.8627 324.33158"
+       id="tspan122">CAN BUS</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,227.80829,366.9017)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-14.651"
+     id="path123" />
+  <path
+     transform="matrix(1,0,0,-1,224.9,352.641)"
+     d="M0 0 2.908 6.131 5.817 0H0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path124" />
+  <path
+     transform="matrix(1,0,0,-1,394.558,345.813)"
+     d="M0 0 2.909-6.13C1.079-5.142-1.08-5.142-2.91-6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path125" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,326.7888,366.83808)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-15.943"
+     id="path126" />
+  <path
+     transform="matrix(1,0,0,-1,326.788,345.813)"
+     d="M0 0 2.909-6.13C1.079-5.142-1.079-5.142-2.91-6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path127" />
+  <path
+     transform="matrix(1,0,0,-1,126.686,387.84)"
+     d="M0 0-2.768 6.18C-.985 5.192 1.173 5.142 3.05 6.082L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path128" />
+  <path
+     transform="matrix(1,0,0,-1,100.583,345.813)"
+     d="M0 0 2.862-6.13C1.032-5.142-1.079-5.142-2.956-6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path129" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,132.552,339.9407)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H67.383"
+     id="path130" />
+  <path
+     transform="matrix(1,0,0,-1,129.267,339.929)"
+     d="M0 0 4.316 2.274C3.613 .84 3.613-.84 4.316-2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path131" />
+  <path
+     transform="matrix(1,0,0,-1,201.478,339.929)"
+     d="M0 0-4.317-2.274C-3.661-.84-3.661 .84-4.317 2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path132" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M155.261 446.137H175.858V458.003H155.261Z"
+     fill="#ffffff"
+     id="path133" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text134"><tspan
+       y="-441.83494"
+       x="162.02767 165.53508 168.71785 170.35163 173.00072 175.70858"
+       id="tspan133">RS-232</tspan><tspan
+       y="-436.05506"
+       x="159.61939 161.25316 164.96576 167.65918 169.00637 170.06215 172.75556 175.42008 178.1135 179.16928"
+       id="tspan134">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,193.64255,372.02909)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-16.466"
+     id="path134" />
+  <path
+     transform="matrix(1,0,0,-1,193.643,387.84)"
+     d="M0 0-2.159 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path135" />
+  <path
+     transform="matrix(1,0,0,-1,205.373,345.763)"
+     d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.159-4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path136" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M203.918 414.049H219.824V419.983H203.918Z"
+     fill="#ffffff"
+     id="path137" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,284.43525,428.4917)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-95.802V-5.538"
+     id="path138" />
+  <path
+     transform="matrix(1,0,0,-1,191.108,419.335)"
+     d="M0 0 2.159-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path139" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M230.24 357.585H247.742V369.451H230.24Z"
+     fill="#ffffff"
+     id="path140" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text141"><tspan
+       y="-355.57005"
+       x="237.45537 240.91895 244.14603 245.73596 248.42938 251.09342"
+       id="tspan140">RS-232</tspan><tspan
+       y="-349.79017"
+       x="236.63655 238.24288 241.45792 244.93788 248.15293 249.75925 252.97429"
+       id="tspan141">(ADS-B)</tspan></text>
+  <g
+     clip-path="url(#clip_7)"
+     id="g141">
+    <path
+       transform="matrix(.97416,0,0,1.0265,0,792)"
+       stroke-width=".401"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       stroke="#030404"
+       d="M75.427-544.309H130.72101V-568.95108H75.427Z"
+       id="path141" />
+  </g>
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text144"><tspan
+       y="-562.43447"
+       x="84.83492 89.81883 94.48948 98.05125 99.83084 103.39261 106.95438 108.73525 112.29702 116.56986"
+       id="tspan142">GDL 39/5XR</tspan><tspan
+       y="-554.72799"
+       x="81.60627 85.52677 87.6664 91.23457 93.02186 94.85206 96.24922 99.45865 101.24593 107.29965 110.86783 114.436008 116.22329 119.79146 123.359638"
+       id="tspan143">Traffic/Weather</tspan><tspan
+       y="-547.0215"
+       x="76.18034 80.80615 84.36856 87.57223 91.134639 92.55743 95.761089 99.3235 101.45736 103.23696 105.37082 108.93323 112.495639 114.27716 115.69994 119.26235 122.82476 126.38717 127.80996"
+       id="tspan144">Receiver (optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M249.225-434.656H282.68403V-469.962H249.225Z"
+     id="path144" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text147"><tspan
+       y="-458.7064"
+       x="254.44307 259.42955 263.70497 268.3327 270.1123 273.67665"
+       id="tspan145">GSU 25</tspan><tspan
+       y="-450.9999"
+       x="249.81789 254.09073 258.7159 262.98875 267.61393 272.2391 276.51194 278.29154"
+       id="tspan146">ADAHRS 2</tspan><tspan
+       y="-443.29344"
+       x="251.74611 253.91904 258.88246 262.48396 264.2629 265.6607 269.22315 272.82463 276.38835 277.78486"
+       id="tspan147">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,259.63313,366.8812)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-15.943"
+     id="path147" />
+  <path
+     transform="matrix(1,0,0,-1,259.633,345.856)"
+     d="M0 0 2.909-6.131C1.079-5.142-1.079-5.142-2.909-6.131L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path148" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,90.51018,338.60624)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-7.996V245.403H0"
+     id="path149" />
+  <path
+     transform="matrix(1,0,0,-1,93.795,338.594)"
+     d="M0 0-4.317-2.275C-3.613-.841-3.613 .84-4.317 2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path150" />
+  <path
+     transform="matrix(1,0,0,-1,93.795,590.507)"
+     d="M0 0-4.317-2.274C-3.613-.84-3.613 .84-4.317 2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path151" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M74.463 296.523H90.368999V302.45503H74.463Z"
+     fill="#ffffff"
+     id="path152" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text152"><tspan
+       y="-290.30549"
+       x="76.72727 80.19086 83.417949 85.00788 87.7013 90.36533"
+       id="tspan152">RS-232</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,239.97263,306.37107)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-10.645"
+     id="path153" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,380.20686,345.82563)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H31.157V-35.306H0Z"
+     id="path154" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text156"><tspan
+       y="-458.7064"
+       x="394.02699 399.0186 403.2991 407.57963 409.35856 412.928"
+       id="tspan154">GSA 28</tspan><tspan
+       y="-450.9999"
+       x="391.27879 395.91419 399.4862 400.9186 402.351 404.12995 408.41307 411.98506 414.12855 417.34184"
+       id="tspan155">Roll Servo</tspan><tspan
+       y="-443.29344"
+       x="391.18269 393.31849 398.30497 401.8693 403.65275 405.07746 408.64179 412.20616 415.77049 417.1952"
+       id="tspan156">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,394.55818,366.83808)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-15.943"
+     id="path156" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,158.9381,366.78779)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C0-2.072 2.572-3.7 5.846-3.7"
+     id="path157" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,164.72188,362.98985)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C3.274 0 5.846 1.628 5.846 3.7"
+     id="path158" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,158.9381,366.78779)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-59.891"
+     id="path159" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,191.08635,366.78779)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-21.121"
+     id="path160" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,191.11528,366.50425)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C0-1.349 1.141-2.408 2.595-2.408"
+     id="path161" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,193.6827,364.03215)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C1.453 0 2.595 1.059 2.595 2.408"
+     id="path162" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,284.57456,266.49568)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-18.582"
+     id="path163" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,100.62975,366.17497)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-14.651"
+     id="path164" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,126.70997,383.9488)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-16.669"
+     id="path165" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,426.07325,432.00337)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-63.025"
+     id="path166" />
+  <path
+     transform="matrix(1,0,0,-1,284.434,445.23)"
+     d="M0 0-4.317-2.274C-3.66-.84-3.66 .841-4.317 2.275L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path167" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,99.9722,316.1413)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-80.735"
+     id="path168" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M92.019 516.575H107.924999V522.508H92.019Z"
+     fill="#ffffff"
+     id="path169" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text169"><tspan
+       y="-505.00923"
+       x="95.23888 98.745807 101.92955 103.56284 106.212429 108.91981"
+       id="tspan169">RS-232</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,284.3875,438.64689)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-121.618V-80.091H-166.123V-90.392"
+     id="path170" />
+  <path
+     transform="matrix(1,0,0,-1,122.604,345.763)"
+     d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path171" />
+  <path
+     transform="matrix(1,0,0,-1,284.434,438.638)"
+     d="M0 0-4.317-2.274C-3.66-.84-3.66 .841-4.317 2.275L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path172" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M222.441 343.827H261.432V349.761H222.441Z"
+     fill="#ffffff"
+     id="path173" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text173"><tspan
+       y="-336.44258"
+       x="228.84981 232.3264 235.53807 237.141 239.81804 242.49507 245.1721 246.51064 248.11357 251.59017 254.2672 256.94425 259.62129 262.2983 264.70564 266.04368"
+       id="tspan173">RS-232 (Connext)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M219.961 350.547H263.518V356.482H219.961Z"
+     fill="#ffffff"
+     id="path174" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text174"><tspan
+       y="-342.91053"
+       x="226.24326 229.71936 232.93056 234.53302 237.20958 239.88616 242.56272 243.90123 245.50371 249.24954 252.46073 255.67192 257.00947 260.48558 264.23139 268.24214"
+       id="tspan174">RS-232 (GPS/COM)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,99.972,316.592)"
+     d="M0 0-2.159 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path175" />
+  <path
+     transform="matrix(1,0,0,-1,99.972,233.25202)"
+     d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path176" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M397.5-364.528H434.698V-396.29203H397.5Z"
+     id="path177" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text180"><tspan
+       y="-389.92686"
+       x="402.79148 407.78309 412.0636 416.34413 418.1301 421.69956 425.269"
+       id="tspan177">GPS 20A</tspan><tspan
+       y="-382.2396"
+       x="404.75175 409.03163 412.60047 415.81053 417.2397 419.02763 420.45683 424.02565"
+       id="tspan178">Position</tspan><tspan
+       y="-374.5523"
+       x="406.00733 410.28724 413.85606 417.42488 419.56513 422.7752"
+       id="tspan179">Source</tspan><tspan
+       y="-366.86506"
+       x="402.0804 404.22068 409.21165 412.78047 414.5684 415.99757 419.5664 423.13523 426.70405 428.1332"
+       id="tspan180">(Optional)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,412.311,385.042)"
+     d="M0 0-3.004 6.082C-1.126 5.142 1.032 5.192 2.815 6.18L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path180" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,412.21678,380.587)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-13.443"
+     id="path181" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,399.8469,385.20524)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-9.665"
+     id="path182" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,399.8469,375.2839)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-42.193"
+     id="path183" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,353.6493,375.2839)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C0-1.349 1.142-2.408 2.595-2.408"
+     id="path184" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,356.2166,372.8118)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C1.453 0 2.595 1.059 2.595 2.408"
+     id="path185" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,289.59965,375.2839)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C0-1.349 1.142-2.408 2.595-2.408"
+     id="path186" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,292.16783,372.8118)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C1.452 0 2.595 1.059 2.595 2.408"
+     id="path187" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,321.5865,375.2839)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-27.604"
+     id="path188" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,225.37845,375.2839)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C0-1.349 1.142-2.408 2.595-2.408"
+     id="path189" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,227.94574,372.8118)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C1.453 0 2.595 1.059 2.595 2.408"
+     id="path190" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,289.60035,375.2839)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-28.166"
+     id="path191" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,225.37883,375.2839)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-19.765"
+     id="path192" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,206.12456,387.8503)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-12.242"
+     id="path193" />
+  <path
+     transform="matrix(1,0,0,-1,206.123,387.84)"
+     d="M0 0-2.158 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path194" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text194"><tspan
+       y="-326.70085"
+       x="422.92955 425.06468 430.0505 433.6142 435.39698 436.82106 440.38475 443.94844 447.5563 448.98039"
+       id="tspan194">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M466.606-323.724H515.74V-346.505H466.606Z"
+     id="path195" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text196"><tspan
+       y="-340.123"
+       x="479.51527 484.50688 488.78739 493.0679 494.8475 498.41697"
+       id="tspan195">GEA 24</tspan><tspan
+       y="-334.0244"
+       x="467.3758 471.65504 475.2232 478.79136 480.2199 483.7881 487.35624 489.13584 493.41508 496.98326 500.59178 501.98829 505.19773 508.40718 511.97535"
+       id="tspan196">Engine Analyzer</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M466.606-284.412H515.74V-309.94099H466.606Z"
+     id="path196" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97415807 0 -0 1.0265275 0 792)"
+     font-size="6.020686"
+     font-family="ArialMT"
+     id="text198"><tspan
+       y="-299.10334"
+       x="477.39454 481.41093 484.75904 488.10719 489.44438 492.79249 496.1406 497.81376 501.16188"
+       id="tspan197">Engine #2</tspan><tspan
+       y="-291.39686"
+       x="479.79078 483.8138 487.16856 490.5233 493.54084 496.89558 498.90766"
+       id="tspan198">Sensors</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,478.10313,473.84556)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-9.777"
+     id="path198" />
+  <path
+     transform="matrix(1,0,0,-1,475.943,464.394)"
+     d="M0 0 2.159 4.549 4.318 0H0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path199" />
+  <path
+     transform="matrix(1,0,0,-1,478.103,436.459)"
+     d="M0 0-3.004 6.082C-1.126 5.142 1.031 5.192 2.815 6.18L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path200" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text200"><tspan
+       y="-326.70085"
+       x="476.2432 478.37837 483.3642 486.9279 488.71067 490.13475 493.69844 497.26213 500.87 502.29408"
+       id="tspan200">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M283.743-434.656H317.20204V-469.962H283.743Z"
+     id="path201" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text203"><tspan
+       y="-458.7064"
+       x="288.159 293.14485 297.4196 302.0467 303.82563 307.3893"
+       id="tspan201">GSU 25</tspan><tspan
+       y="-450.9999"
+       x="284.3346 288.60743 293.2326 297.50544 302.1306 306.7558 311.02864 312.80824"
+       id="tspan202">ADAHRS 3</tspan><tspan
+       y="-443.29344"
+       x="286.2628 288.43577 293.39918 297.00068 298.77964 300.17744 303.73988 307.34135 310.90507 312.30158"
+       id="tspan203">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,292.3493,366.83808)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-15.943"
+     id="path203" />
+  <path
+     transform="matrix(1,0,0,-1,292.348,345.813)"
+     d="M0 0 2.909-6.13C1.078-5.142-1.079-5.142-2.909-6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path204" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M354.45-434.656H388.825V-469.962H354.45Z"
+     id="path205" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text207"><tspan
+       y="-458.7064"
+       x="359.5083 364.4999 368.78044 373.06095 374.8399 378.40934"
+       id="tspan205">GSA 28</tspan><tspan
+       y="-450.9999"
+       x="355.1586 359.44105 363.01243 367.64723 369.42683 373.70927 377.2806 379.42344 382.63609"
+       id="tspan206">Yaw Servo</tspan><tspan
+       y="-443.29344"
+       x="356.6704 358.8062 363.79267 367.35704 369.14048 370.5652 374.12953 377.69386 381.2582 382.6829"
+       id="tspan207">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,361.97935,366.83808)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-15.943"
+     id="path207" />
+  <path
+     transform="matrix(1,0,0,-1,361.979,345.813)"
+     d="M0 0 2.909-6.13C1.079-5.142-1.079-5.142-2.91-6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path208" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,120.03892,314.60154)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-65.447"
+     id="path209" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,479.0315,362.32969)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H46.48V-24.717H0Z"
+     id="path210" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text212"><tspan
+       y="-436.2059"
+       x="497.10139 502.093 506.01478 510.6476 512.4336 516.00308 519.5725 521.3611 524.93057 528.5"
+       id="tspan210">GTR 20/200</tspan><tspan
+       y="-428.49946"
+       x="497.56904 502.20765 507.20503 512.55477 514.3465 518.9851 522.5603 526.13558 527.57119"
+       id="tspan211">COM Radio</tspan><tspan
+       y="-420.79298"
+       x="499.8816 502.0174 507.00389 510.5682 512.3517 513.77639 517.3407 520.905 524.4694 525.8941"
+       id="tspan212">(Optional)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,524.161,349.632)"
+     d="M0 0 5.817 3.066C4.88 1.137 4.88-1.138 5.817-3.066L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path212" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,537.9993,349.6442)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-9.677"
+     id="path213" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text215"><tspan
+       y="-463.85285"
+       x="497.10139 502.093 506.01478 510.6476 512.4336 516.00308 519.5725 521.3611 524.93057 528.5"
+       id="tspan213">GTR 20/200</tspan><tspan
+       y="-455.61466"
+       x="497.56904 502.20765 507.20503 512.55477 514.3465 518.9851 522.5603 526.13558 527.57119"
+       id="tspan214">COM Radio</tspan><tspan
+       y="-448.43989"
+       x="500.68238 502.81819 507.80467 511.369 513.15249 514.57717 518.1415 521.7058 525.2702 526.6949"
+       id="tspan215">(Optional)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,524.309,321.799)"
+     d="M0 0 5.818 3.065C4.88 1.136 4.88-1.138 5.818-3.066L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path215" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,538.0977,321.81169)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-9.677"
+     id="path216" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M491.585-445.692H538.066V-470.409H491.585Z"
+     id="path217" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text219"><tspan
+       y="-491.19374"
+       x="505.46849 510.48445 512.29739 514.1096 517.7034 521.2972"
+       id="tspan217">GI 260</tspan><tspan
+       y="-483.50648"
+       x="495.03303 499.3379 504.35386 508.6587 510.47099 512.2839 515.8777 519.47146 520.92568 524.1607 527.7545 529.5674 533.1612"
+       id="tspan218">AOA Indicator</tspan><tspan
+       y="-475.8192"
+       x="500.95863 503.12455 508.1411 511.73558 513.54916 515.0039 518.5984 522.1928 525.7873 527.2421"
+       id="tspan219">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,538.0977,293.5819)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-9.677"
+     id="path219" />
+  <path
+     transform="matrix(1,0,0,-1,524.309,293.568)"
+     d="M0 0 5.818 3.066C4.88 1.137 4.88-1.137 5.818-3.065L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path220" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".253"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M491.752-538.106H537.77706V-504.85H491.752Z"
+     id="path221" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text224"><tspan
+       y="-531.16226"
+       x="503.46638 508.48295 512.78848 517.4463 519.2586 522.853"
+       id="tspan221">GAD 27</tspan><tspan
+       y="-523.475"
+       x="496.98344 501.2883 502.74247 506.33625 509.57133 511.3836 515.6885 518.9235 522.15859 523.9715 527.56527"
+       id="tspan222">Elec System</tspan><tspan
+       y="-515.7877"
+       x="500.91035 505.5682 509.16267 512.7571 514.5707 516.7366 520.331 521.7858 523.2406 526.835"
+       id="tspan223">Controller</tspan><tspan
+       y="-508.1005"
+       x="500.731 502.89689 507.91346 511.5079 513.3215 514.77627 518.3707 521.96517 525.55966 527.0144"
+       id="tspan224">(Optional)</tspan></text>
+  <g
+     clip-path="url(#clip_8)"
+     id="g224">
+    <path
+       transform="matrix(.97416,0,0,1.0265,538.22927,366.83808)"
+       stroke-width="1.003"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       fill="none"
+       stroke="#030404"
+       d="M0 0V-137.192"
+       id="path224" />
+  </g>
+  <path
+     transform="matrix(.97416,0,0,1.0265,501.85218,226.0105)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V8.743"
+     id="path225" />
+  <path
+     transform="matrix(1,0,0,-1,501.851,239.61902)"
+     d="M0 0-2.91 6.13C-1.078 5.142 1.08 5.142 2.91 6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path226" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M491.585-472.985H538.066V-497.702H491.585Z"
+     id="path227" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,403.72407,226.0105)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V8.743"
+     id="path228" />
+  <path
+     transform="matrix(1,0,0,-1,403.723,239.61902)"
+     d="M0 0-2.91 6.13C-1.078 5.142 1.08 5.142 2.909 6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path229" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".304"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M441.967-538.106H488.44703V-513.801H441.967Z"
+     id="path230" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text232"><tspan
+       y="-531.3316"
+       x="448.33293 453.34889 456.94267 458.75495 463.05979 464.8727 468.4665 472.06028 475.65409 479.24787"
+       id="tspan230">G5 Standby</tspan><tspan
+       y="-523.6444"
+       x="445.96269 449.90943 451.36424 452.81904 456.41349 460.00794 461.8215 463.63377 468.29164 469.74644 472.98213 476.57658 478.03138 481.62583"
+       id="tspan231">Flight Display</tspan><tspan
+       y="-515.95718"
+       x="451.19004 453.35594 458.3725 461.96696 463.78053 465.23533 468.82978 472.4242 476.01866 477.47346"
+       id="tspan232">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M391.49-513.801H437.841V-537.995H391.49Z"
+     id="path232" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text235"><tspan
+       y="-531.29946"
+       x="392.1557 397.14347 402.48356 406.76026 408.53987 412.10545 415.67106 419.23664 421.0214 424.58699 428.1526 431.71818"
+       id="tspan233">GMA 245/245R</tspan><tspan
+       y="-523.61227"
+       x="396.97306 401.24653 404.8089 408.3713 409.7941 413.3565 415.1361 419.40959 422.972 426.53437 430.09678"
+       id="tspan234">Audio Panel</tspan><tspan
+       y="-515.925"
+       x="400.1825 402.31636 407.3009 410.86329 412.6448 414.0676 417.63 421.1924 424.7548 426.17759"
+       id="tspan235">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,453.18608,226.0105)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V8.743"
+     id="path235" />
+  <path
+     transform="matrix(1,0,0,-1,453.185,239.61902)"
+     d="M0 0-2.91 6.13C-1.078 5.142 1.08 5.142 2.909 6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path236" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,538.0977,225.25293)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-185.518"
+     id="path237" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,357.55375,225.16773)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V8.743"
+     id="path238" />
+  <path
+     transform="matrix(1,0,0,-1,357.553,239.59998)"
+     d="M0 0-2.91 6.131C-1.078 5.142 1.08 5.142 2.909 6.131L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path239" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M345.292-513.819H389.106V-538.01296H345.292Z"
+     id="path240" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text241"><tspan
+       y="-531.31747"
+       x="354.9124 359.90339 365.24668 369.87889 371.66493 375.23374"
+       id="tspan240">GMU 11</tspan><tspan
+       y="-523.63027"
+       x="346.16816 351.51145 355.08027 358.6491 362.21794 365.78675 367.57469 371.1435 376.4868 380.0556 381.84358 385.41239"
+       id="tspan241">Magnetometer</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M442.497-371.664H484.569V-396.694H442.497Z"
+     id="path241" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text244"><tspan
+       y="-389.5656"
+       x="449.63578 454.6165 460.01106 464.63304 466.41264 469.97117 473.52973"
+       id="tspan242">GMC 507</tspan><tspan
+       y="-381.87837"
+       x="443.4283 447.70179 449.48329 453.75675 455.53636 460.16215 463.72456 467.28697 469.06849 471.20234 474.7647 476.1875 477.6103 481.1727"
+       id="tspan243">A/P Controller</tspan><tspan
+       y="-374.19108"
+       x="449.30265 451.4365 456.42106 459.98347 461.76499 463.18778 466.75016 470.31257 473.87498 475.29777"
+       id="tspan244">(Optional)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,452.194,385.042)"
+     d="M0 0-3.004 6.082C-1.126 5.142 1.032 5.192 2.815 6.18L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path244" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,452.09986,380.587)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-13.443"
+     id="path245" />
+  <path
+     transform="matrix(1,0,0,-1,159.672,590.507)"
+     d="M0 0 4.317 2.274C3.659 .84 3.659-.84 4.317-2.274L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path246" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M181.701 242.245H203.04901V254.111H181.701Z"
+     fill="#ffffff"
+     id="path247" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text248"><tspan
+       y="-242.50499"
+       x="189.86 193.08757 195.7805 198.47344 199.55765 202.25058 204.94351 206.296 210.05821 212.75115 214.10507 216.798 219.49094 220.84488 222.19738 225.15523 226.77407 229.467"
+       id="tspan247">Analog Output From</tspan><tspan
+       y="-236.72513"
+       x="195.79399 199.55619 202.78377 206.27625 207.62874 210.32167 213.0146 216.24217 217.59467 221.35688 224.0498 225.13402"
+       id="tspan248">GAD 29B Only</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,246.4917,544.25936)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V15.088"
+     id="path248" />
+  <path
+     transform="matrix(1,0,0,-1,248.649,557.985)"
+     d="M0 0-2.158-4.548-4.316 0H0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path249" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M228.462-198.244H277.596V-223.77301H228.462Z"
+     id="path250" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text252"><tspan
+       y="-216.69179"
+       x="237.83638 241.75624 245.32379 246.7517 248.89069 252.45822 254.59722 258.16474 261.7323 263.87126 265.6579"
+       id="tspan250">Third-party</tspan><tspan
+       y="-208.98529"
+       x="229.63024 233.90244 237.46356 241.02469 242.4462 246.00733 249.56847 251.34935 255.62155 259.18269 260.96293 264.57084 268.13197 269.55345 270.97496 274.53608"
+       id="tspan251">Analog Autopilot</tspan><tspan
+       y="-201.27881"
+       x="239.27776 241.41289 246.39871 249.9624 251.7452 253.16927 256.73295 260.29664 263.86033 265.2844"
+       id="tspan252">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,159.62488,544.089)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H24.58"
+     id="path252" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,228.44248,544.089)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H18.528"
+     id="path253" />
+  <path
+     transform="matrix(1,0,0,-1,427.501,346.29)"
+     d="M0 0 2.908-6.13C1.078-5.142-1.08-5.142-2.91-6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path254" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M424.109-434.192H455.265V-469.94398H424.109Z"
+     id="path255" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text257"><tspan
+       y="-461.45344"
+       x="427.8432 432.8348 437.11534 441.3958 443.17546 446.74488"
+       id="tspan255">GSA 28</tspan><tspan
+       y="-447.32807"
+       x="429.91236 434.19035 437.7572 439.89555 443.1037"
+       id="tspan256">Servo</tspan><tspan
+       y="-439.62159"
+       x="424.9989 427.1347 432.12117 435.68553 437.46897 438.89369 442.458 446.02235 449.5867 451.01139"
+       id="tspan257">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,427.50135,367.31437)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-15.943"
+     id="path257" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text258"><tspan
+       y="-454.06883"
+       x="425.8042 430.08409 431.51329 433.3012 436.51127 440.08009 441.86613 445.78727 447.92756 449.35673"
+       id="tspan258">Pitch Trim</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,478.333,432.00236)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-63.531"
+     id="path258" />
+  <path
+     transform="matrix(1,0,0,-1,460.345,346.29)"
+     d="M0 0 2.908-6.13C1.078-5.142-1.08-5.142-2.91-6.13L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path259" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M457.825-434.192H488.98103V-469.94398H457.825Z"
+     id="path260" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text262"><tspan
+       y="-461.45344"
+       x="461.5591 466.55076 470.83125 475.11177 476.89137 480.46083"
+       id="tspan260">GSA 28</tspan><tspan
+       y="-447.32807"
+       x="463.6283 467.90626 471.47315 473.61149 476.81965"
+       id="tspan261">Servo</tspan><tspan
+       y="-439.62159"
+       x="458.71485 460.85066 465.8371 469.40147 471.1849 472.6096 476.17396 479.73829 483.30265 484.72734"
+       id="tspan262">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,460.34614,367.31437)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-15.943"
+     id="path262" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text263"><tspan
+       y="-454.06883"
+       x="459.52015 464.1517 467.71989 469.1484 470.57698 472.36299 476.28349 478.42308 479.85163"
+       id="tspan263">Roll Trim</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,205.3724,355.1257)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-5.322"
+     id="path263" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,205.41225,355.1257)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-12.082"
+     id="path264" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text264"><tspan
+       y="-404.84355"
+       x="190.34964 193.81322 197.0403 198.63024 201.32366 203.98769"
+       id="tspan264">RS-232</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,193.50812,383.89338)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-6.548"
+     id="path265" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M274.941 374.131H309.756V404.09303H274.941Z"
+     fill="#ffffff"
+     id="path266" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M284.541-364.462H314.81999V-393.65H284.541Z"
+     id="path267" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text269"><tspan
+       y="-384.83503"
+       x="285.91203 290.89213 295.56278 300.18409 301.96369 305.5216 309.79063"
+       id="tspan267">GDU 4XX</tspan><tspan
+       y="-377.12858"
+       x="291.86967 297.21235 301.13285 305.7644"
+       id="tspan268">MFD3</tspan><tspan
+       y="-369.4221"
+       x="285.99534 288.13047 293.1163 296.68 298.4628 299.88688 303.45057 307.01423 310.5779 312.00199"
+       id="tspan269">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,292.3493,366.90583)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V15.219"
+     id="path269" />
+  <path
+     transform="matrix(1,0,0,-1,295.257,381.777)"
+     d="M0 0-2.909-6.131-5.818 0H0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path270" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,292.3493,367.1029)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V16.906"
+     id="path271" />
+  <path
+     transform="matrix(1,0,0,-1,292.348,387.908)"
+     d="M0 0-2.158 4.549C-.798 3.857 .798 3.857 2.158 4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path272" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M317.17-364.426H347.449V-393.61399H317.17Z"
+     id="path273" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M242.186 374.112H277.001V404.075H242.186Z"
+     fill="#ffffff"
+     id="path274" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text276"><tspan
+       y="-384.8174"
+       x="252.28766 257.26774 261.9384 266.5597 268.33995 271.89787 276.16685"
+       id="tspan274">GDU 4XX</tspan><tspan
+       y="-377.11094"
+       x="258.2453 262.52455 266.44505 271.0766"
+       id="tspan275">PFD3</tspan><tspan
+       y="-369.40446"
+       x="252.37094 254.50608 259.4919 263.0556 264.83839 266.26246 269.82615 273.38984 276.95353 278.3776"
+       id="tspan276">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,259.59318,366.92329)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V15.219"
+     id="path276" />
+  <path
+     transform="matrix(1,0,0,-1,262.503,381.795)"
+     d="M0 0-2.91-6.131-5.818 0H0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path277" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,259.59318,367.1214)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V16.905"
+     id="path278" />
+  <path
+     transform="matrix(1,0,0,-1,259.593,387.926)"
+     d="M0 0-2.158 4.549C-.798 3.857 .798 3.857 2.159 4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path279" />
+  <path
+     transform="matrix(1,0,0,-1,0,792)"
+     d="M210.4 374.149H245.215V404.111H210.4Z"
+     fill="#ffffff"
+     id="path280" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,0,792)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M218.289-364.48H248.568V-393.668H218.289Z"
+     id="path281" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text283"><tspan
+       y="-384.85343"
+       x="219.65862 224.63869 229.30997 233.93129 235.7109 239.26882 243.53783"
+       id="tspan281">GDU 4XX</tspan><tspan
+       y="-377.14698"
+       x="225.61626 229.8955 233.816 238.44759"
+       id="tspan282">PFD2</tspan><tspan
+       y="-369.4405"
+       x="219.7419 221.87705 226.86287 230.42656 232.20935 233.63343 237.19712 240.76079 244.32448 245.74855"
+       id="tspan283">(Optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,227.80829,367.2035)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V14.912"
+     id="path283" />
+  <path
+     transform="matrix(1,0,0,-1,230.717,381.758)"
+     d="M0 0-2.909-6.132-5.817 0H0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path284" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,227.80829,367.5987)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V16.405"
+     id="path285" />
+  <path
+     transform="matrix(1,0,0,-1,227.808,387.889)"
+     d="M0 0-2.158 4.55C-.798 3.857 .798 3.857 2.158 4.55L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path286" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,244.4333,417.89823)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H30.279V-29.188H0Z"
+     id="path287" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,257.06623,375.28413)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C0-1.349 1.142-2.408 2.595-2.408"
+     id="path288" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,259.6336,372.81199)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C1.453 0 2.595 1.059 2.595 2.408"
+     id="path289" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,321.62525,375.28413)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C0-1.349 1.141-2.408 2.595-2.408"
+     id="path290" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,324.19267,372.81199)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0C1.452 0 2.595 1.059 2.595 2.408"
+     id="path291" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,257.06623,375.29399)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-27.297"
+     id="path292" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,353.65028,375.28413)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H-27.449"
+     id="path293" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,137.00977,233.26679)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H55.293V-24.642H0Z"
+     id="path294" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text295"><tspan
+       y="-562.43447"
+       x="158.88173 163.86563 165.64653 167.42613 170.98789 174.54965"
+       id="tspan294">GI 275</tspan><tspan
+       y="-555.0483"
+       x="155.04451 157.17836 160.74077 164.30316 166.0847 167.50748 171.06989 174.6323 178.19469 179.61748"
+       id="tspan295">(optional)</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,111.57834,314.1622)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-68.939"
+     id="path295" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,163.86248,243.3963)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-9.346"
+     id="path296" />
+  <path
+     transform="matrix(1,0,0,-1,163.862,233.39698)"
+     d="M0 0 2.158-4.549C.798-3.857-.798-3.857-2.158-4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path297" />
+  <path
+     transform="matrix(1,0,0,-1,120.07,316.423)"
+     d="M0 0-2.159 4.549C-.798 3.857 .798 3.857 2.158 4.549L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path298" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.97416207 0 -0 1.0265232 0 792)"
+     font-size="4.81655"
+     font-family="ArialMT"
+     id="text298"><tspan
+       y="-532.5858"
+       x="133.74919 137.25614 140.43987 142.07317 144.72275 147.43015"
+       id="tspan298">RS-232</tspan></text>
+  <path
+     transform="matrix(.97416,0,0,1.0265,147.09037,243.3963)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H17.257"
+     id="path299" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,488.18666,411.2896)"
+     stroke-width=".401"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0H42.072V-25.03H0Z"
+     id="path300" />
+  <text
+     fill="#030404"
+     xml:space="preserve"
+     transform="matrix(.9741566 0 -0 1.026529 0 792)"
+     font-size="6.406054"
+     font-family="ArialMT"
+     id="text302"><tspan
+       y="-388.78379"
+       x="510.4954 515.478 520.1621 524.4926 526.3305 529.9505"
+       id="tspan300">GHA 15</tspan><tspan
+       y="-381.0965"
+       x="513.28207 517.9072 522.18008 527.16397"
+       id="tspan301">RAGL</tspan><tspan
+       y="-373.40925"
+       x="507.9394 510.07325 515.0578 518.6202 520.40176 521.8245 525.3869 528.9493 532.5117 533.93447"
+       id="tspan302">(Optional)</tspan></text>
+  <path
+     transform="matrix(1,0,0,-1,509.318,385.844)"
+     d="M0 0-3.004 6.082C-1.127 5.142 1.031 5.192 2.815 6.18L0 0"
+     fill="#030404"
+     fill-rule="evenodd"
+     id="path302" />
+  <path
+     transform="matrix(.97416,0,0,1.0265,509.2246,381.38975)"
+     stroke-width="1.003"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#030404"
+     d="M0 0V-13.443"
+     id="path303" />
 </svg>
