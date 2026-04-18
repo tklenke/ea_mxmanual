@@ -12,11 +12,7 @@ The script was used to extract Figure 2-1 (G3X system architecture diagram) from
 (77KB vs 479KB for pdftocairo) lives at `docs/references/diagrams/g3x-system-architecture.svg`
 in the AR.
 
-**Open question for Architect:** `pdf_page_to_svg.py` currently lives loose in `tools/`.
-Consider whether it warrants its own subdirectory (similar to `PDFindexer/`) as PDF
-extraction scope grows — e.g., if we need to extract more diagrams from the G3X manual
-or other PDFs. A `tools/PDFExtractor/` or `tools/pdftools/` directory with its own
-design.md and venv setup instructions may be appropriate.
+**Location:** `tools/scripts/pdf_page_to_svg.py` — moved from tools/ root to scripts/ (2026-04-18).
 
 **Requires pymupdf:** `pip install pymupdf`. A venv was set up at `/tmp/pdfenv/` during
 the session that created this — ephemeral, not committed. Document venv setup if this
