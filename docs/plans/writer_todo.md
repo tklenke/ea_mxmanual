@@ -2,6 +2,12 @@
 
 ## In Progress
 
+### [~] Write safety-fire-and-fuel page — Section 2 (2026-04-17)
+
+Type 4 Reference page in Section 2 (Safety Precautions). Covers 100LL fire hazards, ignition source elimination, grounding (cross-ref to Section 15), and fuel system work precautions.
+
+**Status:** Draft complete and committed to WR. No open @@TOM flags. Pending Reviewer sign-off.
+
 ### [~] Write safety-electrical page — Section 2 (2026-04-17)
 
 Type 4 Reference page in Section 2 (Safety Precautions). Covers electrical hazards: de-energization procedure, short circuit hazards, LiFePO4 battery chemistry, and pre-energization checks.
