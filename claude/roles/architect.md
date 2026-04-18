@@ -29,6 +29,7 @@ When assuming the Architect role, read these files to understand the project con
 11. **docs/plans/architecture_decisions.md** - Recorded architectural decisions and rationale
 12. **docs/plans/poh_items.md** - Content identified as belonging in the POH, not this manual
 13. **`input/architect_todo/`** - Check for new tasks dropped by Tom; add each to `docs/plans/architect_todo.md`, then rename the input file with a `_pending` suffix (e.g., `task.md` → `task_pending.md`). Delete the file after the work is approved.
+14. **WR page inventory** - Run `Glob("**/*.md", path="/home/tom/projects/N657CZDashTwo")` to list all published pages, including sub-pages not in the TOC. Use this when evaluating structure or cross-references.
 
 ## Key Activities
 

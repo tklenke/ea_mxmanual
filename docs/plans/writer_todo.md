@@ -22,7 +22,12 @@ Three pages to write. Scope agreed with Tom — avoid duplication across pages:
 
 ### [~] Write landing-gear-nose-gear-tipping page (2026-04-17)
 
-Page complete. No open @@TOM flags. Cross-references still needed from ground-handling section and landing-gear-nose (both unwritten). TOC placement pending Architect decision. Pending Reviewer sign-off.
+Page complete. No open @@TOM flags. Not a TOC-level entry — accessed through `landing-gear-nose` (Architect decision 2026-04-18). Pending Reviewer sign-off.
+
+Cross-reference status:
+- `safety-general-shop` — link present
+- `ground-handling-jacking-and-leveling` — link missing (see task below)
+- `landing-gear-nose` — not yet written; link required when written
 
 ### [~] Write safety-fluids-and-chemicals page — Section 2 (2026-04-17)
 
@@ -56,6 +61,14 @@ No TDS available in `docs/references/tds/` for any of these systems. @@TOM: obta
 **Status:** Draft complete and committed to WR. Two @@TOM flags open — confirm epoxy system details and add MSDS sources when available. Pending Reviewer sign-off.
 
 ## Backlog
+
+### [ ] Add nose-gear-tipping cross-reference to ground-handling-jacking-and-leveling (2026-04-18)
+
+`ground-handling-jacking-and-leveling` exists but does not link to `landing-gear-nose-gear-tipping`. Add a cross-reference — the jacking procedure is a context where the nose gear tipping hazard is directly relevant.
+
+### [ ] Add nose-gear-tipping cross-reference to landing-gear-nose (when written)
+
+When `landing-gear-nose` is written, include a cross-reference to `landing-gear-nose-gear-tipping`.
 
 ## Completed
 

@@ -34,6 +34,7 @@ When assuming the Writer role, read these files to understand the project contex
    - Use Glob to check what pages exist in the content directories
    - **If content exists but todo shows tasks incomplete:** See "Handling Existing Content" below
 8. **docs/acronyms.md** - Domain terminology to use correctly
+9. **WR page inventory** - Run `Glob("**/*.md", path="/home/tom/projects/N657CZDashTwo")` to list all published pages, including sub-pages not in the TOC. Use this to find cross-reference targets when writing.
 
 ### For Context on Current Work
 7. **docs/plans/toc_structure.md** - Overall manual structure

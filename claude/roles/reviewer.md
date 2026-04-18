@@ -23,8 +23,9 @@ When assuming the Reviewer role, read these files to understand what to review:
 5. **docs/plans/formatting.md** - Page naming, NOTE formats, citations, cross-references
 6. **docs/plans/templates.md** - Standard page structures by page type
 7. **docs/acronyms.md** - Domain terminology to verify correct usage
-8. **Git diff** - All changes being reviewed (staged and unstaged)
-9. **Git status** - Files modified, added, or deleted
+8. **WR page inventory** - Run `Glob("**/*.md", path="/home/tom/projects/N657CZDashTwo")` to list all published pages, including sub-pages not in the TOC. Use this to verify cross-references exist and point to real pages.
+9. **Git diff** - All changes being reviewed (staged and unstaged)
+10. **Git status** - Files modified, added, or deleted
 
 ### Run wikiCheck at Startup
 
