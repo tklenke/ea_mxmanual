@@ -6,7 +6,7 @@
 
 Type 4 Reference page in Section 2 (Safety Precautions). Covers electrical hazards: de-energization procedure, short circuit hazards, LiFePO4 battery chemistry, and pre-energization checks.
 
-**Status:** Draft complete and committed to WR. @@TOM flags resolved — EarthX TDS added to references, backup battery location confirmed. Pending Reviewer sign-off.
+**Status:** Ready for Reviewer sign-off. All @@TOM flags resolved.
 
 ### [~] Write safety-composite-materials page — Section 2 (2026-04-17)
 
