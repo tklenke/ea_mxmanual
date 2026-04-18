@@ -11,6 +11,22 @@ When committing, verify you are in the correct repository before running `git ad
 
 ---
 
+## WR Asset Directories
+
+Static assets (non-Markdown files) are stored in the WR under `assets/`:
+
+- **`assets/diagrams/`** — SVG diagrams (system interconnects, component layouts, etc.)
+- **`assets/schematics/`** — electrical schematics and wiring diagrams
+- **`assets/photos/`** — photographs of components, installations, etc.
+
+Add new asset type subdirectories only when content exists for them. Do not create directories speculatively.
+
+**Naming convention:** `secNN-descriptive-name.ext` — include the section number so assets are identifiable without navigating the directory. Example: `sec17-g3x-system-interconnect.svg`.
+
+**Source files:** Working/editable source files for assets (e.g., AR copies of SVGs being edited) live in `docs/references/diagrams/` in the AR. The WR copy is the published version; the AR copy is the working copy.
+
+---
+
 ## Writing Style and Formatting
 
 Content standards are split across three documents. Read all three:

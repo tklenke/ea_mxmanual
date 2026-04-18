@@ -79,6 +79,20 @@ No TDS available in `docs/references/tds/` for any of these systems. @@TOM: obta
 
 ## Backlog
 
+### [ ] Publish G3X system interconnect diagram to WR — Section 17 (2026-04-18)
+
+A cleaned-up SVG of the G3X system interconnect diagram (based on Garmin installation manual Figure 2-1, edited for N657CZ) is in the AR at:
+
+`docs/references/diagrams/g3x-system-architecture.svg`
+
+**Task:** Copy it to the WR as `assets/diagrams/sec17-g3x-system-interconnect.svg` and embed it in the appropriate Section 17 page (likely `avionics-antennas` or a new system overview page for Section 17).
+
+**Asset directory structure:** The WR now has `assets/diagrams/`, `assets/schematics/`, and `assets/photos/` directories. See `claude/content_development_overview.md` for naming conventions and the AR/WR asset workflow.
+
+**Note on SVG state:** The diagram has been partially edited (components not installed on N657CZ are struck through). Tom was mid-edit in Inkscape when this task was created — verify the SVG is in its final state before publishing. The Architect's working copy in the AR is the source of truth.
+
+
+
 ### [ ] Add nose-gear-tipping cross-reference to ground-handling-jacking-and-leveling (2026-04-18)
 
 `ground-handling-jacking-and-leveling` exists but does not link to `landing-gear-nose-gear-tipping`. Add a cross-reference — the jacking procedure is a context where the nose gear tipping hazard is directly relevant.
@@ -87,15 +101,4 @@ No TDS available in `docs/references/tds/` for any of these systems. @@TOM: obta
 
 When `landing-gear-nose` is written, include a cross-reference to `landing-gear-nose-gear-tipping`.
 
-## Completed
 
-### [x] Write home.md and update README for WR (2026-04-16)
-- home.md: OtterWiki landing page with full 18-section TOC, committed to WR.
-- readme.md: Added disclaimer text to README.
-- Corrected wiki link format throughout (OtterWiki uses `[[Display Text|page-name]]`). Updated formatting.md and templates.md in AR to match.
-
-### [x] FIRST TASK: Write pilot pages — Canopy and Canopy Cleaning (2026-04-16)
-- panels-canopy.md: description (hinge right, electric actuator, manual latch bar, access door), specifications, inspection criteria. Committed to WR.
-- panels-canopy-cleaning.md: full Type 2 procedure — pre-rinse, Plexus, optional Pledge wax, solvents-to-avoid list per AC 43.13 ch03_p025. Committed to WR.
-- One @@TOM flag remains open: canopy seal type and inspection criteria.
-- Review checkpoint complete (2026-04-16): pages render correctly in OtterWiki, cross-link resolves, [TOC] renders. Templates and standards confirmed good — proceed with content development.
