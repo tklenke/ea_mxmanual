@@ -103,6 +103,7 @@
   - [[electrical-wiring|Wiring]]
 
 ===== 17. Avionics =====
+  - [[avionics-g3x-system|G3X System Overview]]
   - [[avionics-antennas|Antenna System]]
   - [[avionics-adahrs|ADAHRS (GSU 25C)]]
   - [[avionics-audio-panel|Audio Panel (GMA 245R)]]

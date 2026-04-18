@@ -24,17 +24,17 @@
 
 
 
-### [ ] Publish G3X system interconnect diagram to WR — Section 17 (2026-04-18)
+### [ ] Create avionics-g3x-system page and publish G3X diagram — Section 17 (2026-04-18)
 
-A cleaned-up SVG of the G3X system interconnect diagram (based on Garmin installation manual Figure 2-1, edited for N657CZ) is in the AR at:
+**Decision (Architect, 2026-04-18):** The G3X system interconnect diagram belongs on a new Type 1a System Page, `avionics-g3x-system` ("G3X System Overview"), added to the top of Section 17 in the TOC. This is the section entry point for the G3X avionics suite.
 
-`docs/references/diagrams/g3x-system-architecture.svg`
+**Tasks:**
+1. Create `avionics-g3x-system` in the WR as a Type 1a System Page.
+2. Copy the SVG from `docs/references/diagrams/g3x-system-architecture.svg` in the AR to the WR as `assets/diagrams/sec17-g3x-system-interconnect.svg`.
+3. Embed the diagram on the page.
+4. The page should describe the G3X system, list the installed components (linking to each component's page), and include the interconnect diagram.
 
-**Task:** Copy it to the WR as `assets/diagrams/sec17-g3x-system-interconnect.svg` and embed it in the appropriate Section 17 page (likely `avionics-antennas` or a new system overview page for Section 17).
-
-**Asset directory structure:** The WR now has `assets/diagrams/`, `assets/schematics/`, and `assets/photos/` directories. See `claude/content_development_overview.md` for naming conventions and the AR/WR asset workflow.
-
-**Note on SVG state:** The diagram has been partially edited (components not installed on N657CZ are struck through). Tom was mid-edit in Inkscape when this task was created — verify the SVG is in its final state before publishing. The Architect's working copy in the AR is the source of truth.
+**SVG state:** Confirmed finished by Tom (2026-04-18).
 
 ### [x] Add nose-gear-tipping cross-reference to landing-gear-nose (when written)
 
