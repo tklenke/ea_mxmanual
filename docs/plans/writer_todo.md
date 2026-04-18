@@ -2,6 +2,16 @@
 
 ## In Progress
 
+### [~] Write safety-electrical page — Section 2 (2026-04-17)
+
+Type 4 Reference page in Section 2 (Safety Precautions). Covers electrical hazards: de-energization procedure, short circuit hazards, LiFePO4 battery chemistry, and pre-energization checks.
+
+**Open @@TOM flags:**
+- Confirm backup battery location (believed to be under right front seat)
+- Obtain EarthX TDS/MSDS for ETX900-VNT and backup battery; add to `docs/references/tds/`
+
+**Status:** Draft complete and committed to WR. Two @@TOM flags open. Pending Reviewer sign-off.
+
 ### [~] Write safety-composite-materials page — Section 2 (2026-04-17)
 
 Type 4 Reference page in Section 2 (Safety Precautions). Covers hazards from composite materials encountered during maintenance and inspection of N657CZ.
