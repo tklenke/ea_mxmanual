@@ -1,6 +1,6 @@
-# EA MX Manual
+# EA Manual Agent
 
-A maintenance manual system for experimental aircraft, built on Claude Code and Otterwiki.
+A documentation generation system for experimental aircraft, built on Claude Code and Otterwiki.
 
 The manual itself lives in a separate wiki repository (the "WR") as a flat collection of
 Markdown files served by Otterwiki. This repository (the "AR") holds everything that
@@ -12,7 +12,7 @@ behaves.
 
 ## What This System Is
 
-Most homebuilders end up with maintenance notes scattered across binders, sticky notes,
+Most homebuilders end up with notes scattered across binders, sticky notes,
 and memory. This system replaces that with a searchable, versioned maintenance manual —
 written collaboratively between you and an AI assistant (Claude Code), and published
 through Otterwiki so it reads like a real manual.
