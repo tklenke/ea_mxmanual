@@ -2,6 +2,12 @@
 
 ## In Progress
 
+### [~] Write landing-gear-nose-gear-tipping page (2026-04-17)
+
+Dedicated page for the nose gear tipping hazard. Stub committed to WR. Two @@TOM flags open — additional scenarios and tipping point details. Waiting on Tom's additional details.
+
+Cross-references planned from: safety-general-shop (done), ground-handling section (pending), landing-gear-nose (pending). TOC placement pending Architect decision.
+
 ### [~] Write safety-fluids-and-chemicals page — Section 2 (2026-04-17)
 
 Type 4 Reference page in Section 2. Covers AeroShell W100+, MIL-H-5606A, IPA, brake cleaner, Simple Green, Permatex thread sealant, LPS aerosols. No open @@TOM flags. Ready for Reviewer sign-off.
