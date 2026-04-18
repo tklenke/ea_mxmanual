@@ -2,6 +2,16 @@
 
 ## In Progress
 
+### [~] Section 3 — Aircraft General (2026-04-17)
+
+Three pages to write. Scope agreed with Tom — avoid duplication across pages:
+
+- **aircraft-general-layout** — Configuration and physical orientation. Canard pusher, composite, 4-seat. Where major systems/access points are physically located (canopy, cowling, firewall cover, nose cone, under-seat areas). No specs, no system descriptions.
+- **aircraft-dimensions-and-weight** — Already exists with @@TOM flags. Leave flagged for now.
+- **aircraft-systems-overview** — Inventory of major systems on N657CZ, one-sentence description each, cross-ref to section. No layout, no specs.
+
+**Session state (2026-04-17):** Tom is drafting extended response with aircraft general details. Next action: receive Tom's input and write aircraft-general-layout first.
+
 ### [~] Write landing-gear-nose-gear-tipping page (2026-04-17)
 
 Page complete. No open @@TOM flags. Cross-references still needed from ground-handling section and landing-gear-nose (both unwritten). TOC placement pending Architect decision. Pending Reviewer sign-off.
