@@ -14,6 +14,14 @@ This document defines formatting conventions for the ea_mxmanual maintenance man
 - Names must describe content, not document history or status
 - NEVER use temporal or status terms in names (e.g., "new-procedure", "updated-checklist", "revised-spec")
 - Names must be evergreen — valid regardless of when they are read
+- NEVER use manufacturer names or model numbers in page slugs — use the functional/descriptive name instead. Model and manufacturer information belongs in the wiki link display text only.
+
+**Examples:**
+- `avionics-primary-flight-display` ✓ — not `avionics-gdu-460-pfd` ✗
+- `avionics-backup-instrument` ✓ — not `avionics-g5-backup-instrument` ✗
+- Link text retains the model: `[[Primary Flight Display (GDU 460)|avionics-primary-flight-display]]`
+
+**Why:** Page slugs are permanent identifiers. A functional slug remains valid if a component is replaced with a different model; a model-based slug becomes wrong and requires page renames and link updates across the manual.
 
 ---
 

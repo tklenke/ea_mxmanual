@@ -4,7 +4,7 @@
 
 ## Backlog
 
-### [ ] Add page naming standard: no manufacturer names or model numbers in slugs
+### [x] Add page naming standard: no manufacturer names or model numbers in slugs
 
 Page slugs must use functional/descriptive names. Manufacturer names and model numbers belong in the link display text only, not in the slug.
 
