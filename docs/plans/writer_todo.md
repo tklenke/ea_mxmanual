@@ -36,6 +36,3 @@
 
 **SVG state:** Confirmed finished by Tom (2026-04-18).
 
-### [x] Add nose-gear-tipping cross-reference to landing-gear-nose (when written)
-
-When `landing-gear-nose` is written, include a cross-reference to `landing-gear-nose-gear-tipping`.
