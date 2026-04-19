@@ -103,16 +103,17 @@
   - [[electrical-wiring|Wiring]]
 
 ===== 17. Avionics =====
-  - [[avionics-g3x-system|G3X System Overview]]
-  - [[avionics-antennas|Antenna System]]
+  - [[avionics-system-overview|G3X System Overview]]
   - [[avionics-adahrs|ADAHRS (GSU 25C)]]
-  - [[avionics-audio-panel|Audio Panel (GMA 245R)]]
+  - [[avionics-antennas|Antenna System]]
+  - [[avionics-arinc-429-adapter|ARINC 429 Adapter (GAD 29)]]
+  - [[avionics-audio-panel|Audio Panel (GMA 245)]]
   - [[avionics-autopilot|Autopilot]]
+  - [[avionics-backup-instrument|Backup Instrument (G5)]]
   - [[avionics-engine-data-acquisition|Engine Data Acquisition (GEA 24)]]
-  - [[avionics-g5-backup-instrument|G5 Backup Instrument]]
-  - [[avionics-gdu-460-pfd|GDU 460 PFD]]
   - [[avionics-gps-and-navigation|GPS and Navigation (GNC 355)]]
   - [[avionics-magnetometer|Magnetometer (GMU 11)]]
+  - [[avionics-primary-flight-display|Primary Flight Display (GDU 460)]]
   - [[avionics-transponder-adsb|Transponder and ADS-B (GTX 45R)]]
   - [[avionics-vhf-communication|VHF Communication (GTR 20)]]
 

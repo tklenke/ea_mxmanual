@@ -24,12 +24,12 @@
 
 
 
-### [~] Create avionics-g3x-system page and publish G3X diagram — Section 17 (2026-04-18)
+### [~] Create avionics-system-overview page and publish G3X diagram — Section 17 (2026-04-18)
 
-**Decision (Architect, 2026-04-18):** The G3X system interconnect diagram belongs on a new Type 1a System Page, `avionics-g3x-system` ("G3X System Overview"), added to the top of Section 17 in the TOC. This is the section entry point for the G3X avionics suite.
+**Decision (Architect, 2026-04-18):** The G3X system interconnect diagram belongs on a new Type 1a System Page, `avionics-system-overview` ("G3X System Overview"), added to the top of Section 17 in the TOC. This is the section entry point for the G3X avionics suite.
 
 **Tasks:**
-1. Create `avionics-g3x-system` in the WR as a Type 1a System Page.
+1. Create `avionics-system-overview` in the WR as a Type 1a System Page.
 2. Copy the SVG from `docs/references/diagrams/g3x-system-architecture.svg` in the AR to the WR as `assets/diagrams/sec17-g3x-system-interconnect.svg`.
 3. Embed the diagram on the page.
 4. The page should describe the G3X system, list the installed components (linking to each component's page), and include the interconnect diagram.

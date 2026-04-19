@@ -101,7 +101,7 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ## Section 17: G3X System Overview Page at Top of Section
 
-**Decision:** `avionics-g3x-system` is added as the first page in Section 17, ahead of the alphabetical component listing. It is a Type 1a System Page and the home for the G3X system interconnect diagram.
+**Decision:** `avionics-system-overview` is added as the first page in Section 17, ahead of the alphabetical component listing. It is a Type 1a System Page and the home for the G3X system interconnect diagram.
 
 **Reasoning:** A system interconnect diagram is section-level content that belongs on a system overview page, not on any individual component page. Placing it first gives a maintainer context before navigating to specific components. This is a justified override of the alphabetical default ordering.
 
