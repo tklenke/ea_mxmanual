@@ -52,7 +52,8 @@ ea_mxmanual/
 │       ├── electrical/              - Aircraft electrical engineering reports
 │       │   └── engineering_report.md - kicad2wireBOM wire harness analysis
 │       │                              for N657CZ (component inventory, wire BOM)
-│       └── tds/                     - Manufacturer Technical Data Sheets (PDF)
+│       ├── tds/                     - Manufacturer Technical Data Sheets and install guides (PDF)
+│       └── checklists/              - Community and source reference checklists (CSV)
 ├── input/                           - Drop zone for passing instructions to Claude between sessions
 │   ├── architect_todo/              - New architectural tasks for Architect to pick up at session start
 │   ├── writer_todo/                 - New writing tasks for Writer to pick up at session start
@@ -84,7 +85,8 @@ All files in `docs/references/` are **READ ONLY**. Never modify these files.
 
 - **`docs/references/AC43_13/`** — FAA Advisory Circular 43.13. Text files extracted from the PDF, organized by chapter and page.
 - **`docs/references/electrical/engineering_report.md`** — Wire harness engineering report for N657CZ generated from the KiCad schematic. Contains the authoritative component inventory (LRU list), wire BOM, and electrical calculations. Use this as the reference for what avionics and electrical equipment is actually installed on the aircraft.
-- **`docs/references/tds/`** — Manufacturer Technical Data Sheets for specific products used on the aircraft.
+- **`docs/references/tds/`** — Manufacturer Technical Data Sheets and installation guides for specific products used on the aircraft.
+- **`docs/references/checklists/`** — Community and source reference checklists used as inputs during content development (e.g., the Zeitlin ACI checklist).
 
 When AC 43.13 and a TDS conflict, the TDS takes precedence. See `docs/plans/formatting.md` for the Source Conflict NOTE format.
 

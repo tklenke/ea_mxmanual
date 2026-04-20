@@ -73,7 +73,8 @@ All reference materials are in `docs/references/` and are **READ ONLY**. Never m
 
 - **`docs/references/AC43_13/`** — FAA Advisory Circular 43.13, *Acceptable Methods, Techniques, and Practices — Aircraft Inspection and Repair*. Files are named by chapter and page (e.g., `ch01_p001.txt`). Appendices are also available. This is the baseline reference for general aircraft maintenance practices.
 
-- **`docs/references/tds/`** — Manufacturer Technical Data Sheets for specific products used on the aircraft (e.g., sealants, adhesives, thread compounds). These are product-specific documents from the manufacturer.
+- **`docs/references/tds/`** — Manufacturer Technical Data Sheets and installation guides for specific products used on the aircraft (e.g., sealants, adhesives, thread compounds, component install guides).
+- **`docs/references/checklists/`** — Community and source reference checklists used as inputs during content development (e.g., the Zeitlin ACI checklist).
 
 - **`docs/acronyms.md`** — list of acronymns used during development.  not necessarily for inclusion in the content.  short hand for discussions between Claude and Tom.  When Tom uses a term followed by a parenthesis with an acronym that means "here's a new one add it to this file."  Read this file on startup.
 

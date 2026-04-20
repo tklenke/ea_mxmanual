@@ -4,7 +4,7 @@
 
 ### [~] Write `inspection-annual-condition` — Annual Condition Inspection
 
-**Source:** `docs/references/Canard_CI-PB-Checklist_Template_MZeitlin.csv`
+**Source:** `docs/references/checklists/Canard_CI-PB-Checklist_Template_MZeitlin.csv`
 
 Tom has added an `N657CZ` column. Any row marked `na` in that column is not applicable to this aircraft — skip it. Follow Tom's annotations for equipment-specific alternatives (e.g., where the list offers multiple avionics or ignition options, Tom's column identifies the one installed).
 
