@@ -42,7 +42,7 @@ These apply to all manual content regardless of role.
 
 - If the project isn't in a git repo, STOP and ask permission to initialize one.
 - YOU MUST STOP and ask how to handle uncommitted changes or untracked files when starting work. Suggest committing existing work first.
-- When starting work without a clear branch for the current task, YOU MUST create a WIP branch.
+- Both repos (AR and WR) commit directly to main. Do not create branches without Tom's explicit approval. If you see a reason to branch, raise it with Tom and wait for a decision before proceeding.
 - YOU MUST track all non-trivial changes in git.
 - YOU MUST commit frequently throughout the writing process, even if high-level tasks are not yet done.
 - NEVER SKIP, EVADE OR DISABLE A PRE-COMMIT HOOK

@@ -94,7 +94,7 @@ See `docs/plans/formatting.md` for the full block format and rules.
 - Write clear commit messages explaining what was added and why
 - Never skip or disable pre-commit hooks
 - Use `git status` before `git add` to avoid adding unintended files
-- Create WIP branches for new work
+- Both repos commit directly to main — do not create branches without Tom's explicit approval
 
 ### 7. Progress Tracking
 
