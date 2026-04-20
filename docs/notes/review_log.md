@@ -32,5 +32,5 @@ Last updated: 2026-04-19
 | powerplant-cooling-system | pending | 2026-04-18 |
 | avionics-arinc-429-adapter | Approved | 2026-04-19 |
 | avionics-system-overview | Approved | 2026-04-19 |
-| landing-gear-nose | unreviewed | — |
+| landing-gear-nose | pending | 2026-04-19 |
 | landing-gear-nose-gear-actuator | unreviewed | — |
