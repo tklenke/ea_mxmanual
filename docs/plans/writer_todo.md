@@ -2,7 +2,7 @@
 
 ## Backlog
 
-### [ ] Write `inspection-annual-condition` — Annual Condition Inspection
+### [~] Write `inspection-annual-condition` — Annual Condition Inspection
 
 **Source:** `docs/references/Canard_CI-PB-Checklist_Template_MZeitlin.csv`
 
