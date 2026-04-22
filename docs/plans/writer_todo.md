@@ -8,9 +8,9 @@ Created `avionics-arinc-429-adapter-pinouts` sub-page (J291, J292 tables). Compo
 
 **Pattern established:** connector pinouts live on a dedicated `*-pinouts` sub-page, linked from the component page Specifications section. Use this pattern for all avionics component pages.
 
-### [ ] Add connector pinout sub-pages for remaining avionics LRUs (Section 17)
+### [x] Add connector pinout sub-pages for remaining avionics LRUs (Section 17)
 
-Create a `[component-slug]-pinouts` page for each LRU below, linked from the component page. Input files have been consumed (renamed `_pending`):
+Created all 9 pinout sub-pages as orphans (no component pages exist yet to link from). @@TOM: flags on each page for source manual confirmation. Pages need Reviewer once citations are resolved. Input files consumed (renamed `_pending`):
 
 - `avionics-primary-flight-display` (GDU 460) — GDU460_conn.md: P4X01 (DE9), P4X02 (DB50), P4X03 (DE9)
 - `avionics-engine-data-acquisition` (GEA 24) — GEA24_conn.md: J241 (DE9), J242 (DB25), J243 (DB37), J244 (DB50)
