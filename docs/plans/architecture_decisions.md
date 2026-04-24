@@ -242,6 +242,50 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ---
 
+## Section 16: Electrical Schematics on Separate Sub-Pages
+
+**Decision:** Each KiCad electrical schematic sheet is published as a dedicated sub-page, not embedded inline on `electrical-bus-architecture`. The TOC entry for `electrical-bus-architecture` is labeled "Bus Architecture and Schematics" to signal where schematics live.
+
+**Reasoning:** Separate pages produce clean print output and allow precise cross-linking — any page that references a specific subsystem can link directly to the relevant schematic sheet rather than to the full bus architecture page.
+
+**Sub-pages (not in TOC — accessed from `electrical-bus-architecture` and linked from relevant system pages):**
+
+| Slug | Source SVG | Covers |
+|------|------------|--------|
+| `electrical-schematic-top` | `N657CZ_elec-Top.svg` | Top-level power distribution |
+| `electrical-schematic-avionics` | `N657CZ_elec-Avionics.svg` | Avionics electrical |
+| `electrical-schematic-alarm-lighting` | `N657CZ_elec-Alrm_Lght_Sys.svg` | Alarm and lighting system |
+| `electrical-schematic-mechanical` | `N657CZ_elec-Mech_Sys.svg` | Mechanical systems |
+
+**Asset storage:** WR at `assets/schematics/sec16-electrical-[name].svg`. AR working copies at `docs/references/diagrams/electrical/`.
+
+**Embed syntax** (following `avionics-system-overview` pattern):
+```html
+<img src="/assets/schematics/sec16-electrical-[name].svg" style="width:100%" alt="[Description]">
+```
+
+**Page structure:** Minimal — H1, status block, one-sentence description of what the sheet covers, full-width embedded SVG.
+
+**`electrical-bus-architecture` page** is the hub: describes the three-bus architecture (battery, main, endurance), links to all four schematic sub-pages. The bus architecture description is substantive content — what is on each bus and why (load shedding rationale, etc.) — not just a schematic index.
+
+**Cross-links:** `avionics-system-overview` links to `electrical-schematic-avionics`. `electrical-lighting` links to `electrical-schematic-alarm-lighting`. Mechanical component pages link to `electrical-schematic-mechanical` as relevant.
+
+---
+
+## Section 16: Wire Marking Standard as Separate Page
+
+**Decision:** The EA wire marking standard is published as a dedicated page `electrical-wire-marking` in Section 16. The `electrical-wiring` page covers physical installation standards (routing, clamping, bundling per AC 43.13) and links to `electrical-wire-marking` for identification/labeling.
+
+**Reasoning:** The wire marking standard is a standalone reference used across multiple sections (Section 16 wiring, Section 17 avionics data bus wiring). Keeping it on a dedicated page makes it directly linkable from any page that discusses wire identification.
+
+**Source:** `docs/references/electrical/ea_wire_marking_standard.md` is the authoritative source. The Writer publishes it in manual page format.
+
+**TOC:** `electrical-wire-marking` is added to Section 16 after `electrical-wiring`.
+
+**Cross-links:** Avionics pages that mention CAN bus or ARINC 429 wire labels reference the D-code ranges and link to `electrical-wire-marking`.
+
+---
+
 ## Wire Marking Convention
 
 **Decision:** All wiring on N657CZ uses the EA wire marking standard documented in `docs/references/electrical/ea_wire_marking_standard.md`.

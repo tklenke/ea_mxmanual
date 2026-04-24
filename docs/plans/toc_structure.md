@@ -96,11 +96,12 @@
 
 ===== 16. Electrical System =====
   - [[electrical-batteries|Batteries]]
-  - [[electrical-bus-architecture|Bus Architecture]]
+  - [[electrical-bus-architecture|Bus Architecture and Schematics]]
   - [[electrical-circuit-protection|Circuit Protection]]
   - [[electrical-lighting|Lighting]]
   - [[electrical-switches-and-controls|Switches and Controls]]
   - [[electrical-wiring|Wiring]]
+  - [[electrical-wire-marking|Wire Marking Standard]]
 
 ===== 17. Avionics =====
   - [[avionics-system-overview|G3X System Overview]]

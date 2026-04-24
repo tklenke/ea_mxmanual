@@ -6,14 +6,45 @@
 
 `docs/plans/architecture_decisions.md` was updated (2026-04-23) to add the Connector Pinout Sub-Pages decision. Re-publish by updating `manual-standards.md` in the WR to match. Copy in the new decision section.
 
-### [ ] Wire marking convention — `electrical-wiring` and avionics data bus pages
+### [ ] Write `electrical-wire-marking` — Wire Marking Standard (Section 16)
 
-Reference `docs/references/electrical/ea_wire_marking_standard.md` when drafting content that involves wire identification:
+New TOC page. Source: `docs/references/electrical/ea_wire_marking_standard.md` — publish this into manual page format. The content is complete and authoritative; the task is adaptation to our style and format (status block, headings, citations, NOTE format).
 
-- **`electrical-wiring` (Section 16):** Include a section describing the wire marking convention used on N657CZ (label format, system codes, segment letters). This gives a maintainer the vocabulary to interpret wire labels during inspection or repair.
-- **Avionics data bus pages (Section 17):** Where CAN bus or ARINC 429 wiring is discussed (e.g., `avionics-adahrs`, `avionics-arinc-429-adapter`), reference the D-code circuit ID ranges (D001–D009 for CAN, D010–D099 for ARINC 429) so wire labels in the harness can be correlated to the documentation.
+Content covers: label format (system code + circuit ID + segment ID), system codes, wire color conventions, data bus circuit ID ranges (CAN D001–D009, ARINC 429 D010–D099, non-bus D100+), references (MIL-STD-681E, MIL-W-5088L, AC 43.13-1B Ch. 11).
 
-Wire gauge, insulation type, and endpoints are recorded in the wiring log / schematic notes, not on the label itself — do not present the label alone as a complete wire specification.
+### [ ] Write `electrical-wiring` — Wiring (Section 16)
+
+Physical installation standards for wiring on N657CZ. Sources: AC 43.13-1B Chapter 11. Content covers: routing (clearance, chafe protection, separation from heat/fuel), clamping intervals, bundling, shielding, connector installation. Link to `electrical-wire-marking` for labeling/identification standard.
+
+Do NOT duplicate wire marking content here — that belongs on `electrical-wire-marking`.
+
+### [ ] Write `electrical-bus-architecture` — Bus Architecture and Schematics (Section 16)
+
+Hub page for the electrical system. Two parts:
+
+**1. Bus architecture description:** Explain the three-bus design (battery bus, main bus, endurance bus) — what is connected to each, why the architecture is structured this way (load shedding, essential equipment on endurance bus). Source: `docs/references/electrical/engineering_report.md` for component assignments; Tom for rationale. Use FH1 (Battery Bus), FH2 (Endurance Bus), FH3 (Main Bus), FH6 (G3X Bus) as the reference fuse holders.
+
+**2. Schematic index:** Links to all four schematic sub-pages with a one-line description of each sheet.
+
+### [ ] Publish electrical schematic sub-pages (Section 16)
+
+Four sub-pages, each with a one-sentence description and a full-width embedded SVG. Not in TOC — accessed from `electrical-bus-architecture`.
+
+Copy source SVGs from AR `docs/references/diagrams/electrical/` to WR `assets/schematics/`, renaming per convention:
+
+| Slug | AR source | WR asset |
+|------|-----------|----------|
+| `electrical-schematic-top` | `N657CZ_elec-Top.svg` | `assets/schematics/sec16-electrical-top.svg` |
+| `electrical-schematic-avionics` | `N657CZ_elec-Avionics.svg` | `assets/schematics/sec16-electrical-avionics.svg` |
+| `electrical-schematic-alarm-lighting` | `N657CZ_elec-Alrm_Lght_Sys.svg` | `assets/schematics/sec16-electrical-alarm-lighting.svg` |
+| `electrical-schematic-mechanical` | `N657CZ_elec-Mech_Sys.svg` | `assets/schematics/sec16-electrical-mechanical.svg` |
+
+Embed syntax:
+```html
+<img src="/assets/schematics/sec16-electrical-[name].svg" style="width:100%" alt="[Description]">
+```
+
+After publishing, add cross-links: `avionics-system-overview` → `electrical-schematic-avionics`; `electrical-lighting` → `electrical-schematic-alarm-lighting`.
 
 ### [~] Add citations to avionics pinout sub-pages
 
