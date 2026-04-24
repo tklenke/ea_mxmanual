@@ -45,7 +45,7 @@ Last updated: 2026-04-23
 | avionics-primary-flight-display-pinouts | pending | 2026-04-23 |
 | avionics-transponder-adsb-pinouts | pending | 2026-04-23 |
 | avionics-vhf-communication-pinouts | pending | 2026-04-23 |
-| electrical-bus-architecture | unreviewed | |
+| electrical-bus-architecture | Approved | 2026-04-23 |
 | electrical-schematic-alarm-lighting | unreviewed | |
 | electrical-schematic-avionics | unreviewed | |
 | electrical-schematic-mechanical | unreviewed | |
