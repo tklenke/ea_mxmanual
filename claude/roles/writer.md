@@ -41,6 +41,15 @@ When assuming the Writer role, read these files to understand the project contex
 8. **docs/plans/** - Content plan for the section being written
 9. **docs/references/** - Reference materials relevant to the topic
 
+### For Electrical and Avionics Content (Sections 16–17)
+
+When writing any electrical or avionics component page, consult the electrical BOM files **before drafting**:
+
+- **`docs/references/electrical/component_bom.csv`** — look up the component's reference designator to get: current draw (Amps), power source (which bus via the fuse holder), and location (FS/WL/BL). Use for the Specifications table.
+- **`docs/references/electrical/wire_bom.csv`** — filter by component name to find all wires terminating at that component. Use the wire label and gauge for the "Power wire" and "Ground wire" entries in the Specifications table. Wire color and length are also available.
+
+These files are the authoritative source for wire labels and component electrical specs. Do not estimate or infer values that are in the BOM.
+
 **When You See Plan Inconsistencies:**
 - If plan docs conflict or seem confusing, **STOP immediately**
 - Say "Strange things are afoot at the Circle K" to alert Tom

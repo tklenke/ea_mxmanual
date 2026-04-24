@@ -74,6 +74,12 @@ All reference materials are in `docs/references/` and are **READ ONLY**. Never m
 - **`docs/references/AC43_13/`** — FAA Advisory Circular 43.13, *Acceptable Methods, Techniques, and Practices — Aircraft Inspection and Repair*. Files are named by chapter and page (e.g., `ch01_p001.txt`). Appendices are also available. This is the baseline reference for general aircraft maintenance practices.
 
 - **`docs/references/tds/`** — Manufacturer Technical Data Sheets and installation guides for specific products used on the aircraft (e.g., sealants, adhesives, thread compounds, component install guides).
+
+- **`docs/references/electrical/`** — Electrical reference data generated from the KiCad schematic. Three files:
+  - `engineering_report.md` — overall wire harness analysis: total component count, wire count, lengths by gauge. Use for system-level electrical summaries.
+  - `component_bom.csv` — every electrical component: reference designator, description, model/part number, current draw (Amps), and location (FS/WL/BL). **Consult when writing specs tables for any electrical or avionics component.**
+  - `wire_bom.csv` — every wire: label, from/to component and pin, gauge, color, length, wire type. **Consult when writing wire identification entries in specs tables, or when writing the wire cross-reference page.** Note: pin numbers are schematic symbol pins, not physical connector pins.
+
 - **`docs/references/checklists/`** — Community and source reference checklists used as inputs during content development (e.g., the Zeitlin ACI checklist).
 
 - **`docs/acronyms.md`** — list of acronymns used during development.  not necessarily for inclusion in the content.  short hand for discussions between Claude and Tom.  When Tom uses a term followed by a parenthesis with an acronym that means "here's a new one add it to this file."  Read this file on startup.

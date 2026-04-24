@@ -137,6 +137,11 @@ For any procedure, specification, or value, you MUST verify against the availabl
 - If a TDS and AC 43.13 conflict, the TDS takes precedence — verify a source conflict NOTE is present (see `docs/plans/standards.md`)
 - If content cites a source, verify the citation is accurate and the source actually supports the claim
 
+**Electrical and Avionics Pages (Sections 16–17) — Additional Checks:**
+- **Wire labels** (e.g., `A11A`, `G106A`): verify against `docs/references/electrical/wire_bom.csv`. Confirm the label, gauge, and endpoints match the BOM entry for that component.
+- **Current draw and power source**: verify against `docs/references/electrical/component_bom.csv`. The Amps column and the fuse holder (FH) the component connects to are authoritative.
+- **Location data** (FS/WL/BL): verify against `component_bom.csv` if cited on a W&B or location-related page.
+
 ### 4. Structure and Completeness
 - Content covers what the plan specifies — no more, no less
 - Page and section structure matches `docs/plans/toc_structure.md`

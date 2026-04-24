@@ -6,6 +6,20 @@
 
 `docs/plans/architecture_decisions.md` was updated (2026-04-23) to add the Connector Pinout Sub-Pages decision. Re-publish by updating `manual-standards.md` in the WR to match. Copy in the new decision section.
 
+### [ ] Write `electrical-wire-reference` — Wire Cross-Reference (Section 16)
+
+Source: `docs/references/electrical/wire_bom.csv`. Format the entire wire BOM as a wiki table — do not transcribe by hand; process the CSV systematically.
+
+**Table columns:** Wire Label | From | To | Gauge (AWG) | Color | Length (in) | Notes
+
+**From/To:** Use human-readable descriptions from `component_bom.csv`, not schematic reference designators (e.g., "ARINC 429 Adapter (GAD 29)" not "LRU24"). For fuse holders and buses, use their functional name (e.g., "Main Bus (FH3)").
+
+**Organization:** Sort by wire label — alphabetical by system code letter, then numerically within each code. This groups all A-code wires together, all G-code grounds, etc.
+
+**Add a NOTE near the top:** Pin numbers in this table are schematic symbol pins, not physical connector pins. For physical connector pin assignments, see the relevant component's pinouts page.
+
+**Maintenance note (include as a comment in the source, not published content):** This table is generated from `wire_bom.csv` rev 4 (2026-04-23). When the schematic is revised, regenerate from the updated CSV.
+
 ### [ ] Write `electrical-wire-marking` — Wire Marking Standard (Section 16)
 
 New TOC page. Source: `docs/references/electrical/ea_wire_marking_standard.md` — publish this into manual page format. The content is complete and authoritative; the task is adaptation to our style and format (status block, headings, citations, NOTE format).

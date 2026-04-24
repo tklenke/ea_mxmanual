@@ -102,6 +102,7 @@
   - [[electrical-switches-and-controls|Switches and Controls]]
   - [[electrical-wiring|Wiring]]
   - [[electrical-wire-marking|Wire Marking Standard]]
+  - [[electrical-wire-reference|Wire Cross-Reference]]
 
 ===== 17. Avionics =====
   - [[avionics-system-overview|G3X System Overview]]

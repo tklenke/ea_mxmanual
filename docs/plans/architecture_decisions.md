@@ -272,6 +272,24 @@ When in doubt whether something belongs here: if a future Architect or Writer wo
 
 ---
 
+## Section 16: Wire Cross-Reference Page
+
+**Decision:** A dedicated `electrical-wire-reference` page in Section 16 publishes the complete wire BOM as a formatted reference table. It is a TOC-level page.
+
+**Reasoning:** A maintainer tracing a wire label in the field needs to look up where it goes, what gauge it is, and what color. Publishing the wire BOM as a manual page makes this accessible without requiring access to the KiCad schematic.
+
+**Source:** `docs/references/electrical/wire_bom.csv` (authoritative, read-only). The Writer formats this into a wiki table — not transcribed by hand, but formatted from the CSV data.
+
+**Table columns:** Wire Label | From | To | Gauge (AWG) | Color | Length (in) | Notes. The From/To columns use human-readable component descriptions (from `component_bom.csv`), not schematic reference designators.
+
+**Organization:** Sorted by wire label (alphabetical by system code, then numerically within code). This groups related circuits together (all A-code avionics wires, all G-code grounds, etc.).
+
+**Limitation note:** Pin numbers in the BOM are schematic symbol pins, not physical connector pins. The page should include a NOTE stating this — for physical connector pin assignments, see the relevant component's `[component]-pinouts` page.
+
+**Maintenance:** When the schematic is revised and a new wire_bom.csv is generated, the page must be updated to match. The Writer task should note this dependency.
+
+---
+
 ## Section 16: Wire Marking Standard as Separate Page
 
 **Decision:** The EA wire marking standard is published as a dedicated page `electrical-wire-marking` in Section 16. The `electrical-wiring` page covers physical installation standards (routing, clamping, bundling per AC 43.13) and links to `electrical-wire-marking` for identification/labeling.
