@@ -11,40 +11,39 @@ When done, save the file — Architect will pick it up to create the Writer task
 
 | Reference | Description | Model / Part No. | FS | WL | BL | Weight (lbs) | Source |
 |-----------|-------------|------------------|----|----|----|:------------:|--------|
-| A1 | Alternator, Alt | SD8 | 138.9 | 13.0 | 3.5 | | |
-| A2 | Alternator, Main | LX60 | 167.2 | 15.1 | 8.3 | | |
-| M2 | Starter | BCS206-149-12 | 166.7 | 10.0 | -5.3 | | |
-| LRU6 | Electronic Ignition | Plasma III | 122.5 | 25.8 | -5.5 | | |
-| LRU7 | Magneto, Non-Impulse | (see schematic) | 130.8 | 24.5 | -6.2 | | |
-| LRU17 | Fuel Boost Pump | PN 2090255 Aux Pump | 122.2 | 9.6 | 2.0 | | |
-| LRU12 | Electric Primer Valve | (see schematic) | 122.0 | 10.0 | 4.0 | | |
+| A1 | Alternator, Alt | SD8 | 138.9 | 13.0 | 3.5 | 2.9 | |
+| A2 | Alternator, Main | LX60 | 167.2 | 15.1 | 8.3 | 7.1 | |
+| M2 | Starter | BCS206-149-12 | 166.7 | 10.0 | -5.3 | 10.2 | |
+| LRU6 | Electronic Ignition | Plasma III | 122.5 | 25.8 | -5.5 | 1.7 | |
+| LRU7 | Magneto, Non-Impulse | (see schematic) | 130.8 | 24.5 | -6.2 | 6.2 |
+| LRU17 | Fuel Boost Pump | PN 2090255 Aux Pump | 122.2 | 9.6 | 2.0 | 3 | |
+| LRU12 | Electric Primer Valve | (see schematic) | 122.0 | 10.0 | 4.0 | @@TOM | |
 
 ## Batteries
 
 | Reference | Description | Model / Part No. | FS | WL | BL | Weight (lbs) | Source |
 |-----------|-------------|------------------|----|----|----|:------------:|--------|
-| BT2 | Main Battery | ETX900-VNT | 121.1 | 27.2 | 1.4 | | |
-| BT1 | Brownout Battery | EXT104/EBBS | 44.0 | 4.2 | -5.9 | | |
+| BT2 | Main Battery | ETX900-VNT | 121.1 | 27.2 | 1.4 | 5.4 | |
+| BT1 | Brownout Battery | EXT104/EBBS | 44.0 | 4.2 | -5.9 | 1.3 | |
 
 ## Actuators
 
 | Reference | Description | Model / Part No. | FS | WL | BL | Weight (lbs) | Source |
 |-----------|-------------|------------------|----|----|----|:------------:|--------|
-| LRU14 | Canopy Actuator | Linear Actuator | 88.7 | 23.0 | -1.5 | | |
-| LRU15 | Landing Brake Actuator | Linear Actuator | 81.6 | 14.7 | -1.5 | | |
-| LRU16 | Nose Gear Actuator | Linear Actuator | 30.6 | 14.5 | 0.8 | | |
-| LRU18 | Autopilot Pitch Servo | GSA 28 | 34.8 | 8.0 | -18.7 | | |
-| LRU19 | Autopilot Roll Servo | GSA 28 | 162.2 | 13.8 | 59.5 | | |
-| LRU4 | Nose Gear Auto-Retract | TBD | 40.0 | 10.0 | -1.0 | | |
+| LRU14 | Canopy Actuator | Linear Actuator | 88.7 | 23.0 | -1.5 | @@TOM | |
+| LRU15 | Landing Brake Actuator | Linear Actuator | 81.6 | 14.7 | -1.5 | @@TOM | |
+| LRU16 | Nose Gear Actuator | Linear Actuator | 30.6 | 14.5 | 0.8 | @@TOM | |
+| LRU18 | Autopilot Pitch Servo | GSA 28 | 34.8 | 8.0 | -18.7 | 1.4 | |
+| LRU19 | Autopilot Roll Servo | GSA 28 | 162.2 | 13.8 | 59.5 | 1.4 | |
 
 ## Avionics
 
 | Reference | Description | Model / Part No. | FS | WL | BL | Weight (lbs) | Source |
 |-----------|-------------|------------------|----|----|----|:------------:|--------|
-| LRU33 | Primary Flight Display | GDU 460 | 38.5 | 18.9 | 6.0 | | |
-| LRU26 | Backup Airspeed Indicator | G5 | 37.5 | 21.0 | -6.0 | | |
-| LRU22 | Audio Panel | GMA 245 | 30.25 | 19.7 | 0.35 | | |
-| LRU21 | VHF Comm 1 | GTR 20 | 30.2 | 18.9 | -17.4 | | |
+| LRU33 | Primary Flight Display | GDU 460 | 38.5 | 18.9 | 6.0 | 4.6 | |
+| LRU26 | Backup Airspeed Indicator | G5 | 37.5 | 21.0 | -6.0 | .83 | |
+| LRU22 | Audio Panel | GMA 245 | 30.25 | 19.7 | 0.35 | 1.1 | |
+| LRU21 | VHF Comm 1 | GTR 20 | 30.2 | 18.9 | -17.4 | 1.2 | |
 | LRU10-C | VHF Comm 2 / GPS | GNC 355 | 30.3 | 19.7 | 0.4 | | |
 | LRU28 | Transponder / ADS-B | GTX 45R | 32.0 | 20.0 | -5.0 | | |
 | LRU11 | Autopilot Control Panel | GMC 507 | 37.7 | 22.0 | 1.9 | | |

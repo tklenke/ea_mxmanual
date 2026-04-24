@@ -6,7 +6,7 @@
 
 `docs/plans/architecture_decisions.md` was updated (2026-04-23) to add the Connector Pinout Sub-Pages decision. Re-publish by updating `manual-standards.md` in the WR to match. Copy in the new decision section.
 
-### [ ] Write `electrical-wire-reference` — Wire Cross-Reference (Section 16)
+### [x] Write `electrical-wire-reference` — Wire Cross-Reference (Section 16)
 
 Source: `docs/references/electrical/wire_bom.csv`. Format the entire wire BOM as a wiki table — do not transcribe by hand; process the CSV systematically.
 
@@ -26,7 +26,7 @@ New TOC page. Source: `docs/references/electrical/ea_wire_marking_standard.md` �
 
 Content covers: label format (system code + circuit ID + segment ID), system codes, wire color conventions, data bus circuit ID ranges (CAN D001–D009, ARINC 429 D010–D099, non-bus D100+), references (MIL-STD-681E, MIL-W-5088L, AC 43.13-1B Ch. 11).
 
-### [ ] Write `electrical-wiring` — Wiring (Section 16)
+### [x] Write `electrical-wiring` — Wiring (Section 16)
 
 Physical installation standards for wiring on N657CZ. Sources: AC 43.13-1B Chapter 11. Content covers: routing (clearance, chafe protection, separation from heat/fuel), clamping intervals, bundling, shielding, connector installation. Link to `electrical-wire-marking` for labeling/identification standard.
 
