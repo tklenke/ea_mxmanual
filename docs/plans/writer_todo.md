@@ -2,7 +2,7 @@
 
 ## Backlog
 
-### [~] Write `electrical-wire-marking` — Wire Marking Standard (Section 16)
+### [x] Write `electrical-wire-marking` — Wire Marking Standard (Section 16)
 
 Page published. Pending Reviewer sign-off.
 

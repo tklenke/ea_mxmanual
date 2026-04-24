@@ -50,7 +50,7 @@ Last updated: 2026-04-23
 | electrical-schematic-avionics | unreviewed | |
 | electrical-schematic-mechanical | unreviewed | |
 | electrical-schematic-top | unreviewed | |
-| electrical-wire-marking | unreviewed | |
+| electrical-wire-marking | Approved | 2026-04-23 |
 | electrical-wire-reference | unreviewed | |
 | electrical-wiring | unreviewed | |
 | inspection-annual-condition | unreviewed | |
