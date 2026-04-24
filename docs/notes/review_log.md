@@ -1,5 +1,5 @@
 # Review Log
-Last updated: 2026-04-19
+Last updated: 2026-04-23
 
 | Page | Status | Last Reviewed |
 |------|--------|---------------|
@@ -34,3 +34,25 @@ Last updated: 2026-04-19
 | avionics-system-overview | Approved | 2026-04-19 |
 | landing-gear-nose | pending | 2026-04-19 |
 | landing-gear-nose-gear-actuator | pending | 2026-04-19 |
+| avionics-adahrs-pinouts | unreviewed | |
+| avionics-arinc-429-adapter-pinouts | unreviewed | |
+| avionics-audio-panel-pinouts | unreviewed | |
+| avionics-autopilot-pinouts | unreviewed | |
+| avionics-backup-instrument-pinouts | unreviewed | |
+| avionics-engine-data-acquisition-pinouts | unreviewed | |
+| avionics-gps-and-navigation-pinouts | unreviewed | |
+| avionics-magnetometer-pinouts | unreviewed | |
+| avionics-primary-flight-display-pinouts | unreviewed | |
+| avionics-transponder-adsb-pinouts | unreviewed | |
+| avionics-vhf-communication-pinouts | unreviewed | |
+| electrical-bus-architecture | unreviewed | |
+| electrical-schematic-alarm-lighting | unreviewed | |
+| electrical-schematic-avionics | unreviewed | |
+| electrical-schematic-mechanical | unreviewed | |
+| electrical-schematic-top | unreviewed | |
+| electrical-wire-marking | unreviewed | |
+| electrical-wire-reference | unreviewed | |
+| electrical-wiring | unreviewed | |
+| inspection-annual-condition | unreviewed | |
+| servicing | unreviewed | |
+| wb-equipment-list | unreviewed | |
