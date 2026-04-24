@@ -52,7 +52,7 @@ Last updated: 2026-04-23
 | electrical-schematic-top | Approved | 2026-04-23 |
 | electrical-wire-marking | Approved | 2026-04-23 |
 | electrical-wire-reference | Approved | 2026-04-23 |
-| electrical-wiring | unreviewed | |
+| electrical-wiring | Approved | 2026-04-23 |
 | inspection-annual-condition | pending | 2026-04-23 |
-| servicing | unreviewed | |
-| wb-equipment-list | unreviewed | |
+| servicing | pending | 2026-04-23 |
+| wb-equipment-list | pending | 2026-04-23 |
