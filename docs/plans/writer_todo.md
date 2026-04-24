@@ -2,7 +2,7 @@
 
 ## Backlog
 
-### [ ] Re-publish `manual-standards.md` to WR
+### [x] Re-publish `manual-standards.md` to WR
 
 `docs/plans/architecture_decisions.md` was updated (2026-04-23) to add the Connector Pinout Sub-Pages decision. Re-publish by updating `manual-standards.md` in the WR to match. Copy in the new decision section.
 
@@ -40,7 +40,7 @@ Hub page for the electrical system. Two parts:
 
 **2. Schematic index:** Links to all four schematic sub-pages with a one-line description of each sheet.
 
-### [ ] Publish electrical schematic sub-pages (Section 16)
+### [~] Publish electrical schematic sub-pages (Section 16)
 
 Four sub-pages, each with a one-sentence description and a full-width embedded SVG. Not in TOC — accessed from `electrical-bus-architecture`.
 
