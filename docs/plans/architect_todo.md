@@ -4,11 +4,9 @@
 
 ## Backlog
 
-### [ ] Re-publish `manual-standards.md` to WR
+### [x] Re-publish `manual-standards.md` to WR
 
-`architecture_decisions.md` updated 2026-04-23 with: connector pinout sub-page pattern, electrical schematic sub-pages, wire marking standard as separate page. Writer should sync WR `manual-standards.md`.
-
-**NOTE:** This task was added to writer_todo.md — Architect should verify Writer picks it up.
+`architecture_decisions.md` updated 2026-04-23 with: connector pinout sub-page pattern, electrical schematic sub-pages, wire marking standard as separate page. Writer synced WR `manual-standards.md` same session (commit `5ced49f`, 2026-04-23). Verified content includes all three decisions.
 
 ### [ ] Plan avionics pinout pages: N657CZ-specific connector wiring
 
